@@ -1,0 +1,212 @@
+{
+  "MiniGame": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MiniGameName": "Minigame_1",
+      "RwdType": 30,
+      "ItemID": 0,
+      "ItemCnt": 2,
+      "IconID": "icon_play_ticket"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MiniGameName": "Minigame_2",
+      "RwdType": 30,
+      "ItemID": 0,
+      "ItemCnt": 1,
+      "IconID": "icon_play_ticket"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MiniGameName": "Minigame_3",
+      "RwdType": 30,
+      "ItemID": 0,
+      "ItemCnt": 2,
+      "IconID": "icon_play_ticket"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MiniGameName": "Minigame_4",
+      "RwdType": 30,
+      "ItemID": 0,
+      "ItemCnt": 2,
+      "IconID": "icon_play_ticket"
+    }
+  ],
+  "RhythmGame": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "StageName": "BGM_BubbleShooter",
+      "ComposerName": "Composer_Name_1",
+      "BGMName": "BGM_BubbleShooter",
+      "AlbumImage": "1_Bubble Shooter",
+      "NoteIcon": [
+        5,
+        8,
+        6,
+        9
+      ],
+      "IconTag": 1,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2029-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "StageName": "BGM_CentralTown",
+      "ComposerName": "Composer_Name_1",
+      "BGMName": "BGM_CentralTown",
+      "AlbumImage": "2_The Heart of the Village",
+      "NoteIcon": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "IconTag": 1,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2029-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "StageName": "BGM_BeautySalon",
+      "ComposerName": "Composer_Name_1",
+      "BGMName": "BGM_BeautySalon",
+      "AlbumImage": "3_Soft Glow",
+      "NoteIcon": [
+        0,
+        3,
+        4,
+        1
+      ],
+      "IconTag": 1,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2029-03-02T05:50:10 +09:00"
+    }
+  ],
+  "RhythmSpeed": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Speed": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Speed": 1.5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Speed": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "Speed": 2.5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Speed": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Speed": 3.5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Speed": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Speed": 4.5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Speed": 5
+    }
+  ],
+  "BubbleShooter": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PlayTime": 0,
+      "BubbleCnt": 4,
+      "NewLineSec": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "PlayTime": 1,
+      "BubbleCnt": 5,
+      "NewLineSec": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "PlayTime": 3,
+      "BubbleCnt": 6,
+      "NewLineSec": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PlayTime": 5,
+      "BubbleCnt": 6,
+      "NewLineSec": 3
+    }
+  ],
+  "Puzzle2048": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PlayTime": 0,
+      "FallSpeed": 0.7,
+      "MinExponent": 1,
+      "MaxExponent": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "PlayTime": 3,
+      "FallSpeed": 0.5,
+      "MinExponent": 1,
+      "MaxExponent": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "PlayTime": 5,
+      "FallSpeed": 0.4,
+      "MinExponent": 1,
+      "MaxExponent": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PlayTime": 7,
+      "FallSpeed": 0.3,
+      "MinExponent": 1,
+      "MaxExponent": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "PlayTime": 10,
+      "FallSpeed": 0.2,
+      "MinExponent": 1,
+      "MaxExponent": 11
+    }
+  ]
+}

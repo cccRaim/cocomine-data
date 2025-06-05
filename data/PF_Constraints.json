@@ -1,0 +1,808 @@
+{
+  "commons": [
+    {
+      "ServiceType": "DEV",
+      "Name": "ID_Name_Change_Price_Spend_Type",
+      "Value": "Jewel",
+      "Context": "GameAssetType으로 매칭시키려면 string이 더 유용함"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "ID_Name_Change_Price_Spend_Count",
+      "Value": 1000,
+      "Context": null
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "PotWatering_Price_Type",
+      "Value": "Giving",
+      "Context": "친구가 하는걸로 변경됨(본인은 무료)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "PotWatering_Price_Count",
+      "Value": 1,
+      "Context": "친구가 하는걸로 변경됨(본인은 무료)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GH_Crops_Max",
+      "Value": 100,
+      "Context": "그린하우스 밭덩이/작물 최대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GH_FruitTree_Max",
+      "Value": 100,
+      "Context": "그린하우스 열매나무 최대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GH_Animal_Max",
+      "Value": 100,
+      "Context": "그린하우스 가축 최대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GH_Furnitures_Max",
+      "Value": 1000000000,
+      "Context": "그린하우스 가구류 최대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "InvenCapacity_Init",
+      "Value": 20,
+      "Context": "계정 초기 인벤슬롯 수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "EverGreenTree_Init_Pos",
+      "Value": "{\"CoordX\": 123, \"CoordY\": 456}",
+      "Context": "const 에선 string으로 저장되어 있고, 사용할 문맥에서 적절히 파싱(이 경우엔 json deserial)\n아니면 직관적으로 EverGreenTree_Init_Pos_X, EverGreenTree_Init_Pos_Y 행을 분리~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pot_Init_Pos",
+      "Value": "{\"CoordX\": 123, \"CoordY\": 456}",
+      "Context": "const 에선 string으로 저장되어 있고, 사용할 문맥에서 적절히 파싱(이 경우엔 json deserial)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TimePass_Unit_Seconds",
+      "Value": 60,
+      "Context": "시간단축 기준 초"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TimePass_PriceType",
+      "Value": "Jewel",
+      "Context": "GameAssetType으로 매칭시키려면 \nstring이 더 유용함"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TimePass_PriceValue",
+      "Value": 1,
+      "Context": "토탈 값 계산공식 => [남은시간/유닛시간 + (나눈 나머지가 있는경우 1)] * _PriceValue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "PotWatering_CoolTime",
+      "Value": 86400,
+      "Context": "(초), 화분에 물 주기가 쿨타임 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_FeePercent",
+      "Value": 10,
+      "Context": "(%, 백분율) 친구들에게 의뢰를 할 때 부과되는 의뢰 수수료 비율"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Price_Min_Ratio",
+      "Value": 2,
+      "Context": "의뢰 가격 최솟값 연산 시 사용되는 고정 배수 비율"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Refresh_CoolTime",
+      "Value": 600,
+      "Context": "(초), NPC 의뢰 새로고침 대기 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Random_Min_MoveTime",
+      "Value": 3,
+      "Context": "(초), NPC 랜덤 이동 최소 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Random_Max_MoveTime",
+      "Value": 8,
+      "Context": "(초), NPC 랜덤 이동 최대 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Random_Min_StopTime",
+      "Value": 1,
+      "Context": "(초), NPC 랜덤 대기 최소 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Random_Max_StopTime",
+      "Value": 5,
+      "Context": "(초), NPC 랜덤 대기 최대 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Move_Speed",
+      "Value": 75,
+      "Context": "(%, 백분율) 캐릭터 기준 NPC 이동 속도 비율"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Emotion_Prob",
+      "Value": 50,
+      "Context": "(%, 백분율) NPC 감정 표현 확률"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Chatable_Distance",
+      "Value": 3,
+      "Context": "NPC에게 말 걸기가 가능한 반경 셀 개수 거리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "HouseName_Edit_Price_Type",
+      "Value": "Jewel",
+      "Context": "하우스명 재화 아이콘"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "HouseName_Edit_Price_Count",
+      "Value": 1000,
+      "Context": "하우스명 재화 값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tree_Cut_Limit_Per_Day",
+      "Value": 1000,
+      "Context": "하루에 벌목할 수 있는 벌목형 나무 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_Move_PriceType",
+      "Value": "Jewel",
+      "Context": "이사 공사비 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_Move_PriceCount",
+      "Value": 50,
+      "Context": "이사 공사비 가격"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_BluePrint_PriceType",
+      "Value": "Gold",
+      "Context": "도면 공사비 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_BluePrint_PriceCount",
+      "Value": 50,
+      "Context": "도면 공사비 가격"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_AddHouse_PriceType",
+      "Value": "Jewel",
+      "Context": "하우스 추가 공사비 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_AddHouse_PriceCount",
+      "Value": 100,
+      "Context": "하우스 추가 공사비 가격"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_BluePrint_CoolTime",
+      "Value": 86400,
+      "Context": "(초), 도면 공사 쿨타임 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Construction_Fee_Move_CoolTime",
+      "Value": 259200,
+      "Context": "(초), 이사 공사 쿨타임"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Face_Change_PriceType",
+      "Value": "Jewel",
+      "Context": "턱 모양 바꿀 시 소모하는 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Face_Change_PriceValue",
+      "Value": 10,
+      "Context": "턱 모양 바꿀 시 소모하는 재화 값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TimePass_Passion_Seconds",
+      "Value": 60,
+      "Context": "(초), 패션 재화 1개당 단축되는 시간 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Ranking_GetPoint_Time",
+      "Value": 20,
+      "Context": "(분), 크래프팅 1 포인트 획득 기준 제작 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Ranking_Event_Rank_Max",
+      "Value": 100,
+      "Context": "(위), 크래프팅 랭킹 이벤트 랭킹 최대 출력 순위"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TruckShop_Min_AppearDay",
+      "Value": 3,
+      "Context": "(일), 트럭 상점 랜덤 등장 주기 최소 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TruckShop_Max_AppearDay",
+      "Value": 8,
+      "Context": "(일), 트럭 상점 랜덤 등장 주기 최대 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TruchShopNPC_Init_Pos",
+      "Value": "{\"CoordX\": 123, \"CoordY\": 456}",
+      "Context": "트럭 상점 NPC 스파인 서있을 위치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TruchShopTruck_Init_Pos",
+      "Value": "{\"CoordX\": 123, \"CoordY\": 456}",
+      "Context": "트럭 상점 트럭 오브젝트 서있을 위치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GreenHouse_Field_Key",
+      "Value": 104,
+      "Context": "그린하우스 필드 키값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_EmotionStone_Add_GFValue",
+      "Value": 1,
+      "Context": "이모션 스톤 1개 선물 시 증가하는 호감도량"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pot_Friend_Watering_Daily_Max",
+      "Value": 100,
+      "Context": "하루 친구 화분에 물 주기 가능한 횟수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Gift_Daily_Max",
+      "Value": 10,
+      "Context": "(회), NPC 일일 선물 횟수 제한"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mine_AverageCnt",
+      "Value": 5,
+      "Context": "광산 아이템이 출력되는 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Char_Capture_Recording_Time",
+      "Value": 15,
+      "Context": "(초), 캐릭터 영상 캡처 시 녹화 최대 제한 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "JoyShop_RandomGoods_Num ",
+      "Value": 10,
+      "Context": "(개), 조이샵에서 판매될 랜덤 타입 상품 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Drill_Fail_Reward_Key",
+      "Value": 37,
+      "Context": "드릴 실패 보상 아이템 Key 값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Drill_Fail_Reward_Count",
+      "Value": 10,
+      "Context": "드릴 실패 보상 아이템 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Cooking_Max_Level",
+      "Value": 5,
+      "Context": "요리 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Wood_Max_Level",
+      "Value": 9,
+      "Context": "원목 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Metal_Max_Level",
+      "Value": 7,
+      "Context": "금속 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Pottery_Max_Level",
+      "Value": 9,
+      "Context": "도예 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Event_Max_Level",
+      "Value": 1,
+      "Context": "이벤트 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Sewing_Max_Level",
+      "Value": 8,
+      "Context": "재봉 크래프팅 맥스 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Shorten_Time",
+      "Value": 0.0001,
+      "Context": "(초), 제작 화면 터치 시 크래프팅이 단축되는 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "CutScene_UserChat_Time",
+      "Value": 3,
+      "Context": "(초), 컷신에서 유저 대사를 유지 출력하는 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Register_Fee_Address_PriceType",
+      "Value": "Jewel",
+      "Context": "주소 등록비 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Register_Fee_Address_PriceCount",
+      "Value": 100,
+      "Context": "주소 등록비 가격"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Address_Expiration_Date ",
+      "Value": 30,
+      "Context": "(일), 주소 삭제 유효 기간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Block_User_Max_Count",
+      "Value": 100,
+      "Context": "(명), 최대 차단 가능한 유저 수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "SpecialItem_Rate",
+      "Value": 1,
+      "Context": "스페셜 아이템 나올 확률"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_FeePercent ",
+      "Value": 10,
+      "Context": "(%), 플리 마켓 아이템 판매 완료 시 획득 가격에 붙는 수수료"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_Price_Min_Ratio",
+      "Value": 1,
+      "Context": "플리 마켓 판매 등록 가능 최소 가격 연산 시 사용되는 고정 배수 비율"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_Price_Max_Ratio",
+      "Value": 1.5,
+      "Context": "플리 마켓 판매 등록 가능 최대 가격 연산 시 사용되는 고정 배수 비율"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_Register_Cancel_PriceType",
+      "Value": "Jewel",
+      "Context": "플리 마켓 아이템 등록 취소 재화 타입"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_Register_Cancel_PriceValue",
+      "Value": 1,
+      "Context": "플리 마켓 아이템 등록 취소 가격"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FleaMarket_Daily_Purchase_Limit ",
+      "Value": 100,
+      "Context": "플리 마켓 일일 구매 가능 횟수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "MissionHouse_Start_ID",
+      "Value": 1,
+      "Context": "MissionData>MissionHouse>Key, 처음 시작되는 미션 하우스 ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_NPC_Daily_Limit",
+      "Value": 100,
+      "Context": "일일 주민 의뢰 지급 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Village_Non_Resident_Max",
+      "Value": 50,
+      "Context": "빌리지 - 타주민 기준 최대 방문 인원 수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "House_Move_Prop",
+      "Value": 168,
+      "Context": "건설중일때 출력되는 하우스 프랍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Block_Item",
+      "Value": 124,
+      "Context": "주소 등록 시 지급해주는 블록 아이템"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "MailBox_Keep_Max",
+      "Value": 100,
+      "Context": "(개), 우편 보유 가능 최대 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Map_Item",
+      "Value": 124,
+      "Context": "주소 등록 시 지급 및 설정해주는 아이템"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "PETH_Furnitures_Max",
+      "Value": 100,
+      "Context": null
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fashion_Vote_Disable_Day",
+      "Value": 0,
+      "Context": "(일), 런웨이 시즌 시작 후 투표가 가능해지는 유예 기간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "HOF_CharacterStatus_SaveTime",
+      "Value": 5,
+      "Context": "(분), 런웨이 명예의 전당에 등재되는 캐릭터 장착 상태 시점"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fashion_Rank_Show_Max",
+      "Value": 99,
+      "Context": "(위), 런웨이 랭킹에 출력되는 최대 순위값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fashion_FreeBallot_Max",
+      "Value": 10,
+      "Context": "(개), 런웨이 무료 투표권 일일 무료 충전 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_FeePercent_Get",
+      "Value": 10,
+      "Context": "아르바이트) 의뢰 수수료 퍼센트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Refresh_CoolTime",
+      "Value": 600,
+      "Context": "아르바이트) 갱신까지 남은 대기 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Price_Min_Ratio",
+      "Value": 1,
+      "Context": "아르바이트) 기본 판매가*최소 배수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "CartFarmObjectItemKey",
+      "Value": 112,
+      "Context": "수레 파밍용 오브젝트 ItemKey"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_NPC_Emotion_Stone",
+      "Value": 1,
+      "Context": "우편함 ID - 주민수첩 이모션 스톤 환급"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_Gift_Receive",
+      "Value": 2,
+      "Context": "우편함 ID - 친구 선물 지급"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_Address_Delete",
+      "Value": 3,
+      "Context": "우편함 ID - 하우스 주소 삭제"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_FleaMarket",
+      "Value": 4,
+      "Context": "우편함 ID - 플리 마켓 구매 아이템"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_Request",
+      "Value": 5,
+      "Context": "우편함 ID - 친구 의뢰 완료"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_Boutique_Showroom",
+      "Value": 6,
+      "Context": "우편함 ID - 가챠 창고 부족"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mail_Square_Bonus",
+      "Value": 7,
+      "Context": "우편함 ID - 광장 가챠 보너스 선물"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Farm_RareItem_Variable",
+      "Value": 100000,
+      "Context": "파밍 희귀 확률 십만분율 단위"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "House_Basic_Pot",
+      "Value": 100080,
+      "Context": "계정  생성 시 기본으로 배치되어있는 화분 아이템 ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_FarmKey",
+      "Value": 999999,
+      "Context": "파밍 튜토리얼에서 사용할 작물 FarmKey"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Exchange_Item_Select_Max",
+      "Value": 100,
+      "Context": "한번에 교환할 수 있는 아이템 키값 최대 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "CouponWebPageURL",
+      "Value": "https://coupon.cocosanrio.skywalkgames.com/cocomine_coupon",
+      "Context": "쿠폰 등록 페이지 주소 Arg0 = 암호화된 accidx"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_People_Limit",
+      "Value": 49,
+      "Context": "홈파티 참여 최대 인원 수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_Time_Limit",
+      "Value": 180,
+      "Context": "(분) 홈파티 최대 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_H_Limit",
+      "Value": 3,
+      "Context": "홈파티 시 입력 최대 치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_M_Limit",
+      "Value": 59,
+      "Context": "홈파티 분 입력 최대 치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_Accept_Seconds",
+      "Value": 10,
+      "Context": "(초) 홈파티 초대 수락 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Homeparty_End_Time",
+      "Value": 10,
+      "Context": "(초) 홈파티 종료 남은 시간 팝업 출력 시점"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fleamarket_Default",
+      "Value": 3,
+      "Context": "플리마켓 기본 확장 칸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "LeftOnlyResourcePostFix",
+      "Value": "_left",
+      "Context": "왼쪽 전용 스킨 또는 이미지 이름 끝에 붙는 키워드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "RightOnlyResourcePostFix",
+      "Value": "_right",
+      "Context": "오른쪽 전용 스킨 또는 이미지 이름 끝에 붙는 키워드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Random_Chat",
+      "Value": 15,
+      "Context": "NPC가 랜덤으로 나오는 채팅 주기"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FashionMatch_RwdCnt",
+      "Value": 20,
+      "Context": "프로그레스 바에서 도달해야하는 목표치 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Daily_Reset_Time",
+      "Value": 20,
+      "Context": "조이샵 데일리 리셋 타임 UTC"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fashion_vote_Ballotcount",
+      "Value": 1,
+      "Context": "1회 투표 시 소모되는 패션 티켓 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fishing_Min_Sec",
+      "Value": 5,
+      "Context": "물고기 등장 시간(초) 최소 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fishing_Max_Sec",
+      "Value": 25,
+      "Context": "물고기 등장 시간(초) 최대 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "PlayShop_RandomGoods_Num ",
+      "Value": 5,
+      "Context": "(개), 플레이샵에서 판매될 랜덤 타입 상품 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Fishing_UI_Popup_Sec",
+      "Value": 2,
+      "Context": "물고기 등장 UI 출력 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TOWNMAP_FIELD_KEY",
+      "Value": 2004,
+      "Context": "타운맵 필드 키값"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FashionEnter_FreeBallot_Max",
+      "Value": 2,
+      "Context": "(개), 시즌당 무료로 제공하는 패션 참가권"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "TOWNMAP_MOVE_SPEED",
+      "Value": 10,
+      "Context": "타운맵 필드 이동속도"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FashionEnter_Use_Count",
+      "Value": 1,
+      "Context": "패션 참가권 소모 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Minigame_Rank_Show_Max",
+      "Value": 100,
+      "Context": "미니게임 보여지는 랭킹 수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "NPC_Rank_Show_Max",
+      "Value": 9,
+      "Context": "NPC 랭킹 최대 보여지는 순위"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Car_NPC",
+      "Value": 1001,
+      "Context": "튜토리얼에서 자동차에 타는 NPC ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Crafting_Item",
+      "Value": 999999,
+      "Context": "튜토리얼용 크래프팅 대상 ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "CinnamorollShop_RandomGoods_Num ",
+      "Value": 5,
+      "Context": "(개), 시나모롤샵에서 판매될 랜덤 타입 상품 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "BubbleShooter_SuperDuper_Cnt",
+      "Value": 10,
+      "Context": "버블슈터 SuperDuper 연출이 나오려면 깨야하는 버블"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "BubbleShooter_Great_Cnt",
+      "Value": 7,
+      "Context": "버블슈터 Great 연출이 나오려면 깨야하는 버블"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Play_FreeBallot_Max",
+      "Value": 2,
+      "Context": "(개), 플레이 티켓 무료 티켓 일일 무료 충전 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Weed_Max_Cnt",
+      "Value": 10,
+      "Context": "마이가든에 잡초가 나타날 수 있는 최대 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GenderM_SFX_Format",
+      "Value": "{0}_b",
+      "Context": "성별에 따라 달라지는 효과음 포맷(남캐)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "GenderF_SFX_Format",
+      "Value": "{0}",
+      "Context": "성별에 따라 달라지는 효과음 포맷(여캐)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Leather_Max_Level",
+      "Value": 8,
+      "Context": "가죽 크래프팅 최대 레벨"
+    }
+  ]
+}

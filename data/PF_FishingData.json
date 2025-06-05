@@ -1,0 +1,254 @@
+{
+  "Fish": [
+    {
+      "ServiceType": "DEV",
+      "Key": 359,
+      "FishingGrade": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 360,
+      "FishingGrade": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 361,
+      "FishingGrade": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 362,
+      "FishingGrade": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 363,
+      "FishingGrade": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 364,
+      "FishingGrade": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 365,
+      "FishingGrade": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 366,
+      "FishingGrade": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 367,
+      "FishingGrade": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 368,
+      "FishingGrade": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 369,
+      "FishingGrade": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 370,
+      "FishingGrade": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 371,
+      "FishingGrade": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 372,
+      "FishingGrade": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 383,
+      "FishingGrade": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 384,
+      "FishingGrade": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 385,
+      "FishingGrade": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 386,
+      "FishingGrade": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 387,
+      "FishingGrade": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 388,
+      "FishingGrade": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 389,
+      "FishingGrade": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 390,
+      "FishingGrade": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 391,
+      "FishingGrade": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 392,
+      "FishingGrade": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 393,
+      "FishingGrade": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 394,
+      "FishingGrade": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 395,
+      "FishingGrade": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 396,
+      "FishingGrade": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 397,
+      "FishingGrade": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 398,
+      "FishingGrade": 6
+    }
+  ],
+  "FishingRate": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FishingType": 1,
+      "FishingGrade": 1,
+      "DropRate": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FishingType": 1,
+      "FishingGrade": 2,
+      "DropRate": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FishingType": 1,
+      "FishingGrade": 3,
+      "DropRate": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FishingType": 1,
+      "FishingGrade": 4,
+      "DropRate": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FishingType": 1,
+      "FishingGrade": 5,
+      "DropRate": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FishingType": 1,
+      "FishingGrade": 6,
+      "DropRate": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FishingType": 2,
+      "FishingGrade": 1,
+      "DropRate": 22
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "FishingType": 2,
+      "FishingGrade": 2,
+      "DropRate": 22
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "FishingType": 2,
+      "FishingGrade": 3,
+      "DropRate": 18
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "FishingType": 2,
+      "FishingGrade": 4,
+      "DropRate": 16
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "FishingType": 2,
+      "FishingGrade": 5,
+      "DropRate": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "FishingType": 2,
+      "FishingGrade": 6,
+      "DropRate": 9
+    }
+  ],
+  "FishingRod": [
+    {
+      "ServiceType": "DEV",
+      "Key": 357,
+      "FishingType": 1,
+      "AnimSkin": "fishingstick_01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 358,
+      "FishingType": 2,
+      "AnimSkin": "fishingstick_01_s"
+    }
+  ]
+}

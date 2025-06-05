@@ -1,0 +1,614 @@
+{
+  "CarItem": [
+    {
+      "ServiceType": "NONE",
+      "Key": 100086,
+      "Sfx": "se_car001_engine01"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 100087,
+      "Sfx": "se_car002_engine01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000142,
+      "Sfx": "se_car001_engine01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500112,
+      "Sfx": "se_car002_engine01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500250,
+      "Sfx": "se_car002_engine01"
+    }
+  ],
+  "Location": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "LocationType": 1,
+      "FieldID": 0,
+      "IconID": "icon_house_ps"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "LocationType": 3,
+      "FieldID": 104,
+      "IconID": "icon_mygarden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "LocationType": 4,
+      "FieldID": 0,
+      "IconID": "icon_subhouse2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "LocationType": 5,
+      "FieldID": 0,
+      "IconID": "icon_newshop"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "LocationType": 6,
+      "FieldID": 0,
+      "IconID": "icon_PlaySquare"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "LocationType": 2,
+      "FieldID": 0,
+      "IconID": "icon_subhouse"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "LocationType": 2,
+      "FieldID": 0,
+      "IconID": "icon_subhouse"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "LocationType": 2,
+      "FieldID": 0,
+      "IconID": "icon_subhouse"
+    }
+  ],
+  "ParkingLot": [
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "HouseProbID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "HouseProbID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 143,
+      "HouseProbID": 12
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 144,
+      "HouseProbID": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 145,
+      "HouseProbID": 14
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 146,
+      "HouseProbID": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "HouseProbID": 16
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "HouseProbID": 17
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "HouseProbID": 18
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "HouseProbID": 19
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "HouseProbID": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "HouseProbID": 21
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "HouseProbID": 22
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "HouseProbID": 23
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "HouseProbID": 24
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "HouseProbID": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "HouseProbID": 26
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "HouseProbID": 27
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "HouseProbID": 28
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "HouseProbID": 29
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 161,
+      "HouseProbID": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 162,
+      "HouseProbID": 31
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 163,
+      "HouseProbID": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 164,
+      "HouseProbID": 33
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 165,
+      "HouseProbID": 34
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 166,
+      "HouseProbID": 35
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "HouseProbID": 36
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "HouseProbID": 37
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "HouseProbID": 38
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "HouseProbID": 39
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "HouseProbID": 40
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "HouseProbID": 41
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "HouseProbID": 42
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "HouseProbID": 43
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "HouseProbID": 44
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "HouseProbID": 45
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 177,
+      "HouseProbID": 46
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 178,
+      "HouseProbID": 47
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 179,
+      "HouseProbID": 48
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 180,
+      "HouseProbID": 49
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 181,
+      "HouseProbID": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 182,
+      "HouseProbID": 51
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 183,
+      "HouseProbID": 52
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 184,
+      "HouseProbID": 53
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 185,
+      "HouseProbID": 54
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 186,
+      "HouseProbID": 55
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 187,
+      "HouseProbID": 56
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 188,
+      "HouseProbID": 57
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 189,
+      "HouseProbID": 58
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 190,
+      "HouseProbID": 59
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 191,
+      "HouseProbID": 60
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 192,
+      "HouseProbID": 61
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 193,
+      "HouseProbID": 62
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 194,
+      "HouseProbID": 63
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 195,
+      "HouseProbID": 64
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 196,
+      "HouseProbID": 65
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 197,
+      "HouseProbID": 66
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 198,
+      "HouseProbID": 67
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 199,
+      "HouseProbID": 68
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 200,
+      "HouseProbID": 69
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "HouseProbID": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 202,
+      "HouseProbID": 71
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "HouseProbID": 72
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 204,
+      "HouseProbID": 73
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 205,
+      "HouseProbID": 74
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 206,
+      "HouseProbID": 75
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 207,
+      "HouseProbID": 76
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 208,
+      "HouseProbID": 77
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 209,
+      "HouseProbID": 78
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 210,
+      "HouseProbID": 79
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 211,
+      "HouseProbID": 80
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 212,
+      "HouseProbID": 81
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 213,
+      "HouseProbID": 82
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 214,
+      "HouseProbID": 83
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 215,
+      "HouseProbID": 84
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 216,
+      "HouseProbID": 85
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 217,
+      "HouseProbID": 86
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 218,
+      "HouseProbID": 87
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 219,
+      "HouseProbID": 88
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 220,
+      "HouseProbID": 89
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 221,
+      "HouseProbID": 90
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 222,
+      "HouseProbID": 91
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 223,
+      "HouseProbID": 92
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 224,
+      "HouseProbID": 93
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 225,
+      "HouseProbID": 94
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 226,
+      "HouseProbID": 95
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 227,
+      "HouseProbID": 96
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 228,
+      "HouseProbID": 97
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 229,
+      "HouseProbID": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 230,
+      "HouseProbID": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 231,
+      "HouseProbID": 100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 232,
+      "HouseProbID": 101
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 233,
+      "HouseProbID": 102
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 234,
+      "HouseProbID": 103
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 235,
+      "HouseProbID": 104
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 236,
+      "HouseProbID": 105
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 237,
+      "HouseProbID": 106
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 238,
+      "HouseProbID": 107
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 239,
+      "HouseProbID": 108
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 240,
+      "HouseProbID": 109
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 241,
+      "HouseProbID": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 242,
+      "HouseProbID": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 243,
+      "HouseProbID": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 244,
+      "HouseProbID": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 245,
+      "HouseProbID": 0
+    }
+  ]
+}

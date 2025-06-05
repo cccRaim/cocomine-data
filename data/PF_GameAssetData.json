@@ -1,0 +1,2055 @@
+{
+  "Money": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MoneyName": "MoneyItem_1",
+      "MoneyType": 1,
+      "IconID": "icon_gold",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MoneyName": "MoneyItem_2",
+      "MoneyType": 1,
+      "IconID": "icon_jewel",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MoneyName": "MoneyItem_2",
+      "MoneyType": 1,
+      "IconID": "icon_jewel",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MoneyName": "MoneyItem_2",
+      "MoneyType": 1,
+      "IconID": "icon_jewel",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "MoneyName": "MoneyItem_4",
+      "MoneyType": 2,
+      "IconID": "icon_heart",
+      "ItemCoolTime": 1800,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "MoneyName": "MoneyItem_5",
+      "MoneyType": 2,
+      "IconID": "icon_RC_big_wish",
+      "ItemCoolTime": 1800,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "MoneyName": "MoneyItem_6",
+      "MoneyType": 2,
+      "IconID": "icon_passion",
+      "ItemCoolTime": 1800,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "MoneyName": "MoneyItem_7",
+      "MoneyType": 2,
+      "IconID": "icon_peace",
+      "ItemCoolTime": 1800,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "MoneyName": "MoneyItem_8",
+      "MoneyType": 2,
+      "IconID": "icon_RC_big_giving",
+      "ItemCoolTime": 14400,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "MoneyName": "MoneyItem_11",
+      "MoneyType": 5,
+      "IconID": "icon_play_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "MoneyName": "MoneyItem_11",
+      "MoneyType": 3,
+      "IconID": "icon_play_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "MoneyName": "MoneyItem_11",
+      "MoneyType": 3,
+      "IconID": "icon_play_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "MoneyName": "MoneyItem_12",
+      "MoneyType": 5,
+      "IconID": "icon_vote_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "MoneyName": "MoneyItem_12",
+      "MoneyType": 3,
+      "IconID": "icon_vote_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "MoneyName": "MoneyItem_12",
+      "MoneyType": 3,
+      "IconID": "icon_vote_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "MoneyName": "MoneyItem_13",
+      "MoneyType": 3,
+      "IconID": "icon_fashion_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "MoneyName": "MoneyItem_13",
+      "MoneyType": 3,
+      "IconID": "icon_fashion_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "MoneyName": "MoneyItem_13",
+      "MoneyType": 3,
+      "IconID": "icon_fashion_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "MoneyName": "MoneyItem_9",
+      "MoneyType": 3,
+      "IconID": "icon_play_ticket",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "MoneyName": "Mileage",
+      "MoneyType": 1,
+      "IconID": "icon_mile",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "MoneyName": "Premium_Mileage",
+      "MoneyType": 1,
+      "IconID": "icon_premium_mileage",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "MoneyName": "Mileage",
+      "MoneyType": 1,
+      "IconID": "icon_mile",
+      "ItemCoolTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "RewardIcon": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "IconID": "icon_exp"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "IconID": "icon_rep"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "IconID": "icon_cash"
+    }
+  ],
+  "MoneyMaxCnt": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "LevelID": 1,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "LevelID": 2,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "LevelID": 3,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "LevelID": 4,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "LevelID": 5,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "LevelID": 6,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "LevelID": 7,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "LevelID": 8,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 108,
+      "LevelID": 9,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 109,
+      "LevelID": 10,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 110,
+      "LevelID": 11,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 111,
+      "LevelID": 12,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 112,
+      "LevelID": 13,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 113,
+      "LevelID": 14,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 114,
+      "LevelID": 15,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "LevelID": 16,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "LevelID": 17,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "LevelID": 18,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "LevelID": 19,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "LevelID": 20,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "LevelID": 21,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "LevelID": 22,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "LevelID": 23,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "LevelID": 24,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "LevelID": 25,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "LevelID": 26,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "LevelID": 27,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "LevelID": 28,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "LevelID": 29,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "LevelID": 30,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "LevelID": 31,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "LevelID": 32,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "LevelID": 33,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 133,
+      "LevelID": 34,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 134,
+      "LevelID": 35,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 135,
+      "LevelID": 36,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 136,
+      "LevelID": 37,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 137,
+      "LevelID": 38,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 138,
+      "LevelID": 39,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 139,
+      "LevelID": 40,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 140,
+      "LevelID": 41,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "LevelID": 42,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "LevelID": 43,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 143,
+      "LevelID": 44,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 144,
+      "LevelID": 45,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 145,
+      "LevelID": 46,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 146,
+      "LevelID": 47,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "LevelID": 48,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "LevelID": 49,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "LevelID": 50,
+      "MoneyID": 5,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "LevelID": 1,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "LevelID": 2,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "LevelID": 3,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "LevelID": 4,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "LevelID": 5,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "LevelID": 6,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "LevelID": 7,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "LevelID": 8,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "LevelID": 9,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "LevelID": 10,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "LevelID": 11,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 161,
+      "LevelID": 12,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 162,
+      "LevelID": 13,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 163,
+      "LevelID": 14,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 164,
+      "LevelID": 15,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 165,
+      "LevelID": 16,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 166,
+      "LevelID": 17,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "LevelID": 18,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "LevelID": 19,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "LevelID": 20,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "LevelID": 21,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "LevelID": 22,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "LevelID": 23,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "LevelID": 24,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "LevelID": 25,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "LevelID": 26,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "LevelID": 27,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 177,
+      "LevelID": 28,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 178,
+      "LevelID": 29,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 179,
+      "LevelID": 30,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 180,
+      "LevelID": 31,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 181,
+      "LevelID": 32,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 182,
+      "LevelID": 33,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 183,
+      "LevelID": 34,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 184,
+      "LevelID": 35,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 185,
+      "LevelID": 36,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 186,
+      "LevelID": 37,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 187,
+      "LevelID": 38,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 188,
+      "LevelID": 39,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 189,
+      "LevelID": 40,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 190,
+      "LevelID": 41,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 191,
+      "LevelID": 42,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 192,
+      "LevelID": 43,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 193,
+      "LevelID": 44,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 194,
+      "LevelID": 45,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 195,
+      "LevelID": 46,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 196,
+      "LevelID": 47,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 197,
+      "LevelID": 48,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 198,
+      "LevelID": 49,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 199,
+      "LevelID": 50,
+      "MoneyID": 6,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 200,
+      "LevelID": 1,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "LevelID": 2,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 202,
+      "LevelID": 3,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "LevelID": 4,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 204,
+      "LevelID": 5,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 205,
+      "LevelID": 6,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 206,
+      "LevelID": 7,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 207,
+      "LevelID": 8,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 208,
+      "LevelID": 9,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 209,
+      "LevelID": 10,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 210,
+      "LevelID": 11,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 211,
+      "LevelID": 12,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 212,
+      "LevelID": 13,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 213,
+      "LevelID": 14,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 214,
+      "LevelID": 15,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 215,
+      "LevelID": 16,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 216,
+      "LevelID": 17,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 217,
+      "LevelID": 18,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 218,
+      "LevelID": 19,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 219,
+      "LevelID": 20,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 220,
+      "LevelID": 21,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 221,
+      "LevelID": 22,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 222,
+      "LevelID": 23,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 223,
+      "LevelID": 24,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 224,
+      "LevelID": 25,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 225,
+      "LevelID": 26,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 226,
+      "LevelID": 27,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 227,
+      "LevelID": 28,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 228,
+      "LevelID": 29,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 229,
+      "LevelID": 30,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 230,
+      "LevelID": 31,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 231,
+      "LevelID": 32,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 232,
+      "LevelID": 33,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 233,
+      "LevelID": 34,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 234,
+      "LevelID": 35,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 235,
+      "LevelID": 36,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 236,
+      "LevelID": 37,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 237,
+      "LevelID": 38,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 238,
+      "LevelID": 39,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 239,
+      "LevelID": 40,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 240,
+      "LevelID": 41,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 241,
+      "LevelID": 42,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 242,
+      "LevelID": 43,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 243,
+      "LevelID": 44,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 244,
+      "LevelID": 45,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 245,
+      "LevelID": 46,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 246,
+      "LevelID": 47,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 247,
+      "LevelID": 48,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 248,
+      "LevelID": 49,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 249,
+      "LevelID": 50,
+      "MoneyID": 7,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 250,
+      "LevelID": 1,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 251,
+      "LevelID": 2,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 252,
+      "LevelID": 3,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 253,
+      "LevelID": 4,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 254,
+      "LevelID": 5,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 255,
+      "LevelID": 6,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 256,
+      "LevelID": 7,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 257,
+      "LevelID": 8,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 258,
+      "LevelID": 9,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 259,
+      "LevelID": 10,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 260,
+      "LevelID": 11,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 261,
+      "LevelID": 12,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 262,
+      "LevelID": 13,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 263,
+      "LevelID": 14,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 264,
+      "LevelID": 15,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 265,
+      "LevelID": 16,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 266,
+      "LevelID": 17,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 267,
+      "LevelID": 18,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 268,
+      "LevelID": 19,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 269,
+      "LevelID": 20,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 270,
+      "LevelID": 21,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 271,
+      "LevelID": 22,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 272,
+      "LevelID": 23,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 273,
+      "LevelID": 24,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 274,
+      "LevelID": 25,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 275,
+      "LevelID": 26,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 276,
+      "LevelID": 27,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 277,
+      "LevelID": 28,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 278,
+      "LevelID": 29,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 279,
+      "LevelID": 30,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 280,
+      "LevelID": 31,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 281,
+      "LevelID": 32,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 282,
+      "LevelID": 33,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 283,
+      "LevelID": 34,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 284,
+      "LevelID": 35,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 285,
+      "LevelID": 36,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 286,
+      "LevelID": 37,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 287,
+      "LevelID": 38,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 288,
+      "LevelID": 39,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 289,
+      "LevelID": 40,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 290,
+      "LevelID": 41,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 291,
+      "LevelID": 42,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 292,
+      "LevelID": 43,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 293,
+      "LevelID": 44,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 294,
+      "LevelID": 45,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 295,
+      "LevelID": 46,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 296,
+      "LevelID": 47,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 297,
+      "LevelID": 48,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 298,
+      "LevelID": 49,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 299,
+      "LevelID": 50,
+      "MoneyID": 8,
+      "MaxCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 300,
+      "LevelID": 1,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 301,
+      "LevelID": 2,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 302,
+      "LevelID": 3,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 303,
+      "LevelID": 4,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 304,
+      "LevelID": 5,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 305,
+      "LevelID": 6,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 306,
+      "LevelID": 7,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 307,
+      "LevelID": 8,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 308,
+      "LevelID": 9,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 309,
+      "LevelID": 10,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 310,
+      "LevelID": 11,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 311,
+      "LevelID": 12,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 312,
+      "LevelID": 13,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 313,
+      "LevelID": 14,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 314,
+      "LevelID": 15,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 315,
+      "LevelID": 16,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 316,
+      "LevelID": 17,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 317,
+      "LevelID": 18,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 318,
+      "LevelID": 19,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 319,
+      "LevelID": 20,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 320,
+      "LevelID": 21,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 321,
+      "LevelID": 22,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 322,
+      "LevelID": 23,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 323,
+      "LevelID": 24,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 324,
+      "LevelID": 25,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 325,
+      "LevelID": 26,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 326,
+      "LevelID": 27,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 327,
+      "LevelID": 28,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 328,
+      "LevelID": 29,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 329,
+      "LevelID": 30,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 330,
+      "LevelID": 31,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 331,
+      "LevelID": 32,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 332,
+      "LevelID": 33,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 333,
+      "LevelID": 34,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 334,
+      "LevelID": 35,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 335,
+      "LevelID": 36,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 336,
+      "LevelID": 37,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 337,
+      "LevelID": 38,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 338,
+      "LevelID": 39,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 339,
+      "LevelID": 40,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 340,
+      "LevelID": 41,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 341,
+      "LevelID": 42,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 342,
+      "LevelID": 43,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 343,
+      "LevelID": 44,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 344,
+      "LevelID": 45,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 345,
+      "LevelID": 46,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 346,
+      "LevelID": 47,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 347,
+      "LevelID": 48,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 348,
+      "LevelID": 49,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 349,
+      "LevelID": 50,
+      "MoneyID": 9,
+      "MaxCnt": 6
+    }
+  ],
+  "MoneyColor": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MoneyColor": "#FFD45C"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MoneyColor": "#F7BBF2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MoneyColor": "#F7BBF2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MoneyColor": "#F7BBF2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "MoneyColor": "#FF5C5C"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "MoneyColor": "#FE75D3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "MoneyColor": "#FF9814"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "MoneyColor": "#8AF1FE"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "MoneyColor": "#8AF1FE"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "MoneyColor": "#8AF1FE"
+    }
+  ],
+  "MileageGrade": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MileageCnt": 0,
+      "MileageGrade": "BASIC "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MileageCnt": 5000,
+      "MileageGrade": "SILVER "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MileageCnt": 30000,
+      "MileageGrade": "GOLD"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MileageCnt": 200000,
+      "MileageGrade": "PRESTIGE"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "MileageCnt": 1000000,
+      "MileageGrade": "MVP"
+    }
+  ]
+}

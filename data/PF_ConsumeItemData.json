@@ -1,0 +1,148 @@
+{
+  "Secretbook": [
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "CraftingID": 1001,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "CraftingID": 1002,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "CraftingID": 1003,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "CraftingID": 1004,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "CraftingID": 1005,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "FabricItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "GroupID": 1,
+      "IsRandom": false,
+      "ColorID": 3,
+      "ColorGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 140,
+      "GroupID": 1,
+      "IsRandom": false,
+      "ColorID": 52,
+      "ColorGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "GroupID": 1,
+      "IsRandom": false,
+      "ColorID": 7,
+      "ColorGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "GroupID": 1,
+      "IsRandom": false,
+      "ColorID": 82,
+      "ColorGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "GroupID": 1,
+      "IsRandom": false,
+      "ColorID": 89,
+      "ColorGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "GroupID": 2,
+      "IsRandom": true,
+      "ColorID": 0,
+      "ColorGroupID": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "GroupID": 2,
+      "IsRandom": true,
+      "ColorID": 0,
+      "ColorGroupID": 2,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "TanningItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "SkinColorID": 1,
+      "SortIndex": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "SkinColorID": 2,
+      "SortIndex": 2,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "SkinColorID": 3,
+      "SortIndex": 3,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "SkinColorID": 4,
+      "SortIndex": 4,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "Paint": [
+    {
+      "ServiceType": "DEV",
+      "Key": 135,
+      "ColorID": 10,
+      "PaintPriceType": 1,
+      "PaintPriceValue": 1000,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "SyrupItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "BuffGroupID": 10,
+      "ProgressTime": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ]
+}

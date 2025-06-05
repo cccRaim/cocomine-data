@@ -1,0 +1,533 @@
+{
+  "FashionMatchInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Nation": 15,
+      "SeasonName": "RunwaySeason_1",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-01-02T05:50:10 +09:00",
+      "EndDate": "2025-01-22T16:00:00 +09:00",
+      "RwdStartDate": "2025-01-22T16:00:01 +09:00",
+      "RwdEndDate": "2025-01-22T22:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Nation": 15,
+      "SeasonName": "RunwaySeason_2",
+      "FeatureLimitID": 1,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-01-23T05:50:10 +09:00",
+      "EndDate": "2025-01-23T16:00:00 +09:00",
+      "RwdStartDate": "2025-01-23T16:00:01 +09:00",
+      "RwdEndDate": "2025-01-23T22:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Nation": 15,
+      "SeasonName": "RunwaySeason_3",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-01-24T05:50:10 +09:00",
+      "EndDate": "2025-01-24T16:00:00 +09:00",
+      "RwdStartDate": "2025-01-24T16:00:01 +09:00",
+      "RwdEndDate": "2025-01-24T22:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST4",
+      "FeatureLimitID": 1,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-03T05:50:10 +09:00",
+      "EndDate": "2025-02-04T16:00:00 +09:00",
+      "RwdStartDate": "2025-02-04T16:00:01 +09:00",
+      "RwdEndDate": "2025-02-04T22:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST5",
+      "FeatureLimitID": 1,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-04T09:00:00 +09:00",
+      "EndDate": "2025-02-07T09:50:00 +09:00",
+      "RwdStartDate": "2025-02-07T09:50:01 +09:00",
+      "RwdEndDate": "2025-02-07T10:30:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST6",
+      "FeatureLimitID": 1,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-06T09:00:00 +09:00",
+      "EndDate": "2025-02-07T16:50:00 +09:00",
+      "RwdStartDate": "2025-02-07T16:50:00 +09:00",
+      "RwdEndDate": "2025-02-07T22:30:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST7",
+      "FeatureLimitID": 1,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-11T09:00:00 +09:00",
+      "EndDate": "2025-02-12T16:50:00 +09:00",
+      "RwdStartDate": "2025-02-12T16:50:00 +09:00",
+      "RwdEndDate": "2025-02-12T22:30:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST8",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-12T09:00:00 +09:00",
+      "EndDate": "2025-02-14T10:00:00 +09:00",
+      "RwdStartDate": "2025-02-14T10:00:00 +09:00",
+      "RwdEndDate": "2025-02-14T22:30:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST9",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-02-18T09:00:00 +09:00",
+      "EndDate": "2025-02-28T10:00:00 +09:00",
+      "RwdStartDate": "2025-03-02T10:00:00 +09:00",
+      "RwdEndDate": "2025-03-03T22:30:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST9",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 13,
+      "CntRwdItemID": 1000137,
+      "StartDate": "2025-03-05T09:00:00 +09:00",
+      "EndDate": "2025-04-29T10:00:00 +09:00",
+      "RwdStartDate": "2025-04-30T10:00:00 +09:00",
+      "RwdEndDate": "2025-05-01T20:00:00 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "Nation": 15,
+      "SeasonName": "RUNWAY_TEST9",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 20,
+      "CntRwdItemID": 487,
+      "StartDate": "2025-05-01T20:00:00 +09:00",
+      "EndDate": "2025-05-23T19:59:59 +09:00",
+      "RwdStartDate": "2025-05-23T20:00:00 +09:00",
+      "RwdEndDate": "2025-05-25T19:59:59 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "Nation": 15,
+      "SeasonName": "FashionMatch_1",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 20,
+      "CntRwdItemID": 487,
+      "StartDate": "2025-05-26T00:00:00 +09:00",
+      "EndDate": "2025-06-04T23:59:59 +09:00",
+      "RwdStartDate": "2025-06-05T00:00:00 +09:00",
+      "RwdEndDate": "2025-06-07T23:59:59 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "Nation": 15,
+      "SeasonName": "FashionMatch_3",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 20,
+      "CntRwdItemID": 487,
+      "StartDate": "2025-06-08T00:00:00 +09:00",
+      "EndDate": "2025-06-14T23:59:59 +09:00",
+      "RwdStartDate": "2025-06-15T00:00:00 +09:00",
+      "RwdEndDate": "2025-06-17T23:59:59 +09:00"
+    }
+  ],
+  "FeatureLimit": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FeatureType": [
+        1,
+        3,
+        5,
+        7,
+        9
+      ],
+      "MinEquipCount": 5
+    }
+  ],
+  "FashionMatchPointRate": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    }
+  ],
+  "FashionMatchBot": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "BotNickName": "NickName_5",
+      "Level": 5,
+      "DefaultScore": 50,
+      "SexType": 1,
+      "HairPreset": 1,
+      "EyePreset": 1,
+      "MakeupPreset": 1,
+      "SkinColor": 5,
+      "FaceType": 2,
+      "AnimType": 13,
+      "EquipItems": [
+        1000044,
+        1000048,
+        1000026,
+        1000027
+      ],
+      "BGID": 0,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "BotNickName": "NickName_6",
+      "Level": 5,
+      "DefaultScore": 100,
+      "SexType": 2,
+      "HairPreset": 7,
+      "EyePreset": 8,
+      "MakeupPreset": 2,
+      "SkinColor": 6,
+      "FaceType": 1,
+      "AnimType": 18,
+      "EquipItems": [
+        1000030,
+        1000031,
+        1000017,
+        1000014
+      ],
+      "BGID": 0,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "BotNickName": "NickName_7",
+      "Level": 5,
+      "DefaultScore": 100,
+      "SexType": 1,
+      "HairPreset": 5,
+      "EyePreset": 2,
+      "MakeupPreset": 2,
+      "SkinColor": 3,
+      "FaceType": 2,
+      "AnimType": 15,
+      "EquipItems": [
+        1000153,
+        1000025,
+        1000165,
+        1000037
+      ],
+      "BGID": 0,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "BotNickName": "NickName_8",
+      "Level": 10,
+      "DefaultScore": 100,
+      "SexType": 2,
+      "HairPreset": 7,
+      "EyePreset": 1,
+      "MakeupPreset": 1,
+      "SkinColor": 1,
+      "FaceType": 1,
+      "AnimType": 18,
+      "EquipItems": [
+        1000030,
+        1000031,
+        1000017,
+        1000014
+      ],
+      "BGID": 0,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "WinAnim": [
+    {
+      "ServiceType": "DEV",
+      "Key": "happy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "hi01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "clap01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "excited01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "lol01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "cheerup01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "peaceful01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "shy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "surprise01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "showoff01"
+    }
+  ],
+  "LoseAnim": [
+    {
+      "ServiceType": "DEV",
+      "Key": "cry01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "mad01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "shock01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "worry01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "sigh01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "sulky01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "lonely01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "worry02"
+    }
+  ],
+  "FashionStageAnim": [
+    {
+      "ServiceType": "DEV",
+      "Key": "happy01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "change_cloth01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "change_hair01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "hi01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "showoff01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "armturnside01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "surprise01",
+      "RndMinTime": 5,
+      "RndMaxTime": 10
+    }
+  ]
+}

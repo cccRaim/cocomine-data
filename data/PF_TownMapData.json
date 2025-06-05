@@ -1,0 +1,251 @@
+{
+  "TownMap": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "IsEdit": false,
+      "PlazaID": 5,
+      "TownSpawnNPCGroupID": 2,
+      "IsMainHouse": false,
+      "IsNPCSquare": true,
+      "IsLock": true,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "IsEdit": false,
+      "PlazaID": 4,
+      "TownSpawnNPCGroupID": 3,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": true,
+      "OpenLevel": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "IsEdit": false,
+      "PlazaID": 6,
+      "TownSpawnNPCGroupID": 1,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": true,
+      "OpenLevel": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "IsEdit": true,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "IsEdit": false,
+      "PlazaID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": true,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0
+    }
+  ],
+  "TownSpawnNPC": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10000,
+      "GroupID": 1,
+      "NPCID": 3001,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10001,
+      "GroupID": 1,
+      "NPCID": 3002,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10002,
+      "GroupID": 1,
+      "NPCID": 3003,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10003,
+      "GroupID": 1,
+      "NPCID": 3004,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10004,
+      "GroupID": 1,
+      "NPCID": 3005,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10005,
+      "GroupID": 1,
+      "NPCID": 3006,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10006,
+      "GroupID": 2,
+      "NPCID": 1002,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10007,
+      "GroupID": 3,
+      "NPCID": 2001,
+      "AnimID": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10008,
+      "GroupID": 3,
+      "NPCID": 2002,
+      "AnimID": "signature01"
+    }
+  ],
+  "TownMapPlace": [
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PrefabName": "",
+      "IsNPCSquare": false,
+      "NPCID": 0,
+      "BuildingImage": "TownMap_4",
+      "Sortindex": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "PrefabName": "",
+      "IsNPCSquare": true,
+      "NPCID": 1002,
+      "BuildingImage": "",
+      "Sortindex": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "PrefabName": "",
+      "IsNPCSquare": false,
+      "NPCID": 0,
+      "BuildingImage": "TownMap_6",
+      "Sortindex": 3
+    }
+  ],
+  "TownTitle": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1000,
+      "TownTitleID": "TownTitle_1000",
+      "FriendsAdd": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1001,
+      "TownTitleID": "TownTItle_1001",
+      "FriendsAdd": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1002,
+      "TownTitleID": "TownTitle_1002",
+      "FriendsAdd": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1003,
+      "TownTitleID": "TownTitle_1003",
+      "FriendsAdd": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1004,
+      "TownTitleID": "TownTitle_1004",
+      "FriendsAdd": 21
+    }
+  ]
+}

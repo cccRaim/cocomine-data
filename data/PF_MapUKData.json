@@ -1,0 +1,49 @@
+{
+  "GreenHouseMax": [
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 1,
+      "MakeType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 100000,
+      "MakeType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 200000,
+      "MakeType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 300000,
+      "MakeType": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 400000,
+      "MakeType": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 500000,
+      "MakeType": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 600000,
+      "MakeType": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 700000,
+      "MakeType": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "UniqueKey": 1000000000,
+      "MakeType": 0
+    }
+  ]
+}

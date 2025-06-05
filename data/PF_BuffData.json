@@ -1,0 +1,361 @@
+{
+  "Buff": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "BuffGroupID": 10,
+      "BuffType": 1,
+      "BuffName": "BuffName_01",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 15,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "BuffGroupID": 10,
+      "BuffType": 2,
+      "BuffName": "BuffName_02",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 15,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "BuffGroupID": 11,
+      "BuffType": 12,
+      "BuffName": "BuffName_12",
+      "BuffCategoryType": 4,
+      "IconName": "",
+      "BuffValue": 30,
+      "BuffValueType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "BuffGroupID": 12,
+      "BuffType": 1,
+      "BuffName": "BuffName_01",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "BuffGroupID": 13,
+      "BuffType": 2,
+      "BuffName": "BuffName_02",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "BuffGroupID": 14,
+      "BuffType": 7,
+      "BuffName": "BuffName_07",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "BuffGroupID": 15,
+      "BuffType": 10,
+      "BuffName": "BuffName_10",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "BuffGroupID": 16,
+      "BuffType": 0,
+      "BuffName": "",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 108,
+      "BuffGroupID": 17,
+      "BuffType": 0,
+      "BuffName": "",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 109,
+      "BuffGroupID": 18,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 110,
+      "BuffGroupID": 19,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 0.2,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 111,
+      "BuffGroupID": 20,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 0.4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 112,
+      "BuffGroupID": 21,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 0.6,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 113,
+      "BuffGroupID": 22,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 0.8,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 114,
+      "BuffGroupID": 23,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "BuffGroupID": 24,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1.2,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "BuffGroupID": 25,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1.4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "BuffGroupID": 26,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1.6,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "BuffGroupID": 27,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 1.8,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "BuffGroupID": 28,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "BuffGroupID": 29,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2.2,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "BuffGroupID": 30,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2.4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "BuffGroupID": 31,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2.6,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "BuffGroupID": 32,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2.8,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "BuffGroupID": 33,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 3,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "BuffGroupID": 34,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 3.2,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "BuffGroupID": 35,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 3.4,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "BuffGroupID": 36,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 3.6,
+      "BuffValueType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "BuffGroupID": 37,
+      "BuffType": 21,
+      "BuffName": "BuffName_21",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 4,
+      "BuffValueType": 1
+    }
+  ],
+  "UseBuffType": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "UseBuffType": 1,
+      "IconType": 1,
+      "StepIcon": "",
+      "StepValueIDType": 1,
+      "BuffColor": "#F68686"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "UseBuffType": 2,
+      "IconType": 2,
+      "StepIcon": "HouseMileage_Icon",
+      "StepValueIDType": 0,
+      "BuffColor": "#8BF686"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "UseBuffType": 3,
+      "IconType": 1,
+      "StepIcon": "",
+      "StepValueIDType": 4,
+      "BuffColor": "#F5F087"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "UseBuffType": 4,
+      "IconType": 2,
+      "StepIcon": "Event_Icon",
+      "StepValueIDType": 0,
+      "BuffColor": "#8983F9"
+    }
+  ]
+}

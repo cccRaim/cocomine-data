@@ -1,0 +1,354 @@
+{
+  "LevelExp": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "UserExp": 0,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "UserExp": 65,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "UserExp": 123,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "UserExp": 260,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "UserExp": 599,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "UserExp": 1476,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "UserExp": 3843,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "UserExp": 10496,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "UserExp": 29889,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "UserExp": 64980,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "UserExp": 88153,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "UserExp": 116456,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "UserExp": 150453,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "UserExp": 190718,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "UserExp": 237835,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "UserExp": 292393,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "UserExp": 354993,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "UserExp": 426241,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "UserExp": 506751,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "UserExp": 597145,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "UserExp": 698048,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "UserExp": 810095,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "UserExp": 933927,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "UserExp": 1070187,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "UserExp": 1219528,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "UserExp": 1382606,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "UserExp": 1560083,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "UserExp": 1752627,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "UserExp": 1960909,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "UserExp": 2185605,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "UserExp": 2427399,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "UserExp": 2686976,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "UserExp": 2965025,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "UserExp": 3262243,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "UserExp": 3579328,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "UserExp": 3916984,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "UserExp": 4275918,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "UserExp": 4656840,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "UserExp": 5060467,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "UserExp": 5487516,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 41,
+      "UserExp": 5938711,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 42,
+      "UserExp": 6414777,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 43,
+      "UserExp": 6916444,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 44,
+      "UserExp": 7444446,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 45,
+      "UserExp": 7999519,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 46,
+      "UserExp": 8582403,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 47,
+      "UserExp": 9193841,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 48,
+      "UserExp": 9834579,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 49,
+      "UserExp": 10505369,
+      "RewType": 2,
+      "RewJewelValue": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 50,
+      "UserExp": 11206961,
+      "RewType": 2,
+      "RewJewelValue": 15
+    }
+  ]
+}

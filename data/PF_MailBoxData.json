@@ -1,0 +1,124 @@
+{
+  "MailInfo": [
+    {
+      "ServiceType": "NONE",
+      "Key": 1,
+      "NPCID": 1001,
+      "Title": "Mail_Title_1",
+      "Desc": "Mail_Desc_1",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 2,
+      "NPCID": 1001,
+      "Title": "Mail_Title_2",
+      "Desc": "Mail_Desc_2",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 3,
+      "NPCID": 1001,
+      "Title": "Mail_Title_3",
+      "Desc": "Mail_Desc_3",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "NPCID": 1001,
+      "Title": "Mail_Title_4",
+      "Desc": "Mail_Desc_4",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "NPCID": 1001,
+      "Title": "Mail_Title_5",
+      "Desc": "Mail_Desc_5",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "NPCID": 1001,
+      "Title": "Mail_Title_6",
+      "Desc": "Mail_Desc_6",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 7,
+      "NPCID": 1001,
+      "Title": "Mail_Title_7",
+      "Desc": "Mail_Desc_7",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 8,
+      "NPCID": 1001,
+      "Title": "Homeparty_Reward_Title",
+      "Desc": "",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 9,
+      "NPCID": 1001,
+      "Title": "Homeparty_Reward_House_Owner_Title",
+      "Desc": "Homeparty_Reward_House_Owner_Desc",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "NPCID": 1001,
+      "Title": "Mail_Title_8",
+      "Desc": "Mail_Desc_8",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "NPCID": 1001,
+      "Title": "Mail_Title_9",
+      "Desc": "Mail_Desc_9",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "NPCID": 1001,
+      "Title": "Mail_Title_10",
+      "Desc": "Mail_Desc_10",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "NPCID": 1001,
+      "Title": "Mail_Title_11",
+      "Desc": "Mail_Desc_11",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "NPCID": 1001,
+      "Title": "Mail_Title_12",
+      "Desc": "Mail_Desc_12",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "NPCID": 1001,
+      "Title": "Mail_Title_13",
+      "Desc": "Mail_Desc_13",
+      "ExpireDate": 10080
+    }
+  ]
+}

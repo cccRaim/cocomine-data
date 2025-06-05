@@ -1,0 +1,15 @@
+{
+  "BG": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ImageType": 1,
+      "ImageID": "VisitorBook_1",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 2,
+      "IconTag": 0,
+      "SortIndex": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ]
+}

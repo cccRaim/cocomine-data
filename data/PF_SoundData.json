@@ -1,0 +1,24 @@
+{
+  "Background": [
+    {
+      "ServiceType": "DEV",
+      "Key": "BGM_BeautySalon",
+      "NightBGMPrefabName": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "BGM_Shop",
+      "NightBGMPrefabName": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "BGM_Map",
+      "NightBGMPrefabName": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "BGM_Login",
+      "NightBGMPrefabName": ""
+    }
+  ]
+}

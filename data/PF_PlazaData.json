@@ -1,0 +1,2556 @@
+{
+  "Plaza": [
+    {
+      "ServiceType": "NONE",
+      "Key": 1,
+      "FieldName": "Zone_104",
+      "FieldID": 108,
+      "PlazaType": 4,
+      "PlazaAddress": 1,
+      "FieldDesc": "Zone_104_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza1_image",
+      "Sortindex": 1
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 2,
+      "FieldName": "Field_106",
+      "FieldID": 106,
+      "PlazaType": 4,
+      "PlazaAddress": 2,
+      "FieldDesc": "Field_106_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza2_image",
+      "Sortindex": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldName": "Field_105",
+      "FieldID": 105,
+      "PlazaType": 3,
+      "PlazaAddress": 3,
+      "FieldDesc": "Field105_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza3_image",
+      "Sortindex": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldName": "field_2001",
+      "FieldID": 2001,
+      "PlazaType": 5,
+      "PlazaAddress": 1,
+      "FieldDesc": "Field_2001_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza4_image",
+      "Sortindex": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldName": "Field_2003",
+      "FieldID": 2003,
+      "PlazaType": 4,
+      "PlazaAddress": 5,
+      "FieldDesc": "Field_2003_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza5_image",
+      "Sortindex": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldName": "Field_2005",
+      "FieldID": 2005,
+      "PlazaType": 4,
+      "PlazaAddress": 6,
+      "FieldDesc": "Field_2005_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza5_image",
+      "Sortindex": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldName": "Field_2006",
+      "FieldID": 2006,
+      "PlazaType": 4,
+      "PlazaAddress": 6,
+      "FieldDesc": "Field_2003_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza5_image",
+      "Sortindex": 1
+    }
+  ],
+  "Central_NPCSpawn": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 1,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 2,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 3,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": 27,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 4,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": 3,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 5,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": -20,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 6,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": -32,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 7,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 4,
+      "YCoord": -46,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 8,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 17,
+      "YCoord": -46,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 9,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 18,
+      "YCoord": -31,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 10,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 4,
+      "YCoord": -31,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 11,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 12,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 13,
+      "BGName": "villagebg_1",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 14,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 15,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 16,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "PlazaID": 1,
+      "PlazaType": 3,
+      "NPCID": 17,
+      "BGName": "villagebg_1",
+      "IsMonOut": false,
+      "IsTueOut": false,
+      "IsWedOut": false,
+      "IsThuOut": false,
+      "IsFriOut": false,
+      "IsSatOut": false,
+      "IsSunOut": false,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -5,
+      "YCoord": -5,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "PlazaID": 4,
+      "PlazaType": 5,
+      "NPCID": 2001,
+      "BGName": "BG_FashionSquare",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": -32,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "PlazaID": 4,
+      "PlazaType": 5,
+      "NPCID": 2002,
+      "BGName": "BG_FashionSquare",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 4,
+      "YCoord": -46,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3001,
+      "BGName": "BG_NPC3001",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 59,
+      "YCoord": 77,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3002,
+      "BGName": "BG_NPC3002",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 13,
+      "YCoord": 27,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3005,
+      "BGName": "BG_NPC3005",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 26,
+      "YCoord": 59,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3006,
+      "BGName": "BG_NPC3005",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": -32,
+      "YCoord": 3,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3003,
+      "BGName": "BG_NPC3003",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 29,
+      "YCoord": 9,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "PlazaID": 6,
+      "PlazaType": 7,
+      "NPCID": 3004,
+      "BGName": "BG_NPC3004",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 64,
+      "YCoord": 23,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "PlazaID": 5,
+      "PlazaType": 6,
+      "NPCID": 1002,
+      "BGName": "BG_NPC1002",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 2,
+      "YCoord": 22,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "PlazaID": 5,
+      "PlazaType": 8,
+      "NPCID": 1002,
+      "BGName": "BG_NPC1002",
+      "IsMonOut": true,
+      "IsTueOut": true,
+      "IsWedOut": true,
+      "IsThuOut": true,
+      "IsFriOut": true,
+      "IsSatOut": true,
+      "IsSunOut": true,
+      "IsMonIn": false,
+      "IsTueIn": false,
+      "IsWedIn": false,
+      "IsThuIn": false,
+      "IsFriIn": false,
+      "IsSatIn": false,
+      "IsSunIn": false,
+      "XCoord": 2,
+      "YCoord": 22,
+      "EventStartTime": "0001-01-01T00:00:00",
+      "EventEndTime": "0001-01-01T00:00:00"
+    }
+  ],
+  "Central_CraftingToolSkin": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PlazaKey": 3,
+      "SpawnPointID": 126,
+      "SpawnCraftingToolGroup": 3,
+      "CraftingType": 8
+    }
+  ],
+  "Plaza_SpawnPoint": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 69,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 87,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 88,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 89,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 90,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 91,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 92,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 93,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 94,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 95,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 96,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 97,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 98,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 99,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 108,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 109,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 110,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 111,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 112,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 113,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 114,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "FieldID": 105,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "FieldID": 105,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "FieldID": 108,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 143,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 144,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 145,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 146,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "FieldID": 109,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 161,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 162,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 163,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 164,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 165,
+      "FieldID": 109,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 166,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 177,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 178,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 179,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 180,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 181,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 182,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 183,
+      "FieldID": 112,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 184,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 185,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 186,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 187,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 188,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 189,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 190,
+      "FieldID": 112,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 191,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 192,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 193,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 194,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 195,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 196,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 197,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 198,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 199,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 200,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 202,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 204,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 205,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 206,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 207,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 208,
+      "FieldID": 111,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 209,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 210,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 211,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 212,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 213,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 214,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 215,
+      "FieldID": 111,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 216,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 217,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 218,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 219,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 220,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 221,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 222,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 223,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 224,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 225,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 226,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 227,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 228,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 229,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 230,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 231,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 232,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 233,
+      "FieldID": 110,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 234,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 235,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 236,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 237,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 238,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 239,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 240,
+      "FieldID": 110,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 241,
+      "FieldID": 100,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 242,
+      "FieldID": 101,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 243,
+      "FieldID": 102,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 244,
+      "FieldID": 103,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 245,
+      "FieldID": 104,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 246,
+      "FieldID": 108,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 247,
+      "FieldID": 108,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 248,
+      "FieldID": 108,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20011,
+      "FieldID": 2001,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20012,
+      "FieldID": 2001,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20013,
+      "FieldID": 2001,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20014,
+      "FieldID": 2001,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20061,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20015,
+      "FieldID": 2005,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20062,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20063,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20064,
+      "FieldID": 2006,
+      "IsReverse": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20065,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20066,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20067,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20068,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20069,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20070,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20071,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20072,
+      "FieldID": 2006,
+      "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20073,
+      "FieldID": 2006,
+      "IsReverse": false
+    }
+  ],
+  "NPCSquare": [
+    {
+      "ServiceType": "NONE",
+      "Key": 1,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "hi01",
+      "ChatID": "NPCSquare_1"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 2,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "happy01",
+      "ChatID": "NPCSquare_2"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 3,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "signature01",
+      "ChatID": "NPCSquare_3"
+    }
+  ],
+  "Plaza_ExchangeItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 108,
+      "SpawnPointID": 127,
+      "ItemID": 100082
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 109,
+      "SpawnPointID": 128,
+      "ItemID": 100081
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldID": 110,
+      "SpawnPointID": 131,
+      "ItemID": 100081
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldID": 111,
+      "SpawnPointID": 130,
+      "ItemID": 100081
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldID": 112,
+      "SpawnPointID": 129,
+      "ItemID": 100081
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldID": 108,
+      "SpawnPointID": 246,
+      "ItemID": 90000000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldID": 108,
+      "SpawnPointID": 247,
+      "ItemID": 90000001
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "FieldID": 108,
+      "SpawnPointID": 248,
+      "ItemID": 90000002
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20011,
+      "FieldID": 2001,
+      "SpawnPointID": 20011,
+      "ItemID": 100082
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20012,
+      "FieldID": 2001,
+      "SpawnPointID": 20012,
+      "ItemID": 90000000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20013,
+      "FieldID": 2001,
+      "SpawnPointID": 20013,
+      "ItemID": 90000001
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20014,
+      "FieldID": 2001,
+      "SpawnPointID": 20014,
+      "ItemID": 90000002
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20015,
+      "FieldID": 2005,
+      "SpawnPointID": 20015,
+      "ItemID": 10500043
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20016,
+      "FieldID": 2006,
+      "SpawnPointID": 20061,
+      "ItemID": 10500137
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20017,
+      "FieldID": 2006,
+      "SpawnPointID": 20062,
+      "ItemID": 10500140
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20018,
+      "FieldID": 2006,
+      "SpawnPointID": 20063,
+      "ItemID": 10500141
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20019,
+      "FieldID": 2006,
+      "SpawnPointID": 20064,
+      "ItemID": 10500142
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20020,
+      "FieldID": 2006,
+      "SpawnPointID": 20065,
+      "ItemID": 10500143
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20021,
+      "FieldID": 2006,
+      "SpawnPointID": 20066,
+      "ItemID": 10500144
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20022,
+      "FieldID": 2006,
+      "SpawnPointID": 20067,
+      "ItemID": 10500147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20023,
+      "FieldID": 2006,
+      "SpawnPointID": 20068,
+      "ItemID": 10500148
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20024,
+      "FieldID": 2006,
+      "SpawnPointID": 20069,
+      "ItemID": 10500149
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20025,
+      "FieldID": 2006,
+      "SpawnPointID": 20070,
+      "ItemID": 10500150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20026,
+      "FieldID": 2006,
+      "SpawnPointID": 20071,
+      "ItemID": 10500138
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20027,
+      "FieldID": 2006,
+      "SpawnPointID": 20072,
+      "ItemID": 10500147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20028,
+      "FieldID": 2006,
+      "SpawnPointID": 20073,
+      "ItemID": 10500139
+    }
+  ]
+}

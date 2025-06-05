@@ -1,0 +1,3526 @@
+{
+  "Color": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ColorName": "Color_1",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 57,
+      "UpColorB": 57,
+      "DownColorR": 255,
+      "DownColorG": 57,
+      "DownColorB": 57
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "ColorName": "Color_2",
+      "IsTwoTone": true,
+      "UpColorR": 236,
+      "UpColorG": 30,
+      "UpColorB": 41,
+      "DownColorR": 255,
+      "DownColorG": 159,
+      "DownColorB": 78
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "ColorName": "Color_3",
+      "IsTwoTone": false,
+      "UpColorR": 254,
+      "UpColorG": 232,
+      "UpColorB": 232,
+      "DownColorR": 254,
+      "DownColorG": 232,
+      "DownColorB": 232
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "ColorName": "Color_4",
+      "IsTwoTone": false,
+      "UpColorR": 252,
+      "UpColorG": 200,
+      "UpColorB": 200,
+      "DownColorR": 252,
+      "DownColorG": 200,
+      "DownColorB": 200
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "ColorName": "Color_5",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 147,
+      "UpColorB": 147,
+      "DownColorR": 255,
+      "DownColorG": 147,
+      "DownColorB": 147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "ColorName": "Color_6",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 84,
+      "UpColorB": 71,
+      "DownColorR": 255,
+      "DownColorG": 84,
+      "DownColorB": 71
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "ColorName": "Color_7",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 84,
+      "UpColorB": 109,
+      "DownColorR": 255,
+      "DownColorG": 84,
+      "DownColorB": 109
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "ColorName": "Color_8",
+      "IsTwoTone": false,
+      "UpColorR": 209,
+      "UpColorG": 116,
+      "UpColorB": 126,
+      "DownColorR": 209,
+      "DownColorG": 116,
+      "DownColorB": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "ColorName": "Color_9",
+      "IsTwoTone": false,
+      "UpColorR": 206,
+      "UpColorG": 70,
+      "UpColorB": 70,
+      "DownColorR": 206,
+      "DownColorG": 70,
+      "DownColorB": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "ColorName": "Color_10",
+      "IsTwoTone": false,
+      "UpColorR": 207,
+      "UpColorG": 15,
+      "UpColorB": 15,
+      "DownColorR": 207,
+      "DownColorG": 15,
+      "DownColorB": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "ColorName": "Color_11",
+      "IsTwoTone": false,
+      "UpColorR": 158,
+      "UpColorG": 10,
+      "UpColorB": 10,
+      "DownColorR": 158,
+      "DownColorG": 10,
+      "DownColorB": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "ColorName": "Color_12",
+      "IsTwoTone": false,
+      "UpColorR": 126,
+      "UpColorG": 8,
+      "UpColorB": 8,
+      "DownColorR": 126,
+      "DownColorG": 8,
+      "DownColorB": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "ColorName": "Color_13",
+      "IsTwoTone": false,
+      "UpColorR": 84,
+      "UpColorG": 0,
+      "UpColorB": 0,
+      "DownColorR": 84,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "ColorName": "Color_14",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 245,
+      "UpColorB": 225,
+      "DownColorR": 255,
+      "DownColorG": 245,
+      "DownColorB": 225
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "ColorName": "Color_15",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 214,
+      "UpColorB": 172,
+      "DownColorR": 255,
+      "DownColorG": 214,
+      "DownColorB": 172
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "ColorName": "Color_16",
+      "IsTwoTone": false,
+      "UpColorR": 246,
+      "UpColorG": 192,
+      "UpColorB": 152,
+      "DownColorR": 246,
+      "DownColorG": 192,
+      "DownColorB": 152
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "ColorName": "Color_17",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 165,
+      "UpColorB": 75,
+      "DownColorR": 255,
+      "DownColorG": 165,
+      "DownColorB": 75
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "ColorName": "Color_18",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 127,
+      "UpColorB": 0,
+      "DownColorR": 255,
+      "DownColorG": 127,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "ColorName": "Color_19",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 112,
+      "UpColorB": 55,
+      "DownColorR": 255,
+      "DownColorG": 112,
+      "DownColorB": 55
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "ColorName": "Color_20",
+      "IsTwoTone": false,
+      "UpColorR": 238,
+      "UpColorG": 102,
+      "UpColorB": 0,
+      "DownColorR": 238,
+      "DownColorG": 102,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "ColorName": "Color_21",
+      "IsTwoTone": false,
+      "UpColorR": 214,
+      "UpColorG": 92,
+      "UpColorB": 0,
+      "DownColorR": 214,
+      "DownColorG": 92,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "ColorName": "Color_22",
+      "IsTwoTone": false,
+      "UpColorR": 204,
+      "UpColorG": 102,
+      "UpColorB": 0,
+      "DownColorR": 204,
+      "DownColorG": 102,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "ColorName": "Color_23",
+      "IsTwoTone": false,
+      "UpColorR": 144,
+      "UpColorG": 76,
+      "UpColorB": 20,
+      "DownColorR": 144,
+      "DownColorG": 76,
+      "DownColorB": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "ColorName": "Color_24",
+      "IsTwoTone": false,
+      "UpColorR": 106,
+      "UpColorG": 53,
+      "UpColorB": 10,
+      "DownColorR": 106,
+      "DownColorG": 53,
+      "DownColorB": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "ColorName": "Color_25",
+      "IsTwoTone": false,
+      "UpColorR": 83,
+      "UpColorG": 55,
+      "UpColorB": 43,
+      "DownColorR": 83,
+      "DownColorG": 55,
+      "DownColorB": 43
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "ColorName": "Color_26",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 251,
+      "UpColorB": 225,
+      "DownColorR": 255,
+      "DownColorG": 251,
+      "DownColorB": 225
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "ColorName": "Color_27",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 255,
+      "UpColorB": 159,
+      "DownColorR": 255,
+      "DownColorG": 255,
+      "DownColorB": 159
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "ColorName": "Color_28",
+      "IsTwoTone": false,
+      "UpColorR": 241,
+      "UpColorG": 255,
+      "UpColorB": 105,
+      "DownColorR": 241,
+      "DownColorG": 255,
+      "DownColorB": 105
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "ColorName": "Color_29",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 255,
+      "UpColorB": 0,
+      "DownColorR": 255,
+      "DownColorG": 255,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "ColorName": "Color_30",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 233,
+      "UpColorB": 101,
+      "DownColorR": 255,
+      "DownColorG": 233,
+      "DownColorB": 101
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "ColorName": "Color_31",
+      "IsTwoTone": false,
+      "UpColorR": 253,
+      "UpColorG": 210,
+      "UpColorB": 27,
+      "DownColorR": 253,
+      "DownColorG": 210,
+      "DownColorB": 27
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "ColorName": "Color_32",
+      "IsTwoTone": false,
+      "UpColorR": 248,
+      "UpColorG": 185,
+      "UpColorB": 8,
+      "DownColorR": 248,
+      "DownColorG": 185,
+      "DownColorB": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "ColorName": "Color_33",
+      "IsTwoTone": false,
+      "UpColorR": 204,
+      "UpColorG": 153,
+      "UpColorB": 0,
+      "DownColorR": 204,
+      "DownColorG": 153,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "ColorName": "Color_34",
+      "IsTwoTone": false,
+      "UpColorR": 144,
+      "UpColorG": 129,
+      "UpColorB": 93,
+      "DownColorR": 144,
+      "DownColorG": 129,
+      "DownColorB": 93
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "ColorName": "Color_35",
+      "IsTwoTone": false,
+      "UpColorR": 161,
+      "UpColorG": 120,
+      "UpColorB": 3,
+      "DownColorR": 161,
+      "DownColorG": 120,
+      "DownColorB": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "ColorName": "Color_36",
+      "IsTwoTone": false,
+      "UpColorR": 124,
+      "UpColorG": 92,
+      "UpColorB": 2,
+      "DownColorR": 124,
+      "DownColorG": 92,
+      "DownColorB": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "ColorName": "Color_37",
+      "IsTwoTone": false,
+      "UpColorR": 76,
+      "UpColorG": 70,
+      "UpColorB": 51,
+      "DownColorR": 76,
+      "DownColorG": 70,
+      "DownColorB": 51
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "ColorName": "Color_38",
+      "IsTwoTone": false,
+      "UpColorR": 231,
+      "UpColorG": 254,
+      "UpColorB": 214,
+      "DownColorR": 231,
+      "DownColorG": 254,
+      "DownColorB": 214
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "ColorName": "Color_39",
+      "IsTwoTone": false,
+      "UpColorR": 189,
+      "UpColorG": 255,
+      "UpColorB": 163,
+      "DownColorR": 189,
+      "DownColorG": 255,
+      "DownColorB": 163
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "ColorName": "Color_40",
+      "IsTwoTone": false,
+      "UpColorR": 205,
+      "UpColorG": 250,
+      "UpColorB": 129,
+      "DownColorR": 205,
+      "DownColorG": 250,
+      "DownColorB": 129
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "ColorName": "Color_41",
+      "IsTwoTone": false,
+      "UpColorR": 189,
+      "UpColorG": 227,
+      "UpColorB": 121,
+      "DownColorR": 189,
+      "DownColorG": 227,
+      "DownColorB": 121
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "ColorName": "Color_42",
+      "IsTwoTone": false,
+      "UpColorR": 5,
+      "UpColorG": 255,
+      "UpColorB": 5,
+      "DownColorR": 5,
+      "DownColorG": 255,
+      "DownColorB": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "ColorName": "Color_43",
+      "IsTwoTone": false,
+      "UpColorR": 126,
+      "UpColorG": 245,
+      "UpColorB": 94,
+      "DownColorR": 126,
+      "DownColorG": 245,
+      "DownColorB": 94
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "ColorName": "Color_44",
+      "IsTwoTone": false,
+      "UpColorR": 169,
+      "UpColorG": 208,
+      "UpColorB": 142,
+      "DownColorR": 169,
+      "DownColorG": 208,
+      "DownColorB": 142
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "ColorName": "Color_45",
+      "IsTwoTone": false,
+      "UpColorR": 139,
+      "UpColorG": 190,
+      "UpColorB": 56,
+      "DownColorR": 139,
+      "DownColorG": 190,
+      "DownColorB": 56
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "ColorName": "Color_46",
+      "IsTwoTone": false,
+      "UpColorR": 80,
+      "UpColorG": 185,
+      "UpColorB": 75,
+      "DownColorR": 80,
+      "DownColorG": 185,
+      "DownColorB": 75
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "ColorName": "Color_47",
+      "IsTwoTone": false,
+      "UpColorR": 72,
+      "UpColorG": 162,
+      "UpColorB": 113,
+      "DownColorR": 72,
+      "DownColorG": 162,
+      "DownColorB": 113
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "ColorName": "Color_48",
+      "IsTwoTone": false,
+      "UpColorR": 20,
+      "UpColorG": 134,
+      "UpColorB": 47,
+      "DownColorR": 20,
+      "DownColorG": 134,
+      "DownColorB": 47
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "ColorName": "Color_49",
+      "IsTwoTone": false,
+      "UpColorR": 25,
+      "UpColorG": 67,
+      "UpColorB": 30,
+      "DownColorR": 25,
+      "DownColorG": 67,
+      "DownColorB": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "ColorName": "Color_50",
+      "IsTwoTone": false,
+      "UpColorR": 229,
+      "UpColorG": 241,
+      "UpColorB": 255,
+      "DownColorR": 229,
+      "DownColorG": 241,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "ColorName": "Color_51",
+      "IsTwoTone": false,
+      "UpColorR": 184,
+      "UpColorG": 243,
+      "UpColorB": 255,
+      "DownColorR": 184,
+      "DownColorG": 243,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "ColorName": "Color_52",
+      "IsTwoTone": false,
+      "UpColorR": 175,
+      "UpColorG": 217,
+      "UpColorB": 255,
+      "DownColorR": 175,
+      "DownColorG": 217,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "ColorName": "Color_53",
+      "IsTwoTone": false,
+      "UpColorR": 98,
+      "UpColorG": 217,
+      "UpColorB": 245,
+      "DownColorR": 98,
+      "DownColorG": 217,
+      "DownColorB": 245
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "ColorName": "Color_54",
+      "IsTwoTone": false,
+      "UpColorR": 100,
+      "UpColorG": 169,
+      "UpColorB": 252,
+      "DownColorR": 100,
+      "DownColorG": 169,
+      "DownColorB": 252
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "ColorName": "Color_55",
+      "IsTwoTone": false,
+      "UpColorR": 47,
+      "UpColorG": 116,
+      "UpColorB": 255,
+      "DownColorR": 47,
+      "DownColorG": 116,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "ColorName": "Color_56",
+      "IsTwoTone": false,
+      "UpColorR": 35,
+      "UpColorG": 87,
+      "UpColorB": 191,
+      "DownColorR": 35,
+      "DownColorG": 87,
+      "DownColorB": 191
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "ColorName": "Color_57",
+      "IsTwoTone": false,
+      "UpColorR": 84,
+      "UpColorG": 73,
+      "UpColorB": 223,
+      "DownColorR": 84,
+      "DownColorG": 73,
+      "DownColorB": 223
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "ColorName": "Color_58",
+      "IsTwoTone": false,
+      "UpColorR": 75,
+      "UpColorG": 63,
+      "UpColorB": 159,
+      "DownColorR": 75,
+      "DownColorG": 63,
+      "DownColorB": 159
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "ColorName": "Color_59",
+      "IsTwoTone": false,
+      "UpColorR": 30,
+      "UpColorG": 30,
+      "UpColorB": 225,
+      "DownColorR": 30,
+      "DownColorG": 30,
+      "DownColorB": 225
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "ColorName": "Color_60",
+      "IsTwoTone": false,
+      "UpColorR": 35,
+      "UpColorG": 68,
+      "UpColorB": 164,
+      "DownColorR": 35,
+      "DownColorG": 68,
+      "DownColorB": 164
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "ColorName": "Color_61",
+      "IsTwoTone": false,
+      "UpColorR": 30,
+      "UpColorG": 51,
+      "UpColorB": 96,
+      "DownColorR": 30,
+      "DownColorG": 51,
+      "DownColorB": 96
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "ColorName": "Color_62",
+      "IsTwoTone": false,
+      "UpColorR": 218,
+      "UpColorG": 252,
+      "UpColorB": 254,
+      "DownColorR": 218,
+      "DownColorG": 252,
+      "DownColorB": 254
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "ColorName": "Color_63",
+      "IsTwoTone": false,
+      "UpColorR": 186,
+      "UpColorG": 255,
+      "UpColorB": 232,
+      "DownColorR": 186,
+      "DownColorG": 255,
+      "DownColorB": 232
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "ColorName": "Color_64",
+      "IsTwoTone": false,
+      "UpColorR": 134,
+      "UpColorG": 226,
+      "UpColorB": 223,
+      "DownColorR": 134,
+      "DownColorG": 226,
+      "DownColorB": 223
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "ColorName": "Color_65",
+      "IsTwoTone": false,
+      "UpColorR": 171,
+      "UpColorG": 225,
+      "UpColorB": 199,
+      "DownColorR": 171,
+      "DownColorG": 225,
+      "DownColorB": 199
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "ColorName": "Color_66",
+      "IsTwoTone": false,
+      "UpColorR": 29,
+      "UpColorG": 255,
+      "UpColorB": 212,
+      "DownColorR": 29,
+      "DownColorG": 255,
+      "DownColorB": 212
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "ColorName": "Color_67",
+      "IsTwoTone": false,
+      "UpColorR": 61,
+      "UpColorG": 235,
+      "UpColorB": 181,
+      "DownColorR": 61,
+      "DownColorG": 235,
+      "DownColorB": 181
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "ColorName": "Color_68",
+      "IsTwoTone": false,
+      "UpColorR": 24,
+      "UpColorG": 218,
+      "UpColorB": 153,
+      "DownColorR": 24,
+      "DownColorG": 218,
+      "DownColorB": 153
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 69,
+      "ColorName": "Color_69",
+      "IsTwoTone": false,
+      "UpColorR": 107,
+      "UpColorG": 209,
+      "UpColorB": 156,
+      "DownColorR": 107,
+      "DownColorG": 209,
+      "DownColorB": 156
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "ColorName": "Color_70",
+      "IsTwoTone": false,
+      "UpColorR": 54,
+      "UpColorG": 188,
+      "UpColorB": 155,
+      "DownColorR": 54,
+      "DownColorG": 188,
+      "DownColorB": 155
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "ColorName": "Color_71",
+      "IsTwoTone": false,
+      "UpColorR": 51,
+      "UpColorG": 157,
+      "UpColorB": 139,
+      "DownColorR": 51,
+      "DownColorG": 157,
+      "DownColorB": 139
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "ColorName": "Color_72",
+      "IsTwoTone": false,
+      "UpColorR": 47,
+      "UpColorG": 125,
+      "UpColorB": 116,
+      "DownColorR": 47,
+      "DownColorG": 125,
+      "DownColorB": 116
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "ColorName": "Color_73",
+      "IsTwoTone": false,
+      "UpColorR": 26,
+      "UpColorG": 90,
+      "UpColorB": 92,
+      "DownColorR": 26,
+      "DownColorG": 90,
+      "DownColorB": 92
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "ColorName": "Color_74",
+      "IsTwoTone": false,
+      "UpColorR": 252,
+      "UpColorG": 229,
+      "UpColorB": 255,
+      "DownColorR": 252,
+      "DownColorG": 229,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "ColorName": "Color_75",
+      "IsTwoTone": false,
+      "UpColorR": 240,
+      "UpColorG": 193,
+      "UpColorB": 255,
+      "DownColorR": 240,
+      "DownColorG": 193,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "ColorName": "Color_76",
+      "IsTwoTone": false,
+      "UpColorR": 240,
+      "UpColorG": 145,
+      "UpColorB": 247,
+      "DownColorR": 240,
+      "DownColorG": 145,
+      "DownColorB": 247
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "ColorName": "Color_77",
+      "IsTwoTone": false,
+      "UpColorR": 217,
+      "UpColorG": 166,
+      "UpColorB": 248,
+      "DownColorR": 217,
+      "DownColorG": 166,
+      "DownColorB": 248
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "ColorName": "Color_78",
+      "IsTwoTone": false,
+      "UpColorR": 190,
+      "UpColorG": 128,
+      "UpColorB": 252,
+      "DownColorR": 190,
+      "DownColorG": 128,
+      "DownColorB": 252
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "ColorName": "Color_79",
+      "IsTwoTone": false,
+      "UpColorR": 187,
+      "UpColorG": 120,
+      "UpColorB": 192,
+      "DownColorR": 187,
+      "DownColorG": 120,
+      "DownColorB": 192
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "ColorName": "Color_80",
+      "IsTwoTone": false,
+      "UpColorR": 204,
+      "UpColorG": 92,
+      "UpColorB": 254,
+      "DownColorR": 204,
+      "DownColorG": 92,
+      "DownColorB": 254
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "ColorName": "Color_81",
+      "IsTwoTone": false,
+      "UpColorR": 145,
+      "UpColorG": 91,
+      "UpColorB": 211,
+      "DownColorR": 145,
+      "DownColorG": 91,
+      "DownColorB": 211
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "ColorName": "Color_82",
+      "IsTwoTone": false,
+      "UpColorR": 153,
+      "UpColorG": 0,
+      "UpColorB": 204,
+      "DownColorR": 153,
+      "DownColorG": 0,
+      "DownColorB": 204
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "ColorName": "Color_83",
+      "IsTwoTone": false,
+      "UpColorR": 148,
+      "UpColorG": 23,
+      "UpColorB": 161,
+      "DownColorR": 148,
+      "DownColorG": 23,
+      "DownColorB": 161
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "ColorName": "Color_84",
+      "IsTwoTone": false,
+      "UpColorR": 83,
+      "UpColorG": 26,
+      "UpColorB": 132,
+      "DownColorR": 83,
+      "DownColorG": 26,
+      "DownColorB": 132
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "ColorName": "Color_85",
+      "IsTwoTone": false,
+      "UpColorR": 76,
+      "UpColorG": 0,
+      "UpColorB": 100,
+      "DownColorR": 76,
+      "DownColorG": 0,
+      "DownColorB": 100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "ColorName": "Color_86",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 239,
+      "UpColorB": 250,
+      "DownColorR": 255,
+      "DownColorG": 239,
+      "DownColorB": 250
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 87,
+      "ColorName": "Color_87",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 221,
+      "UpColorB": 249,
+      "DownColorR": 255,
+      "DownColorG": 221,
+      "DownColorB": 249
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 88,
+      "ColorName": "Color_88",
+      "IsTwoTone": false,
+      "UpColorR": 253,
+      "UpColorG": 195,
+      "UpColorB": 232,
+      "DownColorR": 253,
+      "DownColorG": 195,
+      "DownColorB": 232
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 89,
+      "ColorName": "Color_89",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 158,
+      "UpColorB": 240,
+      "DownColorR": 255,
+      "DownColorG": 158,
+      "DownColorB": 240
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 90,
+      "ColorName": "Color_90",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 93,
+      "UpColorB": 208,
+      "DownColorR": 255,
+      "DownColorG": 93,
+      "DownColorB": 208
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 91,
+      "ColorName": "Color_91",
+      "IsTwoTone": false,
+      "UpColorR": 214,
+      "UpColorG": 27,
+      "UpColorB": 192,
+      "DownColorR": 214,
+      "DownColorG": 27,
+      "DownColorB": 192
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 92,
+      "ColorName": "Color_92",
+      "IsTwoTone": false,
+      "UpColorR": 235,
+      "UpColorG": 129,
+      "UpColorB": 187,
+      "DownColorR": 235,
+      "DownColorG": 129,
+      "DownColorB": 187
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 93,
+      "ColorName": "Color_93",
+      "IsTwoTone": false,
+      "UpColorR": 195,
+      "UpColorG": 93,
+      "UpColorB": 137,
+      "DownColorR": 195,
+      "DownColorG": 93,
+      "DownColorB": 137
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 94,
+      "ColorName": "Color_94",
+      "IsTwoTone": false,
+      "UpColorR": 248,
+      "UpColorG": 64,
+      "UpColorB": 147,
+      "DownColorR": 248,
+      "DownColorG": 64,
+      "DownColorB": 147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 95,
+      "ColorName": "Color_95",
+      "IsTwoTone": false,
+      "UpColorR": 210,
+      "UpColorG": 0,
+      "UpColorB": 135,
+      "DownColorR": 210,
+      "DownColorG": 0,
+      "DownColorB": 135
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 96,
+      "ColorName": "Color_96",
+      "IsTwoTone": false,
+      "UpColorR": 142,
+      "UpColorG": 0,
+      "UpColorB": 84,
+      "DownColorR": 142,
+      "DownColorG": 0,
+      "DownColorB": 84
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 97,
+      "ColorName": "Color_97",
+      "IsTwoTone": false,
+      "UpColorR": 90,
+      "UpColorG": 6,
+      "UpColorB": 60,
+      "DownColorR": 90,
+      "DownColorG": 6,
+      "DownColorB": 60
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 98,
+      "ColorName": "Color_98",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 255,
+      "UpColorB": 255,
+      "DownColorR": 255,
+      "DownColorG": 255,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 99,
+      "ColorName": "Color_99",
+      "IsTwoTone": false,
+      "UpColorR": 242,
+      "UpColorG": 242,
+      "UpColorB": 244,
+      "DownColorR": 242,
+      "DownColorG": 242,
+      "DownColorB": 244
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "ColorName": "Color_100",
+      "IsTwoTone": false,
+      "UpColorR": 226,
+      "UpColorG": 226,
+      "UpColorB": 230,
+      "DownColorR": 226,
+      "DownColorG": 226,
+      "DownColorB": 230
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "ColorName": "Color_101",
+      "IsTwoTone": false,
+      "UpColorR": 211,
+      "UpColorG": 211,
+      "UpColorB": 219,
+      "DownColorR": 211,
+      "DownColorG": 211,
+      "DownColorB": 219
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "ColorName": "Color_102",
+      "IsTwoTone": false,
+      "UpColorR": 194,
+      "UpColorG": 195,
+      "UpColorB": 208,
+      "DownColorR": 194,
+      "DownColorG": 195,
+      "DownColorB": 208
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "ColorName": "Color_103",
+      "IsTwoTone": false,
+      "UpColorR": 164,
+      "UpColorG": 164,
+      "UpColorB": 182,
+      "DownColorR": 164,
+      "DownColorG": 164,
+      "DownColorB": 182
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "ColorName": "Color_104",
+      "IsTwoTone": false,
+      "UpColorR": 118,
+      "UpColorG": 118,
+      "UpColorB": 146,
+      "DownColorR": 118,
+      "DownColorG": 118,
+      "DownColorB": 146
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "ColorName": "Color_105",
+      "IsTwoTone": false,
+      "UpColorR": 80,
+      "UpColorG": 80,
+      "UpColorB": 100,
+      "DownColorR": 80,
+      "DownColorG": 80,
+      "DownColorB": 100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "ColorName": "Color_106",
+      "IsTwoTone": false,
+      "UpColorR": 45,
+      "UpColorG": 45,
+      "UpColorB": 59,
+      "DownColorR": 45,
+      "DownColorG": 45,
+      "DownColorB": 59
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "ColorName": "Color_107",
+      "IsTwoTone": false,
+      "UpColorR": 18,
+      "UpColorG": 18,
+      "UpColorB": 24,
+      "DownColorR": 18,
+      "DownColorG": 18,
+      "DownColorB": 24
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 108,
+      "ColorName": "Color_108",
+      "IsTwoTone": false,
+      "UpColorR": 246,
+      "UpColorG": 244,
+      "UpColorB": 244,
+      "DownColorR": 246,
+      "DownColorG": 244,
+      "DownColorB": 244
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 109,
+      "ColorName": "Color_109",
+      "IsTwoTone": false,
+      "UpColorR": 228,
+      "UpColorG": 225,
+      "UpColorB": 224,
+      "DownColorR": 228,
+      "DownColorG": 225,
+      "DownColorB": 224
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 110,
+      "ColorName": "Color_110",
+      "IsTwoTone": false,
+      "UpColorR": 216,
+      "UpColorG": 214,
+      "UpColorB": 214,
+      "DownColorR": 216,
+      "DownColorG": 214,
+      "DownColorB": 214
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 111,
+      "ColorName": "Color_111",
+      "IsTwoTone": false,
+      "UpColorR": 204,
+      "UpColorG": 200,
+      "UpColorB": 198,
+      "DownColorR": 204,
+      "DownColorG": 200,
+      "DownColorB": 198
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 112,
+      "ColorName": "Color_112",
+      "IsTwoTone": false,
+      "UpColorR": 186,
+      "UpColorG": 177,
+      "UpColorB": 174,
+      "DownColorR": 186,
+      "DownColorG": 177,
+      "DownColorB": 174
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 113,
+      "ColorName": "Color_113",
+      "IsTwoTone": false,
+      "UpColorR": 175,
+      "UpColorG": 172,
+      "UpColorB": 171,
+      "DownColorR": 175,
+      "DownColorG": 172,
+      "DownColorB": 171
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 114,
+      "ColorName": "Color_114",
+      "IsTwoTone": false,
+      "UpColorR": 137,
+      "UpColorG": 129,
+      "UpColorB": 127,
+      "DownColorR": 137,
+      "DownColorG": 129,
+      "DownColorB": 127
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "ColorName": "Color_115",
+      "IsTwoTone": false,
+      "UpColorR": 94,
+      "UpColorG": 87,
+      "UpColorB": 86,
+      "DownColorR": 94,
+      "DownColorG": 87,
+      "DownColorB": 86
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "ColorName": "Color_116",
+      "IsTwoTone": false,
+      "UpColorR": 56,
+      "UpColorG": 49,
+      "UpColorB": 48,
+      "DownColorR": 56,
+      "DownColorG": 49,
+      "DownColorB": 48
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "ColorName": "Color_117",
+      "IsTwoTone": false,
+      "UpColorR": 26,
+      "UpColorG": 16,
+      "UpColorB": 16,
+      "DownColorR": 26,
+      "DownColorG": 16,
+      "DownColorB": 16
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "ColorName": "Color_118",
+      "IsTwoTone": true,
+      "UpColorR": 255,
+      "UpColorG": 179,
+      "UpColorB": 71,
+      "DownColorR": 255,
+      "DownColorG": 150,
+      "DownColorB": 113
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "ColorName": "Color_119",
+      "IsTwoTone": true,
+      "UpColorR": 234,
+      "UpColorG": 231,
+      "UpColorB": 216,
+      "DownColorR": 250,
+      "DownColorG": 219,
+      "DownColorB": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "ColorName": "Color_120",
+      "IsTwoTone": true,
+      "UpColorR": 212,
+      "UpColorG": 242,
+      "UpColorB": 136,
+      "DownColorR": 167,
+      "DownColorG": 247,
+      "DownColorB": 155
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "ColorName": "Color_121",
+      "IsTwoTone": true,
+      "UpColorR": 108,
+      "UpColorG": 181,
+      "UpColorB": 241,
+      "DownColorR": 208,
+      "DownColorG": 162,
+      "DownColorB": 212
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "ColorName": "Color_122",
+      "IsTwoTone": true,
+      "UpColorR": 161,
+      "UpColorG": 242,
+      "UpColorB": 234,
+      "DownColorR": 149,
+      "DownColorG": 247,
+      "DownColorB": 171
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "ColorName": "Color_123",
+      "IsTwoTone": true,
+      "UpColorR": 165,
+      "UpColorG": 121,
+      "UpColorB": 232,
+      "DownColorR": 222,
+      "DownColorG": 131,
+      "DownColorB": 216
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "ColorName": "Color_124",
+      "IsTwoTone": true,
+      "UpColorR": 255,
+      "UpColorG": 179,
+      "UpColorB": 221,
+      "DownColorR": 255,
+      "DownColorG": 202,
+      "DownColorB": 181
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "ColorName": "Color_125",
+      "IsTwoTone": true,
+      "UpColorR": 253,
+      "UpColorG": 223,
+      "UpColorB": 232,
+      "DownColorR": 231,
+      "DownColorG": 162,
+      "DownColorB": 82
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "ColorName": "Color_126",
+      "IsTwoTone": true,
+      "UpColorR": 254,
+      "UpColorG": 248,
+      "UpColorB": 236,
+      "DownColorR": 235,
+      "DownColorG": 102,
+      "DownColorB": 139
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "ColorName": "Color_127",
+      "IsTwoTone": true,
+      "UpColorR": 233,
+      "UpColorG": 226,
+      "UpColorB": 226,
+      "DownColorR": 243,
+      "DownColorG": 155,
+      "DownColorB": 179
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "ColorName": "Color_128",
+      "IsTwoTone": true,
+      "UpColorR": 98,
+      "UpColorG": 178,
+      "UpColorB": 195,
+      "DownColorR": 255,
+      "DownColorG": 218,
+      "DownColorB": 218
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "ColorName": "Color_129",
+      "IsTwoTone": true,
+      "UpColorR": 124,
+      "UpColorG": 168,
+      "UpColorB": 255,
+      "DownColorR": 245,
+      "DownColorG": 255,
+      "DownColorB": 183
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "ColorName": "Color_130",
+      "IsTwoTone": true,
+      "UpColorR": 253,
+      "UpColorG": 255,
+      "UpColorB": 219,
+      "DownColorR": 255,
+      "DownColorG": 204,
+      "DownColorB": 217
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "ColorName": "Color_131",
+      "IsTwoTone": true,
+      "UpColorR": 255,
+      "UpColorG": 251,
+      "UpColorB": 225,
+      "DownColorR": 106,
+      "DownColorG": 53,
+      "DownColorB": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "ColorName": "Color_132",
+      "IsTwoTone": false,
+      "UpColorR": 253,
+      "UpColorG": 234,
+      "UpColorB": 210,
+      "DownColorR": 253,
+      "DownColorG": 234,
+      "DownColorB": 210
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 133,
+      "ColorName": "Color_133",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 254,
+      "UpColorB": 237,
+      "DownColorR": 255,
+      "DownColorG": 254,
+      "DownColorB": 237
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 134,
+      "ColorName": "Color_134",
+      "IsTwoTone": false,
+      "UpColorR": 57,
+      "UpColorG": 143,
+      "UpColorB": 183,
+      "DownColorR": 57,
+      "DownColorG": 143,
+      "DownColorB": 183
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 137,
+      "ColorName": "Color_137",
+      "IsTwoTone": true,
+      "UpColorR": 255,
+      "UpColorG": 205,
+      "UpColorB": 140,
+      "DownColorR": 255,
+      "DownColorG": 230,
+      "DownColorB": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 138,
+      "ColorName": "Color_138",
+      "IsTwoTone": false,
+      "UpColorR": 95,
+      "UpColorG": 49,
+      "UpColorB": 15,
+      "DownColorR": 184,
+      "DownColorG": 125,
+      "DownColorB": 61
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 139,
+      "ColorName": "Color_139",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 213,
+      "UpColorB": 197,
+      "DownColorR": 255,
+      "DownColorG": 213,
+      "DownColorB": 197
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 140,
+      "ColorName": "Color_140",
+      "IsTwoTone": false,
+      "UpColorR": 252,
+      "UpColorG": 194,
+      "UpColorB": 169,
+      "DownColorR": 252,
+      "DownColorG": 194,
+      "DownColorB": 169
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "ColorName": "Color_141",
+      "IsTwoTone": false,
+      "UpColorR": 159,
+      "UpColorG": 99,
+      "UpColorB": 86,
+      "DownColorR": 159,
+      "DownColorG": 99,
+      "DownColorB": 86
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "ColorName": "Color_142",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 226,
+      "UpColorB": 221,
+      "DownColorR": 255,
+      "DownColorG": 226,
+      "DownColorB": 221
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 143,
+      "ColorName": "Color_143",
+      "IsTwoTone": false,
+      "UpColorR": 224,
+      "UpColorG": 162,
+      "UpColorB": 156,
+      "DownColorR": 224,
+      "DownColorG": 162,
+      "DownColorB": 156
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 144,
+      "ColorName": "Color_144",
+      "IsTwoTone": false,
+      "UpColorR": 102,
+      "UpColorG": 70,
+      "UpColorB": 67,
+      "DownColorR": 102,
+      "DownColorG": 70,
+      "DownColorB": 67
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 145,
+      "ColorName": "Color_145",
+      "IsTwoTone": false,
+      "UpColorR": 159,
+      "UpColorG": 156,
+      "UpColorB": 166,
+      "DownColorR": 159,
+      "DownColorG": 156,
+      "DownColorB": 166
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 146,
+      "ColorName": "Color_146",
+      "IsTwoTone": false,
+      "UpColorR": 175,
+      "UpColorG": 146,
+      "UpColorB": 154,
+      "DownColorR": 175,
+      "DownColorG": 146,
+      "DownColorB": 154
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "ColorName": "Color_147",
+      "IsTwoTone": false,
+      "UpColorR": 246,
+      "UpColorG": 246,
+      "UpColorB": 246,
+      "DownColorR": 246,
+      "DownColorG": 246,
+      "DownColorB": 246
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "ColorName": "Color_148",
+      "IsTwoTone": false,
+      "UpColorR": 79,
+      "UpColorG": 79,
+      "UpColorB": 79,
+      "DownColorR": 79,
+      "DownColorG": 79,
+      "DownColorB": 79
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "ColorName": "Color_149",
+      "IsTwoTone": false,
+      "UpColorR": 89,
+      "UpColorG": 89,
+      "UpColorB": 89,
+      "DownColorR": 89,
+      "DownColorG": 89,
+      "DownColorB": 89
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "ColorName": "Color_150",
+      "IsTwoTone": false,
+      "UpColorR": 128,
+      "UpColorG": 87,
+      "UpColorB": 78,
+      "DownColorR": 128,
+      "DownColorG": 87,
+      "DownColorB": 78
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "ColorName": "Color_151",
+      "IsTwoTone": false,
+      "UpColorR": 187,
+      "UpColorG": 119,
+      "UpColorB": 97,
+      "DownColorR": 187,
+      "DownColorG": 119,
+      "DownColorB": 97
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "ColorName": "Color_152",
+      "IsTwoTone": false,
+      "UpColorR": 131,
+      "UpColorG": 184,
+      "UpColorB": 222,
+      "DownColorR": 131,
+      "DownColorG": 184,
+      "DownColorB": 222
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "ColorName": "Color_153",
+      "IsTwoTone": false,
+      "UpColorR": 176,
+      "UpColorG": 222,
+      "UpColorB": 131,
+      "DownColorR": 176,
+      "DownColorG": 222,
+      "DownColorB": 131
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "ColorName": "Color_154",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 98,
+      "UpColorB": 102,
+      "DownColorR": 255,
+      "DownColorG": 98,
+      "DownColorB": 102
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "ColorName": "Color_155",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 205,
+      "UpColorB": 156,
+      "DownColorR": 255,
+      "DownColorG": 205,
+      "DownColorB": 156
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "ColorName": "Color_156",
+      "IsTwoTone": false,
+      "UpColorR": 77,
+      "UpColorG": 74,
+      "UpColorB": 94,
+      "DownColorR": 77,
+      "DownColorG": 74,
+      "DownColorB": 94
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "ColorName": "Color_157",
+      "IsTwoTone": false,
+      "UpColorR": 191,
+      "UpColorG": 127,
+      "UpColorB": 100,
+      "DownColorR": 191,
+      "DownColorG": 127,
+      "DownColorB": 100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "ColorName": "Color_158",
+      "IsTwoTone": false,
+      "UpColorR": 110,
+      "UpColorG": 91,
+      "UpColorB": 83,
+      "DownColorR": 110,
+      "DownColorG": 91,
+      "DownColorB": 83
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "ColorName": "Color_159",
+      "IsTwoTone": false,
+      "UpColorR": 214,
+      "UpColorG": 45,
+      "UpColorB": 50,
+      "DownColorR": 214,
+      "DownColorG": 45,
+      "DownColorB": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "ColorName": "Color_160",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 190,
+      "UpColorB": 97,
+      "DownColorR": 255,
+      "DownColorG": 190,
+      "DownColorB": 97
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 161,
+      "ColorName": "Color_161",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 246,
+      "UpColorB": 221,
+      "DownColorR": 255,
+      "DownColorG": 246,
+      "DownColorB": 221
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 162,
+      "ColorName": "Color_162",
+      "IsTwoTone": false,
+      "UpColorR": 84,
+      "UpColorG": 105,
+      "UpColorB": 160,
+      "DownColorR": 84,
+      "DownColorG": 105,
+      "DownColorB": 160
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 163,
+      "ColorName": "Color_163",
+      "IsTwoTone": false,
+      "UpColorR": 185,
+      "UpColorG": 125,
+      "UpColorB": 107,
+      "DownColorR": 185,
+      "DownColorG": 125,
+      "DownColorB": 107
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 164,
+      "ColorName": "Color_164",
+      "IsTwoTone": false,
+      "UpColorR": 253,
+      "UpColorG": 222,
+      "UpColorB": 221,
+      "DownColorR": 253,
+      "DownColorG": 222,
+      "DownColorB": 221
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 165,
+      "ColorName": "Color_165",
+      "IsTwoTone": false,
+      "UpColorR": 162,
+      "UpColorG": 203,
+      "UpColorB": 221,
+      "DownColorR": 162,
+      "DownColorG": 203,
+      "DownColorB": 221
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 166,
+      "ColorName": "Color_166",
+      "IsTwoTone": false,
+      "UpColorR": 106,
+      "UpColorG": 128,
+      "UpColorB": 133,
+      "DownColorR": 106,
+      "DownColorG": 128,
+      "DownColorB": 133
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "ColorName": "Color_167",
+      "IsTwoTone": false,
+      "UpColorR": 129,
+      "UpColorG": 132,
+      "UpColorB": 172,
+      "DownColorR": 129,
+      "DownColorG": 132,
+      "DownColorB": 172
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "ColorName": "Color_168",
+      "IsTwoTone": false,
+      "UpColorR": 63,
+      "UpColorG": 78,
+      "UpColorB": 118,
+      "DownColorR": 63,
+      "DownColorG": 78,
+      "DownColorB": 118
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "ColorName": "Color_169",
+      "IsTwoTone": false,
+      "UpColorR": 238,
+      "UpColorG": 239,
+      "UpColorB": 253,
+      "DownColorR": 238,
+      "DownColorG": 239,
+      "DownColorB": 253
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "ColorName": "Color_170",
+      "IsTwoTone": false,
+      "UpColorR": 209,
+      "UpColorG": 220,
+      "UpColorB": 255,
+      "DownColorR": 209,
+      "DownColorG": 220,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "ColorName": "Color_171",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 250,
+      "UpColorB": 251,
+      "DownColorR": 255,
+      "DownColorG": 250,
+      "DownColorB": 251
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "ColorName": "Color_172",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 243,
+      "UpColorB": 211,
+      "DownColorR": 255,
+      "DownColorG": 243,
+      "DownColorB": 211
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "ColorName": "Color_173",
+      "IsTwoTone": false,
+      "UpColorR": 237,
+      "UpColorG": 166,
+      "UpColorB": 170,
+      "DownColorR": 237,
+      "DownColorG": 166,
+      "DownColorB": 170
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "ColorName": "Color_174",
+      "IsTwoTone": false,
+      "UpColorR": 237,
+      "UpColorG": 218,
+      "UpColorB": 186,
+      "DownColorR": 237,
+      "DownColorG": 218,
+      "DownColorB": 186
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "ColorName": "Color_175",
+      "IsTwoTone": false,
+      "UpColorR": 247,
+      "UpColorG": 219,
+      "UpColorB": 167,
+      "DownColorR": 247,
+      "DownColorG": 219,
+      "DownColorB": 167
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "ColorName": "Color_176",
+      "IsTwoTone": false,
+      "UpColorR": 115,
+      "UpColorG": 185,
+      "UpColorB": 194,
+      "DownColorR": 115,
+      "DownColorG": 185,
+      "DownColorB": 194
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 177,
+      "ColorName": "Color_177",
+      "IsTwoTone": false,
+      "UpColorR": 87,
+      "UpColorG": 73,
+      "UpColorB": 55,
+      "DownColorR": 87,
+      "DownColorG": 73,
+      "DownColorB": 55
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 178,
+      "ColorName": "Color_178",
+      "IsTwoTone": false,
+      "UpColorR": 201,
+      "UpColorG": 160,
+      "UpColorB": 104,
+      "DownColorR": 201,
+      "DownColorG": 160,
+      "DownColorB": 104
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 179,
+      "ColorName": "Color_179",
+      "IsTwoTone": false,
+      "UpColorR": 118,
+      "UpColorG": 57,
+      "UpColorB": 34,
+      "DownColorR": 118,
+      "DownColorG": 57,
+      "DownColorB": 34
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 180,
+      "ColorName": "Color_180",
+      "IsTwoTone": false,
+      "UpColorR": 238,
+      "UpColorG": 226,
+      "UpColorB": 198,
+      "DownColorR": 238,
+      "DownColorG": 226,
+      "DownColorB": 198
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1001,
+      "ColorName": "Color_1001",
+      "IsTwoTone": false,
+      "UpColorR": 236,
+      "UpColorG": 57,
+      "UpColorB": 45,
+      "DownColorR": 236,
+      "DownColorG": 57,
+      "DownColorB": 45
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1002,
+      "ColorName": "Color_1002",
+      "IsTwoTone": false,
+      "UpColorR": 65,
+      "UpColorG": 96,
+      "UpColorB": 223,
+      "DownColorR": 65,
+      "DownColorG": 96,
+      "DownColorB": 223
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1003,
+      "ColorName": "Color_1003",
+      "IsTwoTone": false,
+      "UpColorR": 240,
+      "UpColorG": 240,
+      "UpColorB": 241,
+      "DownColorR": 240,
+      "DownColorG": 240,
+      "DownColorB": 241
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1004,
+      "ColorName": "Color_1004",
+      "IsTwoTone": false,
+      "UpColorR": 94,
+      "UpColorG": 214,
+      "UpColorB": 249,
+      "DownColorR": 94,
+      "DownColorG": 214,
+      "DownColorB": 249
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1005,
+      "ColorName": "Color_1005",
+      "IsTwoTone": false,
+      "UpColorR": 245,
+      "UpColorG": 201,
+      "UpColorB": 216,
+      "DownColorR": 245,
+      "DownColorG": 201,
+      "DownColorB": 216
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1006,
+      "ColorName": "Color_1006",
+      "IsTwoTone": false,
+      "UpColorR": 254,
+      "UpColorG": 249,
+      "UpColorB": 207,
+      "DownColorR": 254,
+      "DownColorG": 249,
+      "DownColorB": 207
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1007,
+      "ColorName": "Color_1007",
+      "IsTwoTone": false,
+      "UpColorR": 233,
+      "UpColorG": 236,
+      "UpColorB": 241,
+      "DownColorR": 233,
+      "DownColorG": 236,
+      "DownColorB": 241
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1008,
+      "ColorName": "Color_1008",
+      "IsTwoTone": false,
+      "UpColorR": 249,
+      "UpColorG": 220,
+      "UpColorB": 92,
+      "DownColorR": 249,
+      "DownColorG": 220,
+      "DownColorB": 92
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1009,
+      "ColorName": "Color_1009",
+      "IsTwoTone": false,
+      "UpColorR": 161,
+      "UpColorG": 85,
+      "UpColorB": 49,
+      "DownColorR": 161,
+      "DownColorG": 85,
+      "DownColorB": 49
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1010,
+      "ColorName": "Color_1010",
+      "IsTwoTone": false,
+      "UpColorR": 208,
+      "UpColorG": 168,
+      "UpColorB": 218,
+      "DownColorR": 208,
+      "DownColorG": 168,
+      "DownColorB": 218
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1011,
+      "ColorName": "Color_1011",
+      "IsTwoTone": false,
+      "UpColorR": 77,
+      "UpColorG": 75,
+      "UpColorB": 76,
+      "DownColorR": 77,
+      "DownColorG": 75,
+      "DownColorB": 76
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1012,
+      "ColorName": "Color_1012",
+      "IsTwoTone": false,
+      "UpColorR": 242,
+      "UpColorG": 134,
+      "UpColorB": 168,
+      "DownColorR": 242,
+      "DownColorG": 134,
+      "DownColorB": 168
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1013,
+      "ColorName": "Color_1013",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 254,
+      "UpColorB": 236,
+      "DownColorR": 255,
+      "DownColorG": 254,
+      "DownColorB": 236
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1014,
+      "ColorName": "Color_1014",
+      "IsTwoTone": false,
+      "UpColorR": 216,
+      "UpColorG": 240,
+      "UpColorB": 252,
+      "DownColorR": 216,
+      "DownColorG": 240,
+      "DownColorB": 252
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1015,
+      "ColorName": "Color_1015",
+      "IsTwoTone": false,
+      "UpColorR": 153,
+      "UpColorG": 227,
+      "UpColorB": 228,
+      "DownColorR": 153,
+      "DownColorG": 227,
+      "DownColorB": 228
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1016,
+      "ColorName": "Color_1016",
+      "IsTwoTone": false,
+      "UpColorR": 247,
+      "UpColorG": 247,
+      "UpColorB": 247,
+      "DownColorR": 247,
+      "DownColorG": 247,
+      "DownColorB": 247
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1017,
+      "ColorName": "Color_1017",
+      "IsTwoTone": false,
+      "UpColorR": 63,
+      "UpColorG": 63,
+      "UpColorB": 63,
+      "DownColorR": 63,
+      "DownColorG": 63,
+      "DownColorB": 63
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 184,
+      "ColorName": "Color_184",
+      "IsTwoTone": false,
+      "UpColorR": 218,
+      "UpColorG": 201,
+      "UpColorB": 186,
+      "DownColorR": 218,
+      "DownColorG": 201,
+      "DownColorB": 186
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 185,
+      "ColorName": "Color_185",
+      "IsTwoTone": false,
+      "UpColorR": 250,
+      "UpColorG": 160,
+      "UpColorB": 122,
+      "DownColorR": 250,
+      "DownColorG": 160,
+      "DownColorB": 122
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 186,
+      "ColorName": "Color_186",
+      "IsTwoTone": false,
+      "UpColorR": 164,
+      "UpColorG": 152,
+      "UpColorB": 110,
+      "DownColorR": 164,
+      "DownColorG": 152,
+      "DownColorB": 110
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 187,
+      "ColorName": "Color_187",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 235,
+      "UpColorB": 194,
+      "DownColorR": 255,
+      "DownColorG": 235,
+      "DownColorB": 194
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 188,
+      "ColorName": "Color_188",
+      "IsTwoTone": false,
+      "UpColorR": 75,
+      "UpColorG": 93,
+      "UpColorB": 107,
+      "DownColorR": 75,
+      "DownColorG": 93,
+      "DownColorB": 107
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 189,
+      "ColorName": "Color_189",
+      "IsTwoTone": false,
+      "UpColorR": 226,
+      "UpColorG": 133,
+      "UpColorB": 76,
+      "DownColorR": 226,
+      "DownColorG": 133,
+      "DownColorB": 76
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 190,
+      "ColorName": "Color_190",
+      "IsTwoTone": false,
+      "UpColorR": 161,
+      "UpColorG": 161,
+      "UpColorB": 157,
+      "DownColorR": 161,
+      "DownColorG": 161,
+      "DownColorB": 157
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 191,
+      "ColorName": "Color_191",
+      "IsTwoTone": false,
+      "UpColorR": 48,
+      "UpColorG": 75,
+      "UpColorB": 105,
+      "DownColorR": 48,
+      "DownColorG": 75,
+      "DownColorB": 105
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 192,
+      "ColorName": "Color_192",
+      "IsTwoTone": false,
+      "UpColorR": 122,
+      "UpColorG": 147,
+      "UpColorB": 93,
+      "DownColorR": 122,
+      "DownColorG": 147,
+      "DownColorB": 93
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 193,
+      "ColorName": "Color_193",
+      "IsTwoTone": false,
+      "UpColorR": 250,
+      "UpColorG": 184,
+      "UpColorB": 203,
+      "DownColorR": 250,
+      "DownColorG": 184,
+      "DownColorB": 203
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 194,
+      "ColorName": "Color_194",
+      "IsTwoTone": false,
+      "UpColorR": 183,
+      "UpColorG": 241,
+      "UpColorB": 210,
+      "DownColorR": 183,
+      "DownColorG": 241,
+      "DownColorB": 210
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 195,
+      "ColorName": "Color_195",
+      "IsTwoTone": false,
+      "UpColorR": 226,
+      "UpColorG": 169,
+      "UpColorB": 148,
+      "DownColorR": 226,
+      "DownColorG": 169,
+      "DownColorB": 148
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 196,
+      "ColorName": "Color_196",
+      "IsTwoTone": false,
+      "UpColorR": 140,
+      "UpColorG": 95,
+      "UpColorB": 98,
+      "DownColorR": 140,
+      "DownColorG": 95,
+      "DownColorB": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 181,
+      "ColorName": "Color_181",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 250,
+      "UpColorB": 178,
+      "DownColorR": 255,
+      "DownColorG": 250,
+      "DownColorB": 178
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 182,
+      "ColorName": "Color_182",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 199,
+      "UpColorB": 176,
+      "DownColorR": 255,
+      "DownColorG": 199,
+      "DownColorB": 176
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 183,
+      "ColorName": "Color_183",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 139,
+      "UpColorB": 130,
+      "DownColorR": 255,
+      "DownColorG": 139,
+      "DownColorB": 130
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1018,
+      "ColorName": "Color_1018",
+      "IsTwoTone": false,
+      "UpColorR": 131,
+      "UpColorG": 94,
+      "UpColorB": 152,
+      "DownColorR": 131,
+      "DownColorG": 94,
+      "DownColorB": 152
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 197,
+      "ColorName": "Color_197",
+      "IsTwoTone": false,
+      "UpColorR": 99,
+      "UpColorG": 83,
+      "UpColorB": 78,
+      "DownColorR": 99,
+      "DownColorG": 83,
+      "DownColorB": 78
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 198,
+      "ColorName": "Color_198",
+      "IsTwoTone": false,
+      "UpColorR": 192,
+      "UpColorG": 143,
+      "UpColorB": 148,
+      "DownColorR": 192,
+      "DownColorG": 143,
+      "DownColorB": 148
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 199,
+      "ColorName": "Color_199",
+      "IsTwoTone": false,
+      "UpColorR": 151,
+      "UpColorG": 123,
+      "UpColorB": 154,
+      "DownColorR": 151,
+      "DownColorG": 123,
+      "DownColorB": 154
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 200,
+      "ColorName": "Color_200",
+      "IsTwoTone": false,
+      "UpColorR": 181,
+      "UpColorG": 159,
+      "UpColorB": 195,
+      "DownColorR": 181,
+      "DownColorG": 159,
+      "DownColorB": 195
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "ColorName": "Color_201",
+      "IsTwoTone": false,
+      "UpColorR": 214,
+      "UpColorG": 177,
+      "UpColorB": 197,
+      "DownColorR": 214,
+      "DownColorG": 177,
+      "DownColorB": 197
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 202,
+      "ColorName": "Color_202",
+      "IsTwoTone": false,
+      "UpColorR": 75,
+      "UpColorG": 134,
+      "UpColorB": 172,
+      "DownColorR": 75,
+      "DownColorG": 134,
+      "DownColorB": 172
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "ColorName": "Color_203",
+      "IsTwoTone": false,
+      "UpColorR": 199,
+      "UpColorG": 213,
+      "UpColorB": 241,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 204,
+      "ColorName": "Color_204",
+      "IsTwoTone": true,
+      "UpColorR": 80,
+      "UpColorG": 80,
+      "UpColorB": 100,
+      "DownColorR": 114,
+      "DownColorG": 138,
+      "DownColorB": 255
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 205,
+      "ColorName": "Color_205",
+      "IsTwoTone": false,
+      "UpColorR": 141,
+      "UpColorG": 184,
+      "UpColorB": 190,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 206,
+      "ColorName": "Color_206",
+      "IsTwoTone": false,
+      "UpColorR": 245,
+      "UpColorG": 239,
+      "UpColorB": 166,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 207,
+      "ColorName": "Color_207",
+      "IsTwoTone": false,
+      "UpColorR": 118,
+      "UpColorG": 166,
+      "UpColorB": 180,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 208,
+      "ColorName": "Color_208",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 218,
+      "UpColorB": 218,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 209,
+      "ColorName": "Color_209",
+      "IsTwoTone": false,
+      "UpColorR": 226,
+      "UpColorG": 186,
+      "UpColorB": 185,
+      "DownColorR": 226,
+      "DownColorG": 186,
+      "DownColorB": 185
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 210,
+      "ColorName": "Color_210",
+      "IsTwoTone": false,
+      "UpColorR": 233,
+      "UpColorG": 225,
+      "UpColorB": 210,
+      "DownColorR": 233,
+      "DownColorG": 225,
+      "DownColorB": 210
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 211,
+      "ColorName": "Color_211",
+      "IsTwoTone": false,
+      "UpColorR": 215,
+      "UpColorG": 250,
+      "UpColorB": 242,
+      "DownColorR": 215,
+      "DownColorG": 250,
+      "DownColorB": 242
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 212,
+      "ColorName": "Color_212",
+      "IsTwoTone": false,
+      "UpColorR": 155,
+      "UpColorG": 156,
+      "UpColorB": 176,
+      "DownColorR": 155,
+      "DownColorG": 156,
+      "DownColorB": 176
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 213,
+      "ColorName": "Color_213",
+      "IsTwoTone": false,
+      "UpColorR": 118,
+      "UpColorG": 122,
+      "UpColorB": 122,
+      "DownColorR": 155,
+      "DownColorG": 156,
+      "DownColorB": 176
+    }
+  ],
+  "ColorGroup": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ColorID": 1,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "ColorID": 4,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "ColorID": 5,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "ColorID": 7,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "ColorID": 8,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "ColorID": 10,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "ColorID": 11,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "ColorID": 13,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "ColorID": 14,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "ColorID": 15,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "ColorID": 17,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "ColorID": 18,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "ColorID": 19,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "ColorID": 21,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "ColorID": 23,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "ColorID": 25,
+      "ColorGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "ColorID": 26,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "ColorID": 27,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "ColorID": 29,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "ColorID": 30,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "ColorID": 31,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "ColorID": 32,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "ColorID": 35,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "ColorID": 36,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "ColorID": 38,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "ColorID": 39,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "ColorID": 40,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "ColorID": 43,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "ColorID": 45,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "ColorID": 46,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "ColorID": 48,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "ColorID": 49,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "ColorID": 50,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "ColorID": 51,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "ColorID": 52,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "ColorID": 53,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "ColorID": 54,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "ColorID": 57,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "ColorID": 60,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "ColorID": 61,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "ColorID": 63,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "ColorID": 64,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "ColorID": 66,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "ColorID": 67,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "ColorID": 68,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "ColorID": 70,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "ColorID": 72,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "ColorID": 73,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "ColorID": 74,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "ColorID": 75,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "ColorID": 76,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "ColorID": 78,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "ColorID": 80,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "ColorID": 81,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "ColorID": 82,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "ColorID": 84,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "ColorID": 86,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "ColorID": 87,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "ColorID": 89,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "ColorID": 90,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "ColorID": 91,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "ColorID": 94,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "ColorID": 96,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "ColorID": 97,
+      "ColorGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "ColorID": 98,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "ColorID": 100,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "ColorID": 101,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "ColorID": 102,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 69,
+      "ColorID": 212,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "ColorID": 104,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "ColorID": 105,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "ColorID": 106,
+      "ColorGroupID": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "ColorID": 108,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "ColorID": 109,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "ColorID": 111,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "ColorID": 112,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "ColorID": 114,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "ColorID": 213,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "ColorID": 115,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "ColorID": 116,
+      "ColorGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "ColorID": 7,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "ColorID": 11,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "ColorID": 18,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "ColorID": 23,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "ColorID": 29,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "ColorID": 36,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 87,
+      "ColorID": 40,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 88,
+      "ColorID": 48,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 89,
+      "ColorID": 54,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 90,
+      "ColorID": 61,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 91,
+      "ColorID": 64,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 92,
+      "ColorID": 70,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 93,
+      "ColorID": 78,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 94,
+      "ColorID": 84,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 95,
+      "ColorID": 90,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 96,
+      "ColorID": 97,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 97,
+      "ColorID": 98,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 98,
+      "ColorID": 106,
+      "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 99,
+      "ColorID": 108,
+      "ColorGroupID": 11
+    }
+  ],
+  "SkinColor": [
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "ColorName": "SkinColor_5",
+      "BaseR": 254,
+      "BaseG": 235,
+      "BaseB": 226
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "ColorName": "SkinColor_6",
+      "BaseR": 255,
+      "BaseG": 221,
+      "BaseB": 204
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "ColorName": "SkinColor_7",
+      "BaseR": 250,
+      "BaseG": 193,
+      "BaseB": 166
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "ColorName": "SkinColor_8",
+      "BaseR": 158,
+      "BaseG": 108,
+      "BaseB": 87
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "ColorName": "SkinColor_9",
+      "BaseR": 252,
+      "BaseG": 235,
+      "BaseB": 219
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "ColorName": "SkinColor_10",
+      "BaseR": 255,
+      "BaseG": 224,
+      "BaseB": 199
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "ColorName": "SkinColor_11",
+      "BaseR": 244,
+      "BaseG": 206,
+      "BaseB": 169
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "ColorName": "SkinColor_12",
+      "BaseR": 195,
+      "BaseG": 150,
+      "BaseB": 109
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "ColorName": "SkinColor_13",
+      "BaseR": 252,
+      "BaseG": 231,
+      "BaseB": 231
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "ColorName": "SkinColor_14",
+      "BaseR": 254,
+      "BaseG": 225,
+      "BaseB": 219
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "ColorName": "SkinColor_15",
+      "BaseR": 235,
+      "BaseG": 182,
+      "BaseB": 171
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "ColorName": "SkinColor_16",
+      "BaseR": 143,
+      "BaseG": 101,
+      "BaseB": 94
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "ColorName": "SkinColor_17",
+      "BaseR": 159,
+      "BaseG": 156,
+      "BaseB": 166
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "ColorName": "SkinColor_18",
+      "BaseR": 175,
+      "BaseG": 146,
+      "BaseB": 154
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "ColorName": "SkinColor_19",
+      "BaseR": 246,
+      "BaseG": 246,
+      "BaseB": 246
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "ColorName": "SkinColor_20",
+      "BaseR": 79,
+      "BaseG": 79,
+      "BaseB": 79
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "ColorName": "SkinColor_21",
+      "BaseR": 230,
+      "BaseG": 157,
+      "BaseB": 165
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "ColorName": "SkinColor_22",
+      "BaseR": 238,
+      "BaseG": 230,
+      "BaseB": 143
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "ColorName": "SkinColor_23",
+      "BaseR": 137,
+      "BaseG": 193,
+      "BaseB": 155
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "ColorName": "SkinColor_24",
+      "BaseR": 106,
+      "BaseG": 170,
+      "BaseB": 207
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "ColorName": "SkinColor_25",
+      "BaseR": 178,
+      "BaseG": 129,
+      "BaseB": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "ColorName": "SkinColor_26",
+      "BaseR": 99,
+      "BaseG": 77,
+      "BaseB": 69
+    }
+  ]
+}

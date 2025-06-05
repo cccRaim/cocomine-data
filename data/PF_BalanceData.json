@@ -1,0 +1,749 @@
+{
+  "TimePassPrice": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "PassPriceType": 4,
+      "PassPriceRatio": 60,
+      "PassPriceValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 999999,
+      "PassPriceType": 4,
+      "PassPriceRatio": 0,
+      "PassPriceValue": 0
+    }
+  ],
+  "MissionHouseClear": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "UserExp": 1,
+      "UserGold": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "UserExp": 65,
+      "UserGold": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "UserExp": 123,
+      "UserGold": 2000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "UserExp": 260,
+      "UserGold": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "UserExp": 599,
+      "UserGold": 4000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "UserExp": 1476,
+      "UserGold": 5000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "UserExp": 2009,
+      "UserGold": 6000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "UserExp": 2624,
+      "UserGold": 7000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "UserExp": 3321,
+      "UserGold": 8000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "UserExp": 4100,
+      "UserGold": 9000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "UserExp": 4961,
+      "UserGold": 10000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "UserExp": 5904,
+      "UserGold": 11000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "UserExp": 6929,
+      "UserGold": 12000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "UserExp": 8036,
+      "UserGold": 13000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "UserExp": 9225,
+      "UserGold": 14000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "UserExp": 10496,
+      "UserGold": 15000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "UserExp": 11849,
+      "UserGold": 16000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "UserExp": 13284,
+      "UserGold": 17000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "UserExp": 14801,
+      "UserGold": 18000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "UserExp": 16400,
+      "UserGold": 19000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "UserExp": 18081,
+      "UserGold": 20000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "UserExp": 19844,
+      "UserGold": 21000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "UserExp": 21689,
+      "UserGold": 22000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "UserExp": 23616,
+      "UserGold": 23000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "UserExp": 25625,
+      "UserGold": 24000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "UserExp": 27716,
+      "UserGold": 25000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "UserExp": 29889,
+      "UserGold": 26000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "UserExp": 32144,
+      "UserGold": 27000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "UserExp": 34481,
+      "UserGold": 28000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "UserExp": 36900,
+      "UserGold": 29000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "UserExp": 39401,
+      "UserGold": 30000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "UserExp": 41984,
+      "UserGold": 31000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "UserExp": 44649,
+      "UserGold": 32000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "UserExp": 47396,
+      "UserGold": 33000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "UserExp": 50225,
+      "UserGold": 34000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "UserExp": 53136,
+      "UserGold": 35000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "UserExp": 56129,
+      "UserGold": 36000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "UserExp": 59204,
+      "UserGold": 37000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "UserExp": 62361,
+      "UserGold": 38000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "UserExp": 65600,
+      "UserGold": 39000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "UserExp": 68921,
+      "UserGold": 40000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "UserExp": 72324,
+      "UserGold": 41000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "UserExp": 75809,
+      "UserGold": 42000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "UserExp": 79376,
+      "UserGold": 43000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "UserExp": 83025,
+      "UserGold": 44000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "UserExp": 86756,
+      "UserGold": 45000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "UserExp": 90569,
+      "UserGold": 46000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "UserExp": 94464,
+      "UserGold": 47000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "UserExp": 98441,
+      "UserGold": 48000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "UserExp": 102500,
+      "UserGold": 49000
+    }
+  ],
+  "PassionTimeShorten": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "ShortenPriceType": 7,
+      "ShortenPriceValue": 1,
+      "ShortenTime": 60
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "ShortenPriceType": 7,
+      "ShortenPriceValue": 1,
+      "ShortenTime": 30
+    }
+  ],
+  "CraftingPrice": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "CraftPrice": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "CraftPrice": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "CraftPrice": 27
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "CraftPrice": 64
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "CraftPrice": 125
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "CraftPrice": 216
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "CraftPrice": 343
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "CraftPrice": 512
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "CraftPrice": 729
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "CraftPrice": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "CraftPrice": 1331
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "CraftPrice": 1728
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "CraftPrice": 2197
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "CraftPrice": 2744
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "CraftPrice": 3375
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "CraftPrice": 4096
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "CraftPrice": 4913
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "CraftPrice": 5832
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "CraftPrice": 6859
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "CraftPrice": 8000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "CraftPrice": 9261
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "CraftPrice": 10648
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "CraftPrice": 12167
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "CraftPrice": 13824
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "CraftPrice": 15625
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "CraftPrice": 17576
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "CraftPrice": 19683
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "CraftPrice": 21952
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "CraftPrice": 24389
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "CraftPrice": 27000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "CraftPrice": 29791
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "CraftPrice": 32768
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "CraftPrice": 35937
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "CraftPrice": 39304
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "CraftPrice": 42875
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "CraftPrice": 46656
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "CraftPrice": 50653
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "CraftPrice": 54872
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "CraftPrice": 59319
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "CraftPrice": 64000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "CraftPrice": 68921
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "CraftPrice": 74088
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "CraftPrice": 79507
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "CraftPrice": 85184
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "CraftPrice": 91125
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "CraftPrice": 97336
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "CraftPrice": 103823
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "CraftPrice": 110592
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "CraftPrice": 117649
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "CraftPrice": 125000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "CraftPrice": 132651
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "CraftPrice": 140608
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "CraftPrice": 148877
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "CraftPrice": 157464
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "CraftPrice": 166375
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "CraftPrice": 175616
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "CraftPrice": 185193
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "CraftPrice": 195112
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "CraftPrice": 205379
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "CraftPrice": 216000
+    }
+  ],
+  "RequestReward": [
+    {
+      "ServiceType": "DEV",
+      "Key": 300,
+      "BalanceRwdGroupID": 1,
+      "RewardType": 1,
+      "Value": 1.5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 301,
+      "BalanceRwdGroupID": 1,
+      "RewardType": 10,
+      "Value": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 302,
+      "BalanceRwdGroupID": 1,
+      "RewardType": 11,
+      "Value": 5
+    }
+  ],
+  "QuestRewardPrice": [
+    {
+      "ServiceType": "DEV",
+      "Key": 400,
+      "CalculateType": 1,
+      "RewardType": 1,
+      "Ratio": 500
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 401,
+      "CalculateType": 1,
+      "RewardType": 10,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 410,
+      "CalculateType": 2,
+      "RewardType": 1,
+      "Ratio": 1.8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 411,
+      "CalculateType": 2,
+      "RewardType": 10,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 420,
+      "CalculateType": 3,
+      "RewardType": 1,
+      "Ratio": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 421,
+      "CalculateType": 3,
+      "RewardType": 10,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 430,
+      "CalculateType": 4,
+      "RewardType": 1,
+      "Ratio": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 431,
+      "CalculateType": 4,
+      "RewardType": 10,
+      "Ratio": 10
+    }
+  ],
+  "QuestPassPrice": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "CalculateType": 1,
+      "PassPriceType": 4,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "CalculateType": 2,
+      "PassPriceType": 4,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "CalculateType": 3,
+      "PassPriceType": 4,
+      "Ratio": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "CalculateType": 4,
+      "PassPriceType": 4,
+      "Ratio": 30
+    }
+  ]
+}

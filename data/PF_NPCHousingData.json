@@ -1,0 +1,787 @@
+{
+  "NPCHousing": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "RoomID": 1001,
+      "FieldID": 2002,
+      "BGImage": "bg_fs_hair",
+      "NPCInHouseGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "RoomID": 1001,
+      "FieldID": 2003,
+      "BGImage": "bg_cs_furniture",
+      "NPCInHouseGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "RoomID": 1001,
+      "FieldID": 2003,
+      "BGImage": "bg_cs_dress",
+      "NPCInHouseGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "RoomID": 1001,
+      "FieldID": 2002,
+      "BGImage": "bg_fs_shop",
+      "NPCInHouseGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "RoomID": 1001,
+      "FieldID": 2002,
+      "BGImage": "bg_fs_shop",
+      "NPCInHouseGroupID": 5
+    }
+  ],
+  "NPCInHouse": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "IsUserInteraction": true,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "IsUserInteraction": true,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "IsUserInteraction": true,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "IsUserInteraction": true,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "IsUserInteraction": true,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 5
+    }
+  ],
+  "NPCAnim": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10000,
+      "GroupID": 1,
+      "UserAnim": "happy01",
+      "NPCAnim": "happy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10001,
+      "GroupID": 1,
+      "UserAnim": "hi01",
+      "NPCAnim": "hi01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10002,
+      "GroupID": 1,
+      "UserAnim": "clap01",
+      "NPCAnim": "happy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10003,
+      "GroupID": 1,
+      "UserAnim": "love01",
+      "NPCAnim": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10004,
+      "GroupID": 1,
+      "UserAnim": "shock01",
+      "NPCAnim": "expected01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10005,
+      "GroupID": 1,
+      "UserAnim": "cry01",
+      "NPCAnim": "sad01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10006,
+      "GroupID": 1,
+      "UserAnim": "mad01",
+      "NPCAnim": "mad01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10007,
+      "GroupID": 1,
+      "UserAnim": "question01",
+      "NPCAnim": "signature01"
+    }
+  ],
+  "NPCChat": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_1",
+      "AnimName": "happy01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_2",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_3",
+      "AnimName": "talk01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_4",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_5",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_6",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_7",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_8",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_9",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_10",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_11",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_12",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_13",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_14",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_15",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "GroupID": 1,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_16",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_17",
+      "AnimName": "happy01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_18",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_19",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_20",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_21",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_22",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_23",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "GroupID": 2,
+      "NPCID": 2001,
+      "NPCChat": "FashionSquare_Text_24",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_1",
+      "AnimName": "happy01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_2",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_3",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_4",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_5",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_6",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_7",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "GroupID": 3,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_8",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_9",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_10",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_11",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_12",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_13",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_14",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_15",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "GroupID": 4,
+      "NPCID": 1002,
+      "NPCChat": "CinnamorollSquare_Text_16",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_25",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_26",
+      "AnimName": "signature01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_27",
+      "AnimName": "happy01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_28",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_29",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_30",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_31",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_32",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_33",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_34",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_35",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_36",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_37",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_38",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_39",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "GroupID": 5,
+      "NPCID": 2002,
+      "NPCChat": "FashionSquare_Text_40",
+      "AnimName": "hi01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    }
+  ]
+}

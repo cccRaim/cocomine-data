@@ -1,0 +1,47 @@
+{
+  "PotLv": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ItemKey": 100197,
+      "PotSpine": 100197,
+      "PotRwdGroupID": 8,
+      "PotFriendRwdGroupID": 8,
+      "Charging": 240
+    }
+  ],
+  "PotLot": [
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "X_start": -21,
+      "X_end": -20,
+      "Y_start": -19,
+      "Y_end": -18
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "X_start": 0,
+      "X_end": 1,
+      "Y_start": 1,
+      "Y_end": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "X_start": 26,
+      "X_end": 27,
+      "Y_start": 28,
+      "Y_end": 29
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "X_start": -21,
+      "X_end": -14,
+      "Y_start": -20,
+      "Y_end": -13
+    }
+  ]
+}

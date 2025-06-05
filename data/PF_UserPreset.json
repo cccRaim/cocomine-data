@@ -1,0 +1,956 @@
+{
+  "JawPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FaceType": 1,
+      "IconID": "faceicon_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FaceType": 2,
+      "IconID": "faceicon_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FaceType": 3,
+      "IconID": "faceicon_2"
+    }
+  ],
+  "CharacterPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SexType": 1,
+      "TopSkinName": "Underclothes_2",
+      "BottomSkinName": "Underclothes_3",
+      "FaceType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SexType": 2,
+      "TopSkinName": "",
+      "BottomSkinName": "Underclothes_1",
+      "FaceType": 2
+    }
+  ],
+  "EyeColorPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SexType": 1,
+      "EyeColor": 149
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SexType": 1,
+      "EyeColor": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "SexType": 1,
+      "EyeColor": 151
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "SexType": 1,
+      "EyeColor": 152
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "SexType": 1,
+      "EyeColor": 153
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "SexType": 1,
+      "EyeColor": 154
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "SexType": 1,
+      "EyeColor": 189
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "SexType": 1,
+      "EyeColor": 190
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "SexType": 1,
+      "EyeColor": 191
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "SexType": 1,
+      "EyeColor": 192
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "SexType": 2,
+      "EyeColor": 149
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "SexType": 2,
+      "EyeColor": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "SexType": 2,
+      "EyeColor": 151
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "SexType": 2,
+      "EyeColor": 152
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "SexType": 2,
+      "EyeColor": 153
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "SexType": 2,
+      "EyeColor": 154
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "SexType": 2,
+      "EyeColor": 189
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "SexType": 2,
+      "EyeColor": 190
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "SexType": 2,
+      "EyeColor": 191
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "SexType": 2,
+      "EyeColor": 192
+    }
+  ],
+  "SkinColorPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SexType": 1,
+      "SkinColorID": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SexType": 1,
+      "SkinColorID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "SexType": 1,
+      "SkinColorID": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "SexType": 1,
+      "SkinColorID": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "SexType": 1,
+      "SkinColorID": 16
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "SexType": 1,
+      "SkinColorID": 26
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "SexType": 1,
+      "SkinColorID": 17
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "SexType": 1,
+      "SkinColorID": 18
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "SexType": 1,
+      "SkinColorID": 19
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "SexType": 1,
+      "SkinColorID": 20
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 11,
+      "SexType": 1,
+      "SkinColorID": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 12,
+      "SexType": 1,
+      "SkinColorID": 16
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 13,
+      "SexType": 1,
+      "SkinColorID": 17
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 14,
+      "SexType": 1,
+      "SkinColorID": 18
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 15,
+      "SexType": 1,
+      "SkinColorID": 19
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 16,
+      "SexType": 1,
+      "SkinColorID": 20
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 17,
+      "SexType": 1,
+      "SkinColorID": 21
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 18,
+      "SexType": 1,
+      "SkinColorID": 22
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 19,
+      "SexType": 1,
+      "SkinColorID": 23
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 20,
+      "SexType": 1,
+      "SkinColorID": 24
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "SexType": 2,
+      "SkinColorID": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "SexType": 2,
+      "SkinColorID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "SexType": 2,
+      "SkinColorID": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "SexType": 2,
+      "SkinColorID": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "SexType": 2,
+      "SkinColorID": 16
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "SexType": 2,
+      "SkinColorID": 26
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "SexType": 2,
+      "SkinColorID": 17
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "SexType": 2,
+      "SkinColorID": 18
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "SexType": 2,
+      "SkinColorID": 19
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "SexType": 2,
+      "SkinColorID": 20
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 31,
+      "SexType": 2,
+      "SkinColorID": 15
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 32,
+      "SexType": 2,
+      "SkinColorID": 16
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 33,
+      "SexType": 2,
+      "SkinColorID": 17
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 34,
+      "SexType": 2,
+      "SkinColorID": 18
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 35,
+      "SexType": 2,
+      "SkinColorID": 19
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 36,
+      "SexType": 2,
+      "SkinColorID": 20
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 37,
+      "SexType": 2,
+      "SkinColorID": 21
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 38,
+      "SexType": 2,
+      "SkinColorID": 22
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 39,
+      "SexType": 2,
+      "SkinColorID": 23
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 40,
+      "SexType": 2,
+      "SkinColorID": 24
+    }
+  ],
+  "HairPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 116
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 158
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 157
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 155
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 159
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 184
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 185
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 186
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 187
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "SexType": 1,
+      "SkinName": "hair_1042",
+      "HairColor": 188
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 116
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 158
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 157
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 155
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 159
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 184
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 185
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 186
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 187
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "SexType": 2,
+      "SkinName": "hair_1043",
+      "HairColor": 188
+    }
+  ],
+  "MakeupPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SexType": 1,
+      "SkinName": "makeup_1044",
+      "IconID": "1000049_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SexType": 2,
+      "SkinName": "makeup_1045",
+      "IconID": "1000050_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "SexType": 1,
+      "SkinName": "makeup_1045",
+      "IconID": "1000050_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "SexType": 2,
+      "SkinName": "makeup_1044",
+      "IconID": "1000049_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "SexType": 1,
+      "SkinName": "makeup_1103",
+      "IconID": "1000079_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "SexType": 1,
+      "SkinName": "makeup_1104",
+      "IconID": "1000080_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "SexType": 1,
+      "SkinName": "makeup_1105",
+      "IconID": "1000081_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "SexType": 1,
+      "SkinName": "makeup_1106",
+      "IconID": "1000082_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "SexType": 1,
+      "SkinName": "makeup_1107",
+      "IconID": "1000083_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "SexType": 1,
+      "SkinName": "makeup_1108",
+      "IconID": "1000084_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "SexType": 1,
+      "SkinName": "makeup_1109",
+      "IconID": "1000085_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "SexType": 1,
+      "SkinName": "makeup_1110",
+      "IconID": "1000086_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "SexType": 2,
+      "SkinName": "makeup_1103",
+      "IconID": "1000079_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "SexType": 2,
+      "SkinName": "makeup_1104",
+      "IconID": "1000080_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "SexType": 2,
+      "SkinName": "makeup_1105",
+      "IconID": "1000081_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "SexType": 2,
+      "SkinName": "makeup_1106",
+      "IconID": "1000082_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "SexType": 2,
+      "SkinName": "makeup_1107",
+      "IconID": "1000083_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "SexType": 2,
+      "SkinName": "makeup_1108",
+      "IconID": "1000084_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "SexType": 2,
+      "SkinName": "makeup_1109",
+      "IconID": "1000085_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "SexType": 2,
+      "SkinName": "makeup_1110",
+      "IconID": "1000086_icon"
+    }
+  ],
+  "HouseItemPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "HouseItemID": 164
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "HouseItemID": 115
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "HouseItemID": 147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "HouseItemID": 169
+    }
+  ],
+  "CarItemPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1000142
+    }
+  ],
+  "GameAssetPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "RewardType": 1,
+      "MoneyValue": 50000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "RewardType": 2,
+      "MoneyValue": 501
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "RewardType": 3,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "RewardType": 4,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "RewardType": 5,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "RewardType": 6,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "RewardType": 7,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "RewardType": 8,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "RewardType": 25,
+      "MoneyValue": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "RewardType": 28,
+      "MoneyValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "RewardType": 31,
+      "MoneyValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "RewardType": 9,
+      "MoneyValue": 6
+    }
+  ],
+  "ItemPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 137,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100099,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100100,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000122,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000123,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000124,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000125,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000126,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 357,
+      "ItemValue": 3
+    }
+  ],
+  "EquipItemPreset": [
+    {
+      "ServiceType": "NONE",
+      "Key": 144,
+      "ItemValue": 1
+    }
+  ],
+  "IDThemePreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10000
+    }
+  ],
+  "FriendScriptPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "CharActionType": 1,
+      "FriendScript": "FriendScript_Type1_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "CharActionType": 1,
+      "FriendScript": "FriendScript_Type1_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "CharActionType": 1,
+      "FriendScript": "FriendScript_Type1_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "CharActionType": 2,
+      "FriendScript": "FriendScript_Type2_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "CharActionType": 2,
+      "FriendScript": "FriendScript_Type2_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "CharActionType": 2,
+      "FriendScript": "FriendScript_Type2_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "CharActionType": 3,
+      "FriendScript": "FriendScript_Type3_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "CharActionType": 3,
+      "FriendScript": "FriendScript_Type3_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "CharActionType": 3,
+      "FriendScript": "FriendScript_Type3_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "CharActionType": 4,
+      "FriendScript": "FriendScript_Type4_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "CharActionType": 4,
+      "FriendScript": "FriendScript_Type4_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "CharActionType": 4,
+      "FriendScript": "FriendScript_Type4_3"
+    }
+  ],
+  "HouseNamePreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "HouseName": "Default_HouseName"
+    }
+  ],
+  "FleaMarketPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "HouseName": ""
+    }
+  ],
+  "BGPreset": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ImageType": 1,
+      "ImageID": "VisitorBook_1"
+    }
+  ]
+}

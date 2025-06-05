@@ -1,0 +1,10 @@
+{
+  "EmotionChat": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ChatWord": "ChatWord_1",
+      "AnimName": "stand01"
+    }
+  ]
+}

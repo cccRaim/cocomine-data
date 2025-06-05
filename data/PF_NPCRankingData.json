@@ -1,0 +1,160 @@
+{
+  "MonthTerm": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Nation": 15,
+      "RankingStringkey": "January_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Nation": 15,
+      "RankingStringkey": "Februrary_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Nation": 15,
+      "RankingStringkey": "March_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "Nation": 15,
+      "RankingStringkey": "April_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Nation": 15,
+      "RankingStringkey": "May_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Nation": 15,
+      "RankingStringkey": "June_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Nation": 15,
+      "RankingStringkey": "July_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Nation": 15,
+      "RankingStringkey": "August_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Nation": 15,
+      "RankingStringkey": "September_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Nation": 15,
+      "RankingStringkey": "October_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "Nation": 15,
+      "RankingStringkey": "November_Ranking"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "Nation": 15,
+      "RankingStringkey": "December_Ranking"
+    }
+  ],
+  "RankingTerm": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_4"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_5"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_6"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_7"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_8"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_9"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "FieldID": 2003,
+      "RankingStringkey": "Cinnamoroll_Ranking_10"
+    }
+  ],
+  "Fountain": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 2003,
+      "ItemID": 373,
+      "RwdType": 20,
+      "RwdItemID": 454,
+      "RwdItemQnty": 1,
+      "Point": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 2003,
+      "ItemID": 374,
+      "RwdType": 20,
+      "RwdItemID": 453,
+      "RwdItemQnty": 1,
+      "Point": 5
+    }
+  ]
+}

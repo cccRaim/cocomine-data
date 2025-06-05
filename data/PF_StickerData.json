@@ -1,0 +1,46 @@
+{
+  "StickerItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "OpenTime": "2023-03-02T05:50:10 +09:01",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "OpenTime": "2023-03-02T05:50:10 +09:02",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "OpenTime": "2023-03-02T05:50:10 +09:01",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "OpenTime": "2023-03-02T05:50:10 +09:02",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "OpenTime": "2023-03-02T05:50:10 +09:02",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 133,
+      "OpenTime": "2023-03-02T05:50:10 +09:02",
+      "ResID": "TestPattern2_SpriteCollection_Data"
+    }
+  ]
+}

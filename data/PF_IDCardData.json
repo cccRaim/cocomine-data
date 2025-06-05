@@ -1,0 +1,302 @@
+{
+  "CustomInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1000,
+      "CustomInfoName": "CustomInfo_1003",
+      "InputType": 3,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1001,
+      "CustomInfoName": "CustomInfo_1005",
+      "InputType": 1,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1002,
+      "CustomInfoName": "CustomInfo_1001",
+      "InputType": 1,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1003,
+      "CustomInfoName": "CustomInfo_1002",
+      "InputType": 1,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1004,
+      "CustomInfoName": "CustomInfo_1007",
+      "InputType": 1,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1005,
+      "CustomInfoName": "CustomInfo_1008",
+      "InputType": 2,
+      "ListValueGroupID": 10001,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1006,
+      "CustomInfoName": "CustomInfo_1006",
+      "InputType": 1,
+      "ListValueGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1007,
+      "CustomInfoName": "CustomInfo_1004",
+      "InputType": 2,
+      "ListValueGroupID": 10002,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1008,
+      "CustomInfoName": "CustomInfo_1000",
+      "InputType": 2,
+      "ListValueGroupID": 10000,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "CustomInfoValue": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ListValueGroupID": 10000,
+      "ListValue": "CustomInfo_1000_List01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "ListValueGroupID": 10000,
+      "ListValue": "CustomInfo_1000_List02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "ListValueGroupID": 10000,
+      "ListValue": "CustomInfo_1000_List03"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "ListValueGroupID": 10000,
+      "ListValue": "CustomInfo_1000_List04"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "ListValueGroupID": 10001,
+      "ListValue": "INTJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "ListValueGroupID": 10001,
+      "ListValue": "INTP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "ListValueGroupID": 10001,
+      "ListValue": "ENTJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "ListValueGroupID": 10001,
+      "ListValue": "ENTP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "ListValueGroupID": 10001,
+      "ListValue": "INFJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "ListValueGroupID": 10001,
+      "ListValue": "INFP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "ListValueGroupID": 10001,
+      "ListValue": "ENFJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "ListValueGroupID": 10001,
+      "ListValue": "ENFP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "ListValueGroupID": 10001,
+      "ListValue": "ISTJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "ListValueGroupID": 10001,
+      "ListValue": "ISFJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "ListValueGroupID": 10001,
+      "ListValue": "ESTJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "ListValueGroupID": 10001,
+      "ListValue": "ESFJ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "ListValueGroupID": 10001,
+      "ListValue": "ISTP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "ListValueGroupID": 10001,
+      "ListValue": "ISFP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "ListValueGroupID": 10001,
+      "ListValue": "ESTP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "ListValueGroupID": 10001,
+      "ListValue": "ESFP"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "ListValueGroupID": 10002,
+      "ListValue": "Aries"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "ListValueGroupID": 10002,
+      "ListValue": "Taurus"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "ListValueGroupID": 10002,
+      "ListValue": "Gemini"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "ListValueGroupID": 10002,
+      "ListValue": "Cancer"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "ListValueGroupID": 10002,
+      "ListValue": "Leo"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "ListValueGroupID": 10002,
+      "ListValue": "Virgo"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "ListValueGroupID": 10002,
+      "ListValue": "Libra"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "ListValueGroupID": 10002,
+      "ListValue": "Scorpio"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "ListValueGroupID": 10002,
+      "ListValue": "Sagittarius"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "ListValueGroupID": 10002,
+      "ListValue": "Capricorn"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "ListValueGroupID": 10002,
+      "ListValue": "Aquarius"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "ListValueGroupID": 10002,
+      "ListValue": "Pisces"
+    }
+  ],
+  "IDThemeShop": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10000,
+      "ThemeName": "IDCardTheme_10000",
+      "ThemeDescription": "IDCardTheme_10000_Desc",
+      "ImageName": "IDCardThemeImage_10000",
+      "PriceType": 4,
+      "PriceValue": 100,
+      "IconTag": 0,
+      "SortIndex": 1,
+      "IsEvent": true,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00",
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10001,
+      "ThemeName": "IDCardTheme_10001",
+      "ThemeDescription": "IDCardTheme_10000_Desc",
+      "ImageName": "IDCardThemeImage_10001",
+      "PriceType": 4,
+      "PriceValue": 100,
+      "IconTag": 1,
+      "SortIndex": 2,
+      "IsEvent": false,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00",
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ]
+}

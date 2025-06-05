@@ -1,0 +1,94 @@
+{
+  "MapItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 153,
+      "SortIndex": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 154,
+      "SortIndex": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 162,
+      "SortIndex": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 170,
+      "SortIndex": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 173,
+      "SortIndex": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 174,
+      "SortIndex": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 175,
+      "SortIndex": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 176,
+      "SortIndex": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 177,
+      "SortIndex": 9
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "RewardType": 20,
+      "IsPremium": false,
+      "EffectID": 0,
+      "ColorID": 179,
+      "SortIndex": 10
+    }
+  ]
+}

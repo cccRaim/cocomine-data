@@ -1,0 +1,2745 @@
+{
+  "NPCRequest": [
+    {
+      "ServiceType": "NONE",
+      "Key": 101,
+      "NPCID": 1,
+      "Comment": "Request_NPC01_Comment01",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 102,
+      "NPCID": 1,
+      "Comment": "Request_NPC01_Comment02",
+      "AnimationType": 24
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 103,
+      "NPCID": 1,
+      "Comment": "Request_NPC01_Comment03",
+      "AnimationType": 30
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 104,
+      "NPCID": 9,
+      "Comment": "Request_NPC09_Comment01",
+      "AnimationType": 29
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 105,
+      "NPCID": 9,
+      "Comment": "Request_NPC09_Comment02",
+      "AnimationType": 25
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 106,
+      "NPCID": 9,
+      "Comment": "Request_NPC09_Comment03",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 107,
+      "NPCID": 12,
+      "Comment": "Request_NPC12_Comment01",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 108,
+      "NPCID": 12,
+      "Comment": "Request_NPC12_Comment02",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 109,
+      "NPCID": 12,
+      "Comment": "Request_NPC12_Comment03",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 110,
+      "NPCID": 13,
+      "Comment": "Request_NPC13_Comment01",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 111,
+      "NPCID": 13,
+      "Comment": "Request_NPC13_Comment02",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 112,
+      "NPCID": 13,
+      "Comment": "Request_NPC13_Comment03",
+      "AnimationType": 23
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 113,
+      "NPCID": 6,
+      "Comment": "Request_NPC06_Comment01",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 114,
+      "NPCID": 6,
+      "Comment": "Request_NPC06_Comment02",
+      "AnimationType": 22
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 115,
+      "NPCID": 6,
+      "Comment": "Request_NPC06_Comment03",
+      "AnimationType": 45
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 116,
+      "NPCID": 10,
+      "Comment": "Request_NPC10_Comment01",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 117,
+      "NPCID": 10,
+      "Comment": "Request_NPC10_Comment02",
+      "AnimationType": 28
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 118,
+      "NPCID": 10,
+      "Comment": "Request_NPC10_Comment03",
+      "AnimationType": 14
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 119,
+      "NPCID": 11,
+      "Comment": "Request_NPC11_Comment01",
+      "AnimationType": 27
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 120,
+      "NPCID": 11,
+      "Comment": "Request_NPC11_Comment02",
+      "AnimationType": 24
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 121,
+      "NPCID": 11,
+      "Comment": "Request_NPC11_Comment03",
+      "AnimationType": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10011,
+      "NPCID": 1001,
+      "Comment": "Request_comment_10011",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10012,
+      "NPCID": 1001,
+      "Comment": "Request_comment_10012",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10013,
+      "NPCID": 1001,
+      "Comment": "Request_comment_10013",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10014,
+      "NPCID": 1001,
+      "Comment": "Request_comment_10014",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10015,
+      "NPCID": 1001,
+      "Comment": "Request_comment_10015",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10016,
+      "NPCID": 1002,
+      "Comment": "Request_comment_10021",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10017,
+      "NPCID": 1002,
+      "Comment": "Request_comment_10022",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10018,
+      "NPCID": 1002,
+      "Comment": "Request_comment_10023",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10019,
+      "NPCID": 1002,
+      "Comment": "Request_comment_10024",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10020,
+      "NPCID": 1002,
+      "Comment": "Request_comment_10025",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10021,
+      "NPCID": 1003,
+      "Comment": "Request_comment_10031",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10022,
+      "NPCID": 1003,
+      "Comment": "Request_comment_10032",
+      "AnimationType": 45
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10023,
+      "NPCID": 1003,
+      "Comment": "Request_comment_10033",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10024,
+      "NPCID": 1003,
+      "Comment": "Request_comment_10034",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10025,
+      "NPCID": 1003,
+      "Comment": "Request_comment_10035",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10026,
+      "NPCID": 2001,
+      "Comment": "Request_comment_20011",
+      "AnimationType": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10027,
+      "NPCID": 2001,
+      "Comment": "Request_comment_20012",
+      "AnimationType": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10028,
+      "NPCID": 2001,
+      "Comment": "Request_comment_20013",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10029,
+      "NPCID": 2001,
+      "Comment": "Request_comment_20014",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10030,
+      "NPCID": 2001,
+      "Comment": "Request_comment_20015",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10031,
+      "NPCID": 2002,
+      "Comment": "Request_comment_20021",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10032,
+      "NPCID": 2002,
+      "Comment": "Request_comment_20022",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10033,
+      "NPCID": 2002,
+      "Comment": "Request_comment_20023",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10034,
+      "NPCID": 2002,
+      "Comment": "Request_comment_20024",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10035,
+      "NPCID": 2002,
+      "Comment": "Request_comment_20025",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10036,
+      "NPCID": 3001,
+      "Comment": "Request_comment_30011",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10037,
+      "NPCID": 3001,
+      "Comment": "Request_comment_30012",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10038,
+      "NPCID": 3001,
+      "Comment": "Request_comment_30013",
+      "AnimationType": 45
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10039,
+      "NPCID": 3001,
+      "Comment": "Request_comment_30014",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10040,
+      "NPCID": 3001,
+      "Comment": "Request_comment_30015",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10041,
+      "NPCID": 1006,
+      "Comment": "Request_comment_30016",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10042,
+      "NPCID": 1006,
+      "Comment": "Request_comment_30017",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10043,
+      "NPCID": 1006,
+      "Comment": "Request_comment_30018",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10044,
+      "NPCID": 1006,
+      "Comment": "Request_comment_30019",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10045,
+      "NPCID": 1006,
+      "Comment": "Request_comment_30020",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10046,
+      "NPCID": 3002,
+      "Comment": "Request_comment_30021",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10047,
+      "NPCID": 3002,
+      "Comment": "Request_comment_30022",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10048,
+      "NPCID": 3002,
+      "Comment": "Request_comment_30023",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10049,
+      "NPCID": 3002,
+      "Comment": "Request_comment_30024",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10050,
+      "NPCID": 3002,
+      "Comment": "Request_comment_30025",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10051,
+      "NPCID": 3003,
+      "Comment": "Request_comment_30026",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10052,
+      "NPCID": 3003,
+      "Comment": "Request_comment_30027",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10053,
+      "NPCID": 3003,
+      "Comment": "Request_comment_30028",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10054,
+      "NPCID": 3003,
+      "Comment": "Request_comment_30029",
+      "AnimationType": 23
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10055,
+      "NPCID": 3003,
+      "Comment": "Request_comment_30030",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10056,
+      "NPCID": 3004,
+      "Comment": "Request_comment_30031",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10057,
+      "NPCID": 3004,
+      "Comment": "Request_comment_30032",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10058,
+      "NPCID": 3004,
+      "Comment": "Request_comment_30033",
+      "AnimationType": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10059,
+      "NPCID": 3004,
+      "Comment": "Request_comment_30034",
+      "AnimationType": 25
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10060,
+      "NPCID": 3004,
+      "Comment": "Request_comment_30035",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10061,
+      "NPCID": 3005,
+      "Comment": "Request_comment_30036",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10062,
+      "NPCID": 3005,
+      "Comment": "Request_comment_30037",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10063,
+      "NPCID": 3005,
+      "Comment": "Request_comment_30038",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10064,
+      "NPCID": 3005,
+      "Comment": "Request_comment_30039",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10065,
+      "NPCID": 3005,
+      "Comment": "Request_comment_30040",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10066,
+      "NPCID": 3006,
+      "Comment": "Request_comment_30041",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10067,
+      "NPCID": 3006,
+      "Comment": "Request_comment_30042",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10068,
+      "NPCID": 3006,
+      "Comment": "Request_comment_30043",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10069,
+      "NPCID": 3006,
+      "Comment": "Request_comment_30044",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10070,
+      "NPCID": 3006,
+      "Comment": "Request_comment_30045",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10071,
+      "NPCID": 2003,
+      "Comment": "Request_comment_30046",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10072,
+      "NPCID": 2003,
+      "Comment": "Request_comment_30047",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10073,
+      "NPCID": 2003,
+      "Comment": "Request_comment_30048",
+      "AnimationType": 126
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10074,
+      "NPCID": 2003,
+      "Comment": "Request_comment_30049",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10075,
+      "NPCID": 2003,
+      "Comment": "Request_comment_30050",
+      "AnimationType": 32
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10076,
+      "NPCID": 4001,
+      "Comment": "Request_comment_30051",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10077,
+      "NPCID": 4001,
+      "Comment": "Request_comment_30052",
+      "AnimationType": 23
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10078,
+      "NPCID": 4001,
+      "Comment": "Request_comment_30053",
+      "AnimationType": 98
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10079,
+      "NPCID": 4001,
+      "Comment": "Request_comment_30054",
+      "AnimationType": 13
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10080,
+      "NPCID": 4001,
+      "Comment": "Request_comment_30055",
+      "AnimationType": 126
+    }
+  ],
+  "RequestItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 24,
+      "ItemValue": 5,
+      "RequestMinLV": 1,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 27,
+      "ItemValue": 5,
+      "RequestMinLV": 3,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 40,
+      "ItemValue": 5,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 62,
+      "ItemValue": 5,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 32,
+      "ItemValue": 5,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 211,
+      "ItemValue": 5,
+      "RequestMinLV": 16,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 213,
+      "ItemValue": 5,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 81,
+      "ItemValue": 5,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 212,
+      "ItemValue": 5,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 37,
+      "ItemValue": 5,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 31,
+      "ItemValue": 5,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 48,
+      "ItemValue": 5,
+      "RequestMinLV": 8,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 53,
+      "ItemValue": 5,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 68,
+      "ItemValue": 5,
+      "RequestMinLV": 16,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 218,
+      "ItemValue": 5,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 102,
+      "ItemValue": 5,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 34,
+      "ItemValue": 5,
+      "RequestMinLV": 30,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 91,
+      "ItemValue": 5,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 219,
+      "ItemValue": 5,
+      "RequestMinLV": 27,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 26,
+      "ItemValue": 5,
+      "RequestMinLV": 1,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 39,
+      "ItemValue": 5,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 61,
+      "ItemValue": 5,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 74,
+      "ItemValue": 5,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 222,
+      "ItemValue": 3,
+      "RequestMinLV": 3,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 63,
+      "ItemValue": 3,
+      "RequestMinLV": 6,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 64,
+      "ItemValue": 3,
+      "RequestMinLV": 8,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 54,
+      "ItemValue": 3,
+      "RequestMinLV": 9,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 59,
+      "ItemValue": 3,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 71,
+      "ItemValue": 3,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 77,
+      "ItemValue": 3,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 80,
+      "ItemValue": 3,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 232,
+      "ItemValue": 3,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 82,
+      "ItemValue": 3,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 92,
+      "ItemValue": 3,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 88,
+      "ItemValue": 3,
+      "RequestMinLV": 38,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 29,
+      "ItemValue": 3,
+      "RequestMinLV": 1,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 36,
+      "ItemValue": 3,
+      "RequestMinLV": 7,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 51,
+      "ItemValue": 3,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 46,
+      "ItemValue": 3,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 245,
+      "ItemValue": 3,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 246,
+      "ItemValue": 3,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 248,
+      "ItemValue": 3,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100088,
+      "ItemValue": 3,
+      "RequestMinLV": 1,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100089,
+      "ItemValue": 3,
+      "RequestMinLV": 3,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100090,
+      "ItemValue": 1,
+      "RequestMinLV": 3,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100091,
+      "ItemValue": 1,
+      "RequestMinLV": 3,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100092,
+      "ItemValue": 2,
+      "RequestMinLV": 2,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100093,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100094,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100095,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100096,
+      "ItemValue": 1,
+      "RequestMinLV": 6,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100097,
+      "ItemValue": 2,
+      "RequestMinLV": 6,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100098,
+      "ItemValue": 2,
+      "RequestMinLV": 9,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100099,
+      "ItemValue": 1,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100100,
+      "ItemValue": 2,
+      "RequestMinLV": 9,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100101,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100102,
+      "ItemValue": 1,
+      "RequestMinLV": 9,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100103,
+      "ItemValue": 2,
+      "RequestMinLV": 9,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100104,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100105,
+      "ItemValue": 2,
+      "RequestMinLV": 7,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100106,
+      "ItemValue": 2,
+      "RequestMinLV": 7,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100107,
+      "ItemValue": 2,
+      "RequestMinLV": 2,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100108,
+      "ItemValue": 2,
+      "RequestMinLV": 8,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100109,
+      "ItemValue": 2,
+      "RequestMinLV": 8,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100110,
+      "ItemValue": 1,
+      "RequestMinLV": 4,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100111,
+      "ItemValue": 2,
+      "RequestMinLV": 8,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100112,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100113,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 69,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100114,
+      "ItemValue": 1,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100115,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100116,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100117,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100118,
+      "ItemValue": 2,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100119,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100120,
+      "ItemValue": 2,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100121,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100122,
+      "ItemValue": 2,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100123,
+      "ItemValue": 2,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100124,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100125,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100126,
+      "ItemValue": 1,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100127,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100128,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100129,
+      "ItemValue": 2,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100130,
+      "ItemValue": 1,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100131,
+      "ItemValue": 2,
+      "RequestMinLV": 16,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 87,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100132,
+      "ItemValue": 2,
+      "RequestMinLV": 16,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 88,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100133,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 89,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100134,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 90,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100135,
+      "ItemValue": 1,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 91,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100136,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 92,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100137,
+      "ItemValue": 2,
+      "RequestMinLV": 12,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 93,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100138,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 94,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100139,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 95,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100140,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 96,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100141,
+      "ItemValue": 2,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 97,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100142,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 98,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100143,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 99,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100144,
+      "ItemValue": 1,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100145,
+      "ItemValue": 2,
+      "RequestMinLV": 10,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 101,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100146,
+      "ItemValue": 2,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100147,
+      "ItemValue": 1,
+      "RequestMinLV": 13,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100148,
+      "ItemValue": 2,
+      "RequestMinLV": 15,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100001,
+      "ItemValue": 1,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100002,
+      "ItemValue": 2,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100003,
+      "ItemValue": 1,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100004,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 108,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100005,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 109,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100006,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 110,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100008,
+      "ItemValue": 1,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 111,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100009,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 112,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100010,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 113,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100011,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 114,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100012,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100013,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100014,
+      "ItemValue": 1,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 100015,
+      "ItemValue": 2,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100016,
+      "ItemValue": 2,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 119,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100017,
+      "ItemValue": 1,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100018,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100019,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100020,
+      "ItemValue": 2,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100021,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100022,
+      "ItemValue": 1,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100023,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100024,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100025,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100026,
+      "ItemValue": 2,
+      "RequestMinLV": 20,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100027,
+      "ItemValue": 1,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100028,
+      "ItemValue": 2,
+      "RequestMinLV": 23,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "Nation": 15,
+      "NPCID": 4001,
+      "ItemID": 100029,
+      "ItemValue": 2,
+      "RequestMinLV": 17,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100030,
+      "ItemValue": 2,
+      "RequestMinLV": 18,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 133,
+      "Nation": 15,
+      "NPCID": 1001,
+      "ItemID": 100149,
+      "ItemValue": 1,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 134,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100150,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 135,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100151,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 136,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100152,
+      "ItemValue": 1,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 137,
+      "Nation": 15,
+      "NPCID": 3005,
+      "ItemID": 100153,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 138,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100154,
+      "ItemValue": 1,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 139,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100155,
+      "ItemValue": 2,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 140,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100156,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 141,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100157,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 142,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100158,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 143,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100159,
+      "ItemValue": 2,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 144,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100160,
+      "ItemValue": 1,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 145,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100161,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 146,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100162,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100163,
+      "ItemValue": 2,
+      "RequestMinLV": 25,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100164,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100165,
+      "ItemValue": 2,
+      "RequestMinLV": 29,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 150,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100166,
+      "ItemValue": 1,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 151,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100167,
+      "ItemValue": 2,
+      "RequestMinLV": 27,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100168,
+      "ItemValue": 1,
+      "RequestMinLV": 26,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100169,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100170,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100171,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "Nation": 15,
+      "NPCID": 3001,
+      "ItemID": 100172,
+      "ItemValue": 1,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 100173,
+      "ItemValue": 2,
+      "RequestMinLV": 30,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100174,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100175,
+      "ItemValue": 2,
+      "RequestMinLV": 27,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "Nation": 15,
+      "NPCID": 1003,
+      "ItemID": 100176,
+      "ItemValue": 2,
+      "RequestMinLV": 24,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 161,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100177,
+      "ItemValue": 1,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 162,
+      "Nation": 15,
+      "NPCID": 3003,
+      "ItemID": 100178,
+      "ItemValue": 2,
+      "RequestMinLV": 28,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 163,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100041,
+      "ItemValue": 2,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 164,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100042,
+      "ItemValue": 1,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 165,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100043,
+      "ItemValue": 2,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 166,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100044,
+      "ItemValue": 2,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100045,
+      "ItemValue": 2,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100046,
+      "ItemValue": 2,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100047,
+      "ItemValue": 2,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100048,
+      "ItemValue": 1,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 171,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100049,
+      "ItemValue": 1,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 172,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100050,
+      "ItemValue": 2,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 173,
+      "Nation": 15,
+      "NPCID": 3006,
+      "ItemID": 100051,
+      "ItemValue": 2,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 174,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 100052,
+      "ItemValue": 1,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 175,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100053,
+      "ItemValue": 2,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 176,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100054,
+      "ItemValue": 2,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 177,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100055,
+      "ItemValue": 2,
+      "RequestMinLV": 32,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 178,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100056,
+      "ItemValue": 2,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 179,
+      "Nation": 15,
+      "NPCID": 1002,
+      "ItemID": 100057,
+      "ItemValue": 2,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 180,
+      "Nation": 15,
+      "NPCID": 3002,
+      "ItemID": 100058,
+      "ItemValue": 1,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 181,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100059,
+      "ItemValue": 2,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 182,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100060,
+      "ItemValue": 2,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 183,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100061,
+      "ItemValue": 2,
+      "RequestMinLV": 36,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 184,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 100062,
+      "ItemValue": 1,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 185,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100063,
+      "ItemValue": 2,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 186,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100064,
+      "ItemValue": 1,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 187,
+      "Nation": 15,
+      "NPCID": 2002,
+      "ItemID": 100065,
+      "ItemValue": 2,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 188,
+      "Nation": 15,
+      "NPCID": 2003,
+      "ItemID": 100066,
+      "ItemValue": 1,
+      "RequestMinLV": 33,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 189,
+      "Nation": 15,
+      "NPCID": 2001,
+      "ItemID": 100067,
+      "ItemValue": 2,
+      "RequestMinLV": 35,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    }
+  ],
+  "DailyReward": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "SectionIndex": 1,
+      "RequestCnt": 10,
+      "RewardID": 101
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "SectionIndex": 2,
+      "RequestCnt": 20,
+      "RewardID": 102
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "SectionIndex": 3,
+      "RequestCnt": 30,
+      "RewardID": 103
+    }
+  ]
+}

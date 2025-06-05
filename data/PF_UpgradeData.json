@@ -1,0 +1,80 @@
+{
+  "UpgradeItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 200000001,
+      "ItemID": 1,
+      "UpgradeLv": 2,
+      "IsMax": false,
+      "HouseMileage": 10,
+      "SellPriceValue": 1250,
+      "IsTrade": false,
+      "UpgradeMaterialGroupID": 1,
+      "PriceType": 1,
+      "UpgradePrice": 200000,
+      "RwdGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 300000001,
+      "ItemID": 1,
+      "UpgradeLv": 3,
+      "IsMax": false,
+      "HouseMileage": 12,
+      "SellPriceValue": 1500,
+      "IsTrade": false,
+      "UpgradeMaterialGroupID": 1,
+      "PriceType": 1,
+      "UpgradePrice": 300000,
+      "RwdGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 400000001,
+      "ItemID": 1,
+      "UpgradeLv": 4,
+      "IsMax": false,
+      "HouseMileage": 14,
+      "SellPriceValue": 1750,
+      "IsTrade": false,
+      "UpgradeMaterialGroupID": 1,
+      "PriceType": 1,
+      "UpgradePrice": 400000,
+      "RwdGroupID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 500000001,
+      "ItemID": 1,
+      "UpgradeLv": 5,
+      "IsMax": true,
+      "HouseMileage": 16,
+      "SellPriceValue": 2000,
+      "IsTrade": false,
+      "UpgradeMaterialGroupID": 1,
+      "PriceType": 1,
+      "UpgradePrice": 500000,
+      "RwdGroupID": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "UpgradeMaterial": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "GroupID": 1,
+      "ItemID": 24,
+      "ItemValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "GroupID": 1,
+      "ItemID": 27,
+      "ItemValue": 3
+    }
+  ]
+}

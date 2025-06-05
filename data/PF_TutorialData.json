@@ -1,0 +1,2415 @@
+{
+  "CharacterEquip": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1000048,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": true,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 148,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": true,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100022617,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": true,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 149,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": true,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000044,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": true,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000047,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": true,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000022,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000025,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000026,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000027,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": true,
+      "IsBoyDefaultItem": true,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000028,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000030,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000031,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000032,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000035,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000036,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000037,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000038,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000039,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000040,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000041,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000042,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000043,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000046,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000143,
+      "EquipItemType": 12,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000144,
+      "EquipItemType": 12,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000145,
+      "EquipItemType": 12,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000146,
+      "EquipItemType": 14,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000147,
+      "EquipItemType": 14,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000148,
+      "EquipItemType": 14,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000149,
+      "EquipItemType": 8,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000150,
+      "EquipItemType": 8,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000151,
+      "EquipItemType": 8,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000152,
+      "EquipItemType": 8,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000153,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000154,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000155,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000156,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000157,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000158,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000159,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000160,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000161,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000162,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000163,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000164,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000165,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000166,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000167,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000168,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000169,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000170,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000171,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000172,
+      "EquipItemType": 16,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000173,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000174,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000175,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000176,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000177,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000178,
+      "EquipItemType": 28,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000180,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000181,
+      "EquipItemType": 1,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000182,
+      "EquipItemType": 7,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000183,
+      "EquipItemType": 7,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000184,
+      "EquipItemType": 7,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000185,
+      "EquipItemType": 7,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000186,
+      "EquipItemType": 11,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000187,
+      "EquipItemType": 11,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000188,
+      "EquipItemType": 24,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000189,
+      "EquipItemType": 24,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000190,
+      "EquipItemType": 26,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000191,
+      "EquipItemType": 26,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000192,
+      "EquipItemType": 26,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000193,
+      "EquipItemType": 18,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    }
+  ],
+  "FieldTutorial": [
+    {
+      "ServiceType": "NONE",
+      "Key": 1,
+      "FieldID": 101,
+      "NPCPopupTextID": 21,
+      "SortIndex": 4,
+      "DefaultHouse": 164,
+      "FieldPreviewIconID": "Field01_Preview_icon",
+      "TutorialID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 103,
+      "NPCPopupTextID": 22,
+      "SortIndex": 2,
+      "DefaultHouse": 115,
+      "FieldPreviewIconID": "Field02_Preview_icon",
+      "TutorialID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldID": 102,
+      "NPCPopupTextID": 23,
+      "SortIndex": 1,
+      "DefaultHouse": 147,
+      "FieldPreviewIconID": "Field03_Preview_icon",
+      "TutorialID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldID": 100,
+      "NPCPopupTextID": 24,
+      "SortIndex": 3,
+      "DefaultHouse": 169,
+      "FieldPreviewIconID": "Field04_Preview_icon",
+      "TutorialID": 1
+    }
+  ],
+  "HouseTutorial": [
+    {
+      "ServiceType": "NONE",
+      "Key": 164,
+      "BlueprintID": 1,
+      "NPCPopupTextID": 25,
+      "SortIndex": 1,
+      "HousePreviewIconID": "F{0}_House164_Preview_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "BlueprintID": 2,
+      "NPCPopupTextID": 27,
+      "SortIndex": 2,
+      "HousePreviewIconID": "F{0}_House115_Preview_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 147,
+      "BlueprintID": 3,
+      "NPCPopupTextID": 26,
+      "SortIndex": 3,
+      "HousePreviewIconID": "F{0}_House147_Preview_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "BlueprintID": 4,
+      "NPCPopupTextID": 28,
+      "SortIndex": 4,
+      "HousePreviewIconID": "F{0}_House169_Preview_icon"
+    }
+  ],
+  "Tutorial": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "TutorialType": 3,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 2,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 1,
+      "NextStepType": 1,
+      "NextStepID": 3,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 2,
+      "NextStepType": 1,
+      "NextStepID": 4,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 3,
+      "NextStepType": 1,
+      "NextStepID": 5,
+      "CutsceneID": 4,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 4,
+      "NextStepType": 1,
+      "NextStepID": 6,
+      "CutsceneID": 5,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "TutorialType": 1,
+      "PreStepType": 0,
+      "PreStepID": 5,
+      "NextStepType": 1,
+      "NextStepID": 7,
+      "CutsceneID": 6,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "TutorialType": 3,
+      "PreStepType": 0,
+      "PreStepID": 6,
+      "NextStepType": 1,
+      "NextStepID": 8,
+      "CutsceneID": 7,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "TutorialType": 1,
+      "PreStepType": 0,
+      "PreStepID": 7,
+      "NextStepType": 1,
+      "NextStepID": 9,
+      "CutsceneID": 8,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "TutorialType": 3,
+      "PreStepType": 0,
+      "PreStepID": 8,
+      "NextStepType": 1,
+      "NextStepID": 10,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 9,
+      "NextStepType": 1,
+      "NextStepID": 11,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 10,
+      "NextStepType": 1,
+      "NextStepID": 12,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 11,
+      "NextStepType": 1,
+      "NextStepID": 13,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 12,
+      "NextStepType": 1,
+      "NextStepID": 14,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 13,
+      "NextStepType": 1,
+      "NextStepID": 15,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 14,
+      "NextStepType": 1,
+      "NextStepID": 16,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 15,
+      "NextStepType": 1,
+      "NextStepID": 17,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 16,
+      "NextStepType": 1,
+      "NextStepID": 18,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 17,
+      "NextStepType": 1,
+      "NextStepID": 19,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 18,
+      "NextStepType": 1,
+      "NextStepID": 20,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 19,
+      "NextStepType": 1,
+      "NextStepID": 21,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 20,
+      "NextStepType": 1,
+      "NextStepID": 22,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 21,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "TutorialType": 3,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 24,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 23,
+      "NextStepType": 1,
+      "NextStepID": 25,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 24,
+      "NextStepType": 1,
+      "NextStepID": 26,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 25,
+      "NextStepType": 1,
+      "NextStepID": 27,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 26,
+      "NextStepType": 1,
+      "NextStepID": 28,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 27,
+      "NextStepType": 1,
+      "NextStepID": 29,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 28,
+      "NextStepType": 1,
+      "NextStepID": 30,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 29,
+      "NextStepType": 1,
+      "NextStepID": 31,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 30,
+      "NextStepType": 1,
+      "NextStepID": 32,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 31,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "TutorialType": 3,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 34,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 33,
+      "NextStepType": 1,
+      "NextStepID": 35,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 34,
+      "NextStepType": 1,
+      "NextStepID": 36,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 35,
+      "NextStepType": 1,
+      "NextStepID": 37,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 36,
+      "NextStepType": 1,
+      "NextStepID": 38,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 37,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "TutorialType": 1,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 40,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 40,
+      "NextStepType": 1,
+      "NextStepID": 41,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 41,
+      "NextStepType": 1,
+      "NextStepID": 42,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 42,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "TutorialType": 3,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 44,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "TutorialType": 1,
+      "PreStepType": 2,
+      "PreStepID": 43,
+      "NextStepType": 1,
+      "NextStepID": 45,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 44,
+      "NextStepType": 1,
+      "NextStepID": 46,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 45,
+      "NextStepType": 1,
+      "NextStepID": 47,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 46,
+      "NextStepType": 1,
+      "NextStepID": 48,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 47,
+      "NextStepType": 1,
+      "NextStepID": 49,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 48,
+      "NextStepType": 1,
+      "NextStepID": 50,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 49,
+      "NextStepType": 1,
+      "NextStepID": 51,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 50,
+      "NextStepType": 1,
+      "NextStepID": 52,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "TutorialType": 1,
+      "PreStepType": 2,
+      "PreStepID": 51,
+      "NextStepType": 1,
+      "NextStepID": 53,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 52,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "TutorialType": 3,
+      "PreStepType": 2,
+      "PreStepID": 0,
+      "NextStepType": 1,
+      "NextStepID": 56,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 55,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 54,
+      "NextStepType": 1,
+      "NextStepID": 56,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 55,
+      "NextStepType": 1,
+      "NextStepID": 57,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 56,
+      "NextStepType": 1,
+      "NextStepID": 58,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 57,
+      "NextStepType": 1,
+      "NextStepID": 59,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 58,
+      "NextStepType": 1,
+      "NextStepID": 60,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 59,
+      "NextStepType": 0,
+      "NextStepID": 61,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 60,
+      "NextStepType": 1,
+      "NextStepID": 62,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 61,
+      "NextStepType": 1,
+      "NextStepID": 63,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 62,
+      "NextStepType": 1,
+      "NextStepID": 64,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 63,
+      "NextStepType": 1,
+      "NextStepID": 65,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 64,
+      "NextStepType": 1,
+      "NextStepID": 66,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 65,
+      "NextStepType": 1,
+      "NextStepID": 67,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "TutorialType": 1,
+      "PreStepType": 1,
+      "PreStepID": 66,
+      "NextStepType": 1,
+      "NextStepID": 68,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "TutorialType": 3,
+      "PreStepType": 1,
+      "PreStepID": 67,
+      "NextStepType": 0,
+      "NextStepID": 0,
+      "CutsceneID": 0,
+      "GivenItem": 0
+    }
+  ],
+  "TutorialChat": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "TutorialID": 1,
+      "ChatID": "Tutorial_Chat_1",
+      "NPCID": 1001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "hi01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "TutorialID": 1,
+      "ChatID": "Tutorial_Chat_2",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "worry01",
+      "UserAnimSec": 1,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "TutorialID": 1,
+      "ChatID": "Tutorial_Chat_3",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "TutorialID": 1,
+      "ChatID": "Tutorial_Chat_4",
+      "NPCID": 1001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "question01",
+      "UserAnimSec": 1,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "TutorialID": 3,
+      "ChatID": "Tutorial_Chat_5",
+      "NPCID": 1001,
+      "NPCAnim": 45,
+      "IsRotate": false,
+      "UserAnim": "cry01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "TutorialID": 3,
+      "ChatID": "Tutorial_Chat_6",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "TutorialID": 3,
+      "ChatID": "Tutorial_Chat_7",
+      "NPCID": 1001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "cheerup01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "TutorialID": 5,
+      "ChatID": "Tutorial_Chat_8",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "question01",
+      "UserAnimSec": 1,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "TutorialID": 5,
+      "ChatID": "Tutorial_Chat_9",
+      "NPCID": 1001,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "TutorialID": 5,
+      "ChatID": "Tutorial_Chat_10",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "TutorialID": 7,
+      "ChatID": "Tutorial_Chat_11",
+      "NPCID": 1001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "surpirse01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "TutorialID": 7,
+      "ChatID": "Tutorial_Chat_12",
+      "NPCID": 3001,
+      "NPCAnim": 16,
+      "IsRotate": true,
+      "UserAnim": "hi01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "TutorialID": 7,
+      "ChatID": "Tutorial_Chat_13",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "TutorialID": 7,
+      "ChatID": "Tutorial_Chat_14",
+      "NPCID": 3001,
+      "NPCAnim": 13,
+      "IsRotate": true,
+      "UserAnim": "question01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "TutorialID": 7,
+      "ChatID": "Tutorial_Chat_15",
+      "NPCID": 1001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "talk01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "TutorialID": 9,
+      "ChatID": "Tutorial_Chat_16",
+      "NPCID": 3001,
+      "NPCAnim": 16,
+      "IsRotate": true,
+      "UserAnim": "nod01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "TutorialID": 9,
+      "ChatID": "Tutorial_Chat_17",
+      "NPCID": 3001,
+      "NPCAnim": 32,
+      "IsRotate": true,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "TutorialID": 9,
+      "ChatID": "Tutorial_Chat_18",
+      "NPCID": 1001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "hi01",
+      "UserAnimSec": 1,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "TutorialID": 9,
+      "ChatID": "Tutorial_Chat_19",
+      "NPCID": 1001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "nod01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "TutorialID": 14,
+      "ChatID": "Tutorial_Chat_20",
+      "NPCID": 1001,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "TutorialID": 14,
+      "ChatID": "Tutorial_Chat_21",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "change_hair01",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "TutorialID": 16,
+      "ChatID": "Tutorial_Chat_22",
+      "NPCID": 1001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "happy01",
+      "UserAnimSec": 1,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "TutorialID": 19,
+      "ChatID": "Tutorial_Chat_23",
+      "NPCID": 1001,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "TutorialID": 21,
+      "ChatID": "Tutorial_Chat_24",
+      "NPCID": 1001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "TutorialID": 21,
+      "ChatID": "Tutorial_Chat_25",
+      "NPCID": 1001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "TutorialID": 23,
+      "ChatID": "Tutorial_Chat_26",
+      "NPCID": 1003,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "TutorialID": 23,
+      "ChatID": "Tutorial_Chat_27",
+      "NPCID": 1003,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "TutorialID": 23,
+      "ChatID": "Tutorial_Chat_28",
+      "NPCID": 1003,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "TutorialID": 23,
+      "ChatID": "Tutorial_Chat_29",
+      "NPCID": 1003,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "TutorialID": 26,
+      "ChatID": "Tutorial_Chat_30",
+      "NPCID": 1003,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 31,
+      "TutorialID": 26,
+      "ChatID": "Tutorial_Chat_31",
+      "NPCID": 1003,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 32,
+      "TutorialID": 29,
+      "ChatID": "Tutorial_Chat_32",
+      "NPCID": 1003,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 33,
+      "TutorialID": 29,
+      "ChatID": "Tutorial_Chat_33",
+      "NPCID": 1003,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "TutorialID": 32,
+      "ChatID": "Tutorial_Chat_34",
+      "NPCID": 1003,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 35,
+      "TutorialID": 33,
+      "ChatID": "Tutorial_Chat_35",
+      "NPCID": 3004,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 36,
+      "TutorialID": 33,
+      "ChatID": "Tutorial_Chat_36",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 37,
+      "TutorialID": 33,
+      "ChatID": "Tutorial_Chat_37",
+      "NPCID": 3004,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 38,
+      "TutorialID": 36,
+      "ChatID": "Tutorial_Chat_38",
+      "NPCID": 3004,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 39,
+      "TutorialID": 36,
+      "ChatID": "Tutorial_Chat_39",
+      "NPCID": 3004,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40,
+      "TutorialID": 38,
+      "ChatID": "Tutorial_Chat_40",
+      "NPCID": 3004,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "TutorialID": 38,
+      "ChatID": "Tutorial_Chat_41",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "TutorialID": 34,
+      "ChatID": "Tutorial_SideChat_19",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "TutorialID": 35,
+      "ChatID": "Tutorial_SideChat_20",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 44,
+      "TutorialID": 37,
+      "ChatID": "Tutorial_SideChat_21",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 45,
+      "TutorialID": 39,
+      "ChatID": "Tutorial_SideChat_22",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 46,
+      "TutorialID": 40,
+      "ChatID": "Tutorial_SideChat_23",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 47,
+      "TutorialID": 41,
+      "ChatID": "Tutorial_SideChat_24",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 48,
+      "TutorialID": 42,
+      "ChatID": "Tutorial_SideChat_25",
+      "NPCID": 3004,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 49,
+      "TutorialID": 43,
+      "ChatID": "Tutorial_Chat_42",
+      "NPCID": 2001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50,
+      "TutorialID": 43,
+      "ChatID": "Tutorial_Chat_43",
+      "NPCID": 2001,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 51,
+      "TutorialID": 43,
+      "ChatID": "Tutorial_Chat_44",
+      "NPCID": 2001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 52,
+      "TutorialID": 43,
+      "ChatID": "Tutorial_Chat_45",
+      "NPCID": 2001,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 53,
+      "TutorialID": 51,
+      "ChatID": "Tutorial_Chat_46",
+      "NPCID": 2001,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 54,
+      "TutorialID": 51,
+      "ChatID": "Tutorial_Chat_47",
+      "NPCID": 2001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 55,
+      "TutorialID": 51,
+      "ChatID": "Tutorial_Chat_48",
+      "NPCID": 2001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 56,
+      "TutorialID": 51,
+      "ChatID": "Tutorial_Chat_49",
+      "NPCID": 2001,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "TutorialID": 53,
+      "ChatID": "Tutorial_Chat_50",
+      "NPCID": 2001,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "TutorialID": 53,
+      "ChatID": "Tutorial_Chat_51",
+      "NPCID": 2001,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "TutorialID": 54,
+      "ChatID": "Tutorial_Chat_52",
+      "NPCID": 1002,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "TutorialID": 54,
+      "ChatID": "Tutorial_Chat_53",
+      "NPCID": 1002,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "TutorialID": 54,
+      "ChatID": "Tutorial_Chat_54",
+      "NPCID": 1002,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "TutorialID": 54,
+      "ChatID": "Tutorial_Chat_55",
+      "NPCID": 1002,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 63,
+      "TutorialID": 56,
+      "ChatID": "Tutorial_Chat_57",
+      "NPCID": 1002,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "TutorialID": 56,
+      "ChatID": "Tutorial_Chat_58",
+      "NPCID": 1002,
+      "NPCAnim": 45,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "TutorialID": 56,
+      "ChatID": "Tutorial_Chat_59",
+      "NPCID": 1002,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "TutorialID": 60,
+      "ChatID": "Tutorial_Chat_60",
+      "NPCID": 1002,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "TutorialID": 60,
+      "ChatID": "Tutorial_Chat_61",
+      "NPCID": 1002,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "TutorialID": 60,
+      "ChatID": "Tutorial_Chat_62",
+      "NPCID": 1002,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 69,
+      "TutorialID": 60,
+      "ChatID": "Tutorial_Chat_63",
+      "NPCID": 1002,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_64",
+      "NPCID": 2002,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_65",
+      "NPCID": 2002,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_66",
+      "NPCID": 2002,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_67",
+      "NPCID": 2002,
+      "NPCAnim": 98,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_68",
+      "NPCID": 2002,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "TutorialID": 61,
+      "ChatID": "Tutorial_Chat_69",
+      "NPCID": 2002,
+      "NPCAnim": 126,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "TutorialID": 68,
+      "ChatID": "Tutorial_Chat_70",
+      "NPCID": 2002,
+      "NPCAnim": 16,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "TutorialID": 68,
+      "ChatID": "Tutorial_Chat_71",
+      "NPCID": 2002,
+      "NPCAnim": 32,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "TutorialID": 68,
+      "ChatID": "Tutorial_Chat_72",
+      "NPCID": 2002,
+      "NPCAnim": 13,
+      "IsRotate": false,
+      "UserAnim": "",
+      "UserAnimSec": 0,
+      "IsAnimFieldMode": false
+    }
+  ],
+  "Tooltip": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100001,
+      "ResID": "UI_tooltip_001"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100002,
+      "ResID": "UI_tooltip_002"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100003,
+      "ResID": "UI_tooltip_003"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100004,
+      "ResID": "UI_tooltip_004"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100005,
+      "ResID": "UI_tooltip_005"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100006,
+      "ResID": "UI_tooltip_006"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100007,
+      "ResID": "UI_tooltip_007"
+    }
+  ],
+  "TutorialArrangeItem": [
+    {
+      "ServiceType": "DEV",
+      "Key": 100099
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100195
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23
+    }
+  ]
+}

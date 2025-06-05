@@ -1,0 +1,266 @@
+{
+  "HouseMileage": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MaxMileage": 1000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MaxMileage": 2000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MaxMileage": 3000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MaxMileage": 4000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "MaxMileage": 5000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "MaxMileage": 6000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "MaxMileage": 7000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "MaxMileage": 8000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "MaxMileage": 9000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "MaxMileage": 10000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "MaxMileage": 11000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "MaxMileage": 12000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "MaxMileage": 13000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "MaxMileage": 14000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "MaxMileage": 15000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "MaxMileage": 16000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "MaxMileage": 17000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "MaxMileage": 18000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "MaxMileage": 19000,
+      "BuffGroupID": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "MaxMileage": 20000,
+      "BuffGroupID": 10
+    }
+  ],
+  "TownMileage": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "MaxMileage": 1000,
+      "BuffGroupID": 18,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "MaxMileage": 2000,
+      "BuffGroupID": 19,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "MaxMileage": 3000,
+      "BuffGroupID": 20,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "MaxMileage": 4000,
+      "BuffGroupID": 21,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "MaxMileage": 5000,
+      "BuffGroupID": 22,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "MaxMileage": 6000,
+      "BuffGroupID": 23,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "MaxMileage": 7000,
+      "BuffGroupID": 24,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "MaxMileage": 8000,
+      "BuffGroupID": 25,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "MaxMileage": 9000,
+      "BuffGroupID": 26,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "MaxMileage": 10000,
+      "BuffGroupID": 27,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "MaxMileage": 11000,
+      "BuffGroupID": 28,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "MaxMileage": 12000,
+      "BuffGroupID": 29,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "MaxMileage": 13000,
+      "BuffGroupID": 30,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "MaxMileage": 14000,
+      "BuffGroupID": 31,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "MaxMileage": 15000,
+      "BuffGroupID": 32,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "MaxMileage": 16000,
+      "BuffGroupID": 33,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "MaxMileage": 17000,
+      "BuffGroupID": 34,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 18,
+      "MaxMileage": 18000,
+      "BuffGroupID": 35,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 19,
+      "MaxMileage": 19000,
+      "BuffGroupID": 36,
+      "IconID": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "MaxMileage": 20000,
+      "BuffGroupID": 37,
+      "IconID": ""
+    }
+  ]
+}

@@ -1,0 +1,4383 @@
+{
+  "EAchievementTabType": [
+    {
+      "Key": 1,
+      "Value": "Tab_Living",
+      "Desc": "생활"
+    },
+    {
+      "Key": 2,
+      "Value": "Tab_Quest",
+      "Desc": "퀘스트"
+    },
+    {
+      "Key": 3,
+      "Value": "Tab_Collection",
+      "Desc": "수집"
+    },
+    {
+      "Key": 4,
+      "Value": "Tab_Interaction",
+      "Desc": "소통"
+    },
+    {
+      "Key": 5,
+      "Value": "Tab_Custom",
+      "Desc": "꾸미기"
+    }
+  ],
+  "EActionType": [
+    {
+      "Key": 1,
+      "Value": "Appear",
+      "Desc": "등장"
+    },
+    {
+      "Key": 2,
+      "Value": "Talk",
+      "Desc": "말하기"
+    },
+    {
+      "Key": 3,
+      "Value": "Exit",
+      "Desc": "퇴장"
+    },
+    {
+      "Key": 0,
+      "Value": "None",
+      "Desc": "아무것도 안함"
+    }
+  ],
+  "EAnimationType": [
+    {
+      "Key": 0,
+      "Value": "None",
+      "Desc": "아무것도 안함"
+    },
+    {
+      "Key": 1,
+      "Value": "farm_stand01",
+      "Desc": "파밍 진행중"
+    },
+    {
+      "Key": 2,
+      "Value": "farm_stand02",
+      "Desc": "파밍 2단계 진행"
+    },
+    {
+      "Key": 3,
+      "Value": "farm_stand03",
+      "Desc": "파밍 완료"
+    },
+    {
+      "Key": 4,
+      "Value": "farm_idle01",
+      "Desc": "파밍 진행중 랜덤 재생될 애니메이션"
+    },
+    {
+      "Key": 5,
+      "Value": "farm_idle02",
+      "Desc": "파밍 2단계에서 랜덤 재생될 애니메이션"
+    },
+    {
+      "Key": 6,
+      "Value": "farm_idle03",
+      "Desc": "파밍 완료 시 랜덤 재생될 애니메이션"
+    },
+    {
+      "Key": 7,
+      "Value": "farm_start01",
+      "Desc": "파밍 시작"
+    },
+    {
+      "Key": 8,
+      "Value": "farm_gathering",
+      "Desc": "파밍 수확 시 애니메이션"
+    },
+    {
+      "Key": 9,
+      "Value": "farm_selecting01",
+      "Desc": "파밍 진행 중 터치"
+    },
+    {
+      "Key": 10,
+      "Value": "farm_selecting02",
+      "Desc": "파밍 2단계 진행 중 터치"
+    },
+    {
+      "Key": 11,
+      "Value": "grow01",
+      "Desc": "밭 새싹 애니메이션"
+    },
+    {
+      "Key": 12,
+      "Value": "stand01",
+      "Desc": "가만히 서있는 애니메이션"
+    },
+    {
+      "Key": 13,
+      "Value": "happy01",
+      "Desc": "기쁘게 웃는 애니메이션"
+    },
+    {
+      "Key": 14,
+      "Value": "excited01",
+      "Desc": "흥얼거리며 즐거워하는 애니메이션 (음표 출력)"
+    },
+    {
+      "Key": 15,
+      "Value": "lol01",
+      "Desc": "빵 터져서 몸을 흔드는 애니메이션 (함박웃음)"
+    },
+    {
+      "Key": 16,
+      "Value": "hi01",
+      "Desc": "반갑게 손 흔들며 인사하는 애니메이션"
+    },
+    {
+      "Key": 17,
+      "Value": "hello01",
+      "Desc": "꾸벅 인사하는 애니메이션"
+    },
+    {
+      "Key": 18,
+      "Value": "clap01",
+      "Desc": "박수하는 애니메이션"
+    },
+    {
+      "Key": 19,
+      "Value": "love01",
+      "Desc": "사랑에 빠진 애니메이션 (하트가 뾱 터지는)"
+    },
+    {
+      "Key": 20,
+      "Value": "peaceful01",
+      "Desc": "두 팔을 벌리고 행복해하는 애니메이션"
+    },
+    {
+      "Key": 21,
+      "Value": "dance01",
+      "Desc": "춤 추는 애니메이션"
+    },
+    {
+      "Key": 22,
+      "Value": "shock01",
+      "Desc": "쿠궁 하고 충격 받은 애니메이션"
+    },
+    {
+      "Key": 23,
+      "Value": "sad01",
+      "Desc": "머리 위에 비구름이 뜨며 침울해지는 애니메이션"
+    },
+    {
+      "Key": 24,
+      "Value": "cry01",
+      "Desc": "눈물을 뚝뚝 흘리며 우는 애니메이션"
+    },
+    {
+      "Key": 25,
+      "Value": "mad01",
+      "Desc": "머리에 스팀이 나면서 화내는 애니메이션"
+    },
+    {
+      "Key": 26,
+      "Value": "tired01",
+      "Desc": "하품하는 애니메이션"
+    },
+    {
+      "Key": 27,
+      "Value": "worry01",
+      "Desc": "머리 위에 … 말풍선이 뜨면서 고민하는 애니메이션"
+    },
+    {
+      "Key": 28,
+      "Value": "question01",
+      "Desc": "궁금해 하는 애니메이션 (머리 위에 물음표)"
+    },
+    {
+      "Key": 29,
+      "Value": "brag01",
+      "Desc": "끄덕거리면서 미소 짓는 애니메이션"
+    },
+    {
+      "Key": 30,
+      "Value": "shy01",
+      "Desc": "부끄러워하는 애니메이션"
+    },
+    {
+      "Key": 31,
+      "Value": "sulky01",
+      "Desc": "실망해서 팔짱을 끼고 입이 나오는 삐진 애니메이션"
+    },
+    {
+      "Key": 32,
+      "Value": "expected01",
+      "Desc": "두 손을 모으고 눈이 초롱초롱 해지는 기대하는 애니메이션"
+    },
+    {
+      "Key": 33,
+      "Value": "scared01",
+      "Desc": "덜덜 떨며 무서워하는 애니메이션"
+    },
+    {
+      "Key": 34,
+      "Value": "walk01",
+      "Desc": "걷는 애니메이션"
+    },
+    {
+      "Key": 35,
+      "Value": "cheerup01",
+      "Desc": "응원하는 애니메이션 (할 수 있어!)"
+    },
+    {
+      "Key": 36,
+      "Value": "lonely01",
+      "Desc": "바람 한줄기가 휭 불면서 쓸쓸해보이는 애니메이션"
+    },
+    {
+      "Key": 37,
+      "Value": "awkward01",
+      "Desc": "어쩔줄 몰라하는 애니메이션 (곤란)"
+    },
+    {
+      "Key": 38,
+      "Value": "noidea01",
+      "Desc": "양손을 올리며 몰라하는 애니메이션 (몰라)"
+    },
+    {
+      "Key": 39,
+      "Value": "realize01",
+      "Desc": "무언가를 번뜩 알아낸 애니메이션 (전구등)"
+    },
+    {
+      "Key": 40,
+      "Value": "heartbreak01",
+      "Desc": "실연당한 애니메이션 (하트가 깨짐)"
+    },
+    {
+      "Key": 41,
+      "Value": "nod01",
+      "Desc": "끄덕끄덕 애니메이션"
+    },
+    {
+      "Key": 42,
+      "Value": "noway01",
+      "Desc": "절레절레하는 애니메이션"
+    },
+    {
+      "Key": 43,
+      "Value": "giveme01",
+      "Desc": "주세요 하는 애니메이션"
+    },
+    {
+      "Key": 44,
+      "Value": "hungry01",
+      "Desc": "배에서 꼬르륵 애니메이션 (배고파)"
+    },
+    {
+      "Key": 45,
+      "Value": "sigh01",
+      "Desc": "한숨쉬는 애니메이션"
+    },
+    {
+      "Key": 46,
+      "Value": "spark01",
+      "Desc": "찌릿 째려보는 애니메이션 (꿍꿍이)"
+    },
+    {
+      "Key": 47,
+      "Value": "congratulations01",
+      "Desc": "폭죽 터뜨리는 애니메이션 (축하)"
+    },
+    {
+      "Key": 48,
+      "Value": "surprise01",
+      "Desc": "두 손 들고 짜잔! 하는 애니메이션"
+    },
+    {
+      "Key": 49,
+      "Value": "lookaround01",
+      "Desc": "두리번하는 애니메이션"
+    },
+    {
+      "Key": 50,
+      "Value": "change_cloth01",
+      "Desc": "등 악세서리 변경 후, 만족한 애니메이션"
+    },
+    {
+      "Key": 51,
+      "Value": "change_hair01",
+      "Desc": "헤어 변경 후, 머리카락을 찰랑~ 넘기고 만족한 애니메이션"
+    },
+    {
+      "Key": 52,
+      "Value": "change_eye01",
+      "Desc": "눈색 변경 후, 눈을 깜빡, 깜빡하는 애니메이션"
+    },
+    {
+      "Key": 53,
+      "Value": "change_accessories01",
+      "Desc": "오른손 들고 만족한 애니메이션"
+    },
+    {
+      "Key": 54,
+      "Value": "change_shoes01",
+      "Desc": "신발을 보며 뚜벅 뚜벅하는 애니메이션"
+    },
+    {
+      "Key": 55,
+      "Value": "plantseed01",
+      "Desc": "씨앗을 심는 애니메이션"
+    },
+    {
+      "Key": 56,
+      "Value": "planttree01",
+      "Desc": "나무를 심는 애니메이션"
+    },
+    {
+      "Key": 57,
+      "Value": "plantelse01",
+      "Desc": "밭, 나무 외의 것을 심는 애니메이션"
+    },
+    {
+      "Key": 58,
+      "Value": "waterplants01",
+      "Desc": "물 주는 애니메이션"
+    },
+    {
+      "Key": 59,
+      "Value": "logging01",
+      "Desc": "벌목하는 애니메이션"
+    },
+    {
+      "Key": 60,
+      "Value": "shakingtree01",
+      "Desc": "나무 흔드는 애니메이션 (열매 수확)"
+    },
+    {
+      "Key": 61,
+      "Value": "waitseed01",
+      "Desc": "허리 숙이고 씨앗을 보며 방긋 웃는 애니메이션"
+    },
+    {
+      "Key": 62,
+      "Value": "waittree01",
+      "Desc": "위를 보며 방긋 웃는 애니메이션"
+    },
+    {
+      "Key": 63,
+      "Value": "waitelse01",
+      "Desc": "두 손을 활짝 벌리며 웃는 애니메이션"
+    },
+    {
+      "Key": 64,
+      "Value": "mine01",
+      "Desc": "채굴하는 애니메이션"
+    },
+    {
+      "Key": 65,
+      "Value": "mine02",
+      "Desc": "채굴기 들고 가만히 서있는 애니메이션"
+    },
+    {
+      "Key": 66,
+      "Value": "minewalk01",
+      "Desc": "채굴기 들고 걷는 애니메이션"
+    },
+    {
+      "Key": 67,
+      "Value": "hold01",
+      "Desc": "양손을 머리 위로 들고 있는 애니메이션"
+    },
+    {
+      "Key": 68,
+      "Value": "hold02",
+      "Desc": "양손을 머리 위로 들고 걷는 애니메이션"
+    },
+    {
+      "Key": 69,
+      "Value": "sit01",
+      "Desc": "앉기 시작 애니메이션"
+    },
+    {
+      "Key": 70,
+      "Value": "sit02",
+      "Desc": "앉기 애니메이션"
+    },
+    {
+      "Key": 71,
+      "Value": "sithorse01",
+      "Desc": "말 위에 앉기 시작 애니메이션"
+    },
+    {
+      "Key": 72,
+      "Value": "sithorse02",
+      "Desc": "말 위에 앉는 애니메이션"
+    },
+    {
+      "Key": 73,
+      "Value": "liedown01",
+      "Desc": "눕기 시작 애니메이션"
+    },
+    {
+      "Key": 74,
+      "Value": "liedown02",
+      "Desc": "눕기 애니메이션"
+    },
+    {
+      "Key": 75,
+      "Value": "eat01",
+      "Desc": "먹는 애니메이션"
+    },
+    {
+      "Key": 76,
+      "Value": "read01",
+      "Desc": "비스듬히 서서 책을 샤라락 빠르게 넘기는 애니메이션"
+    },
+    {
+      "Key": 77,
+      "Value": "bornfire01",
+      "Desc": "양 손을 뻗어 불을 쬐는 애니메이션"
+    },
+    {
+      "Key": 78,
+      "Value": "bath01",
+      "Desc": "착용 중인 옷을 벗고 거품 목욕하는 애니메이션"
+    },
+    {
+      "Key": 79,
+      "Value": "teatime01",
+      "Desc": "차 한 모금 마신 후 샤라랑 만족하는 애니메이션"
+    },
+    {
+      "Key": 80,
+      "Value": "cook01",
+      "Desc": "프라이팬을 들고 요리하는 애니메이션"
+    },
+    {
+      "Key": 81,
+      "Value": "clean01",
+      "Desc": "먼지 털이개로 먼지를 두번 탁탁 터는 애니메이션"
+    },
+    {
+      "Key": 82,
+      "Value": "makeup01",
+      "Desc": "쿠션으로 양 볼을 팡팡 두드리는 애니메이션 "
+    },
+    {
+      "Key": 83,
+      "Value": "craft_cook01",
+      "Desc": "크래프팅 요리, 후라이팬을 지글지글 볶는 애니메이션"
+    },
+    {
+      "Key": 84,
+      "Value": "craft_wood01",
+      "Desc": "크래프팅 원목, 망치로 제작 중인 것을 딱딱 치는 애니메이션"
+    },
+    {
+      "Key": 85,
+      "Value": "craft_metal01",
+      "Desc": "크래프팅 금속, 보글보글 끓는 화로에 금속 막대기를 집어넣는 애니메이션"
+    },
+    {
+      "Key": 86,
+      "Value": "craft_sewing01",
+      "Desc": "크래프팅 재봉, 재봉틀로 천을 박음질하는 애니메이션"
+    },
+    {
+      "Key": 87,
+      "Value": "craft_pottery01",
+      "Desc": "크래프팅 도예, 돌고 있는 물레에서 도자기를 빚는 애니메이션"
+    },
+    {
+      "Key": 88,
+      "Value": "craft_event01",
+      "Desc": "크래프팅 이벤트, 항아리를 주걱을 돌리는 애니메이션"
+    },
+    {
+      "Key": 89,
+      "Value": "harvest01",
+      "Desc": "작물을 뽑아 수확하는 애니메이션 "
+    },
+    {
+      "Key": 90,
+      "Value": "waitanimal01",
+      "Desc": "고개를 옆으로 숙인 채로 방긋 웃는 애니메이션"
+    },
+    {
+      "Key": 91,
+      "Value": "pickup01",
+      "Desc": "무언가를 줍는 듯한 애니메이션"
+    },
+    {
+      "Key": 92,
+      "Value": "searchbush01",
+      "Desc": "허리를 숙여 덤불을 헤쳐보는 애니메이션"
+    },
+    {
+      "Key": 93,
+      "Value": "pushwagon01",
+      "Desc": "광산차를 동굴 안으로 미는 애니메이션"
+    },
+    {
+      "Key": 94,
+      "Value": "serarchmine01",
+      "Desc": "곡괭이로 광산 바닥을 캐는 애니메이션"
+    },
+    {
+      "Key": 95,
+      "Value": "usedrill01",
+      "Desc": "드릴을 사용하는 애니메이션"
+    },
+    {
+      "Key": 96,
+      "Value": "craft_leather01",
+      "Desc": "크래프팅 가죽, 가죽을 가위로 자르는 애니메이션"
+    },
+    {
+      "Key": 97,
+      "Value": "craft_science01",
+      "Desc": "크래프팅 실험, 플라스크에 스포이드로 물방울을 떨어뜨리는 애니메이션"
+    },
+    {
+      "Key": 98,
+      "Value": "talk01",
+      "Desc": "말하는 애니메이션"
+    },
+    {
+      "Key": 99,
+      "Value": "change_makeup01",
+      "Desc": "얼굴 아이템 변경 후, 만족하는 애니메이션"
+    },
+    {
+      "Key": 100,
+      "Value": "sithorse03",
+      "Desc": "말 탑승한 상태로 서있는 애니메이션"
+    },
+    {
+      "Key": 101,
+      "Value": "worry02",
+      "Desc": "난감해하는 애니메이션 (땀흘리기)"
+    },
+    {
+      "Key": 102,
+      "Value": "change_cloth02",
+      "Desc": "복장 변경 후, 만족한 애니메이션"
+    },
+    {
+      "Key": 103,
+      "Value": "change_accessories02",
+      "Desc": "왼손 들고 만족한 애니메이션"
+    },
+    {
+      "Key": 104,
+      "Value": "change_floor01",
+      "Desc": "바닥을 쳐다보며 좋아하는 애니메이션"
+    },
+    {
+      "Key": 105,
+      "Value": "sit03",
+      "Desc": "앉았다가 일어나는 애니메이션"
+    },
+    {
+      "Key": 106,
+      "Value": "sit04",
+      "Desc": "서있는 것처럼 앉아있으며 허리를 숙인 상태로 팔을 내밀고 있는 상태"
+    },
+    {
+      "Key": 107,
+      "Value": "sit06",
+      "Desc": "뒷모습이 보이는 의자에 앉기"
+    },
+    {
+      "Key": 108,
+      "Value": "bug01",
+      "Desc": "버기가 지지직 거리는 애니메이션"
+    },
+    {
+      "Key": 109,
+      "Value": "walk02",
+      "Desc": "나쁜 표정을 하고 걷는 애니메이션"
+    },
+    {
+      "Key": 110,
+      "Value": "sithorse04",
+      "Desc": "말에서 내리는 애니메이션"
+    },
+    {
+      "Key": 111,
+      "Value": "hairsalon01",
+      "Desc": "미용실에서 머리 염색하는 애니메이션"
+    },
+    {
+      "Key": 112,
+      "Value": "logging02",
+      "Desc": "벌목 완료 애니메이션"
+    },
+    {
+      "Key": 113,
+      "Value": "drowse01",
+      "Desc": "꾸벅 꾸벅 졸다가 깨기"
+    },
+    {
+      "Key": 114,
+      "Value": "humming01",
+      "Desc": "팔짱을 낀채 흥얼거리기"
+    },
+    {
+      "Key": 115,
+      "Value": "lookatsky01",
+      "Desc": "하늘을 보기"
+    },
+    {
+      "Key": 116,
+      "Value": "logging03",
+      "Desc": "도끼 내려놓기"
+    },
+    {
+      "Key": 117,
+      "Value": "farm_growup",
+      "Desc": "파밍이 자라나는 애니메이션"
+    },
+    {
+      "Key": 118,
+      "Value": "farm_walk01",
+      "Desc": "동물이 걷는 애니메이션"
+    },
+    {
+      "Key": 119,
+      "Value": "farm_walk02",
+      "Desc": "동물이 느리게 걷는 애니메이션"
+    },
+    {
+      "Key": 120,
+      "Value": "farm_starting_pushwagon01",
+      "Desc": "파밍 파견 시작"
+    },
+    {
+      "Key": 121,
+      "Value": "farm_farming",
+      "Desc": "파밍중"
+    },
+    {
+      "Key": 122,
+      "Value": "farm_gathering_start",
+      "Desc": "파밍해낸 아이템 등장"
+    },
+    {
+      "Key": 123,
+      "Value": "farm_gathering_loop",
+      "Desc": "파밍한 아이템 대기 연속 반복"
+    },
+    {
+      "Key": 124,
+      "Value": "farm_gathering_touchEnd",
+      "Desc": "수확 터치 시"
+    },
+    {
+      "Key": 125,
+      "Value": "move_car",
+      "Desc": "자동차에 타고 가기"
+    },
+    {
+      "Key": 126,
+      "Value": "signature01",
+      "Desc": "산리오캐릭터즈 고유 애니메이션"
+    },
+    {
+      "Key": 127,
+      "Value": "comein01",
+      "Desc": "기차 이동"
+    },
+    {
+      "Key": 128,
+      "Value": "fishingstart01",
+      "Desc": "낚시 시작"
+    },
+    {
+      "Key": 129,
+      "Value": "fishing01",
+      "Desc": "낚시중"
+    },
+    {
+      "Key": 130,
+      "Value": "fishingsuccess01",
+      "Desc": "물고기 잡힘"
+    },
+    {
+      "Key": 131,
+      "Value": "fishingend01",
+      "Desc": "낚시 끝"
+    },
+    {
+      "Key": 132,
+      "Value": "swimming01",
+      "Desc": "수영하기"
+    },
+    {
+      "Key": 133,
+      "Value": "gift01",
+      "Desc": "선물 주기"
+    },
+    {
+      "Key": 134,
+      "Value": "throwcoin01",
+      "Desc": "동전 던지기"
+    },
+    {
+      "Key": 135,
+      "Value": "dynamite01",
+      "Desc": "다이너마이트하는 애니메이션"
+    },
+    {
+      "Key": 136,
+      "Value": "activate01",
+      "Desc": "가구 활성화 애니메이션"
+    },
+    {
+      "Key": 137,
+      "Value": "bath_start01",
+      "Desc": "착용 중인 옷을 벗는 애니메이션"
+    },
+    {
+      "Key": 138,
+      "Value": "bath_jump01",
+      "Desc": "욕조로 뛰어드는 애니메이션"
+    },
+    {
+      "Key": 139,
+      "Value": "sitfloor01",
+      "Desc": "앉기 시작 (다리 뻗은 상태)"
+    },
+    {
+      "Key": 140,
+      "Value": "sitfloor02",
+      "Desc": "앉기 (다리 뻗은 상태)"
+    },
+    {
+      "Key": 141,
+      "Value": "sitfloor03",
+      "Desc": "일어나기 (다리 뻗은 상태)"
+    },
+    {
+      "Key": 142,
+      "Value": "liedown03",
+      "Desc": "일어나기 애니메이션"
+    },
+    {
+      "Key": 143,
+      "Value": "jump01",
+      "Desc": "트램폴린에서 점프하듯 점프하기"
+    },
+    {
+      "Key": 144,
+      "Value": "armturnside01",
+      "Desc": "옆으로 팔을 돌리기 "
+    },
+    {
+      "Key": 145,
+      "Value": "shock02",
+      "Desc": "입틀막"
+    },
+    {
+      "Key": 146,
+      "Value": "craft_cook_end01",
+      "Desc": "요리 끝"
+    },
+    {
+      "Key": 147,
+      "Value": "craft_wood_end01",
+      "Desc": "원목 끝"
+    },
+    {
+      "Key": 148,
+      "Value": "craft_metal_end01",
+      "Desc": "금속 끝"
+    },
+    {
+      "Key": 149,
+      "Value": "craft_sewing_end01",
+      "Desc": "재단 끝"
+    },
+    {
+      "Key": 150,
+      "Value": "craft_pottery_end01",
+      "Desc": "도예 끝"
+    },
+    {
+      "Key": 151,
+      "Value": "craft_science_end01",
+      "Desc": "이벤트 끝"
+    },
+    {
+      "Key": 152,
+      "Value": "showoff01",
+      "Desc": "잘난척하기"
+    },
+    {
+      "Key": 153,
+      "Value": "hard01",
+      "Desc": "머리 붙잡고 괴로워하면서 고민하기"
+    },
+    {
+      "Key": 154,
+      "Value": "dizzy01",
+      "Desc": "한손으로 머리 붙잡고 몸을 흔들면서 어지러워하기"
+    },
+    {
+      "Key": 155,
+      "Value": "craft_leather_end01",
+      "Desc": "가죽 끝"
+    },
+    {
+      "Key": 156,
+      "Value": "b_raise_r_arm",
+      "Desc": "오른쪽 팔 들기"
+    },
+    {
+      "Key": 157,
+      "Value": "b_raise_l_arm",
+      "Desc": "왼쪽 팔 들기"
+    },
+    {
+      "Key": 158,
+      "Value": "b_raise_arm",
+      "Desc": "두 팔 모두 들기"
+    },
+    {
+      "Key": 159,
+      "Value": "b_sit",
+      "Desc": "쭈구려 앉기"
+    },
+    {
+      "Key": 160,
+      "Value": "b_jump",
+      "Desc": "점프하기"
+    },
+    {
+      "Key": 161,
+      "Value": "b_strech_r_arm",
+      "Desc": "옆으로 오른쪽 팔 들기"
+    },
+    {
+      "Key": 162,
+      "Value": "b_strech_l_arm",
+      "Desc": "옆으로 왼쪽 팔 들기"
+    },
+    {
+      "Key": 163,
+      "Value": "b_stretch_arm",
+      "Desc": "두팔 모두 옆으로 들기 (大자로)"
+    },
+    {
+      "Key": 164,
+      "Value": "b_waist_hand",
+      "Desc": "양손 허리에 손 올리기"
+    },
+    {
+      "Key": 165,
+      "Value": "b_raise_r_arm_jump",
+      "Desc": "오른쪽 팔 들면서 점프"
+    },
+    {
+      "Key": 166,
+      "Value": "b_raise_l_arm_jump",
+      "Desc": "왼쪽 팔 들면서 점프"
+    },
+    {
+      "Key": 167,
+      "Value": "b_raise_r_leg",
+      "Desc": "오른쪽 발 들기 (ㄱ자)"
+    },
+    {
+      "Key": 168,
+      "Value": "b_raise_l_leg",
+      "Desc": "왼쪽 발 들기 (ㄱ자)"
+    },
+    {
+      "Key": 169,
+      "Value": "b_kick_r_leg",
+      "Desc": "오른쪽 발차기"
+    },
+    {
+      "Key": 170,
+      "Value": "b_kick_l_leg",
+      "Desc": "왼쪽 발차기"
+    },
+    {
+      "Key": 171,
+      "Value": "b_hand_cheek_both",
+      "Desc": "양손 뺨 근처로 올리기"
+    },
+    {
+      "Key": 172,
+      "Value": "b_head_shake_lr",
+      "Desc": "앞뒤로 흔들기"
+    },
+    {
+      "Key": 173,
+      "Value": "b_sweep_l_hair",
+      "Desc": "왼손으로 머리 옆을 쓸어넘기기"
+    },
+    {
+      "Key": 174,
+      "Value": "b_sweep_r_hair",
+      "Desc": "오른손으로 머리 옆을 쓸어넘기기"
+    },
+    {
+      "Key": 175,
+      "Value": "b_hand_r_chin",
+      "Desc": "오른손을 턱 밑에 대기"
+    },
+    {
+      "Key": 176,
+      "Value": "b_hand_l_chin",
+      "Desc": "왼손을 턱 밑에 대기"
+    },
+    {
+      "Key": 177,
+      "Value": "b_wave_fb_l_hand",
+      "Desc": "왼손 앞뒤로 흔들기"
+    },
+    {
+      "Key": 178,
+      "Value": "b_wave_fb_r_hand",
+      "Desc": "오른손 앞뒤로 흔들기"
+    },
+    {
+      "Key": 179,
+      "Value": "b_wave_fb_hand",
+      "Desc": "양손 앞뒤로 흔들기"
+    },
+    {
+      "Key": 180,
+      "Value": "b_wave_lr_l_hand",
+      "Desc": "왼손 좌우로 흔들기"
+    },
+    {
+      "Key": 181,
+      "Value": "b_wave_lr_r_hand",
+      "Desc": "오른손 좌우로 흔들기"
+    },
+    {
+      "Key": 182,
+      "Value": "b_wave_lr_hand",
+      "Desc": "양손 좌우로 흔들기"
+    },
+    {
+      "Key": 183,
+      "Value": "b_shoulder_shrug",
+      "Desc": "어깨 들썩이기"
+    }
+  ],
+  "EAnimTabType": [
+    {
+      "Key": 1,
+      "Value": "FaceEmotion",
+      "Desc": "감정"
+    },
+    {
+      "Key": 2,
+      "Value": "Action",
+      "Desc": "행동"
+    }
+  ],
+  "EArrangeItemType": [
+    {
+      "Key": 1,
+      "Value": "Floor",
+      "Desc": "기본 바닥",
+      "IconID": "icon_ArrangeType_Floor"
+    },
+    {
+      "Key": 2,
+      "Value": "Prop",
+      "Desc": "소품",
+      "IconID": "icon_ArrangeType_Prop"
+    },
+    {
+      "Key": 3,
+      "Value": "Chair",
+      "Desc": "의자",
+      "IconID": "icon_ArrangeType_Chair"
+    },
+    {
+      "Key": 4,
+      "Value": "Table",
+      "Desc": "테이블",
+      "IconID": "icon_ArrangeType_Table"
+    },
+    {
+      "Key": 5,
+      "Value": "Wall",
+      "Desc": "벽 장식",
+      "IconID": "icon_ArrangeType_Wall"
+    },
+    {
+      "Key": 6,
+      "Value": "Carpet",
+      "Desc": "카펫",
+      "IconID": "icon_ArrangeType_Carpet"
+    },
+    {
+      "Key": 7,
+      "Value": "SkinWall",
+      "Desc": "벽지",
+      "IconID": "icon_ArrangeType_SkinWall"
+    },
+    {
+      "Key": 8,
+      "Value": "SkinFloor",
+      "Desc": "바닥재",
+      "IconID": "icon_ArrangeType_SkinFloor"
+    },
+    {
+      "Key": 9,
+      "Value": "FlooringTile",
+      "Desc": "야외 바닥재",
+      "IconID": "icon_ArrangeType_FlooringTile"
+    },
+    {
+      "Key": 10,
+      "Value": "Stair",
+      "Desc": "계단",
+      "IconID": "icon_ArrangeType_Stair"
+    },
+    {
+      "Key": 11,
+      "Value": "AerialWall",
+      "Desc": "공중 벽 가구",
+      "IconID": "icon_ArrangeType_AerialWall"
+    },
+    {
+      "Key": 12,
+      "Value": "Fence",
+      "Desc": "울타리",
+      "IconID": "icon_ArrangeType_Fence"
+    },
+    {
+      "Key": 13,
+      "Value": "Floating",
+      "Desc": "수상 가구",
+      "IconID": "icon_ArrangeType_Floating"
+    }
+  ],
+  "EBoxType": [
+    {
+      "Key": 1,
+      "Value": "Probability",
+      "Desc": "확률형"
+    },
+    {
+      "Key": 2,
+      "Value": "Selection",
+      "Desc": "선택형"
+    },
+    {
+      "Key": 3,
+      "Value": "Fix",
+      "Desc": "고정형"
+    }
+  ],
+  "EBuffCategoryType": [
+    {
+      "Key": 0,
+      "Value": "All",
+      "Desc": "전체"
+    },
+    {
+      "Key": 1,
+      "Value": "FarmingBuff",
+      "Desc": "파밍"
+    },
+    {
+      "Key": 2,
+      "Value": "CraftingBuff",
+      "Desc": "제작"
+    },
+    {
+      "Key": 3,
+      "Value": "QuestBuff",
+      "Desc": "퀘스트"
+    },
+    {
+      "Key": 4,
+      "Value": "LivingBuff",
+      "Desc": "생활"
+    }
+  ],
+  "EBuffType": [
+    {
+      "Key": 1,
+      "Value": "FarmExp",
+      "Desc": "생산 경험치 증가"
+    },
+    {
+      "Key": 2,
+      "Value": "CraftExp",
+      "Desc": "제작 경험치 증가"
+    },
+    {
+      "Key": 3,
+      "Value": "FarmQuantity",
+      "Desc": "생산량 증가"
+    },
+    {
+      "Key": 4,
+      "Value": "CraftMax",
+      "Desc": "최대 제작 가능 개수 증가"
+    },
+    {
+      "Key": 5,
+      "Value": "FarmTime",
+      "Desc": "생산 시간 단축"
+    },
+    {
+      "Key": 6,
+      "Value": "CraftTime",
+      "Desc": "제작 시간 단축"
+    },
+    {
+      "Key": 7,
+      "Value": "RareRate",
+      "Desc": "희귀 재료 획득 확률 증가"
+    },
+    {
+      "Key": 8,
+      "Value": "QuestExp",
+      "Desc": "퀘스트 보상 경험치 증가"
+    },
+    {
+      "Key": 9,
+      "Value": "QuestMoney",
+      "Desc": "퀘스트 보상 골드 증가"
+    },
+    {
+      "Key": 10,
+      "Value": "CraftMoney",
+      "Desc": "제작 비용 할인"
+    },
+    {
+      "Key": 11,
+      "Value": "WalkFast",
+      "Desc": "빠른 걸음"
+    },
+    {
+      "Key": 12,
+      "Value": "InvenSlot",
+      "Desc": "창고 슬롯 수 증가"
+    },
+    {
+      "Key": 13,
+      "Value": "RequestExp",
+      "Desc": "아르바이트 보상 경험치 증가"
+    },
+    {
+      "Key": 14,
+      "Value": "RequestMoney",
+      "Desc": "아르바이트 보상 골드 증가"
+    },
+    {
+      "Key": 15,
+      "Value": "RequestGF",
+      "Desc": "아르바이트 보상 호감도 증가"
+    },
+    {
+      "Key": 16,
+      "Value": "FarmQuantityRate",
+      "Desc": "추가 생산 확률 증가"
+    },
+    {
+      "Key": 17,
+      "Value": "TreeLogMax",
+      "Desc": "벌목형 나무 벌목 시 수확 최대 수량 증가"
+    },
+    {
+      "Key": 18,
+      "Value": "RareQuantity",
+      "Desc": "희귀 재료 획득 개수 증가"
+    },
+    {
+      "Key": 19,
+      "Value": "DyeNormalDC",
+      "Desc": "미용실 단일 염색 비용 할인"
+    },
+    {
+      "Key": 20,
+      "Value": "DyePremiumDC",
+      "Desc": "미용실 투톤 염색 비용 할인"
+    },
+    {
+      "Key": 21,
+      "Value": "WeedsRate",
+      "Desc": "잡초 희귀 재료 획득 확률 증가"
+    },
+    {
+      "Key": 22,
+      "Value": "CraftingTouchTime",
+      "Desc": "크래프팅 터치 시 단축 시간 증가"
+    }
+  ],
+  "EBuffValueType": [
+    {
+      "Key": 1,
+      "Value": "BuffPercent",
+      "Desc": "퍼센트"
+    },
+    {
+      "Key": 2,
+      "Value": "BuffCount",
+      "Desc": "절댓값"
+    }
+  ],
+  "EBuyMethodType": [
+    {
+      "Key": 1,
+      "Value": "InstantGain",
+      "Desc": "즉시 획득"
+    },
+    {
+      "Key": 2,
+      "Value": "IAP",
+      "Desc": "IAP"
+    }
+  ],
+  "ECalculateType": [
+    {
+      "Key": 1,
+      "Value": "Fix",
+      "Desc": "고정"
+    },
+    {
+      "Key": 2,
+      "Value": "Item",
+      "Desc": "아이템"
+    },
+    {
+      "Key": 3,
+      "Value": "CarryOutCount",
+      "Desc": "수행 횟수"
+    },
+    {
+      "Key": 4,
+      "Value": "QuestLevel",
+      "Desc": "퀘스트 레벨"
+    }
+  ],
+  "ECashShopTabType": [
+    {
+      "Key": 1,
+      "Value": "EmotionStone",
+      "Desc": "이모션 스톤"
+    },
+    {
+      "Key": 2,
+      "Value": "Gold",
+      "Desc": "골드"
+    },
+    {
+      "Key": 3,
+      "Value": "Jewel",
+      "Desc": "주얼"
+    },
+    {
+      "Key": 4,
+      "Value": "Fashion_Enter",
+      "Desc": "패션 참가권"
+    },
+    {
+      "Key": 5,
+      "Value": "Fashion_Vote",
+      "Desc": "패션 투표권"
+    }
+  ],
+  "ECategoryType": [
+    {
+      "Key": 1,
+      "Value": "Placement",
+      "Desc": "배치형"
+    },
+    {
+      "Key": 2,
+      "Value": "Consume",
+      "Desc": "소모형"
+    },
+    {
+      "Key": 3,
+      "Value": "Material",
+      "Desc": "재료형"
+    },
+    {
+      "Key": 4,
+      "Value": "Equipment",
+      "Desc": "장착형"
+    },
+    {
+      "Key": 5,
+      "Value": "Etc",
+      "Desc": "기타"
+    }
+  ],
+  "ECharActionType": [
+    {
+      "Key": 1,
+      "Value": "VisitFriend",
+      "Desc": "친구 하우스 방문"
+    },
+    {
+      "Key": 2,
+      "Value": "GiveWater",
+      "Desc": "친구 화분에 물 주기"
+    },
+    {
+      "Key": 3,
+      "Value": "Capture",
+      "Desc": "캐릭터 촬영하기"
+    },
+    {
+      "Key": 4,
+      "Value": "IngameStart",
+      "Desc": "인게임 진입"
+    }
+  ],
+  "ECollectionTabType": [
+    {
+      "Key": 1,
+      "Value": "CollectionTabType_1",
+      "Desc": "크래프팅 가구"
+    },
+    {
+      "Key": 2,
+      "Value": "CollectionTabType_2",
+      "Desc": "헬로키티"
+    },
+    {
+      "Key": 3,
+      "Value": "CollectionTabType_3",
+      "Desc": "시나모롤"
+    },
+    {
+      "Key": 4,
+      "Value": "CollectionTabType_4",
+      "Desc": "폼폼푸린"
+    },
+    {
+      "Key": 5,
+      "Value": "CollectionTabType_5",
+      "Desc": "포차코"
+    },
+    {
+      "Key": 6,
+      "Value": "CollectionTabType_6",
+      "Desc": "케로케로케로피"
+    },
+    {
+      "Key": 7,
+      "Value": "CollectionTabType_7",
+      "Desc": "마이멜로디"
+    },
+    {
+      "Key": 8,
+      "Value": "CollectionTabType_8",
+      "Desc": "패션몰"
+    },
+    {
+      "Key": 9,
+      "Value": "CollectionTabType_9",
+      "Desc": "재료"
+    },
+    {
+      "Key": 10,
+      "Value": "CollectionTabType_10",
+      "Desc": "나무"
+    },
+    {
+      "Key": 11,
+      "Value": "CollectionTabType_11",
+      "Desc": "동물"
+    },
+    {
+      "Key": 12,
+      "Value": "CollectionTabType_12",
+      "Desc": "작물"
+    },
+    {
+      "Key": 13,
+      "Value": "CollectionTabType_13",
+      "Desc": "동굴"
+    },
+    {
+      "Key": 14,
+      "Value": "CollectionTabType_14",
+      "Desc": "잡초"
+    },
+    {
+      "Key": 15,
+      "Value": "CollectionTabType_15",
+      "Desc": "쿠로미"
+    }
+  ],
+  "ECollectionType": [
+    {
+      "Key": 1,
+      "Value": "Collection_Event",
+      "Desc": "이벤트 도감"
+    },
+    {
+      "Key": 2,
+      "Value": "Collection_NPC",
+      "Desc": "주민 수첩"
+    },
+    {
+      "Key": 3,
+      "Value": "Collection_Furniture",
+      "Desc": "가구 도감"
+    },
+    {
+      "Key": 4,
+      "Value": "Collection_Dress",
+      "Desc": "의상 도감"
+    },
+    {
+      "Key": 5,
+      "Value": "Collection_Goods",
+      "Desc": "소모품 도감"
+    },
+    {
+      "Key": 6,
+      "Value": "Collection_Farming",
+      "Desc": "파밍 도감"
+    },
+    {
+      "Key": 7,
+      "Value": "Collection_Story",
+      "Desc": "스토리 도감"
+    }
+  ],
+  "EConsumeItemType": [
+    {
+      "Key": 1,
+      "Value": "Potion",
+      "Desc": "1: 물약"
+    },
+    {
+      "Key": 2,
+      "Value": "Box",
+      "Desc": "2: 상자"
+    },
+    {
+      "Key": 3,
+      "Value": "SecretBook",
+      "Desc": "3: 비법서"
+    },
+    {
+      "Key": 4,
+      "Value": "Dye",
+      "Desc": "4: 염색약"
+    },
+    {
+      "Key": 5,
+      "Value": "ShopMaterial",
+      "Desc": "5: 상점 재료"
+    }
+  ],
+  "ECraftingKinds": [
+    {
+      "Key": 1,
+      "Value": "Crafting",
+      "Desc": "일반"
+    },
+    {
+      "Key": 2,
+      "Value": "Cooking",
+      "Desc": "요리"
+    },
+    {
+      "Key": 3,
+      "Value": "LandMarkCrafting",
+      "Desc": "광장"
+    }
+  ],
+  "ECraftingType": [
+    {
+      "Key": 1,
+      "Value": "Crafting_Wood",
+      "Desc": "원목"
+    },
+    {
+      "Key": 2,
+      "Value": "Crafting_Metal",
+      "Desc": "금속"
+    },
+    {
+      "Key": 3,
+      "Value": "Crafting_Sewing",
+      "Desc": "재봉"
+    },
+    {
+      "Key": 4,
+      "Value": "Crafting_Pottery",
+      "Desc": "도예"
+    },
+    {
+      "Key": 5,
+      "Value": "Crafting_Leather",
+      "Desc": "가죽"
+    },
+    {
+      "Key": 6,
+      "Value": "Crafting_Event",
+      "Desc": "기간제"
+    },
+    {
+      "Key": 7,
+      "Value": "Cooking_Cooking",
+      "Desc": "요리"
+    },
+    {
+      "Key": 8,
+      "Value": "LandMarkCrafting_Crafting",
+      "Desc": "광장"
+    }
+  ],
+  "EDailyMissionType": [
+    {
+      "Key": 1,
+      "Value": "Mission_Farming",
+      "Desc": "파밍"
+    },
+    {
+      "Key": 2,
+      "Value": "Mission_Social",
+      "Desc": "소셜"
+    },
+    {
+      "Key": 3,
+      "Value": "Mission_NPC",
+      "Desc": "NPC 인터렉션"
+    },
+    {
+      "Key": 4,
+      "Value": "Mission_Living",
+      "Desc": "생활"
+    }
+  ],
+  "EDrillType": [
+    {
+      "Key": 1,
+      "Value": "NormalDrill",
+      "Desc": "일반 드릴"
+    },
+    {
+      "Key": 2,
+      "Value": "SpecialDrill",
+      "Desc": "스페셜 드릴"
+    }
+  ],
+  "EEquipItemCategory": [
+    {
+      "Key": 1,
+      "Value": "Hair",
+      "Desc": "머리"
+    },
+    {
+      "Key": 2,
+      "Value": "Face",
+      "Desc": "얼굴"
+    },
+    {
+      "Key": 3,
+      "Value": "Eye",
+      "Desc": "눈"
+    },
+    {
+      "Key": 4,
+      "Value": "Neck",
+      "Desc": "목"
+    },
+    {
+      "Key": 5,
+      "Value": "Ear",
+      "Desc": "귀"
+    },
+    {
+      "Key": 6,
+      "Value": "Body",
+      "Desc": "몸"
+    },
+    {
+      "Key": 7,
+      "Value": "Back",
+      "Desc": "등"
+    },
+    {
+      "Key": 8,
+      "Value": "Shoulder",
+      "Desc": "어깨"
+    },
+    {
+      "Key": 9,
+      "Value": "Hand",
+      "Desc": "손"
+    },
+    {
+      "Key": 10,
+      "Value": "Foot",
+      "Desc": "발"
+    }
+  ],
+  "EEquipItemType": [
+    {
+      "Key": 1,
+      "Value": "Hair",
+      "Desc": "헤어"
+    },
+    {
+      "Key": 2,
+      "Value": "Head",
+      "Desc": "머리 (후드)"
+    },
+    {
+      "Key": 3,
+      "Value": "HeadTop",
+      "Desc": "머리 (위)"
+    },
+    {
+      "Key": 4,
+      "Value": "HeadBack",
+      "Desc": "머리 (뒤)"
+    },
+    {
+      "Key": 5,
+      "Value": "HeadFloat",
+      "Desc": "머리 (공중)"
+    },
+    {
+      "Key": 6,
+      "Value": "Makeup",
+      "Desc": "화장"
+    },
+    {
+      "Key": 7,
+      "Value": "Face",
+      "Desc": "얼굴 장식"
+    },
+    {
+      "Key": 8,
+      "Value": "Skin",
+      "Desc": "피부 장식"
+    },
+    {
+      "Key": 9,
+      "Value": "Forehead",
+      "Desc": "이마 장식"
+    },
+    {
+      "Key": 10,
+      "Value": "Lens",
+      "Desc": "렌즈"
+    },
+    {
+      "Key": 11,
+      "Value": "Eyes",
+      "Desc": "눈 장식"
+    },
+    {
+      "Key": 12,
+      "Value": "Neck",
+      "Desc": "목"
+    },
+    {
+      "Key": 13,
+      "Value": "EarShape",
+      "Desc": "귀모양"
+    },
+    {
+      "Key": 14,
+      "Value": "Earings",
+      "Desc": "귀걸이"
+    },
+    {
+      "Key": 15,
+      "Value": "Top",
+      "Desc": "상의"
+    },
+    {
+      "Key": 16,
+      "Value": "Bottom",
+      "Desc": "하의"
+    },
+    {
+      "Key": 17,
+      "Value": "Tanning",
+      "Desc": "태닝"
+    },
+    {
+      "Key": 18,
+      "Value": "Tail",
+      "Desc": "꼬리"
+    },
+    {
+      "Key": 19,
+      "Value": "Back",
+      "Desc": "등"
+    },
+    {
+      "Key": 20,
+      "Value": "Background",
+      "Desc": "배경"
+    },
+    {
+      "Key": 21,
+      "Value": "Pelvis_L",
+      "Desc": "골반 (왼)"
+    },
+    {
+      "Key": 22,
+      "Value": "Pelvis_R",
+      "Desc": "골반 (오)"
+    },
+    {
+      "Key": 23,
+      "Value": "Shoulder_L",
+      "Desc": "어깨 (왼)"
+    },
+    {
+      "Key": 24,
+      "Value": "Shoulder_R",
+      "Desc": "어깨 (오)"
+    },
+    {
+      "Key": 25,
+      "Value": "Hand_L",
+      "Desc": "손 (왼)"
+    },
+    {
+      "Key": 26,
+      "Value": "Hand_R",
+      "Desc": "손 (오)"
+    },
+    {
+      "Key": 27,
+      "Value": "Floor",
+      "Desc": "바닥"
+    },
+    {
+      "Key": 28,
+      "Value": "Shoes",
+      "Desc": "신발"
+    }
+  ],
+  "EEquipLimitType": [
+    {
+      "Key": 1,
+      "Value": "ForAllGender",
+      "Desc": "남녀 공용"
+    },
+    {
+      "Key": 2,
+      "Value": "ForBoy",
+      "Desc": "남자만 착용 가능"
+    },
+    {
+      "Key": 3,
+      "Value": "ForGirl",
+      "Desc": "여자만 착용 가능"
+    }
+  ],
+  "EExchangeType": [
+    {
+      "Key": 1,
+      "Value": "RecyclingZone",
+      "Desc": "리사이클링 존"
+    },
+    {
+      "Key": 2,
+      "Value": "ClothingBin",
+      "Desc": "의류 수거함"
+    }
+  ],
+  "EFaceType": [
+    {
+      "Key": 1,
+      "Value": "PuffyFace",
+      "Desc": "통통",
+      "SkinName": "ChinType2"
+    },
+    {
+      "Key": 2,
+      "Value": "OriginalFace",
+      "Desc": "보통",
+      "SkinName": "ChinType1"
+    },
+    {
+      "Key": 3,
+      "Value": "IdolFace",
+      "Desc": "갸름",
+      "SkinName": "ChinType3"
+    }
+  ],
+  "EFarmType": [
+    {
+      "Key": 1,
+      "Value": "Fix",
+      "Desc": "고정형"
+    },
+    {
+      "Key": 2,
+      "Value": "Selection",
+      "Desc": "선택형"
+    },
+    {
+      "Key": 3,
+      "Value": "Mine",
+      "Desc": "채굴형"
+    },
+    {
+      "Key": 4,
+      "Value": "Bush",
+      "Desc": "덤불형"
+    },
+    {
+      "Key": 5,
+      "Value": "Cart",
+      "Desc": "수레형"
+    }
+  ],
+  "EFeatureType": [
+    {
+      "Key": 1,
+      "Value": "Formality",
+      "Desc": "격식"
+    },
+    {
+      "Key": 2,
+      "Value": "Simple",
+      "Desc": "심플"
+    },
+    {
+      "Key": 3,
+      "Value": "Sexy",
+      "Desc": "소녀"
+    },
+    {
+      "Key": 4,
+      "Value": "Cool",
+      "Desc": "시원"
+    },
+    {
+      "Key": 5,
+      "Value": "Warm",
+      "Desc": "따뜻"
+    },
+    {
+      "Key": 6,
+      "Value": "Cute",
+      "Desc": "큐티"
+    },
+    {
+      "Key": 7,
+      "Value": "Lively",
+      "Desc": "발랄"
+    },
+    {
+      "Key": 8,
+      "Value": "Pure",
+      "Desc": "청순"
+    },
+    {
+      "Key": 9,
+      "Value": "Splendor",
+      "Desc": "화려"
+    },
+    {
+      "Key": 10,
+      "Value": "Elegant",
+      "Desc": "우아"
+    }
+  ],
+  "EFishingGrade": [
+    {
+      "Key": 1,
+      "Value": "FishingGrade1",
+      "Desc": "바닷 속 물건"
+    },
+    {
+      "Key": 2,
+      "Value": "FishingGrade2",
+      "Desc": "작은 물고기"
+    },
+    {
+      "Key": 3,
+      "Value": "FishingGrade3",
+      "Desc": "평범한 물고기"
+    },
+    {
+      "Key": 4,
+      "Value": "FishingGrade4",
+      "Desc": "특별한 물고기"
+    },
+    {
+      "Key": 5,
+      "Value": "FishingGrade5",
+      "Desc": "다양한 생물"
+    },
+    {
+      "Key": 6,
+      "Value": "FishingGrade6",
+      "Desc": "큰 생물"
+    },
+    {
+      "Key": 7,
+      "Value": "FishingGrade7",
+      "Desc": "레전드"
+    }
+  ],
+  "EFishingType": [
+    {
+      "Key": 1,
+      "Value": "NormalFishingRod",
+      "Desc": "일반 낚싯대"
+    },
+    {
+      "Key": 2,
+      "Value": "SpecialFishingRod",
+      "Desc": "스페셜 낚싯대"
+    }
+  ],
+  "EGachaGradeType": [
+    {
+      "Key": 1,
+      "Value": "N",
+      "Desc": "N"
+    },
+    {
+      "Key": 2,
+      "Value": "R",
+      "Desc": "R"
+    },
+    {
+      "Key": 3,
+      "Value": "SR",
+      "Desc": "SR"
+    }
+  ],
+  "EGachaType": [
+    {
+      "Key": 1,
+      "Value": "NormalGacha",
+      "Desc": "일반 가챠"
+    },
+    {
+      "Key": 2,
+      "Value": "DepletingPoolGacha",
+      "Desc": "소진형 가챠"
+    }
+  ],
+  "EGiftType": [
+    {
+      "Key": 1,
+      "Value": "LikeItem1",
+      "Desc": "좋아하는 것1"
+    },
+    {
+      "Key": 2,
+      "Value": "HateItem",
+      "Desc": "싫어하는 것"
+    },
+    {
+      "Key": 3,
+      "Value": "QuestItem",
+      "Desc": "퀘스트 정답"
+    }
+  ],
+  "EHairShopTabType": [
+    {
+      "Key": 1,
+      "Value": "None",
+      "Desc": "없음"
+    },
+    {
+      "Key": 2,
+      "Value": "OneTone",
+      "Desc": "단일 탭"
+    },
+    {
+      "Key": 3,
+      "Value": "TwoTone",
+      "Desc": "투톤 탭"
+    }
+  ],
+  "EHairShopType": [
+    {
+      "Key": 1,
+      "Value": "CommonHairShop",
+      "Desc": "일반 미용실"
+    },
+    {
+      "Key": 2,
+      "Value": "PremiumHairShop",
+      "Desc": "프리미엄 미용실"
+    }
+  ],
+  "EHashtagType": [
+    {
+      "Key": 0,
+      "Value": "All",
+      "Desc": "전체"
+    },
+    {
+      "Key": 1,
+      "Value": "Character",
+      "Desc": "캐릭터"
+    },
+    {
+      "Key": 2,
+      "Value": "Bg",
+      "Desc": "배경"
+    },
+    {
+      "Key": 3,
+      "Value": "CustomItem",
+      "Desc": "커스텀 가구"
+    },
+    {
+      "Key": 4,
+      "Value": "Gacha",
+      "Desc": "뽑기 내역"
+    },
+    {
+      "Key": 5,
+      "Value": "LevelUp",
+      "Desc": "레벨업"
+    },
+    {
+      "Key": 6,
+      "Value": "Achieve",
+      "Desc": "업적 달성"
+    },
+    {
+      "Key": 7,
+      "Value": "Market",
+      "Desc": "시장 가판대"
+    },
+    {
+      "Key": 8,
+      "Value": "Request",
+      "Desc": "의뢰"
+    },
+    {
+      "Key": 9,
+      "Value": "Dye",
+      "Desc": "염색하기"
+    },
+    {
+      "Key": 10,
+      "Value": "Missionhouse",
+      "Desc": "의뢰하우스"
+    },
+    {
+      "Key": 11,
+      "Value": "Tab_Social",
+      "Desc": "탭_소셜"
+    },
+    {
+      "Key": 12,
+      "Value": "Tab_Item",
+      "Desc": "탭_아이템"
+    },
+    {
+      "Key": 13,
+      "Value": "Tab_Place",
+      "Desc": "탭_장소"
+    },
+    {
+      "Key": 14,
+      "Value": "Tab_Emotion",
+      "Desc": "탭_감정"
+    },
+    {
+      "Key": 15,
+      "Value": "Tab_Achieve",
+      "Desc": "탭_달성"
+    }
+  ],
+  "EHouseTab": [
+    {
+      "Key": 1,
+      "Value": "OriginalHouse",
+      "Desc": "기본 하우스"
+    },
+    {
+      "Key": 2,
+      "Value": "LuxuryHouse",
+      "Desc": "럭셔리 하우스"
+    }
+  ],
+  "EIconTag": [
+    {
+      "Key": 0,
+      "Value": "None",
+      "Desc": "없음"
+    },
+    {
+      "Key": 1,
+      "Value": "New",
+      "Desc": "new"
+    },
+    {
+      "Key": 2,
+      "Value": "Event",
+      "Desc": "event"
+    },
+    {
+      "Key": 3,
+      "Value": "Premium",
+      "Desc": "premium"
+    },
+    {
+      "Key": 4,
+      "Value": "Hot",
+      "Desc": "hot"
+    }
+  ],
+  "EImageType": [
+    {
+      "Key": 1,
+      "Value": "BG_VisitorBook",
+      "Desc": "방명록"
+    },
+    {
+      "Key": 2,
+      "Value": "BG_Character",
+      "Desc": "캐릭터"
+    }
+  ],
+  "EInputType": [
+    {
+      "Key": 1,
+      "Value": "KeyPad",
+      "Desc": "기본 키패드"
+    },
+    {
+      "Key": 2,
+      "Value": "DropDownList",
+      "Desc": "드롭다운 리스트"
+    },
+    {
+      "Key": 3,
+      "Value": "DatePad",
+      "Desc": "날짜 패드"
+    }
+  ],
+  "EItemType": [
+    {
+      "Key": 1,
+      "Value": "Furniture",
+      "Desc": "가구"
+    },
+    {
+      "Key": 2,
+      "Value": "Food",
+      "Desc": "음식"
+    },
+    {
+      "Key": 3,
+      "Value": "Vehicle",
+      "Desc": "탈 것"
+    },
+    {
+      "Key": 4,
+      "Value": "FarmObject",
+      "Desc": "파밍 오브젝트"
+    },
+    {
+      "Key": 5,
+      "Value": "HouseProp",
+      "Desc": "하우스 프랍"
+    },
+    {
+      "Key": 6,
+      "Value": "Pot",
+      "Desc": "화분"
+    },
+    {
+      "Key": 7,
+      "Value": "Syrup",
+      "Desc": "시럽"
+    },
+    {
+      "Key": 8,
+      "Value": "SecretBook",
+      "Desc": "비법서"
+    },
+    {
+      "Key": 9,
+      "Value": "Box",
+      "Desc": "상자"
+    },
+    {
+      "Key": 10,
+      "Value": "Drill",
+      "Desc": "드릴"
+    },
+    {
+      "Key": 11,
+      "Value": "Sticker",
+      "Desc": "스티커"
+    },
+    {
+      "Key": 12,
+      "Value": "FabricPaint",
+      "Desc": "패브릭 물감"
+    },
+    {
+      "Key": 13,
+      "Value": "TanningCream",
+      "Desc": "태닝 크림"
+    },
+    {
+      "Key": 14,
+      "Value": "FarmMaterial",
+      "Desc": "파밍 재료"
+    },
+    {
+      "Key": 15,
+      "Value": "WearableItem",
+      "Desc": "착용 아이템"
+    },
+    {
+      "Key": 16,
+      "Value": "Cosmetic",
+      "Desc": "화장"
+    },
+    {
+      "Key": 17,
+      "Value": "MapItem",
+      "Desc": "지도 아이템"
+    },
+    {
+      "Key": 18,
+      "Value": "Paint",
+      "Desc": "페인트"
+    },
+    {
+      "Key": 19,
+      "Value": "Jaw",
+      "Desc": "턱"
+    },
+    {
+      "Key": 20,
+      "Value": "CraftingTool",
+      "Desc": "제작 도구"
+    },
+    {
+      "Key": 21,
+      "Value": "Transportation",
+      "Desc": "이동수단"
+    },
+    {
+      "Key": 22,
+      "Value": "BGItem",
+      "Desc": "배경 화면"
+    },
+    {
+      "Key": 23,
+      "Value": "FishingRod",
+      "Desc": "낚싯대"
+    },
+    {
+      "Key": 24,
+      "Value": "Icon",
+      "Desc": "아이콘"
+    },
+    {
+      "Key": 25,
+      "Value": "Ticket",
+      "Desc": "티켓"
+    },
+    {
+      "Key": 26,
+      "Value": "Music",
+      "Desc": "음악"
+    }
+  ],
+  "EFruitType": [
+    {
+      "Key": 1,
+      "Value": "Basket",
+      "Desc": "바구니"
+    },
+    {
+      "Key": 2,
+      "Value": "Ax",
+      "Desc": "도끼"
+    }
+  ],
+  "EItemUILinkType": [
+    {
+      "Key": 0,
+      "Value": "None_Link",
+      "Desc": "없음"
+    },
+    {
+      "Key": 1,
+      "Value": "MailBox",
+      "Desc": "우체통"
+    },
+    {
+      "Key": 2,
+      "Value": "Closet",
+      "Desc": "옷장"
+    },
+    {
+      "Key": 3,
+      "Value": "MusicBox",
+      "Desc": "뮤직박스"
+    },
+    {
+      "Key": 4,
+      "Value": "EffectBox",
+      "Desc": "이펙트박스"
+    },
+    {
+      "Key": 5,
+      "Value": "Vehicle",
+      "Desc": "이동수단"
+    },
+    {
+      "Key": 6,
+      "Value": "Phone",
+      "Desc": "전화기"
+    },
+    {
+      "Key": 7,
+      "Value": "Summon",
+      "Desc": "소환박스"
+    },
+    {
+      "Key": 8,
+      "Value": "Pot",
+      "Desc": "화분"
+    },
+    {
+      "Key": 9,
+      "Value": "Desk",
+      "Desc": "책상"
+    },
+    {
+      "Key": 10,
+      "Value": "FleaMarket",
+      "Desc": "플리 마켓"
+    },
+    {
+      "Key": 11,
+      "Value": "House_Crafting",
+      "Desc": "일반 크래프팅 팝업창"
+    },
+    {
+      "Key": 12,
+      "Value": "House_Cook",
+      "Desc": "요리 크래프팅 팝업창"
+    },
+    {
+      "Key": 13,
+      "Value": "LandMark_Crafting",
+      "Desc": "광장 크래프팅 팝업창"
+    },
+    {
+      "Key": 14,
+      "Value": "HairShop",
+      "Desc": "헤어샵"
+    },
+    {
+      "Key": 15,
+      "Value": "FashionSquare_Shop",
+      "Desc": "패션스퀘어용 상점"
+    },
+    {
+      "Key": 16,
+      "Value": "FashionSquare_Gacha",
+      "Desc": "패션스퀘어용 가챠"
+    },
+    {
+      "Key": 17,
+      "Value": "Cinnamoroll_Shop",
+      "Desc": "시나모롤 빌리지 상점"
+    },
+    {
+      "Key": 18,
+      "Value": "Cinnamoroll_Gacha",
+      "Desc": "시나모롤 빌리지 가챠"
+    },
+    {
+      "Key": 19,
+      "Value": "Color",
+      "Desc": "컬러제 팝업창"
+    }
+  ],
+  "ELandType": [
+    {
+      "Key": 1,
+      "Value": "Jammed",
+      "Desc": "매우 혼잡"
+    },
+    {
+      "Key": 2,
+      "Value": "Busy",
+      "Desc": "혼잡"
+    },
+    {
+      "Key": 3,
+      "Value": "Fine",
+      "Desc": "양호"
+    },
+    {
+      "Key": 4,
+      "Value": "Ideal",
+      "Desc": "쾌적"
+    }
+  ],
+  "ELanguageType": [
+    {
+      "Key": 1,
+      "Value": "Korean",
+      "Desc": "한국어",
+      "CultureName": "ko-KR"
+    },
+    {
+      "Key": 2,
+      "Value": "English",
+      "Desc": "영어",
+      "CultureName": "en-US"
+    },
+    {
+      "Key": 3,
+      "Value": "Japanese",
+      "Desc": "일본어",
+      "CultureName": "ja-JP"
+    },
+    {
+      "Key": 4,
+      "Value": "Tchinese",
+      "Desc": "중국어 번체",
+      "CultureName": "zh-TW"
+    },
+    {
+      "Key": 5,
+      "Value": "Schinese",
+      "Desc": "중국어 간체",
+      "CultureName": "zh-CN"
+    }
+  ],
+  "ELocationType": [
+    {
+      "Key": 1,
+      "Value": "MainHouse",
+      "Desc": "메인 하우스"
+    },
+    {
+      "Key": 2,
+      "Value": "SubHouse",
+      "Desc": "서브 하우스"
+    },
+    {
+      "Key": 3,
+      "Value": "MyGarden",
+      "Desc": "마이 가든"
+    },
+    {
+      "Key": 4,
+      "Value": "MissionHouse",
+      "Desc": "미션하우스"
+    },
+    {
+      "Key": 5,
+      "Value": "EventMissionHouse",
+      "Desc": "이벤트 미션하우스"
+    },
+    {
+      "Key": 6,
+      "Value": "MainVillage",
+      "Desc": "빌리지"
+    }
+  ],
+  "EMakeType": [
+    {
+      "Key": 0,
+      "Value": "None",
+      "Desc": "없음",
+      "IsFarmRareItem": false
+    },
+    {
+      "Key": 1,
+      "Value": "Crops",
+      "Desc": "작물",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 2,
+      "Value": "FruitTree",
+      "Desc": "열매 나무",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 3,
+      "Value": "FellingTree",
+      "Desc": "벌목 나무",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 4,
+      "Value": "Animal",
+      "Desc": "동물",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 5,
+      "Value": "Mine",
+      "Desc": "광산",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 6,
+      "Value": "Drill",
+      "Desc": "드릴",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 7,
+      "Value": "Bush",
+      "Desc": "덤불",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 8,
+      "Value": "Cart",
+      "Desc": "수레",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 9,
+      "Value": "Weed",
+      "Desc": "잡초",
+      "IsFarmRareItem": true
+    }
+  ],
+  "EMapColorType": [
+    {
+      "Key": 1,
+      "Value": "Red",
+      "Desc": "빨"
+    },
+    {
+      "Key": 2,
+      "Value": "Orange",
+      "Desc": "주"
+    },
+    {
+      "Key": 3,
+      "Value": "Yellow",
+      "Desc": "노"
+    },
+    {
+      "Key": 4,
+      "Value": "Green",
+      "Desc": "초"
+    },
+    {
+      "Key": 5,
+      "Value": "Blue",
+      "Desc": "파"
+    },
+    {
+      "Key": 6,
+      "Value": "Purple",
+      "Desc": "보"
+    },
+    {
+      "Key": 7,
+      "Value": "Black",
+      "Desc": "무채색"
+    }
+  ],
+  "EMapModeType": [
+    {
+      "Key": 1,
+      "Value": "Mode",
+      "Desc": "모드",
+      "IconName": "Map_Mode_Icon"
+    },
+    {
+      "Key": 2,
+      "Value": "Simple",
+      "Desc": "간편",
+      "IconName": "Map_Simple_Icon"
+    }
+  ],
+  "EMarketType": [
+    {
+      "Key": 0,
+      "Value": "Apple",
+      "Desc": "애플"
+    },
+    {
+      "Key": 1,
+      "Value": "GooglePlay",
+      "Desc": "구글플레이"
+    }
+  ],
+  "EMoneyType": [
+    {
+      "Key": 1,
+      "Value": "Currency",
+      "Desc": "재화"
+    },
+    {
+      "Key": 2,
+      "Value": "Stamina",
+      "Desc": "스태미너 재화"
+    },
+    {
+      "Key": 3,
+      "Value": "Ticket",
+      "Desc": "티켓"
+    },
+    {
+      "Key": 4,
+      "Value": "Package",
+      "Desc": "패키지"
+    },
+    {
+      "Key": 5,
+      "Value": "StaminaTicket",
+      "Desc": "스태미너 티켓"
+    }
+  ],
+  "ENextStepType": [
+    {
+      "Key": 0,
+      "Value": "Tutorial_End",
+      "Desc": "종료"
+    },
+    {
+      "Key": 1,
+      "Value": "Tutorial_Next_Step",
+      "Desc": "다른 튜토리얼 스텝 진행"
+    },
+    {
+      "Key": 2,
+      "Value": "Tutorial_CutScene",
+      "Desc": "컷신 진행"
+    }
+  ],
+  "ENGType": [
+    {
+      "Key": 1,
+      "Value": "NPCName",
+      "Desc": "NPC 이름"
+    },
+    {
+      "Key": 2,
+      "Value": "Company",
+      "Desc": "사업자"
+    },
+    {
+      "Key": 3,
+      "Value": "NGWord",
+      "Desc": "욕설"
+    },
+    {
+      "Key": 4,
+      "Value": "Admin",
+      "Desc": "운영자"
+    },
+    {
+      "Key": 5,
+      "Value": "Title",
+      "Desc": "타이틀"
+    }
+  ],
+  "ENPCInteractionType": [
+    {
+      "Key": 1,
+      "Value": "NPCInteraction",
+      "Desc": "인터렉션 기능"
+    },
+    {
+      "Key": 2,
+      "Value": "NPCGift",
+      "Desc": "선물하기"
+    },
+    {
+      "Key": 3,
+      "Value": "NPCSmallTalk",
+      "Desc": "잡담하기"
+    },
+    {
+      "Key": 4,
+      "Value": "NPCQuest",
+      "Desc": "퀘스트"
+    },
+    {
+      "Key": 5,
+      "Value": "NPCEndChat",
+      "Desc": "대화 종료"
+    }
+  ],
+  "EOpenCondition": [
+    {
+      "Key": 1,
+      "Value": "UserLevel",
+      "Desc": "유저 레벨 {0} 이상"
+    },
+    {
+      "Key": 2,
+      "Value": "RoomOwe",
+      "Desc": "특정 룸{0} 보유"
+    },
+    {
+      "Key": 3,
+      "Value": "ItemArrange",
+      "Desc": "특정 아이템{0} {1}개 배치"
+    },
+    {
+      "Key": 4,
+      "Value": "CraftingCount",
+      "Desc": "크래프팅 누적 {0}회 달성"
+    },
+    {
+      "Key": 5,
+      "Value": "UseMoney",
+      "Desc": "특정 재화{0} {1}개 소모하기"
+    },
+    {
+      "Key": 6,
+      "Value": "MineCount",
+      "Desc": "채광 누적 {0}회 달성"
+    },
+    {
+      "Key": 7,
+      "Value": "FellingCount",
+      "Desc": "벌목 누적 {0}회 달성"
+    },
+    {
+      "Key": 8,
+      "Value": "FarmingCount",
+      "Desc": "파밍 누적 {0}회 달성"
+    },
+    {
+      "Key": 9,
+      "Value": "QuestClear",
+      "Desc": "특정 퀘스트{0} 완료"
+    },
+    {
+      "Key": 10,
+      "Value": "RoomOpen",
+      "Desc": "특정 룸{0} 확장"
+    },
+    {
+      "Key": 11,
+      "Value": "YardOpen",
+      "Desc": "특정 마당{0} 확장"
+    },
+    {
+      "Key": 12,
+      "Value": "RoomOpenCount",
+      "Desc": "룸 {0}개 확장"
+    },
+    {
+      "Key": 13,
+      "Value": "YardOpenCount",
+      "Desc": "마당 {0}개 확장"
+    },
+    {
+      "Key": 14,
+      "Value": "TotalHouseMileage",
+      "Desc": "하우스 마일리지 {0}점 이상 달성"
+    },
+    {
+      "Key": 15,
+      "Value": "ItemCraft",
+      "Desc": "특정 아이템{0} {1}개 제작"
+    },
+    {
+      "Key": 16,
+      "Value": "ItemCollectionCount",
+      "Desc": "특정 아이템{0} {1}개 수집"
+    },
+    {
+      "Key": 17,
+      "Value": "ItemTypeCollectionCount",
+      "Desc": "특정 ItemType{0} {1}개 수집"
+    },
+    {
+      "Key": 18,
+      "Value": "ItemSell",
+      "Desc": "특정 아이템{0} {1}개 판매"
+    },
+    {
+      "Key": 19,
+      "Value": "GatchaCount",
+      "Desc": "가챠 {0}회 진행"
+    },
+    {
+      "Key": 20,
+      "Value": "ShopBuyCount",
+      "Desc": "상점 {0}회 구매"
+    },
+    {
+      "Key": 21,
+      "Value": "TodoCompleteCount",
+      "Desc": "투두리스트 {0}개 완료"
+    },
+    {
+      "Key": 22,
+      "Value": "SecretBookUse",
+      "Desc": "특정 시크릿북{0} 사용"
+    },
+    {
+      "Key": 23,
+      "Value": "FriendGiftCount",
+      "Desc": "친구 선물 {0}회 달성"
+    },
+    {
+      "Key": 24,
+      "Value": "ItemWear",
+      "Desc": "특정 아이템{0} 착용"
+    },
+    {
+      "Key": 25,
+      "Value": "TimelineCount",
+      "Desc": "타임라인 {0}회 작성"
+    },
+    {
+      "Key": 26,
+      "Value": "GuesetBookCount",
+      "Desc": "방명록 {0}회 작성"
+    },
+    {
+      "Key": 27,
+      "Value": "VisitZone",
+      "Desc": "특정 필드{0}에 가기"
+    },
+    {
+      "Key": 28,
+      "Value": "ItemMove",
+      "Desc": "특정 아이템{0} 이동"
+    },
+    {
+      "Key": 29,
+      "Value": "ItemOwe",
+      "Desc": "특정 아이템{0} {1}개 보유"
+    },
+    {
+      "Key": 30,
+      "Value": "TransactionCount",
+      "Desc": "장터에서 {0}번 판매"
+    },
+    {
+      "Key": 31,
+      "Value": "NPCGFLevel",
+      "Desc": "특정 NPC{0} 호감도 {1}레벨 달성"
+    },
+    {
+      "Key": 32,
+      "Value": "Achievement",
+      "Desc": "특정 업적{0} 달성"
+    },
+    {
+      "Key": 33,
+      "Value": "HairDyeCount",
+      "Desc": "미용실에서 {0}번 염색"
+    },
+    {
+      "Key": 34,
+      "Value": "MyPotWateringCount",
+      "Desc": "자기 화분에 물 주기 {0}회 달성"
+    },
+    {
+      "Key": 35,
+      "Value": "FriendPotWateringCount",
+      "Desc": "친구 화분에 물 주기 {0}회 달성"
+    },
+    {
+      "Key": 36,
+      "Value": "NPCRequestCount",
+      "Desc": "특정 NPC{0} 아르바이트 {1}번 완료"
+    },
+    {
+      "Key": 37,
+      "Value": "MeRequestCount",
+      "Desc": "의뢰 {0}번 요청"
+    },
+    {
+      "Key": 38,
+      "Value": "ItemRequest",
+      "Desc": "특정 아이템{0} 의뢰 {1}회 요청"
+    },
+    {
+      "Key": 39,
+      "Value": "FriendCount",
+      "Desc": "친구 {0}명 만들기"
+    },
+    {
+      "Key": 40,
+      "Value": "FriendVisit",
+      "Desc": "친구 {0}명 방문"
+    },
+    {
+      "Key": 41,
+      "Value": "ItemHarvest",
+      "Desc": "특정 아이템{0} {1}개 수확"
+    },
+    {
+      "Key": 42,
+      "Value": "BuyBluePrint",
+      "Desc": "특정 도면{0} 구매"
+    },
+    {
+      "Key": 43,
+      "Value": "BuyHouse",
+      "Desc": "하우스 {0}개 구매"
+    },
+    {
+      "Key": 44,
+      "Value": "ItemGive",
+      "Desc": "특정 아이템{0} {1}개 납품"
+    },
+    {
+      "Key": 45,
+      "Value": "NPCItemGiftCount",
+      "Desc": "NPC 특정 아이템{0} {1}번 선물"
+    },
+    {
+      "Key": 46,
+      "Value": "NPCQuestItemGift",
+      "Desc": "특정 NPC{0} 퀘스트 아이템 주기"
+    },
+    {
+      "Key": 47,
+      "Value": "NPCQuestTalk",
+      "Desc": "특정 NPC{0} 퀘스트 대화 걸기"
+    },
+    {
+      "Key": 48,
+      "Value": "MissionHouseClear",
+      "Desc": "특정 의뢰 하우스{0} 클리어"
+    },
+    {
+      "Key": 49,
+      "Value": "ExchangeItemShopCount",
+      "Desc": "골동품 가게에서 {0}번 거래하기"
+    },
+    {
+      "Key": 50,
+      "Value": "FriendRequestCount",
+      "Desc": "친구 의뢰 {0}번 완료하기"
+    },
+    {
+      "Key": 51,
+      "Value": "ItemPlant",
+      "Desc": "특정 아이템{0} {1}번 심기"
+    },
+    {
+      "Key": 52,
+      "Value": "JoyShopItemBuy",
+      "Desc": "조이 상점에서 특정 아이템{0} {1}개 구매하기"
+    },
+    {
+      "Key": 53,
+      "Value": "JoyShopItemBuyCount",
+      "Desc": "조이 상점에서 {0}회 구매하기"
+    },
+    {
+      "Key": 54,
+      "Value": "FriendChatCount",
+      "Desc": "친구랑 {0}번 채팅하기"
+    },
+    {
+      "Key": 55,
+      "Value": "Capture",
+      "Desc": "캡처 기능 사용하기"
+    },
+    {
+      "Key": 56,
+      "Value": "ShareCapture",
+      "Desc": "캡처 사진 공유하기"
+    },
+    {
+      "Key": 57,
+      "Value": "CharacterCapture",
+      "Desc": "캐릭터 사진 찍기"
+    },
+    {
+      "Key": 58,
+      "Value": "ShareCharacterCapture",
+      "Desc": "캐릭터 사진 공유하기"
+    },
+    {
+      "Key": 59,
+      "Value": "CollectionComplete",
+      "Desc": "{0} 도감 완료하기"
+    },
+    {
+      "Key": 60,
+      "Value": "WatchCutScene",
+      "Desc": "컷신 보기"
+    },
+    {
+      "Key": 61,
+      "Value": "ChangeIDCardTheme",
+      "Desc": "명함 테마 변경하기"
+    },
+    {
+      "Key": 62,
+      "Value": "NPCTalkCount",
+      "Desc": "NPC {0}명에게 말 걸기"
+    },
+    {
+      "Key": 63,
+      "Value": "ChangeNickname",
+      "Desc": "별명 변경하기"
+    },
+    {
+      "Key": 64,
+      "Value": "ChangeIntroduction",
+      "Desc": "자기 소개 변경하기"
+    },
+    {
+      "Key": 65,
+      "Value": "ChangeProfilePicture",
+      "Desc": "프로필 사진 변경하기"
+    },
+    {
+      "Key": 66,
+      "Value": "NPCEmotionStoneGift",
+      "Desc": "특정 NPC{0}에게 {1}개의 특정 이모션 스톤{2} 선물하기"
+    },
+    {
+      "Key": 67,
+      "Value": "NPCItemGift",
+      "Desc": "특정 NPC{0}에게 {1}개의 특정 아이템{2} 선물하기"
+    },
+    {
+      "Key": 68,
+      "Value": "CraftingToolLevel",
+      "Desc": "특정 크래프팅 레벨 달성 (CraftingToolKey)"
+    },
+    {
+      "Key": 69,
+      "Value": "NotCheck",
+      "Desc": "체크안함"
+    },
+    {
+      "Key": 70,
+      "Value": "NPCLikeItemGift",
+      "Desc": "{0}에게 특정 선물 타입{1} 아이템 모두 선물하기"
+    },
+    {
+      "Key": 71,
+      "Value": "NPCHateItemGift",
+      "Desc": "특정 NPC{0}에게 특정 선물 타입{1} 아이템 모두 선물하기"
+    },
+    {
+      "Key": 72,
+      "Value": "AddressRegister",
+      "Desc": "하우스 주소 등록 {0}번 하기"
+    },
+    {
+      "Key": 73,
+      "Value": "AddressMove",
+      "Desc": "하우스 이사 {0}번 하기"
+    },
+    {
+      "Key": 74,
+      "Value": "HouseNameChange",
+      "Desc": "하우스명 {0}번 바꾸기"
+    },
+    {
+      "Key": 75,
+      "Value": "FruitTreeCount",
+      "Desc": "열매 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 76,
+      "Value": "CropsCount",
+      "Desc": "작물 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 77,
+      "Value": "AnimalCount",
+      "Desc": "동물 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 78,
+      "Value": "DrillCount",
+      "Desc": "드릴 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 79,
+      "Value": "BushCount",
+      "Desc": "덤불 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 80,
+      "Value": "CartCount",
+      "Desc": "수레 수확 누적 {0}번 달성"
+    },
+    {
+      "Key": 81,
+      "Value": "EverGreenTreeLevel",
+      "Desc": "에버그린 트리 {0}레벨 달성"
+    },
+    {
+      "Key": 82,
+      "Value": "SpecialItemGet",
+      "Desc": "크래프팅 시 특정 스페셜 아이템{0} 획득"
+    },
+    {
+      "Key": 83,
+      "Value": "SpecialItemGetCount",
+      "Desc": "크래프팅 시 스페셜 아이템 {0}번 획득"
+    },
+    {
+      "Key": 84,
+      "Value": "DailyMissionClear",
+      "Desc": "일일 미션 {0}번 완료"
+    },
+    {
+      "Key": 85,
+      "Value": "AchievementCompleteCount",
+      "Desc": "업적 {0}개 달성"
+    },
+    {
+      "Key": 86,
+      "Value": "CollectionCompleteCount",
+      "Desc": "도감 {0}개 달성"
+    },
+    {
+      "Key": 87,
+      "Value": "FabricItemUse",
+      "Desc": "특정 패브릭 물감{0} 사용"
+    },
+    {
+      "Key": 88,
+      "Value": "SyrupItemUse",
+      "Desc": "특정 시럽{0} 사용"
+    },
+    {
+      "Key": 89,
+      "Value": "BoxOpen",
+      "Desc": "특정 상자{0} 오픈"
+    },
+    {
+      "Key": 90,
+      "Value": "NPCTalk",
+      "Desc": "특정 NPC{0}에게 {1}번 말 걸기"
+    },
+    {
+      "Key": 91,
+      "Value": "NPCEmotionBookOpen",
+      "Desc": "특정 NPC{0}의 감정 노트 모두 열기"
+    },
+    {
+      "Key": 92,
+      "Value": "TownMap_Open",
+      "Desc": "타운맵 {0}번 터치하기"
+    },
+    {
+      "Key": 93,
+      "Value": "Minigame_Count",
+      "Desc": "미니게임 {0}회 진행하기"
+    },
+    {
+      "Key": 94,
+      "Value": "FashionMatch_Attend",
+      "Desc": "패션 대결 {0}회 참가하기"
+    },
+    {
+      "Key": 95,
+      "Value": "FashionMatch_Vote",
+      "Desc": "패션 대결 {0}회 투표하기"
+    },
+    {
+      "Key": 96,
+      "Value": "Item_Sell",
+      "Desc": "장터 {0}회 구매하기"
+    }
+  ],
+  "EPassRwdType": [
+    {
+      "Key": 1,
+      "Value": "Free",
+      "Desc": "무료"
+    },
+    {
+      "Key": 2,
+      "Value": "Premium",
+      "Desc": "프리미엄"
+    }
+  ],
+  "EPetBuffType": [
+    {
+      "Key": 1,
+      "Value": "GetItem",
+      "Desc": "아이템 물어오기"
+    },
+    {
+      "Key": 2,
+      "Value": "CraftCountMax",
+      "Desc": "크래프팅 최대 수량"
+    },
+    {
+      "Key": 3,
+      "Value": "GetIem_Craft",
+      "Desc": "아이템 물어오기 및 크래프팅 최대 수량"
+    },
+    {
+      "Key": 4,
+      "Value": "Farmtime_Short",
+      "Desc": "생산 단축"
+    }
+  ],
+  "EPetCharacter": [
+    {
+      "Key": 1,
+      "Value": "Lively",
+      "Desc": "활발"
+    },
+    {
+      "Key": 2,
+      "Value": "Gentle",
+      "Desc": "온순"
+    },
+    {
+      "Key": 3,
+      "Value": "Attractive",
+      "Desc": "애교"
+    },
+    {
+      "Key": 4,
+      "Value": "Kidding",
+      "Desc": "장난"
+    },
+    {
+      "Key": 5,
+      "Value": "Elegant",
+      "Desc": "우아"
+    },
+    {
+      "Key": 6,
+      "Value": "Cool",
+      "Desc": "쿨함"
+    }
+  ],
+  "EPetCondition": [
+    {
+      "Key": 1,
+      "Value": "Likeability",
+      "Desc": "호감도"
+    },
+    {
+      "Key": 2,
+      "Value": "Intimacy",
+      "Desc": "친밀도"
+    },
+    {
+      "Key": 3,
+      "Value": "Cleanliness",
+      "Desc": "청결도"
+    }
+  ],
+  "EPetindividual": [
+    {
+      "Key": 1,
+      "Value": "Dog_Normal",
+      "Desc": "기본 강아지"
+    },
+    {
+      "Key": 2,
+      "Value": "Dog_Beagle",
+      "Desc": "비글"
+    },
+    {
+      "Key": 3,
+      "Value": "Dog_Husky",
+      "Desc": "허스키"
+    },
+    {
+      "Key": 4,
+      "Value": "Dog_Poodle",
+      "Desc": "푸들"
+    },
+    {
+      "Key": 5,
+      "Value": "Dog_Pome",
+      "Desc": "포메라니안"
+    },
+    {
+      "Key": 6,
+      "Value": "Cat_Normal",
+      "Desc": "기본 고양이"
+    },
+    {
+      "Key": 7,
+      "Value": "Cat_Angora",
+      "Desc": "터키쉬앙고라"
+    },
+    {
+      "Key": 8,
+      "Value": "Cat_Fat",
+      "Desc": "통통한 고양이"
+    },
+    {
+      "Key": 9,
+      "Value": "Cat_Fold",
+      "Desc": "스코티쉬폴드"
+    },
+    {
+      "Key": 10,
+      "Value": "Bird",
+      "Desc": "새"
+    }
+  ],
+  "EPlaceShortcutType": [
+    {
+      "Key": 1,
+      "Value": "House_Shortcut",
+      "Desc": "마이 하우스"
+    },
+    {
+      "Key": 2,
+      "Value": "Village_Shortcut",
+      "Desc": "마이 빌리지"
+    },
+    {
+      "Key": 3,
+      "Value": "Plaza_Shortcut",
+      "Desc": "만남의 공간"
+    },
+    {
+      "Key": 4,
+      "Value": "SpecialZone_Shortcut",
+      "Desc": "특별관"
+    }
+  ],
+  "EPlaceType": [
+    {
+      "Key": 1,
+      "Value": "FloorArrange",
+      "Desc": "바닥 배치"
+    },
+    {
+      "Key": 2,
+      "Value": "WallArrange",
+      "Desc": "벽 배치"
+    },
+    {
+      "Key": 3,
+      "Value": "WallSkin",
+      "Desc": "벽 스킨"
+    },
+    {
+      "Key": 4,
+      "Value": "FloorSkin",
+      "Desc": "바닥 스킨"
+    },
+    {
+      "Key": 5,
+      "Value": "WaterArrange",
+      "Desc": "물 배치"
+    },
+    {
+      "Key": 6,
+      "Value": "AirArrange",
+      "Desc": "공중 배치"
+    }
+  ],
+  "EPlazaType": [
+    {
+      "Key": 1,
+      "Value": "LoggingLandMark",
+      "Desc": "벌목 랜드마크"
+    },
+    {
+      "Key": 2,
+      "Value": "Village",
+      "Desc": "빌리지"
+    },
+    {
+      "Key": 3,
+      "Value": "CentralTown",
+      "Desc": "센트럴타운"
+    },
+    {
+      "Key": 4,
+      "Value": "LandMark",
+      "Desc": "일반 랜드마크"
+    },
+    {
+      "Key": 5,
+      "Value": "FashionSquare",
+      "Desc": "패션 스퀘어"
+    },
+    {
+      "Key": 6,
+      "Value": "CinnamorollSquare",
+      "Desc": "시나모롤 스퀘어"
+    },
+    {
+      "Key": 7,
+      "Value": "PlaySquare",
+      "Desc": "플레이 스퀘어"
+    },
+    {
+      "Key": 8,
+      "Value": "CinnamorollHouse",
+      "Desc": "시나모롤 하우스"
+    }
+  ],
+  "EPosType": [
+    {
+      "Key": 0,
+      "Value": "None",
+      "Desc": "아무것도 안함"
+    },
+    {
+      "Key": 1,
+      "Value": "LeftEnd",
+      "Desc": "왼쪽 끝"
+    },
+    {
+      "Key": 2,
+      "Value": "LeftMiddle",
+      "Desc": "왼쪽 가운데"
+    },
+    {
+      "Key": 3,
+      "Value": "RightMiddle",
+      "Desc": "오른쪽 가운데"
+    },
+    {
+      "Key": 4,
+      "Value": "RightEnd",
+      "Desc": "오른쪽 끝"
+    },
+    {
+      "Key": 5,
+      "Value": "OnetoOne",
+      "Desc": "일대일 구도"
+    }
+  ],
+  "EPreStepType": [
+    {
+      "Key": 1,
+      "Value": " Tutorial_Step_End",
+      "Desc": "튜토리얼 스텝 종료"
+    },
+    {
+      "Key": 2,
+      "Value": "Cut_Scene_End",
+      "Desc": "컷신 종료"
+    },
+    {
+      "Key": 3,
+      "Value": "Level_Complete",
+      "Desc": "레벨 달성"
+    },
+    {
+      "Key": 4,
+      "Value": "Contents_Open",
+      "Desc": "콘텐츠 오픈"
+    },
+    {
+      "Key": 5,
+      "Value": "Quest_Clear",
+      "Desc": "퀘스트 완료"
+    }
+  ],
+  "EPriceType": [
+    {
+      "Key": 1,
+      "Value": "Gold",
+      "Desc": "골드"
+    },
+    {
+      "Key": 2,
+      "Value": "Free_Jewel",
+      "Desc": "무료 주얼"
+    },
+    {
+      "Key": 3,
+      "Value": "Pay_Jewel",
+      "Desc": "유료 주얼"
+    },
+    {
+      "Key": 4,
+      "Value": "Jewel",
+      "Desc": "주얼"
+    },
+    {
+      "Key": 5,
+      "Value": "Heart",
+      "Desc": "하트"
+    },
+    {
+      "Key": 6,
+      "Value": "Wish",
+      "Desc": "위시"
+    },
+    {
+      "Key": 7,
+      "Value": "Fashion",
+      "Desc": "패션"
+    },
+    {
+      "Key": 8,
+      "Value": "Peace",
+      "Desc": "피스"
+    },
+    {
+      "Key": 9,
+      "Value": "Giving",
+      "Desc": "기빙"
+    },
+    {
+      "Key": 28,
+      "Value": "Free_PlayTicket",
+      "Desc": "무료 플레이티켓"
+    },
+    {
+      "Key": 29,
+      "Value": "Pay_PlayTicket",
+      "Desc": "유료 플레이티켓"
+    },
+    {
+      "Key": 30,
+      "Value": "PlayTicket",
+      "Desc": "플레이티켓"
+    },
+    {
+      "Key": 25,
+      "Value": "Free_FashionTicket",
+      "Desc": "무료 패션티켓"
+    },
+    {
+      "Key": 26,
+      "Value": "Pay_FashionTicket",
+      "Desc": "유료 패션티켓"
+    },
+    {
+      "Key": 27,
+      "Value": "FashionTicket",
+      "Desc": "패션티켓"
+    },
+    {
+      "Key": 31,
+      "Value": "Free_FashionEnterTicket",
+      "Desc": "무료 패션 입장권"
+    },
+    {
+      "Key": 32,
+      "Value": "Pay_FashionEnterTicket",
+      "Desc": "유료 패션 입장권"
+    },
+    {
+      "Key": 33,
+      "Value": "FashionEnterTicket",
+      "Desc": "패션 입장권"
+    }
+  ],
+  "EProduceType": [
+    {
+      "Key": 1,
+      "Value": "Production",
+      "Desc": "생산형"
+    },
+    {
+      "Key": 2,
+      "Value": "Material",
+      "Desc": "재료형"
+    }
+  ],
+  "EQuestRewardType": [
+    {
+      "Key": 1,
+      "Value": "Reward_NPCAffection",
+      "Desc": "NPC 호감도"
+    },
+    {
+      "Key": 2,
+      "Value": "Reward_Item",
+      "Desc": "아이템"
+    },
+    {
+      "Key": 3,
+      "Value": "Reward_Gold",
+      "Desc": "골드"
+    },
+    {
+      "Key": 4,
+      "Value": "Reward_Exp",
+      "Desc": "경험치"
+    }
+  ],
+  "EQuestType": [
+    {
+      "Key": 1,
+      "Value": "MainQuest",
+      "Desc": "메인 퀘스트"
+    },
+    {
+      "Key": 2,
+      "Value": "EventQuest",
+      "Desc": "이벤트 퀘스트"
+    },
+    {
+      "Key": 3,
+      "Value": "SubQuest",
+      "Desc": "서브 퀘스트"
+    }
+  ],
+  "EQuestUILinkType": [
+    {
+      "Key": 0,
+      "Value": "none",
+      "Desc": "없음"
+    },
+    {
+      "Key": 1,
+      "Value": "MaterialPopup",
+      "Desc": "아이템 재료 팝업창"
+    },
+    {
+      "Key": 2,
+      "Value": "HouseOpenPopup",
+      "Desc": "하우스 오픈 팝업창"
+    },
+    {
+      "Key": 3,
+      "Value": "NPCRequestPopup",
+      "Desc": "주민 의뢰 페이지 팝업창"
+    },
+    {
+      "Key": 4,
+      "Value": "FriendRequestPopup",
+      "Desc": "친구 의뢰 페이지 팝업창"
+    },
+    {
+      "Key": 5,
+      "Value": "QuestCutScene",
+      "Desc": "퀘스트 컷신"
+    },
+    {
+      "Key": 6,
+      "Value": "FriendList",
+      "Desc": "친구 목록 팝업창"
+    },
+    {
+      "Key": 7,
+      "Value": "BlueprintBuyPopup",
+      "Desc": "도면 구매 팝업창"
+    },
+    {
+      "Key": 8,
+      "Value": "HouseBuyPopup",
+      "Desc": "하우스 구매 팝업창"
+    },
+    {
+      "Key": 9,
+      "Value": "NPCTown",
+      "Desc": "센트럴 타운 필드"
+    },
+    {
+      "Key": 10,
+      "Value": "RequestHouse",
+      "Desc": "의뢰 하우스 필드"
+    },
+    {
+      "Key": 11,
+      "Value": "GiftSelectPopup",
+      "Desc": "선물 선택 팝업창"
+    },
+    {
+      "Key": 12,
+      "Value": "PotWaterwingPopup",
+      "Desc": "화분 정보 팝업창"
+    },
+    {
+      "Key": 13,
+      "Value": "VacationLandmark",
+      "Desc": "휴양지 랜드마크 필드"
+    },
+    {
+      "Key": 14,
+      "Value": "InventoryItemInfoPopup",
+      "Desc": "창고 아이템 정보 팝업창"
+    },
+    {
+      "Key": 15,
+      "Value": "Crafting",
+      "Desc": "크래프팅 화면"
+    },
+    {
+      "Key": 16,
+      "Value": "TimeLinePopup",
+      "Desc": "타임라인 팝업창"
+    },
+    {
+      "Key": 17,
+      "Value": "TodoListPopup",
+      "Desc": "투두리스트 팝업창"
+    },
+    {
+      "Key": 18,
+      "Value": "IDCardPopup",
+      "Desc": "명함 팝업창"
+    },
+    {
+      "Key": 19,
+      "Value": "Inventory",
+      "Desc": "창고 팝업창"
+    },
+    {
+      "Key": 20,
+      "Value": "NPCBookPopup",
+      "Desc": "주민 수첩 팝업창"
+    },
+    {
+      "Key": 21,
+      "Value": "CollectionPopup",
+      "Desc": "도감 팝업창"
+    },
+    {
+      "Key": 22,
+      "Value": "GachaPopup",
+      "Desc": "부티크 쇼룸 팝업창"
+    },
+    {
+      "Key": 23,
+      "Value": "JoyShopPopup",
+      "Desc": "조이 상점 팝업창"
+    },
+    {
+      "Key": 24,
+      "Value": "GreenHouse",
+      "Desc": "그린하우스 필드 "
+    },
+    {
+      "Key": 56,
+      "Value": "CommonHairShop",
+      "Desc": "일반 미용실 창"
+    },
+    {
+      "Key": 57,
+      "Value": "PremiumHairShop",
+      "Desc": "프리미엄 미용실 창"
+    },
+    {
+      "Key": 58,
+      "Value": "ExchangeShopPopup",
+      "Desc": "골동품 가게 팝업창"
+    },
+    {
+      "Key": 59,
+      "Value": "CharacterCustiomizing",
+      "Desc": "옷장 화면"
+    },
+    {
+      "Key": 60,
+      "Value": "GuestBookPopup",
+      "Desc": "방명록 팝업창"
+    },
+    {
+      "Key": 61,
+      "Value": "QuestPopup",
+      "Desc": "퀘스트 팝업창"
+    },
+    {
+      "Key": 62,
+      "Value": "AchievementPopup",
+      "Desc": "업적 팝업창"
+    },
+    {
+      "Key": 63,
+      "Value": "CharacterCapturePopup",
+      "Desc": "캐릭터 캡처 팝업창"
+    },
+    {
+      "Key": 64,
+      "Value": "DailyMissionPopup",
+      "Desc": "일일 미션 팝업창"
+    },
+    {
+      "Key": 65,
+      "Value": "HouseExpandPopup",
+      "Desc": "하우스 평수 확장 팝업창"
+    },
+    {
+      "Key": 66,
+      "Value": "PlayShopPopup",
+      "Desc": "플레이 상점 팝업창"
+    },
+    {
+      "Key": 71,
+      "Value": "ConstructionPopup",
+      "Desc": "공사 팝업창"
+    },
+    {
+      "Key": 72,
+      "Value": "CinnamorollShopPopup",
+      "Desc": "시나모롤 아이스크림 트럭 팝업창"
+    },
+    {
+      "Key": 73,
+      "Value": "RemodelingPopup",
+      "Desc": "리모델링 팝업창"
+    },
+    {
+      "Key": 74,
+      "Value": "PlaySquare",
+      "Desc": "플레이 스퀘어"
+    },
+    {
+      "Key": 75,
+      "Value": "StyleSquare",
+      "Desc": "스타일 스퀘어"
+    },
+    {
+      "Key": 76,
+      "Value": "CinnamorollSquare",
+      "Desc": "시나모롤 빌리지"
+    },
+    {
+      "Key": 77,
+      "Value": "ArrangePopup",
+      "Desc": "보유 시 UI_InventoryItemInfoPopup / 미보유 시 UI_ItemDetail"
+    },
+    {
+      "Key": 78,
+      "Value": "MarketPopup",
+      "Desc": "장터 팝업창"
+    },
+    {
+      "Key": 79,
+      "Value": "CapturePopup",
+      "Desc": "일반 캡처 팝업창"
+    },
+    {
+      "Key": 80,
+      "Value": "FarmingObjectItemPopup",
+      "Desc": "보유 시 UI_InventoryItemInfoPopup / 미보유 시 그리너리샵 (JoyShopPopup)"
+    }
+  ],
+  "ESellPlaceType": [
+    {
+      "Key": 0,
+      "Value": "NormalShop",
+      "Desc": "일반 상점"
+    },
+    {
+      "Key": 1,
+      "Value": "Field_104_Sell",
+      "Desc": "패션 스트릿"
+    },
+    {
+      "Key": 2,
+      "Value": "Field_106_Sell",
+      "Desc": "어드벤처 포레스트"
+    },
+    {
+      "Key": 3,
+      "Value": "Field_105_Sell",
+      "Desc": "센트럴 타운"
+    },
+    {
+      "Key": 4,
+      "Value": "Field_2001_Sell",
+      "Desc": "패션 스퀘어"
+    },
+    {
+      "Key": 5,
+      "Value": "Field_2003_Sell",
+      "Desc": "시나모롤 스퀘어"
+    },
+    {
+      "Key": 6,
+      "Value": "Field_2005_Sell",
+      "Desc": "플레이 스퀘어"
+    },
+    {
+      "Key": 7,
+      "Value": "Field_2006_Sell",
+      "Desc": "시나모롤 하우스"
+    }
+  ],
+  "ERankType": [
+    {
+      "Key": 1,
+      "Value": "Number",
+      "Desc": "순위"
+    },
+    {
+      "Key": 2,
+      "Value": "Percent",
+      "Desc": "퍼센트"
+    }
+  ],
+  "ERetTargetUserType": [
+    {
+      "Key": 1,
+      "Value": "NewUser",
+      "Desc": "신규 유저"
+    },
+    {
+      "Key": 2,
+      "Value": "ComebackUser",
+      "Desc": "복귀 유저"
+    }
+  ],
+  "ERewardType": [
+    {
+      "Key": 0,
+      "Value": "Pass",
+      "Desc": "기입안함"
+    },
+    {
+      "Key": 1,
+      "Value": "Gold",
+      "Desc": "골드"
+    },
+    {
+      "Key": 2,
+      "Value": "Free_Jewel",
+      "Desc": "무료 주얼"
+    },
+    {
+      "Key": 3,
+      "Value": "Pay_Jewel",
+      "Desc": "유료 주얼"
+    },
+    {
+      "Key": 4,
+      "Value": "Jewel",
+      "Desc": "주얼"
+    },
+    {
+      "Key": 5,
+      "Value": "Heart",
+      "Desc": "하트"
+    },
+    {
+      "Key": 6,
+      "Value": "Wish",
+      "Desc": "위시"
+    },
+    {
+      "Key": 7,
+      "Value": "Fashion",
+      "Desc": "패션"
+    },
+    {
+      "Key": 8,
+      "Value": "Peace",
+      "Desc": "피스"
+    },
+    {
+      "Key": 9,
+      "Value": "Giving",
+      "Desc": "기빙"
+    },
+    {
+      "Key": 10,
+      "Value": "Exp",
+      "Desc": "경험치"
+    },
+    {
+      "Key": 11,
+      "Value": "NPC_Rep",
+      "Desc": "호감도"
+    },
+    {
+      "Key": 12,
+      "Value": "Drill",
+      "Desc": "드릴"
+    },
+    {
+      "Key": 13,
+      "Value": "Wear",
+      "Desc": "의상"
+    },
+    {
+      "Key": 14,
+      "Value": "Sticker",
+      "Desc": "스티커"
+    },
+    {
+      "Key": 15,
+      "Value": "RealEstate",
+      "Desc": "부동산"
+    },
+    {
+      "Key": 16,
+      "Value": "Vehicle",
+      "Desc": "차량"
+    },
+    {
+      "Key": 17,
+      "Value": "TanningCreams",
+      "Desc": "태닝크림"
+    },
+    {
+      "Key": 18,
+      "Value": "FabricDyes",
+      "Desc": "패브릭물감"
+    },
+    {
+      "Key": 19,
+      "Value": "IDCardTheme",
+      "Desc": "명함테마"
+    },
+    {
+      "Key": 20,
+      "Value": "Item",
+      "Desc": "아이템"
+    },
+    {
+      "Key": 21,
+      "Value": "Product",
+      "Desc": "현금"
+    },
+    {
+      "Key": 22,
+      "Value": "Mileage",
+      "Desc": "마일리지"
+    },
+    {
+      "Key": 23,
+      "Value": "PremiumMileage",
+      "Desc": "프리미엄 마일리지"
+    },
+    {
+      "Key": 24,
+      "Value": "GachaTicket",
+      "Desc": "가챠 전용 티켓"
+    },
+    {
+      "Key": 25,
+      "Value": "Free_FashionTicket",
+      "Desc": "무료 패션티켓"
+    },
+    {
+      "Key": 26,
+      "Value": "Pay_FashionTicket",
+      "Desc": "유료 패션티켓"
+    },
+    {
+      "Key": 27,
+      "Value": "FashionTicket",
+      "Desc": "패션티켓"
+    },
+    {
+      "Key": 28,
+      "Value": "Free_PlayTicket",
+      "Desc": "무료 플레이티켓"
+    },
+    {
+      "Key": 29,
+      "Value": "Pay_PlayTicket",
+      "Desc": "유료 플레이티켓"
+    },
+    {
+      "Key": 30,
+      "Value": "PlayTicket",
+      "Desc": "플레이티켓"
+    },
+    {
+      "Key": 31,
+      "Value": "Free_FashionEnterTicket",
+      "Desc": "무료 패션 참가권"
+    },
+    {
+      "Key": 32,
+      "Value": "Pay_FashionEnterTicket",
+      "Desc": "유료 패션 참가권"
+    },
+    {
+      "Key": 33,
+      "Value": "FashionEnterTicket",
+      "Desc": "패션 참가권"
+    },
+    {
+      "Key": 34,
+      "Value": "Mileage_Cumulative ",
+      "Desc": "마일리지"
+    }
+  ],
+  "ERhythmLevel": [
+    {
+      "Key": 1,
+      "Value": "Easy",
+      "Desc": "이지"
+    },
+    {
+      "Key": 2,
+      "Value": "Normal",
+      "Desc": "노멀"
+    },
+    {
+      "Key": 3,
+      "Value": "Hard",
+      "Desc": "하드"
+    }
+  ],
+  "ERhythmScore": [
+    {
+      "Key": 1,
+      "Value": "Perfect",
+      "Desc": "Perfect"
+    },
+    {
+      "Key": 2,
+      "Value": "Great",
+      "Desc": "Great"
+    },
+    {
+      "Key": 3,
+      "Value": "Good",
+      "Desc": "Good"
+    },
+    {
+      "Key": 4,
+      "Value": "Bad",
+      "Desc": "Bad"
+    },
+    {
+      "Key": 5,
+      "Value": "Miss",
+      "Desc": "Miss"
+    }
+  ],
+  "ESexType": [
+    {
+      "Key": 1,
+      "Value": "Girl",
+      "Desc": "여자",
+      "StringKey": "gender_female"
+    },
+    {
+      "Key": 2,
+      "Value": "Boy",
+      "Desc": "남자",
+      "StringKey": "gender_male"
+    },
+    {
+      "Key": 3,
+      "Value": "None",
+      "Desc": "무",
+      "StringKey": "gender_none"
+    }
+  ],
+  "EShortCutType": [
+    {
+      "Key": 1,
+      "Value": "None",
+      "Desc": "바로가기 버튼 없음"
+    },
+    {
+      "Key": 2,
+      "Value": "UiLink",
+      "Desc": "지정 UI 연결"
+    }
+  ],
+  "EStepIconType": [
+    {
+      "Key": 1,
+      "Value": "ValueIdIcon",
+      "Desc": "Value ID 아이콘"
+    },
+    {
+      "Key": 2,
+      "Value": "SpecifyIcon",
+      "Desc": "지정 아이콘"
+    }
+  ],
+  "EStepValueIDType": [
+    {
+      "Key": 1,
+      "Value": "ItemID",
+      "Desc": "아이템 ID"
+    },
+    {
+      "Key": 2,
+      "Value": "RoomID",
+      "Desc": "룸 ID"
+    },
+    {
+      "Key": 3,
+      "Value": "YardID",
+      "Desc": "마당 ID"
+    },
+    {
+      "Key": 4,
+      "Value": "NPCID",
+      "Desc": "NPC ID"
+    },
+    {
+      "Key": 5,
+      "Value": "BlueprintID",
+      "Desc": "도면 ID"
+    },
+    {
+      "Key": 6,
+      "Value": "MissionHouseID",
+      "Desc": "의뢰하우스 ID"
+    },
+    {
+      "Key": 7,
+      "Value": "QuestUILinkType",
+      "Desc": "퀘스트 UI 링크 타입"
+    },
+    {
+      "Key": 8,
+      "Value": "CollectionID",
+      "Desc": "도감 ID"
+    },
+    {
+      "Key": 9,
+      "Value": "QuestID",
+      "Desc": "퀘스트 ID"
+    },
+    {
+      "Key": 10,
+      "Value": "PriceType",
+      "Desc": "재화 타입"
+    }
+  ],
+  "EStreetType": [
+    {
+      "Key": 1,
+      "Value": "Street",
+      "Desc": "스트릿"
+    },
+    {
+      "Key": 2,
+      "Value": "Avenume",
+      "Desc": "에비뉴"
+    }
+  ],
+  "ETransType": [
+    {
+      "Key": 1,
+      "Value": "Car",
+      "Desc": "차량"
+    },
+    {
+      "Key": 2,
+      "Value": "Eco",
+      "Desc": "에코"
+    },
+    {
+      "Key": 3,
+      "Value": "Animal",
+      "Desc": "동물"
+    }
+  ],
+  "ETutorialType": [
+    {
+      "Key": 1,
+      "Value": "Tutorial_Control",
+      "Desc": "동작 제어형"
+    },
+    {
+      "Key": 2,
+      "Value": "Tutorial_Img",
+      "Desc": "UI 설명 형"
+    },
+    {
+      "Key": 3,
+      "Value": "Tutorial_Chat",
+      "Desc": "대화 형"
+    },
+    {
+      "Key": 4,
+      "Value": "Cutscene",
+      "Desc": "컷신"
+    }
+  ],
+  "EUseBuffType": [
+    {
+      "Key": 1,
+      "Value": "ItemUseBuff",
+      "Desc": "생산 경험치 증가"
+    },
+    {
+      "Key": 2,
+      "Value": "HouseMileageBuff",
+      "Desc": "제작 경험치 증가"
+    },
+    {
+      "Key": 3,
+      "Value": "NPCGFBuff",
+      "Desc": "생산량 증가"
+    },
+    {
+      "Key": 4,
+      "Value": "EventBuff",
+      "Desc": "최대 제작 가능 개수 증가"
+    }
+  ],
+  "EUserActionType": [
+    {
+      "Key": 0,
+      "Value": "Default",
+      "Desc": "디폴트"
+    },
+    {
+      "Key": 1,
+      "Value": "Visit",
+      "Desc": "방문 인사"
+    },
+    {
+      "Key": 2,
+      "Value": "Bye",
+      "Desc": "작별 인사"
+    },
+    {
+      "Key": 3,
+      "Value": "Edit",
+      "Desc": "편집 완료"
+    },
+    {
+      "Key": 4,
+      "Value": "Crafting",
+      "Desc": "크래프팅"
+    },
+    {
+      "Key": 5,
+      "Value": "Sit",
+      "Desc": "앉기"
+    },
+    {
+      "Key": 6,
+      "Value": "LieDown",
+      "Desc": "눕기"
+    },
+    {
+      "Key": 7,
+      "Value": "Touch",
+      "Desc": "NPC 터치"
+    },
+    {
+      "Key": 8,
+      "Value": "FarmingStart",
+      "Desc": "파밍 시작"
+    },
+    {
+      "Key": 9,
+      "Value": "FarmingEnd",
+      "Desc": "파밍 수확"
+    }
+  ]
+}

@@ -1,0 +1,753 @@
+{
+  "PetData": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10001,
+      "PetSkinId": "10001_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 1,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10002,
+      "PetSkinId": "10002_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10003,
+      "PetSkinId": "10003_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 3,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10004,
+      "PetSkinId": "10004_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 4,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10005,
+      "PetSkinId": "10005_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 5,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10006,
+      "PetSkinId": "10006_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 6,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10007,
+      "PetSkinId": "10007_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 7,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10008,
+      "PetSkinId": "10008_pet",
+      "EPetindividual": 1,
+      "PetGrade": 1,
+      "EPetCharacter": 8,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20001,
+      "PetSkinId": "20001_pet",
+      "EPetindividual": 2,
+      "PetGrade": 2,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20002,
+      "PetSkinId": "20002_pet",
+      "EPetindividual": 3,
+      "PetGrade": 2,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20003,
+      "PetSkinId": "20003_pet",
+      "EPetindividual": 4,
+      "PetGrade": 2,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30001,
+      "PetSkinId": "30001_pet",
+      "EPetindividual": 2,
+      "PetGrade": 3,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30002,
+      "PetSkinId": "30002_pet",
+      "EPetindividual": 3,
+      "PetGrade": 3,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30003,
+      "PetSkinId": "30003_pet",
+      "EPetindividual": 4,
+      "PetGrade": 3,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40001,
+      "PetSkinId": "40001_pet",
+      "EPetindividual": 2,
+      "PetGrade": 4,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40002,
+      "PetSkinId": "40002_pet",
+      "EPetindividual": 3,
+      "PetGrade": 4,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 40003,
+      "PetSkinId": "40003_pet",
+      "EPetindividual": 4,
+      "PetGrade": 4,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50001,
+      "PetSkinId": "50001_pet",
+      "EPetindividual": 2,
+      "PetGrade": 5,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50002,
+      "PetSkinId": "50002_pet",
+      "EPetindividual": 3,
+      "PetGrade": 5,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 50003,
+      "PetSkinId": "50003_pet",
+      "EPetindividual": 4,
+      "PetGrade": 5,
+      "EPetCharacter": 2,
+      "IsPetMating": true,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": -1,
+      "PetRewardId": 10000,
+      "PetEffect": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60001,
+      "PetSkinId": "60001_pet",
+      "EPetindividual": 5,
+      "PetGrade": 6,
+      "EPetCharacter": 2,
+      "IsPetMating": false,
+      "IsFree": false,
+      "IsPetCharged": false,
+      "PetBuffDecide": 10000,
+      "PetRewardId": 10000,
+      "PetEffect": 1,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "PetBuffInfo": [
+    {
+      "Key": 10000,
+      "PetBuffType": 1,
+      "PetBuffGrade": 1,
+      "PetBuffEv1": 100001,
+      "PetBuffEv2": 100002,
+      "PetBuffEv3": 100003,
+      "PetBuffEv4": 100004,
+      "PetBuffEv5": 100005,
+      "PetRandomBuff": true
+    }
+  ],
+  "PetBuffPreset": [
+    {
+      "Key": 100001,
+      "PetBuffItem1": 100001,
+      "PetBuffValue1": 1,
+      "PetBuffItem2": 0,
+      "PetBuffValue2": 0,
+      "PetBuffItem3": 0,
+      "PetBuffValue3": 0,
+      "PetBuffItem4": 0,
+      "PetBuffValue4": 0,
+      "PetBuffItem5": 0,
+      "PetBuffValue5": 0,
+      "GetItemTime": 3600
+    },
+    {
+      "Key": 100002,
+      "PetBuffItem1": 100001,
+      "PetBuffValue1": 2,
+      "PetBuffItem2": 0,
+      "PetBuffValue2": 0,
+      "PetBuffItem3": 0,
+      "PetBuffValue3": 0,
+      "PetBuffItem4": 0,
+      "PetBuffValue4": 0,
+      "PetBuffItem5": 0,
+      "PetBuffValue5": 0,
+      "GetItemTime": 3600
+    },
+    {
+      "Key": 100003,
+      "PetBuffItem1": 100001,
+      "PetBuffValue1": 3,
+      "PetBuffItem2": 0,
+      "PetBuffValue2": 0,
+      "PetBuffItem3": 0,
+      "PetBuffValue3": 0,
+      "PetBuffItem4": 0,
+      "PetBuffValue4": 0,
+      "PetBuffItem5": 0,
+      "PetBuffValue5": 0,
+      "GetItemTime": 3600
+    },
+    {
+      "Key": 100004,
+      "PetBuffItem1": 100001,
+      "PetBuffValue1": 4,
+      "PetBuffItem2": 0,
+      "PetBuffValue2": 0,
+      "PetBuffItem3": 0,
+      "PetBuffValue3": 0,
+      "PetBuffItem4": 0,
+      "PetBuffValue4": 0,
+      "PetBuffItem5": 0,
+      "PetBuffValue5": 0,
+      "GetItemTime": 3600
+    },
+    {
+      "Key": 100005,
+      "PetBuffItem1": 100001,
+      "PetBuffValue1": 5,
+      "PetBuffItem2": 0,
+      "PetBuffValue2": 0,
+      "PetBuffItem3": 0,
+      "PetBuffValue3": 0,
+      "PetBuffItem4": 0,
+      "PetBuffValue4": 0,
+      "PetBuffItem5": 0,
+      "PetBuffValue5": 0,
+      "GetItemTime": 3600
+    }
+  ],
+  "PetRewardInfo": [
+    {
+      "Key": 10000,
+      "PetRewItem1": 100001,
+      "PetRewValue1": 1,
+      "PetRewItem2": 0,
+      "PetRewValue2": 0,
+      "PetRewItem3": 0,
+      "PetRewValue3": 0,
+      "PetRewItem4": 0,
+      "PetRewValue4": 0,
+      "PetRewItem5": 0,
+      "PetRewValue5": 0
+    }
+  ],
+  "PetMatingRate": [
+    {
+      "Key": 1,
+      "PetGrade": 1,
+      "PetMateGrade": 1,
+      "PetMateRate": 7500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 2,
+      "PetGrade": 1,
+      "PetMateGrade": 2,
+      "PetMateRate": 2500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 3,
+      "PetGrade": 2,
+      "PetMateGrade": 1,
+      "PetMateRate": 5000,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 4,
+      "PetGrade": 2,
+      "PetMateGrade": 2,
+      "PetMateRate": 3500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 5,
+      "PetGrade": 2,
+      "PetMateGrade": 3,
+      "PetMateRate": 1500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 6,
+      "PetGrade": 3,
+      "PetMateGrade": 1,
+      "PetMateRate": 4000,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 7,
+      "PetGrade": 3,
+      "PetMateGrade": 2,
+      "PetMateRate": 3150,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 8,
+      "PetGrade": 3,
+      "PetMateGrade": 3,
+      "PetMateRate": 2050,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 9,
+      "PetGrade": 3,
+      "PetMateGrade": 4,
+      "PetMateRate": 800,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 10,
+      "PetGrade": 4,
+      "PetMateGrade": 1,
+      "PetMateRate": 3500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 11,
+      "PetGrade": 4,
+      "PetMateGrade": 2,
+      "PetMateRate": 2500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 12,
+      "PetGrade": 4,
+      "PetMateGrade": 3,
+      "PetMateRate": 2000,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 13,
+      "PetGrade": 4,
+      "PetMateGrade": 4,
+      "PetMateRate": 1500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 14,
+      "PetGrade": 4,
+      "PetMateGrade": 5,
+      "PetMateRate": 500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 15,
+      "PetGrade": 5,
+      "PetMateGrade": 1,
+      "PetMateRate": 3500,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 16,
+      "PetGrade": 5,
+      "PetMateGrade": 2,
+      "PetMateRate": 2100,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 17,
+      "PetGrade": 5,
+      "PetMateGrade": 3,
+      "PetMateRate": 1700,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 18,
+      "PetGrade": 5,
+      "PetMateGrade": 4,
+      "PetMateRate": 1300,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 19,
+      "PetGrade": 5,
+      "PetMateGrade": 5,
+      "PetMateRate": 1100,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 20,
+      "PetGrade": 5,
+      "PetMateGrade": 6,
+      "PetMateRate": 300,
+      "IsPetCharged": false
+    },
+    {
+      "Key": 21,
+      "PetGrade": 3,
+      "PetMateGrade": 3,
+      "PetMateRate": 8500,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 22,
+      "PetGrade": 3,
+      "PetMateGrade": 4,
+      "PetMateRate": 1500,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 23,
+      "PetGrade": 4,
+      "PetMateGrade": 3,
+      "PetMateRate": 7000,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 24,
+      "PetGrade": 4,
+      "PetMateGrade": 4,
+      "PetMateRate": 2000,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 25,
+      "PetGrade": 4,
+      "PetMateGrade": 5,
+      "PetMateRate": 1000,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 26,
+      "PetGrade": 5,
+      "PetMateGrade": 3,
+      "PetMateRate": 5000,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 27,
+      "PetGrade": 5,
+      "PetMateGrade": 4,
+      "PetMateRate": 3300,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 28,
+      "PetGrade": 5,
+      "PetMateGrade": 5,
+      "PetMateRate": 1200,
+      "IsPetCharged": true
+    },
+    {
+      "Key": 29,
+      "PetGrade": 5,
+      "PetMateGrade": 6,
+      "PetMateRate": 500,
+      "IsPetCharged": true
+    }
+  ],
+  "PetLevelLimit": [
+    {
+      "PetGrade": 1,
+      "PetLevelLimit": 10
+    },
+    {
+      "PetGrade": 2,
+      "PetLevelLimit": 15
+    },
+    {
+      "PetGrade": 3,
+      "PetLevelLimit": 20
+    },
+    {
+      "PetGrade": 4,
+      "PetLevelLimit": 25
+    },
+    {
+      "PetGrade": 5,
+      "PetLevelLimit": 30
+    }
+  ],
+  "PetCondition": [
+    {
+      "Key": 1,
+      "EPetCondition": 1,
+      "PetConditionName": "매우 나쁨",
+      "PetConditonMixValue": -3000,
+      "PetConditonMaxValue": -2000
+    },
+    {
+      "Key": 2,
+      "EPetCondition": 1,
+      "PetConditionName": "나쁨",
+      "PetConditonMixValue": -1999,
+      "PetConditonMaxValue": -1000
+    },
+    {
+      "Key": 3,
+      "EPetCondition": 1,
+      "PetConditionName": "보통",
+      "PetConditonMixValue": -999,
+      "PetConditonMaxValue": 1000
+    },
+    {
+      "Key": 4,
+      "EPetCondition": 1,
+      "PetConditionName": "좋음",
+      "PetConditonMixValue": 1001,
+      "PetConditonMaxValue": 2000
+    },
+    {
+      "Key": 5,
+      "EPetCondition": 1,
+      "PetConditionName": "매우 좋음",
+      "PetConditonMixValue": 2001,
+      "PetConditonMaxValue": 3000
+    },
+    {
+      "Key": 6,
+      "EPetCondition": 2,
+      "PetConditionName": "매우 나쁨",
+      "PetConditonMixValue": -3000,
+      "PetConditonMaxValue": -2000
+    },
+    {
+      "Key": 7,
+      "EPetCondition": 2,
+      "PetConditionName": "나쁨",
+      "PetConditonMixValue": -1999,
+      "PetConditonMaxValue": -1000
+    },
+    {
+      "Key": 8,
+      "EPetCondition": 2,
+      "PetConditionName": "보통",
+      "PetConditonMixValue": -999,
+      "PetConditonMaxValue": 1000
+    },
+    {
+      "Key": 9,
+      "EPetCondition": 2,
+      "PetConditionName": "친함",
+      "PetConditonMixValue": 1001,
+      "PetConditonMaxValue": 2000
+    },
+    {
+      "Key": 10,
+      "EPetCondition": 2,
+      "PetConditionName": "매우 친함",
+      "PetConditonMixValue": 2001,
+      "PetConditonMaxValue": 3000
+    },
+    {
+      "Key": 11,
+      "EPetCondition": 3,
+      "PetConditionName": "매우 더러움",
+      "PetConditonMixValue": -3000,
+      "PetConditonMaxValue": -2000
+    },
+    {
+      "Key": 12,
+      "EPetCondition": 3,
+      "PetConditionName": "더러움",
+      "PetConditonMixValue": -1999,
+      "PetConditonMaxValue": -1000
+    },
+    {
+      "Key": 13,
+      "EPetCondition": 3,
+      "PetConditionName": "보통",
+      "PetConditonMixValue": -999,
+      "PetConditonMaxValue": 1000
+    },
+    {
+      "Key": 14,
+      "EPetCondition": 3,
+      "PetConditionName": "깨끗함",
+      "PetConditonMixValue": 1001,
+      "PetConditonMaxValue": 2000
+    },
+    {
+      "Key": 15,
+      "EPetCondition": 3,
+      "PetConditionName": "매우 깨끗함",
+      "PetConditonMixValue": 2001,
+      "PetConditonMaxValue": 3000
+    }
+  ]
+}

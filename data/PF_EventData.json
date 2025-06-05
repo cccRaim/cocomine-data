@@ -1,0 +1,219 @@
+{
+  "EventButton": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "EventBannerImage": "pass_1_buttonbanner",
+      "UILinkType": 3,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "PassInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PassName": "Pass_Name_01",
+      "IconName": "pass_1_icon",
+      "Comment1": "",
+      "Comment2": "Pass_Benefit_2",
+      "BuffGroupID": 11,
+      "PassRwdGroupID": 101,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "PassLevel": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PassPointValueSum": 0,
+      "PassPointValueReq": 10,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "PassPointValueSum": 10,
+      "PassPointValueReq": 10,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "PassPointValueSum": 20,
+      "PassPointValueReq": 20,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 40
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PassPointValueSum": 40,
+      "PassPointValueReq": 40,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 80
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "PassPointValueSum": 80,
+      "PassPointValueReq": 80,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 160
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "PassPointValueSum": 160,
+      "PassPointValueReq": 160,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 320
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "PassPointValueSum": 320,
+      "PassPointValueReq": 320,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 640
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "PassPointValueSum": 640,
+      "PassPointValueReq": 640,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 640
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "PassPointValueSum": 1280,
+      "PassPointValueReq": 1280,
+      "LevelupPriceType": 2,
+      "LevelupPrice": 640
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "PassPointValueSum": 2560,
+      "PassPointValueReq": 0,
+      "LevelupPriceType": 0,
+      "LevelupPrice": 0
+    }
+  ],
+  "PassMissionSlot": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PassMissionType": 1,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "PassMissionType": 1,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "PassMissionType": 1,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "PassMissionType": 2,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "PassMissionType": 2,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "PassMissionType": 2,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "PassMissionType": 3,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "PassMissionType": 3,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "PassMissionType": 4,
+      "OpenLevel": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "PassMissionType": 4,
+      "OpenLevel": 1
+    }
+  ],
+  "PassMissionList": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PassMissionType": 4,
+      "ReqLevel": 1,
+      "IsEssential": true,
+      "OpenConditionType": 35,
+      "MissionDesc": "OpenType_35",
+      "param1": 0,
+      "param2": 1,
+      "param3": 0,
+      "StepIconType": 2,
+      "StepIcon": "Step_PotWatering_Icon",
+      "StepValueIDType": 0,
+      "ShortCutType": 2,
+      "QuestUILinkType": 12,
+      "RwdPassPoint": 10
+    }
+  ],
+  "CraftingMissionInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "ItemID": 7,
+      "RwdGroupID": 101,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "CraftingRankingInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "RwdGroupID": 101,
+      "StartDate": "2023-03-02T05:50:10 +09:00",
+      "EndDate": "2023-03-02T05:50:10 +09:00"
+    }
+  ],
+  "TruckShopInfo": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "PackageID": 0,
+      "SalesGroupID": 1,
+      "NPCID": 3,
+      "TruckRemainTime": 1
+    }
+  ]
+}

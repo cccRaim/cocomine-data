@@ -50,7 +50,7 @@
   },
   "34": {
     "name": "莱姆",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "3 小时 ",
     "sources": [
       "LV.30: 莱姆树",
       "LV.30: 午夜闪耀莱姆树",
@@ -68,14 +68,14 @@
   },
   "37": {
     "name": "豆子",
-    "GrowthTime": "6 小时",
+    "GrowthTime": "6 小时 ",
     "sources": [
       "LV.1: 田"
     ]
   },
   "39": {
     "name": "檀木材料",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "45 分钟",
     "sources": [
       "LV.13: 榕树",
       "LV.13: 柔和晕染构树",
@@ -91,7 +91,7 @@
   },
   "46": {
     "name": "蜂蜜",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "1 小时 ",
     "sources": [
       "LV.15: 蜜蜂"
     ]
@@ -107,7 +107,7 @@
   },
   "51": {
     "name": "羊毛",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "45 分钟",
     "sources": [
       "LV.10: 羊",
       "LV.10: 黄色绵羊",
@@ -116,7 +116,7 @@
   },
   "53": {
     "name": "桃子",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "45 分钟",
     "sources": [
       "LV.13: 桃树",
       "LV.13: 黎明天空桃树",
@@ -125,21 +125,21 @@
   },
   "54": {
     "name": "镁",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "2 小时 30 分钟",
     "sources": [
       "LV.1: 镁炸弹"
     ]
   },
   "59": {
     "name": "煤炭",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "3 小时 ",
     "sources": [
       "LV.1: 煤炭炸弹"
     ]
   },
   "61": {
     "name": "枫树材料",
-    "GrowthTime": "2 小时",
+    "GrowthTime": "1 小时 30 分钟",
     "sources": [
       "LV.24: 枫树",
       "LV.24: 宁静枫树",
@@ -169,7 +169,7 @@
   },
   "68": {
     "name": "香蕉",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "1 小时 ",
     "sources": [
       "LV.16: 香蕉树",
       "LV.16: 柔和晕染香蕉树",
@@ -178,14 +178,14 @@
   },
   "71": {
     "name": "铁板",
-    "GrowthTime": "4 小时",
+    "GrowthTime": "4 小时 ",
     "sources": [
       "LV.1: 铁板炸弹"
     ]
   },
   "74": {
     "name": "松木材料",
-    "GrowthTime": "4 小时",
+    "GrowthTime": "4 小时 ",
     "sources": [
       "LV.32: 松树",
       "LV.32: 冬日回忆松树",
@@ -194,56 +194,56 @@
   },
   "76": {
     "name": "牛油果",
-    "GrowthTime": "7 小时",
+    "GrowthTime": "6 小时 40 分钟",
     "sources": [
       "LV.1: 酪梨树"
     ]
   },
   "77": {
     "name": "铜",
-    "GrowthTime": "5 小时",
+    "GrowthTime": "5 小时 ",
     "sources": [
       "LV.1: 铜炸弹"
     ]
   },
   "79": {
     "name": "兔毛",
-    "GrowthTime": "7 小时",
+    "GrowthTime": "6 小时 40 分钟",
     "sources": [
       "LV.1: 兔子"
     ]
   },
   "80": {
     "name": "石灰石",
-    "GrowthTime": "6 小时",
+    "GrowthTime": "6 小时 ",
     "sources": [
       "LV.1: 石灰石炸弹"
     ]
   },
   "81": {
     "name": "草莓",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "3 小时 ",
     "sources": [
       "LV.1: 田"
     ]
   },
   "82": {
     "name": "是块东西",
-    "GrowthTime": "8 小时",
+    "GrowthTime": "8 小时 ",
     "sources": [
       "LV.1: 银块炸弹"
     ]
   },
   "88": {
     "name": "金块",
-    "GrowthTime": "10 小时",
+    "GrowthTime": "10 小时 ",
     "sources": [
       "LV.1: 金块炸弹"
     ]
   },
   "91": {
     "name": "咖啡豆",
-    "GrowthTime": "5 小时",
+    "GrowthTime": "5 小时 ",
     "sources": [
       "LV.23: 咖啡树",
       "LV.23: 可可饼干咖啡树",
@@ -252,14 +252,14 @@
   },
   "92": {
     "name": "锌",
-    "GrowthTime": "9 小时",
+    "GrowthTime": "9 小时 ",
     "sources": [
       "LV.1: 锌炸弹"
     ]
   },
   "102": {
     "name": "杏仁",
-    "GrowthTime": "2 小时",
+    "GrowthTime": "1 小时 40 分钟",
     "sources": [
       "LV.32: 杏树",
       "LV.32: 春之盛宴杏仁树",
@@ -268,28 +268,28 @@
   },
   "211": {
     "name": "番茄",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "1 小时 10 分钟",
     "sources": [
       "LV.1: 田"
     ]
   },
   "212": {
     "name": "薄荷叶",
-    "GrowthTime": "4 小时",
+    "GrowthTime": "4 小时 ",
     "sources": [
       "LV.1: 田"
     ]
   },
   "213": {
     "name": "葡萄",
-    "GrowthTime": "2 小时",
+    "GrowthTime": "2 小时 ",
     "sources": [
       "LV.1: 田"
     ]
   },
   "218": {
     "name": "可可豆",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "1 小时 15 分钟",
     "sources": [
       "LV.17: 可可树",
       "LV.17: 自然色可可树",
@@ -298,7 +298,7 @@
   },
   "219": {
     "name": "肉桂",
-    "GrowthTime": "8 小时",
+    "GrowthTime": "8 小时 ",
     "sources": [
       "LV.27: 肉桂树",
       "LV.27: 肉桂卷树",
@@ -321,7 +321,7 @@
   },
   "245": {
     "name": "脱落的角",
-    "GrowthTime": "2 小时",
+    "GrowthTime": "2 小时 ",
     "sources": [
       "LV.23: 鹿",
       "LV.23: 花鹿",
@@ -330,7 +330,7 @@
   },
   "246": {
     "name": "羊驼毛",
-    "GrowthTime": "4 小时",
+    "GrowthTime": "3 小时 30 分钟",
     "sources": [
       "LV.35: 羊驼",
       "LV.35: 粉红色的羊驼",
@@ -339,7 +339,7 @@
   },
   "248": {
     "name": "鸭羽毛",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "2 小时 30 分钟",
     "sources": [
       "LV.29: 鸭子"
     ]
@@ -353,35 +353,35 @@
   },
   "420": {
     "name": "蘑菇",
-    "GrowthTime": "1 小时",
+    "GrowthTime": "1 小时 ",
     "sources": [
       "LV.1: 杂草"
     ]
   },
   "421": {
     "name": "树枝",
-    "GrowthTime": "2 小时",
+    "GrowthTime": "2 小时 ",
     "sources": [
       "LV.1: 岩石2"
     ]
   },
   "423": {
     "name": "盐",
-    "GrowthTime": "4 小时",
+    "GrowthTime": "4 小时 ",
     "sources": [
       "LV.1: 岩石1"
     ]
   },
   "424": {
     "name": "枫树",
-    "GrowthTime": "5 小时",
+    "GrowthTime": "5 小时 ",
     "sources": [
       "LV.1: 岩石2"
     ]
   },
   "428": {
     "name": "花苞",
-    "GrowthTime": "3 小时",
+    "GrowthTime": "3 小时 ",
     "sources": [
       "LV.1: 岩石1"
     ]

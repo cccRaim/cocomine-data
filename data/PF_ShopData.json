@@ -35358,6 +35358,42 @@
       "MarketType": 1,
       "BuyPriceValue": 1100,
       "ProductID": "pf_pack_1100_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 115,
+      "PackageRwdGroupID": 59,
+      "GroupID": 143,
+      "MarketType": 0,
+      "BuyPriceValue": 30000,
+      "ProductID": "a_pf_car_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 116,
+      "PackageRwdGroupID": 59,
+      "GroupID": 143,
+      "MarketType": 1,
+      "BuyPriceValue": 30000,
+      "ProductID": "pf_car_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 117,
+      "PackageRwdGroupID": 60,
+      "GroupID": 144,
+      "MarketType": 0,
+      "BuyPriceValue": 20000,
+      "ProductID": "a_pf_market_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 118,
+      "PackageRwdGroupID": 60,
+      "GroupID": 144,
+      "MarketType": 1,
+      "BuyPriceValue": 20000,
+      "ProductID": "pf_market_2"
     }
   ],
   "PackageRwd": [
@@ -36296,6 +36332,54 @@
       "RewardType": 3,
       "ItemID": 0,
       "RwdCnt": 200
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 217,
+      "GroupID": 59,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 218,
+      "GroupID": 59,
+      "RewardType": 20,
+      "ItemID": 100321,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 219,
+      "GroupID": 60,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 2000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 220,
+      "GroupID": 60,
+      "RewardType": 20,
+      "ItemID": 100322,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 221,
+      "GroupID": 26,
+      "RewardType": 20,
+      "ItemID": 460,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 222,
+      "GroupID": 27,
+      "RewardType": 20,
+      "ItemID": 460,
+      "RwdCnt": 1
     }
   ]
 }

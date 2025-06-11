@@ -2717,6 +2717,28 @@
       "RequestMinLV": 35,
       "RequestMaxLV": 40,
       "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 190,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 301,
+      "ItemValue": 4,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 191,
+      "Nation": 15,
+      "NPCID": 3004,
+      "ItemID": 253,
+      "ItemValue": 3,
+      "RequestMinLV": 5,
+      "RequestMaxLV": 40,
+      "BalanceRwdGroupID": 1
     }
   ],
   "DailyReward": [

@@ -1231,6 +1231,87 @@
       "RwdType": 1,
       "RewardID": 0,
       "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 152,
+      "RwdGroupID": 2308,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 1,
+      "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 153,
+      "RwdGroupID": 2308,
+      "CollectionFillValue": 10,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 154,
+      "RwdGroupID": 2308,
+      "CollectionFillValue": 20,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 155,
+      "RwdGroupID": 2309,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 0,
+      "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 156,
+      "RwdGroupID": 2309,
+      "CollectionFillValue": 6,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 157,
+      "RwdGroupID": 2309,
+      "CollectionFillValue": 13,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 158,
+      "RwdGroupID": 2310,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 0,
+      "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 159,
+      "RwdGroupID": 2310,
+      "CollectionFillValue": 15,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 160,
+      "RwdGroupID": 2310,
+      "CollectionFillValue": 30,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 150
     }
   ],
   "PlazaGachaRwd": [

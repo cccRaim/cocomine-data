@@ -9676,20 +9676,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 1391,
-      "ConsumeMatGroupID": 442,
-      "MatItemID": 100120,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1392,
-      "ConsumeMatGroupID": 442,
-      "MatItemID": 100148,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 1393,
       "ConsumeMatGroupID": 443,
       "MatItemID": 10500079,
@@ -9715,20 +9701,6 @@
       "ConsumeMatGroupID": 443,
       "MatItemID": 10500092,
       "MatItemCnt": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1397,
-      "ConsumeMatGroupID": 443,
-      "MatItemID": 322,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1398,
-      "ConsumeMatGroupID": 443,
-      "MatItemID": 100026,
-      "MatItemCnt": 2
     },
     {
       "ServiceType": "DEV",
@@ -9767,13 +9739,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 1404,
-      "ConsumeMatGroupID": 444,
-      "MatItemID": 100163,
-      "MatItemCnt": 1
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 1405,
       "ConsumeMatGroupID": 445,
       "MatItemID": 100168,
@@ -9806,13 +9771,6 @@
       "ConsumeMatGroupID": 445,
       "MatItemID": 100161,
       "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1410,
-      "ConsumeMatGroupID": 445,
-      "MatItemID": 100208,
-      "MatItemCnt": 1
     },
     {
       "ServiceType": "DEV",
@@ -10327,13 +10285,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 1490,
-      "ConsumeMatGroupID": 461,
-      "MatItemID": 100141,
-      "MatItemCnt": 5
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 1491,
       "ConsumeMatGroupID": 462,
       "MatItemID": 100007,
@@ -10422,13 +10373,6 @@
       "ConsumeMatGroupID": 465,
       "MatItemID": 299,
       "MatItemCnt": 4
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1504,
-      "ConsumeMatGroupID": 465,
-      "MatItemID": 100049,
-      "MatItemCnt": 5
     },
     {
       "ServiceType": "DEV",

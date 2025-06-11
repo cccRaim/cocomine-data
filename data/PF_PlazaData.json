@@ -2552,5 +2552,16 @@
       "SpawnPointID": 20073,
       "ItemID": 10500139
     }
+  ],
+  "PetPlaza": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 2005,
+      "IsPetTaming": true,
+      "PetTamingAnim": "pet_lights",
+      "SpawnCount": 10,
+      "GrowthTime": 5400
+    }
   ]
 }

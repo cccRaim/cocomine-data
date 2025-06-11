@@ -1415,6 +1415,16 @@
       "Key": 15,
       "Value": "CollectionTabType_15",
       "Desc": "쿠로미"
+    },
+    {
+      "Key": 16,
+      "Value": "CollectionTabType_18",
+      "Desc": "일반 가구"
+    },
+    {
+      "Key": 17,
+      "Value": "CollectionTabType_19",
+      "Desc": "턱시도샘"
     }
   ],
   "ECollectionType": [
@@ -1894,6 +1904,46 @@
       "Key": 10,
       "Value": "Elegant",
       "Desc": "우아"
+    },
+    {
+      "Key": 11,
+      "Value": "Gentle",
+      "Desc": "온화"
+    },
+    {
+      "Key": 12,
+      "Value": "Natural",
+      "Desc": "내추럴"
+    },
+    {
+      "Key": 13,
+      "Value": "Chic",
+      "Desc": "세련"
+    },
+    {
+      "Key": 14,
+      "Value": "Dreamy",
+      "Desc": "몽환"
+    },
+    {
+      "Key": 15,
+      "Value": "Vintage",
+      "Desc": "빈티지"
+    },
+    {
+      "Key": 16,
+      "Value": "Mysterious",
+      "Desc": "신비"
+    },
+    {
+      "Key": 17,
+      "Value": "Modern",
+      "Desc": "모던"
+    },
+    {
+      "Key": 18,
+      "Value": "Fresh",
+      "Desc": "상큼"
     }
   ],
   "EFishingGrade": [

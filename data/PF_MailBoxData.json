@@ -119,6 +119,22 @@
       "Title": "Mail_Title_13",
       "Desc": "Mail_Desc_13",
       "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "NPCID": 1001,
+      "Title": "Mail_Title_14",
+      "Desc": "Mail_Desc_14",
+      "ExpireDate": 43200
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "NPCID": 1001,
+      "Title": "Mail_Title_15",
+      "Desc": "Mail_Desc_15",
+      "ExpireDate": 43200
     }
   ]
 }

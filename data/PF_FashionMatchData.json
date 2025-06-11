@@ -181,6 +181,34 @@
       "EndDate": "2025-06-14T23:59:59 +09:00",
       "RwdStartDate": "2025-06-15T00:00:00 +09:00",
       "RwdEndDate": "2025-06-17T23:59:59 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "Nation": 15,
+      "SeasonName": "FashionMatch_2",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 20,
+      "CntRwdItemID": 487,
+      "StartDate": "2025-06-18T00:00:00 +09:00",
+      "EndDate": "2025-06-24T23:59:59 +09:00",
+      "RwdStartDate": "2025-06-25T00:00:00 +09:00",
+      "RwdEndDate": "2025-06-27T23:59:59 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "Nation": 15,
+      "SeasonName": "FashionMatch_4",
+      "FeatureLimitID": 0,
+      "RankingRwdGroupID": 101,
+      "RwdType": 20,
+      "CntRwdItemID": 487,
+      "StartDate": "2025-06-28T00:00:00 +09:00",
+      "EndDate": "2025-07-04T23:59:59 +09:00",
+      "RwdStartDate": "2025-07-05T00:00:00 +09:00",
+      "RwdEndDate": "2025-07-07T23:59:59 +09:00"
     }
   ],
   "FeatureLimit": [
@@ -309,6 +337,24 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "ReceiveVoteRate": 10000,
+      "ReceiveVoteHandler": 0.00100001,
+      "SendVoteRate": 10000,
+      "SendVoteHandler": 0.00100002,
+      "WinnerVoteRate": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,

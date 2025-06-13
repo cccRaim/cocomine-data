@@ -1920,7 +1920,7 @@
       "IsTrade": false,
       "IsSell": false,
       "IsLimit": false,
-      "UseSlot": true,
+      "UseSlot": false,
       "MaxStack": 99,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "UpdateVersion": 2
@@ -1945,7 +1945,7 @@
       "IsTrade": false,
       "IsSell": false,
       "IsLimit": false,
-      "UseSlot": true,
+      "UseSlot": false,
       "MaxStack": 99,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "UpdateVersion": 0
@@ -33081,7 +33081,7 @@
       "Nation": 15,
       "Category": 1,
       "ItemType": 1,
-      "ItemNameText": "턱시도샘의 범선 피규어 초대 가구",
+      "ItemNameText": "턱시도샘의 범선 피규어 소환 가구",
       "ItemName": "Item_10500252",
       "ItemDescription": "Floor_House_Desc",
       "IconID": "10500252_icon",

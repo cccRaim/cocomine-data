@@ -1093,7 +1093,7 @@
       "CollectionVersion": 2
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 2310,
       "CollectionType": 3,
       "TabType": 16,
@@ -1106,7 +1106,7 @@
       "CollectionVersion": 2
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 2311,
       "CollectionType": 3,
       "TabType": 17,
@@ -7660,56 +7660,56 @@
       "Key": 2,
       "CollectionTabTypeName": "CollectionTabType_2",
       "CollectionType": 3,
-      "Sortindex": 2
+      "Sortindex": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
       "CollectionTabTypeName": "CollectionTabType_3",
       "CollectionType": 3,
-      "Sortindex": 3
+      "Sortindex": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
       "CollectionTabTypeName": "CollectionTabType_4",
       "CollectionType": 3,
-      "Sortindex": 4
+      "Sortindex": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
       "CollectionTabTypeName": "CollectionTabType_5",
       "CollectionType": 3,
-      "Sortindex": 5
+      "Sortindex": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
       "CollectionTabTypeName": "CollectionTabType_6",
       "CollectionType": 3,
-      "Sortindex": 6
+      "Sortindex": 7
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
       "CollectionTabTypeName": "CollectionTabType_7",
       "CollectionType": 3,
-      "Sortindex": 7
+      "Sortindex": 8
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
       "CollectionTabTypeName": "CollectionTabType_8",
       "CollectionType": 4,
-      "Sortindex": 8
+      "Sortindex": 9
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
       "CollectionTabTypeName": "CollectionTabType_9",
       "CollectionType": 5,
-      "Sortindex": 9
+      "Sortindex": 10
     },
     {
       "ServiceType": "DEV",
@@ -7754,14 +7754,14 @@
       "Sortindex": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 16,
       "CollectionTabTypeName": "CollectionTabType_18",
       "CollectionType": 3,
-      "Sortindex": 16
+      "Sortindex": 2
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 17,
       "CollectionTabTypeName": "CollectionTabType_19",
       "CollectionType": 3,

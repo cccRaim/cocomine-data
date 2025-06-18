@@ -1,0 +1,3033 @@
+{
+  "面粉": {
+    "category": "料理制作",
+    "exp": 10,
+    "materials": {
+      "小麦": 1
+    },
+    "isEvent": false
+  },
+  "扁柏木板": {
+    "category": "原木制作",
+    "exp": 10,
+    "materials": {
+      "扁柏木材料": 1
+    },
+    "isEvent": false
+  },
+  "扁柏木棍": {
+    "category": "原木制作",
+    "exp": 10,
+    "materials": {
+      "扁柏木板": 3
+    },
+    "isEvent": false
+  },
+  "面团": {
+    "category": "料理制作",
+    "exp": 30,
+    "materials": {
+      "面粉": 3,
+      "水瓶": 1
+    },
+    "isEvent": false
+  },
+  "冰块": {
+    "category": "料理制作",
+    "exp": 50,
+    "materials": {
+      "水瓶": 1
+    },
+    "isEvent": false
+  },
+  "面包": {
+    "category": "料理制作",
+    "exp": 60,
+    "materials": {
+      "面团": 1,
+      "牛油": 1,
+      "盐": 1
+    },
+    "isEvent": false
+  },
+  "牛油": {
+    "category": "料理制作",
+    "exp": 60,
+    "materials": {
+      "有机牛奶": 2,
+      "盐": 1
+    },
+    "isEvent": false
+  },
+  "线": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "棉花": 2
+    },
+    "isEvent": false
+  },
+  "绳子": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "线": 2,
+      "橡胶原料": 1
+    },
+    "isEvent": false
+  },
+  "黏土": {
+    "category": "陶艺制作",
+    "exp": 80,
+    "materials": {
+      "土": 2,
+      "橡胶原料": 1,
+      "纯水": 2
+    },
+    "isEvent": false
+  },
+  "沙子": {
+    "category": "陶艺制作",
+    "exp": 80,
+    "materials": {
+      "土": 3
+    },
+    "isEvent": false
+  },
+  "陶瓷碗": {
+    "category": "陶艺制作",
+    "exp": 80,
+    "materials": {
+      "黏土": 1,
+      "纯水": 2
+    },
+    "isEvent": false
+  },
+  "砂糖": {
+    "category": "料理制作",
+    "exp": 100,
+    "materials": {
+      "甘蔗": 1
+    },
+    "isEvent": false
+  },
+  "云朵棉花糖": {
+    "category": "料理制作",
+    "exp": 100,
+    "materials": {
+      "砂糖": 2
+    },
+    "isEvent": false
+  },
+  "鲜奶油": {
+    "category": "料理制作",
+    "exp": 100,
+    "materials": {
+      "有机牛奶": 2,
+      "砂糖": 2
+    },
+    "isEvent": false
+  },
+  "布料": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "羊毛": 4
+    },
+    "isEvent": false
+  },
+  "兰姆酒": {
+    "category": "料理制作",
+    "exp": 100,
+    "materials": {
+      "甘蔗": 3,
+      "水瓶": 6,
+      "砂糖": 5
+    },
+    "isEvent": false
+  },
+  "水蜜桃圣代": {
+    "category": "料理制作",
+    "exp": 130,
+    "materials": {
+      "桃子": 3,
+      "砂糖": 3,
+      "鲜奶油": 1
+    },
+    "isEvent": false
+  },
+  "构树木板": {
+    "category": "原木制作",
+    "exp": 130,
+    "materials": {
+      "檀木材料": 2
+    },
+    "isEvent": false
+  },
+  "构树木棍": {
+    "category": "原木制作",
+    "exp": 130,
+    "materials": {
+      "构树木板": 2
+    },
+    "isEvent": false
+  },
+  "玻璃": {
+    "category": "陶艺制作",
+    "exp": 150,
+    "materials": {
+      "沙子": 2,
+      "煤炭": 1
+    },
+    "isEvent": false
+  },
+  "纸": {
+    "category": "原木制作",
+    "exp": 150,
+    "materials": {
+      "扁柏木板": 15,
+      "纯水": 4
+    },
+    "isEvent": false
+  },
+  "番茄酱": {
+    "category": "料理制作",
+    "exp": 160,
+    "materials": {
+      "番茄": 3,
+      "砂糖": 3
+    },
+    "isEvent": false
+  },
+  "番茄炖菜": {
+    "category": "料理制作",
+    "exp": 160,
+    "materials": {
+      "番茄酱": 1,
+      "番茄": 2,
+      "面包": 1
+    },
+    "isEvent": false
+  },
+  "奶酪": {
+    "category": "料理制作",
+    "exp": 160,
+    "materials": {
+      "有机牛奶": 8,
+      "盐": 2
+    },
+    "isEvent": false
+  },
+  "比萨": {
+    "category": "原木制作",
+    "exp": 160,
+    "materials": {
+      "面团": 5,
+      "奶酪": 3,
+      "蘑菇": 5,
+      "番茄": 3
+    },
+    "isEvent": false
+  },
+  "生物塑胶": {
+    "category": "金属制作",
+    "exp": 160,
+    "materials": {
+      "小麦": 20,
+      "玉米": 6,
+      "甘蔗": 8,
+      "土豆": 2,
+      "香蕉": 2
+    },
+    "isEvent": false
+  },
+  "香草冰淇淋": {
+    "category": "料理制作",
+    "exp": 200,
+    "materials": {
+      "香草精": 1,
+      "砂糖": 3,
+      "鲜奶油": 4,
+      "冰块": 5
+    },
+    "isEvent": false
+  },
+  "焦糖": {
+    "category": "料理制作",
+    "exp": 200,
+    "materials": {
+      "砂糖": 3,
+      "香草精": 2,
+      "水瓶": 2
+    },
+    "isEvent": false
+  },
+  "乙醇": {
+    "category": "金属制作",
+    "exp": 200,
+    "materials": {
+      "砂糖": 8,
+      "玉米": 5,
+      "小麦": 15,
+      "葡萄": 2,
+      "香蕉": 3
+    },
+    "isEvent": false
+  },
+  "灯丝": {
+    "category": "金属制作",
+    "exp": 230,
+    "materials": {
+      "铜": 3
+    },
+    "isEvent": false
+  },
+  "咖啡渣": {
+    "category": "料理制作",
+    "exp": 230,
+    "materials": {
+      "咖啡豆": 3
+    },
+    "isEvent": false
+  },
+  "美式咖啡": {
+    "category": "料理制作",
+    "exp": 230,
+    "materials": {
+      "咖啡豆": 5,
+      "水瓶": 8,
+      "冰块": 8
+    },
+    "isEvent": false
+  },
+  "枫木板": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫树材料": 3
+    },
+    "isEvent": false
+  },
+  "枫木棍": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫木板": 3
+    },
+    "isEvent": false
+  },
+  "布丁": {
+    "category": "料理制作",
+    "exp": 270,
+    "materials": {
+      "蛋": 10,
+      "有机牛奶": 8,
+      "砂糖": 10,
+      "肉桂粉": 1,
+      "鲜奶油": 7
+    },
+    "isEvent": false
+  },
+  "肉桂卷": {
+    "category": "料理制作",
+    "exp": 270,
+    "materials": {
+      "肉桂粉": 2,
+      "砂糖": 12,
+      "面团": 10,
+      "鲜奶油": 5,
+      "牛油": 7
+    },
+    "isEvent": false
+  },
+  "肉桂粉": {
+    "category": "料理制作",
+    "exp": 270,
+    "materials": {
+      "肉桂": 3
+    },
+    "isEvent": false
+  },
+  "肉桂苹果派": {
+    "category": "料理制作",
+    "exp": 270,
+    "materials": {
+      "苹果": 10,
+      "面团": 10,
+      "砂糖": 7,
+      "鲜奶油": 10,
+      "牛油": 7
+    },
+    "isEvent": false
+  },
+  "水泥": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "黏土": 5,
+      "石灰石": 2,
+      "铁板": 1,
+      "煤炭": 6
+    },
+    "isEvent": false
+  },
+  "大理石": {
+    "category": "金属制作",
+    "exp": 280,
+    "materials": {
+      "石灰石": 3,
+      "土": 5,
+      "铁板": 3,
+      "纯水": 12
+    },
+    "isEvent": false
+  },
+  "棉被": {
+    "category": "缝纫制作",
+    "exp": 290,
+    "materials": {
+      "羽毛毛线": 1,
+      "布料": 1,
+      "棉花": 3
+    },
+    "isEvent": false
+  },
+  "羽毛毛线": {
+    "category": "缝纫制作",
+    "exp": 290,
+    "materials": {
+      "鸭羽毛": 2,
+      "线": 3
+    },
+    "isEvent": false
+  },
+  "枕头": {
+    "category": "缝纫制作",
+    "exp": 290,
+    "materials": {
+      "羊毛": 2,
+      "布料": 5,
+      "线": 3,
+      "鸭羽毛": 5
+    },
+    "isEvent": false
+  },
+  "香水": {
+    "category": "金属制作",
+    "exp": 300,
+    "materials": {
+      "乙醇": 2,
+      "莱姆": 2,
+      "桃子": 8
+    },
+    "isEvent": false
+  },
+  "莱姆汁": {
+    "category": "料理制作",
+    "exp": 300,
+    "materials": {
+      "莱姆": 3
+    },
+    "isEvent": false
+  },
+  "莱姆糖浆": {
+    "category": "料理制作",
+    "exp": 300,
+    "materials": {
+      "莱姆汁": 3,
+      "砂糖": 10,
+      "冰块": 6,
+      "水瓶": 5
+    },
+    "isEvent": false
+  },
+  "苹果薄荷茶": {
+    "category": "料理制作",
+    "exp": 300,
+    "materials": {
+      "苹果": 10,
+      "薄荷叶": 3,
+      "水瓶": 10,
+      "莱姆汁": 2
+    },
+    "isEvent": false
+  },
+  "杏仁粉": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "杏仁": 3
+    },
+    "isEvent": false
+  },
+  "杏仁饼干": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "杏仁粉": 2,
+      "砂糖": 5,
+      "面团": 3,
+      "有机牛奶": 8,
+      "香草精": 3
+    },
+    "isEvent": false
+  },
+  "胶水": {
+    "category": "皮革制作",
+    "exp": 320,
+    "materials": {
+      "橡胶原料": 15,
+      "蜂蜜": 10,
+      "精炼石油": 2
+    },
+    "isEvent": false
+  },
+  "铁棒": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "铁板": 5,
+      "精炼石油": 3
+    },
+    "isEvent": false
+  },
+  "芬多精": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "扁柏木材料": 10,
+      "檀木材料": 7,
+      "枫树材料": 5,
+      "松木材料": 3
+    },
+    "isEvent": false
+  },
+  "松木板": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "松木材料": 3
+    },
+    "isEvent": false
+  },
+  "松木棍": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "松木板": 3
+    },
+    "isEvent": false
+  },
+  "肥料": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "咖啡渣": 3,
+      "土": 5,
+      "精炼石油": 1
+    },
+    "isEvent": false
+  },
+  "松饼": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "杏仁粉": 10,
+      "鲜奶油": 5,
+      "面团": 15,
+      "香草精": 2,
+      "牛油": 3
+    },
+    "isEvent": false
+  },
+  "黄色染料": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "香蕉": 5,
+      "香草精": 1,
+      "植物油": 1
+    },
+    "isEvent": false
+  },
+  "植物油": {
+    "category": "料理制作",
+    "exp": 330,
+    "materials": {
+      "杏仁": 2,
+      "豆子": 1,
+      "玉米": 10
+    },
+    "isEvent": false
+  },
+  "墨水": {
+    "category": "金属制作",
+    "exp": 330,
+    "materials": {
+      "豆子": 2,
+      "煤炭": 5,
+      "纯水": 8
+    },
+    "isEvent": false
+  },
+  "蓝色染料": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "葡萄": 5,
+      "莱姆糖浆": 2,
+      "植物油": 1
+    },
+    "isEvent": false
+  },
+  "红色染料": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "草莓": 5,
+      "苹果薄荷茶": 1,
+      "植物油": 1
+    },
+    "isEvent": false
+  },
+  "蓝色油漆": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "蓝色染料": 2,
+      "蛋": 1,
+      "精炼石油": 3
+    },
+    "isEvent": false
+  },
+  "红色油漆": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "红色染料": 2,
+      "蛋": 1,
+      "精炼石油": 3
+    },
+    "isEvent": false
+  },
+  "黄色油漆": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "黄色染料": 2,
+      "蛋": 1,
+      "精炼石油": 3
+    },
+    "isEvent": false
+  },
+  "纤维": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "羊驼毛": 2,
+      "羊毛": 10
+    },
+    "isEvent": false
+  },
+  "羊毛": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "纤维": 3,
+      "鸭羽毛": 8
+    },
+    "isEvent": false
+  },
+  "毛线": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "羊毛": 1,
+      "棉花": 10
+    },
+    "isEvent": false
+  },
+  "不锈钢": {
+    "category": "金属制作",
+    "exp": 360,
+    "materials": {
+      "铁板": 5,
+      "锌": 1
+    },
+    "isEvent": false
+  },
+  "钢（钉子）": {
+    "category": "金属制作",
+    "exp": 360,
+    "materials": {
+      "铁棒": 1,
+      "锌": 3
+    },
+    "isEvent": false
+  },
+  "铜板": {
+    "category": "金属制作",
+    "exp": 360,
+    "materials": {
+      "铜": 10,
+      "锌": 3
+    },
+    "isEvent": false
+  },
+  "蛋白霜饼干": {
+    "category": "料理制作",
+    "exp": 340,
+    "materials": {
+      "蛋": 5,
+      "砂糖": 10,
+      "莱姆汁": 1,
+      "黄色染料": 1,
+      "蓝色染料": 1,
+      "红色染料": 1
+    },
+    "isEvent": false
+  },
+  "干草扫把": {
+    "category": "原木制作",
+    "exp": 10,
+    "materials": {
+      "小麦": 3,
+      "扁柏木材料": 1
+    },
+    "isEvent": false
+  },
+  "乡间泥土路": {
+    "category": "陶艺制作",
+    "exp": 30,
+    "materials": {
+      "干草扫把": 1,
+      "纯水": 3
+    },
+    "isEvent": false
+  },
+  "黄色石斛兰花坛": {
+    "category": "原木制作",
+    "exp": 30,
+    "materials": {
+      "扁柏木板": 4,
+      "花苞": 4,
+      "纯水": 1
+    },
+    "isEvent": false
+  },
+  "白色石斛兰花坛": {
+    "category": "原木制作",
+    "exp": 30,
+    "materials": {
+      "扁柏木板": 4,
+      "花苞": 4,
+      "纯水": 1
+    },
+    "isEvent": false
+  },
+  "自然木小围栏": {
+    "category": "原木制作",
+    "exp": 20,
+    "materials": {
+      "扁柏木板": 3,
+      "扁柏木棍": 2
+    },
+    "isEvent": false
+  },
+  "白色木头小围栏": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木板": 3,
+      "扁柏木棍": 2,
+      "贝壳": 3
+    },
+    "isEvent": false
+  },
+  "白色坐垫藤椅": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木棍": 6,
+      "棉花": 5,
+      "线": 3
+    },
+    "isEvent": false
+  },
+  "白色坐垫藤椅（背面）": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木棍": 6,
+      "棉花": 5,
+      "线": 3
+    },
+    "isEvent": false
+  },
+  "自然石草地路 1": {
+    "category": "陶艺制作",
+    "exp": 60,
+    "materials": {
+      "卵石": 3,
+      "种子": 3,
+      "纯水": 1
+    },
+    "isEvent": false
+  },
+  "自然石草地路 2": {
+    "category": "陶艺制作",
+    "exp": 60,
+    "materials": {
+      "卵石": 3,
+      "种子": 3,
+      "纯水": 1
+    },
+    "isEvent": false
+  },
+  "经典盆栽装饰路灯": {
+    "category": "金属制作",
+    "exp": 90,
+    "materials": {
+      "镁": 2,
+      "沙子": 1,
+      "黏土": 1,
+      "叶子": 2
+    },
+    "isEvent": false
+  },
+  "搬家宅配箱组合": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木材料": 20,
+      "橡胶原料": 6
+    },
+    "isEvent": false
+  },
+  "经典旅行箱": {
+    "category": "皮革制作",
+    "exp": 90,
+    "materials": {
+      "镁": 4,
+      "扁柏木板": 4,
+      "棉花": 5,
+      "牛皮": 8
+    },
+    "isEvent": false
+  },
+  "自然木雕花桌": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木材料": 10,
+      "扁柏木板": 3,
+      "棉花": 5,
+      "线": 10
+    },
+    "isEvent": false
+  },
+  "白色花瓣壁灯": {
+    "category": "金属制作",
+    "exp": 90,
+    "materials": {
+      "镁": 1,
+      "贝壳": 5,
+      "沙子": 1,
+      "黏土": 1
+    },
+    "isEvent": false
+  },
+  "简约米色墙面时钟": {
+    "category": "金属制作",
+    "exp": 90,
+    "materials": {
+      "树枝": 2,
+      "扁柏木材料": 3,
+      "镁": 2
+    },
+    "isEvent": false
+  },
+  "好好保存的信件捆": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木材料": 10,
+      "绳子": 2
+    },
+    "isEvent": false
+  },
+  "红色系书本捆": {
+    "category": "原木制作",
+    "exp": 70,
+    "materials": {
+      "扁柏木材料": 10,
+      "扁柏木板": 3,
+      "绳子": 5
+    },
+    "isEvent": false
+  },
+  "绿色系书本捆": {
+    "category": "原木制作",
+    "exp": 70,
+    "materials": {
+      "扁柏木材料": 10,
+      "扁柏木板": 3,
+      "绳子": 5
+    },
+    "isEvent": false
+  },
+  "附有春光名牌的木门": {
+    "category": "原木制作",
+    "exp": 20,
+    "materials": {
+      "扁柏木材料": 4,
+      "扁柏木板": 6,
+      "扁柏木棍": 5
+    },
+    "isEvent": false
+  },
+  "白色木头拱形窗": {
+    "category": "原木制作",
+    "exp": 80,
+    "materials": {
+      "扁柏木板": 2,
+      "扁柏木棍": 3,
+      "贝壳": 5,
+      "沙子": 6
+    },
+    "isEvent": false
+  },
+  "植物生长的白色木头拱形窗": {
+    "category": "原木制作",
+    "exp": 80,
+    "materials": {
+      "扁柏木板": 2,
+      "扁柏木棍": 3,
+      "贝壳": 5,
+      "沙子": 3,
+      "种子": 1
+    },
+    "isEvent": false
+  },
+  "摆著书的装饰墙架": {
+    "category": "原木制作",
+    "exp": 40,
+    "materials": {
+      "扁柏木板": 3,
+      "扁柏木材料": 6,
+      "种子": 2,
+      "树枝": 2
+    },
+    "isEvent": false
+  },
+  "温馨木框单人床": {
+    "category": "缝纫制作",
+    "exp": 80,
+    "materials": {
+      "扁柏木板": 6,
+      "扁柏木棍": 4,
+      "棉花": 10,
+      "橡果": 5
+    },
+    "isEvent": false
+  },
+  "木色拼接双层书柜": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木材料": 10,
+      "扁柏木板": 5,
+      "贝壳": 5,
+      "树枝": 3
+    },
+    "isEvent": false
+  },
+  "温馨木框双人沙发": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木板": 4,
+      "扁柏木棍": 6,
+      "棉花": 7,
+      "白色坐垫藤椅": 2
+    },
+    "isEvent": false
+  },
+  "自然木迷你衣架框": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木板": 10,
+      "扁柏木棍": 3,
+      "棉花": 15,
+      "线": 3,
+      "绳子": 2
+    },
+    "isEvent": false
+  },
+  "白色流苏方形大型地毯": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "棉花": 5,
+      "小麦": 10,
+      "线": 10
+    },
+    "isEvent": false
+  },
+  "粉米色菱格纹柔软地毯": {
+    "category": "缝纫制作",
+    "exp": 50,
+    "materials": {
+      "棉花": 3,
+      "橡胶原料": 1,
+      "线": 6
+    },
+    "isEvent": false
+  },
+  "摩登米色直条纹壁纸": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木板": 10,
+      "纯水": 5,
+      "贝壳": 5
+    },
+    "isEvent": false
+  },
+  "摩登米色格纹地板": {
+    "category": "原木制作",
+    "exp": 50,
+    "materials": {
+      "扁柏木板": 10,
+      "纯水": 5,
+      "贝壳": 5
+    },
+    "isEvent": false
+  },
+  "郁金香花束": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "花苞": 5,
+      "卵石": 3
+    },
+    "isEvent": false
+  },
+  "拍立得相片组": {
+    "category": "金属制作",
+    "exp": 150,
+    "materials": {
+      "镁": 7,
+      "橡胶原料": 3,
+      "玻璃": 2,
+      "山羊皮": 2
+    },
+    "isEvent": false
+  },
+  "野餐方形收音机": {
+    "category": "金属制作",
+    "exp": 100,
+    "materials": {
+      "镁": 7,
+      "橡胶原料": 3
+    },
+    "isEvent": false
+  },
+  "黄色花朵盆栽": {
+    "category": "陶艺制作",
+    "exp": 120,
+    "materials": {
+      "花": 5,
+      "黏土": 3,
+      "土": 2
+    },
+    "isEvent": false
+  },
+  "绿色花朵盆栽": {
+    "category": "陶艺制作",
+    "exp": 120,
+    "materials": {
+      "花": 5,
+      "黏土": 3,
+      "土": 2
+    },
+    "isEvent": false
+  },
+  "苹果纸箱": {
+    "category": "料理制作",
+    "exp": 130,
+    "materials": {
+      "苹果": 10,
+      "构树木板": 5
+    },
+    "isEvent": false
+  },
+  "迷你自然池塘": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "纯水": 20,
+      "蛋": 3,
+      "花苞": 5,
+      "沙子": 2
+    },
+    "isEvent": false
+  },
+  "迷你大理石喷泉": {
+    "category": "陶艺制作",
+    "exp": 150,
+    "materials": {
+      "黏土": 3,
+      "纯水": 10,
+      "玻璃": 4
+    },
+    "isEvent": false
+  },
+  "网球组合": {
+    "category": "皮革制作",
+    "exp": 130,
+    "materials": {
+      "黄金蛋": 3,
+      "云朵棉花糖": 5,
+      "水蜜桃圣代": 1,
+      "牛皮": 4
+    },
+    "isEvent": false
+  },
+  "树桩书桌": {
+    "category": "原木制作",
+    "exp": 130,
+    "materials": {
+      "檀木材料": 3,
+      "构树木板": 3,
+      "构树木棍": 3
+    },
+    "isEvent": false
+  },
+  "白色花草小径": {
+    "category": "陶艺制作",
+    "exp": 120,
+    "materials": {
+      "卵石": 5,
+      "种子": 5,
+      "花": 3
+    },
+    "isEvent": false
+  },
+  "黄色花草小径": {
+    "category": "陶艺制作",
+    "exp": 120,
+    "materials": {
+      "卵石": 5,
+      "种子": 5,
+      "花": 3
+    },
+    "isEvent": false
+  },
+  "水果饮料组": {
+    "category": "料理制作",
+    "exp": 160,
+    "materials": {
+      "玻璃": 3,
+      "桃子": 5,
+      "番茄": 5,
+      "兰姆酒": 1
+    },
+    "isEvent": false
+  },
+  "野餐汉堡便当": {
+    "category": "料理制作",
+    "exp": 160,
+    "materials": {
+      "构树木板": 3,
+      "布料": 1,
+      "面包": 2,
+      "奶酪": 1,
+      "番茄酱": 1
+    },
+    "isEvent": false
+  },
+  "橘色折叠椅": {
+    "category": "缝纫制作",
+    "exp": 130,
+    "materials": {
+      "布料": 3,
+      "檀木材料": 2,
+      "构树木棍": 4
+    },
+    "isEvent": false
+  },
+  "黄色折叠椅": {
+    "category": "缝纫制作",
+    "exp": 130,
+    "materials": {
+      "布料": 3,
+      "檀木材料": 2,
+      "构树木棍": 4
+    },
+    "isEvent": false
+  },
+  "低矮折叠桌": {
+    "category": "原木制作",
+    "exp": 130,
+    "materials": {
+      "构树木板": 4,
+      "构树木棍": 6
+    },
+    "isEvent": false
+  },
+  "绘图工具组": {
+    "category": "陶艺制作",
+    "exp": 130,
+    "materials": {
+      "构树木板": 1,
+      "构树木棍": 1,
+      "扁柏木棍": 1,
+      "纯水": 3
+    },
+    "isEvent": false
+  },
+  "法国面包篮": {
+    "category": "料理制作",
+    "exp": 120,
+    "materials": {
+      "布料": 2,
+      "线": 8,
+      "面包": 1,
+      "纯水": 3
+    },
+    "isEvent": false
+  },
+  "蕾丝蝴蝶阳伞": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "布料": 3,
+      "线": 3,
+      "绳子": 1,
+      "镁": 2,
+      "牛皮": 2
+    },
+    "isEvent": false
+  },
+  "橘色爱心气球": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "橡胶原料": 10,
+      "绳子": 2,
+      "布料": 1
+    },
+    "isEvent": false
+  },
+  "绿色爱心气球": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "橡胶原料": 10,
+      "绳子": 2,
+      "布料": 1
+    },
+    "isEvent": false
+  },
+  "野餐吉他": {
+    "category": "皮革制作",
+    "exp": 150,
+    "materials": {
+      "檀木材料": 6,
+      "绳子": 6,
+      "镁": 1,
+      "山羊皮": 3
+    },
+    "isEvent": false
+  },
+  "泡泡": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "云朵棉花糖": 4,
+      "纯水": 4
+    },
+    "isEvent": false
+  },
+  "黄色浇花器": {
+    "category": "金属制作",
+    "exp": 100,
+    "materials": {
+      "镁": 3,
+      "布料": 2,
+      "纯水": 8
+    },
+    "isEvent": false
+  },
+  "橘色格纹野餐垫": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "羊毛": 3,
+      "布料": 3,
+      "线": 3
+    },
+    "isEvent": false
+  },
+  "绿色格纹野餐垫": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "羊毛": 3,
+      "布料": 3,
+      "线": 3
+    },
+    "isEvent": false
+  },
+  "黄色布质画架": {
+    "category": "陶艺制作",
+    "exp": 130,
+    "materials": {
+      "棉花": 10,
+      "构树木板": 3,
+      "构树木棍": 3,
+      "布料": 4
+    },
+    "isEvent": false
+  },
+  "漂亮拍照区": {
+    "category": "缝纫制作",
+    "exp": 130,
+    "materials": {
+      "构树木棍": 1,
+      "布料": 2,
+      "镁": 2,
+      "绳子": 2
+    },
+    "isEvent": false
+  },
+  "野餐自行车": {
+    "category": "金属制作",
+    "exp": 150,
+    "materials": {
+      "镁": 6,
+      "橡胶原料": 4,
+      "法国面包篮": 1,
+      "煤炭": 2,
+      "山羊皮": 5,
+      "花": 4
+    },
+    "isEvent": false
+  },
+  "盘子上的酸味调味料": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "生物塑胶": 2,
+      "盐": 3,
+      "砂糖": 3,
+      "面粉": 5,
+      "构树木板": 2
+    },
+    "isEvent": false
+  },
+  "盘子上的辣味调味料": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "生物塑胶": 2,
+      "盐": 3,
+      "砂糖": 3,
+      "面粉": 5,
+      "构树木板": 2
+    },
+    "isEvent": false
+  },
+  "壁挂式烹饪工具组": {
+    "category": "陶艺制作",
+    "exp": 200,
+    "materials": {
+      "铁板": 2,
+      "镁": 15,
+      "陶瓷碗": 1,
+      "土": 3,
+      "叶子": 3
+    },
+    "isEvent": false
+  },
+  "红色哑光蛋白霜碗": {
+    "category": "陶艺制作",
+    "exp": 230,
+    "materials": {
+      "陶瓷碗": 2,
+      "蛋": 3,
+      "布料": 3,
+      "铜": 3
+    },
+    "isEvent": false
+  },
+  "锅具两件套": {
+    "category": "陶艺制作",
+    "exp": 200,
+    "materials": {
+      "铁板": 6,
+      "镁": 5
+    },
+    "isEvent": false
+  },
+  "桌上的洋葱": {
+    "category": "料理制作",
+    "exp": 200,
+    "materials": {
+      "构树木板": 4,
+      "镁": 5,
+      "蔬菜箱": 2
+    },
+    "isEvent": false
+  },
+  "鱼鱼抱枕": {
+    "category": "皮革制作",
+    "exp": 170,
+    "materials": {
+      "羊毛": 5,
+      "布料": 10,
+      "山羊皮": 5
+    },
+    "isEvent": false
+  },
+  "欧姆蛋饭菜单": {
+    "category": "金属制作",
+    "exp": 230,
+    "materials": {
+      "生物塑胶": 5,
+      "铜": 2,
+      "铁板": 1
+    },
+    "isEvent": false
+  },
+  "绿色木头迷你柜子": {
+    "category": "原木制作",
+    "exp": 230,
+    "materials": {
+      "构树木板": 8,
+      "构树木棍": 10,
+      "陶瓷碗": 4,
+      "土": 3,
+      "铜": 3
+    },
+    "isEvent": false
+  },
+  "绿色木头迷你橱柜": {
+    "category": "原木制作",
+    "exp": 230,
+    "materials": {
+      "构树木板": 8,
+      "构树木棍": 10,
+      "陶瓷碗": 2,
+      "铁板": 3,
+      "铜": 1
+    },
+    "isEvent": false
+  },
+  "金色盘架": {
+    "category": "陶艺制作",
+    "exp": 200,
+    "materials": {
+      "铁板": 2,
+      "构树木棍": 5,
+      "镁": 10,
+      "陶瓷碗": 5
+    },
+    "isEvent": false
+  },
+  "薄荷色盘架": {
+    "category": "陶艺制作",
+    "exp": 230,
+    "materials": {
+      "檀木材料": 15,
+      "构树木棍": 5,
+      "铜": 6,
+      "陶瓷碗": 5
+    },
+    "isEvent": false
+  },
+  "绿色木头冰沙桌": {
+    "category": "原木制作",
+    "exp": 200,
+    "materials": {
+      "构树木板": 5,
+      "构树木棍": 5,
+      "生物塑胶": 3,
+      "铁板": 3,
+      "蔬菜箱": 1
+    },
+    "isEvent": false
+  },
+  "健康蔬菜篮": {
+    "category": "料理制作",
+    "exp": 200,
+    "materials": {
+      "小麦": 30,
+      "线": 10,
+      "绳子": 10,
+      "番茄": 3,
+      "蔬菜箱": 3
+    },
+    "isEvent": false
+  },
+  "自然窗帘迷你窗户": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "玻璃": 3,
+      "檀木材料": 5,
+      "构树木板": 3,
+      "布料": 8
+    },
+    "isEvent": false
+  },
+  "微微打开的自然窗帘迷你窗户": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "玻璃": 3,
+      "檀木材料": 5,
+      "构树木板": 3,
+      "布料": 6,
+      "陶瓷碗": 1,
+      "种子": 3
+    },
+    "isEvent": false
+  },
+  "半开的木门": {
+    "category": "原木制作",
+    "exp": 170,
+    "materials": {
+      "玻璃": 3,
+      "檀木材料": 5,
+      "构树木板": 8,
+      "构树木棍": 3
+    },
+    "isEvent": false
+  },
+  "迷你健康园艺桌": {
+    "category": "原木制作",
+    "exp": 230,
+    "materials": {
+      "健康蔬菜篮": 1,
+      "铜": 4,
+      "檀木材料": 2,
+      "构树木板": 4,
+      "构树木棍": 4
+    },
+    "isEvent": false
+  },
+  "绿色搭配冰箱": {
+    "category": "金属制作",
+    "exp": 230,
+    "materials": {
+      "镁": 15,
+      "铜": 8,
+      "生物塑胶": 5
+    },
+    "isEvent": false
+  },
+  "绿色木头壁挂通风口": {
+    "category": "金属制作",
+    "exp": 170,
+    "materials": {
+      "镁": 5,
+      "生物塑胶": 7
+    },
+    "isEvent": false
+  },
+  "热腾腾的大型烤箱": {
+    "category": "金属制作",
+    "exp": 230,
+    "materials": {
+      "铜": 3,
+      "镁": 15,
+      "乙醇": 3,
+      "玻璃": 3,
+      "铁板": 3
+    },
+    "isEvent": false
+  },
+  "黄色餐桌垫厨房桌子": {
+    "category": "皮革制作",
+    "exp": 170,
+    "materials": {
+      "构树木板": 8,
+      "构树木棍": 5,
+      "布料": 3,
+      "牛皮": 14
+    },
+    "isEvent": false
+  },
+  "米色原木装饰柜": {
+    "category": "原木制作",
+    "exp": 200,
+    "materials": {
+      "构树木板": 6,
+      "陶瓷碗": 3,
+      "铁板": 3,
+      "红色系书本捆": 1,
+      "叶子": 5
+    },
+    "isEvent": false
+  },
+  "咖啡色原木装饰柜": {
+    "category": "原木制作",
+    "exp": 200,
+    "materials": {
+      "构树木板": 6,
+      "陶瓷碗": 3,
+      "铁板": 3,
+      "绿色系书本捆": 1,
+      "叶子": 5
+    },
+    "isEvent": false
+  },
+  "黄色米色烤箱兼炉具": {
+    "category": "金属制作",
+    "exp": 230,
+    "materials": {
+      "铜": 3,
+      "镁": 8,
+      "乙醇": 1,
+      "玻璃": 4,
+      "铁板": 2
+    },
+    "isEvent": false
+  },
+  "厨房用米色大型水槽": {
+    "category": "金属制作",
+    "exp": 200,
+    "materials": {
+      "铁板": 5,
+      "檀木材料": 15,
+      "构树木板": 10,
+      "镁": 5,
+      "陶瓷碗": 5
+    },
+    "isEvent": false
+  },
+  "自然绿叶图案壁纸": {
+    "category": "原木制作",
+    "exp": 170,
+    "materials": {
+      "桑叶": 10,
+      "橡果": 8,
+      "檀木材料": 10,
+      "纯水": 5
+    },
+    "isEvent": false
+  },
+  "自然木地板": {
+    "category": "原木制作",
+    "exp": 230,
+    "materials": {
+      "扁柏木板": 5,
+      "构树木板": 5,
+      "脱落的角": 5
+    },
+    "isEvent": false
+  },
+  "明亮的橙色渐层壁纸": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "枫树": 10,
+      "檀木材料": 10,
+      "纯水": 5
+    },
+    "isEvent": false
+  },
+  "明亮橙色方形图案地板": {
+    "category": "陶艺制作",
+    "exp": 180,
+    "materials": {
+      "枫树": 10,
+      "橡胶原料": 20,
+      "生物塑胶": 3
+    },
+    "isEvent": false
+  },
+  "大叶植物盆栽": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "石灰石": 3,
+      "土": 7,
+      "叶子": 6
+    },
+    "isEvent": false
+  },
+  "草莓蛋糕": {
+    "category": "料理制作",
+    "exp": 240,
+    "materials": {
+      "草莓": 3,
+      "面团": 15,
+      "砂糖": 10,
+      "蛋": 5
+    },
+    "isEvent": false
+  },
+  "白玫瑰菜单板": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫木板": 1,
+      "枫木棍": 4,
+      "纸": 8,
+      "黏土": 5,
+      "花": 5
+    },
+    "isEvent": false
+  },
+  "黄色百合": {
+    "category": "陶艺制作",
+    "exp": 240,
+    "materials": {
+      "土": 5,
+      "花": 10,
+      "黄金蛋": 15,
+      "沙子": 10
+    },
+    "isEvent": false
+  },
+  "藤蔓立灯": {
+    "category": "金属制作",
+    "exp": 280,
+    "materials": {
+      "铁板": 15,
+      "玻璃": 2,
+      "石灰石": 3,
+      "经典盆栽装饰路灯": 1
+    },
+    "isEvent": false
+  },
+  "奶油可颂组": {
+    "category": "料理制作",
+    "exp": 240,
+    "materials": {
+      "面团": 10,
+      "牛油": 2,
+      "草莓": 1
+    },
+    "isEvent": false
+  },
+  "白色单人沙发": {
+    "category": "皮革制作",
+    "exp": 290,
+    "materials": {
+      "枫树材料": 8,
+      "檀木材料": 5,
+      "鸭羽毛": 6,
+      "鹿皮": 6
+    },
+    "isEvent": false
+  },
+  "黑色圆桌": {
+    "category": "原木制作",
+    "exp": 280,
+    "materials": {
+      "枫树材料": 5,
+      "檀木材料": 5,
+      "大理石": 2
+    },
+    "isEvent": false
+  },
+  "植物隔板": {
+    "category": "原木制作",
+    "exp": 280,
+    "materials": {
+      "枫木板": 8,
+      "石灰石": 3,
+      "桑叶": 10,
+      "种子": 10,
+      "叶子": 10
+    },
+    "isEvent": false
+  },
+  "露台地板": {
+    "category": "原木制作",
+    "exp": 280,
+    "materials": {
+      "枫木板": 5,
+      "构树木板": 5,
+      "扁柏木板": 5,
+      "水泥": 10
+    },
+    "isEvent": false
+  },
+  "户外阳伞": {
+    "category": "缝纫制作",
+    "exp": 290,
+    "materials": {
+      "枫木棍": 3,
+      "布料": 12,
+      "羽毛毛线": 3
+    },
+    "isEvent": false
+  },
+  "露台帐篷": {
+    "category": "缝纫制作",
+    "exp": 290,
+    "materials": {
+      "羽毛毛线": 2,
+      "枫树材料": 10,
+      "枫木棍": 6,
+      "布料": 8,
+      "白色花瓣壁灯": 8
+    },
+    "isEvent": false
+  },
+  "笔电": {
+    "category": "金属制作",
+    "exp": 280,
+    "materials": {
+      "铜": 5,
+      "玛瑙": 5,
+      "玻璃": 10,
+      "灯丝": 2
+    },
+    "isEvent": false
+  },
+  "粉红百合": {
+    "category": "陶艺制作",
+    "exp": 240,
+    "materials": {
+      "土": 5,
+      "花": 10,
+      "草莓": 5,
+      "沙子": 10
+    },
+    "isEvent": false
+  },
+  "咖啡机": {
+    "category": "金属制作",
+    "exp": 250,
+    "materials": {
+      "咖啡豆": 3,
+      "咖啡渣": 2,
+      "生物塑胶": 5,
+      "铁板": 5
+    },
+    "isEvent": false
+  },
+  "细叶植物盆栽": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "石灰石": 3,
+      "土": 10,
+      "叶子": 7
+    },
+    "isEvent": false
+  },
+  "深色单人沙发": {
+    "category": "皮革制作",
+    "exp": 290,
+    "materials": {
+      "枫树材料": 5,
+      "檀木材料": 5,
+      "鸭羽毛": 6,
+      "鹿皮": 6
+    },
+    "isEvent": false
+  },
+  "吧台椅": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫树材料": 3,
+      "檀木材料": 3,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "巧克力可颂组": {
+    "category": "料理制作",
+    "exp": 270,
+    "materials": {
+      "美式咖啡": 1,
+      "可可豆": 2,
+      "面团": 4,
+      "肉桂": 3
+    },
+    "isEvent": false
+  },
+  "咖啡厅壁挂灯": {
+    "category": "金属制作",
+    "exp": 260,
+    "materials": {
+      "灯丝": 2,
+      "铜": 4,
+      "铁板": 3,
+      "白色花瓣壁灯": 5
+    },
+    "isEvent": false
+  },
+  "白色圆桌": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫树材料": 5,
+      "檀木材料": 8,
+      "玛瑙": 5
+    },
+    "isEvent": false
+  },
+  "咖啡厅壁挂层架": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "枫木板": 2,
+      "铜": 2,
+      "咖啡豆": 5,
+      "咖啡渣": 1,
+      "陶瓷碗": 10
+    },
+    "isEvent": false
+  },
+  "咖啡厅吧台桌": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "枫树材料": 8,
+      "檀木材料": 8,
+      "玛瑙": 5
+    },
+    "isEvent": false
+  },
+  "壁挂植物": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "石灰石": 4,
+      "土": 7,
+      "桑叶": 20
+    },
+    "isEvent": false
+  },
+  "收银台": {
+    "category": "原木制作",
+    "exp": 300,
+    "materials": {
+      "大理石": 2,
+      "枫木板": 10,
+      "笔电": 1,
+      "苹果薄荷茶": 1,
+      "肉桂苹果派": 1
+    },
+    "isEvent": false
+  },
+  "蛋糕展示架": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "铁板": 8,
+      "卵石": 10,
+      "玻璃": 10,
+      "草莓蛋糕": 3,
+      "水果箱": 2
+    },
+    "isEvent": false
+  },
+  "面包展示架": {
+    "category": "金属制作",
+    "exp": 270,
+    "materials": {
+      "铁板": 8,
+      "卵石": 10,
+      "玻璃": 10,
+      "肉桂苹果派": 2,
+      "牛油": 6
+    },
+    "isEvent": false
+  },
+  "咖啡厅露台窗": {
+    "category": "陶艺制作",
+    "exp": 240,
+    "materials": {
+      "枫木板": 15,
+      "玻璃": 15,
+      "铜": 5
+    },
+    "isEvent": false
+  },
+  "咖啡厅壁纸": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "枫树材料": 6,
+      "枫木板": 3,
+      "卵石": 12,
+      "石灰石": 3,
+      "水泥": 3
+    },
+    "isEvent": false
+  },
+  "咖啡厅地板": {
+    "category": "陶艺制作",
+    "exp": 280,
+    "materials": {
+      "水泥": 2,
+      "土": 15,
+      "卵石": 15,
+      "石灰石": 3
+    },
+    "isEvent": false
+  },
+  "蓝色蝴蝶结抱枕": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "棉花": 20,
+      "布料": 3,
+      "纤维": 3,
+      "羊毛": 2,
+      "黄色染料": 1
+    },
+    "isEvent": false
+  },
+  "薄荷色蝴蝶结抱枕": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "棉花": 20,
+      "布料": 3,
+      "纤维": 3,
+      "羊毛": 2,
+      "红色染料": 1
+    },
+    "isEvent": false
+  },
+  "室内大型牡丹花": {
+    "category": "陶艺制作",
+    "exp": 330,
+    "materials": {
+      "肥料": 2,
+      "土": 8,
+      "黏土": 20,
+      "红色油漆": 1,
+      "花苞": 5,
+      "花": 5
+    },
+    "isEvent": false
+  },
+  "白色荷叶边灯饰": {
+    "category": "金属制作",
+    "exp": 360,
+    "materials": {
+      "金块": 1,
+      "灯丝": 2,
+      "羽毛毛线": 5,
+      "纤维": 3
+    },
+    "isEvent": false
+  },
+  "粉红荷叶边灯饰": {
+    "category": "金属制作",
+    "exp": 360,
+    "materials": {
+      "铜板": 3,
+      "灯丝": 2,
+      "羽毛毛线": 5,
+      "纤维": 3
+    },
+    "isEvent": false
+  },
+  "粉红抱枕金框坐墩": {
+    "category": "缝纫制作",
+    "exp": 320,
+    "materials": {
+      "松木棍": 8,
+      "鸭羽毛": 6,
+      "枕头": 1,
+      "羊毛": 10
+    },
+    "isEvent": false
+  },
+  "玫瑰经典电话": {
+    "category": "皮革制作",
+    "exp": 330,
+    "materials": {
+      "灯丝": 3,
+      "是块东西": 2,
+      "胶水": 3,
+      "脱落的角": 6,
+      "鹿皮": 4,
+      "墨水": 2
+    },
+    "isEvent": false
+  },
+  "粉红花卉墙面时钟": {
+    "category": "金属制作",
+    "exp": 330,
+    "materials": {
+      "简约米色墙面时钟": 1,
+      "大理石": 1,
+      "红色油漆": 1
+    },
+    "isEvent": false
+  },
+  "欧风下午茶甜点组": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "铜": 5,
+      "陶瓷碗": 2,
+      "杏仁饼干": 1,
+      "草莓蛋糕": 1,
+      "草莓": 2
+    },
+    "isEvent": false
+  },
+  "欧风下午茶茶具组": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "玻璃": 3,
+      "陶瓷碗": 3,
+      "苹果薄荷茶": 1,
+      "杏仁饼干": 1
+    },
+    "isEvent": false
+  },
+  "米色挂饰蕾丝刺绣": {
+    "category": "皮革制作",
+    "exp": 350,
+    "materials": {
+      "羽毛毛线": 7,
+      "毛线": 3,
+      "纤维": 5,
+      "灯丝": 2,
+      "鹿皮": 7
+    },
+    "isEvent": false
+  },
+  "粉红挂饰蕾丝刺绣": {
+    "category": "皮革制作",
+    "exp": 350,
+    "materials": {
+      "羽毛毛线": 7,
+      "毛线": 3,
+      "纤维": 5,
+      "灯丝": 2,
+      "鹿皮": 7
+    },
+    "isEvent": false
+  },
+  "可爱房间全身镜": {
+    "category": "陶艺制作",
+    "exp": 320,
+    "materials": {
+      "松木材料": 12,
+      "玻璃": 5,
+      "生物塑胶": 2,
+      "是块东西": 2
+    },
+    "isEvent": false
+  },
+  "绣球金框画框": {
+    "category": "陶艺制作",
+    "exp": 360,
+    "materials": {
+      "铜板": 4,
+      "玻璃": 1,
+      "纸": 2,
+      "黄色油漆": 1,
+      "蓝色油漆": 1,
+      "花": 2
+    },
+    "isEvent": false
+  },
+  "粉红大理石古典抽屉桌": {
+    "category": "皮革制作",
+    "exp": 360,
+    "materials": {
+      "大理石": 2,
+      "松木板": 4,
+      "铜板": 2,
+      "牛皮": 25,
+      "红色染料": 1
+    },
+    "isEvent": false
+  },
+  "可爱蕾丝粉红沙发": {
+    "category": "皮革制作",
+    "exp": 320,
+    "materials": {
+      "松木棍": 8,
+      "鸭羽毛": 13,
+      "枕头": 3,
+      "羊毛": 25,
+      "山羊皮": 8
+    },
+    "isEvent": false
+  },
+  "可爱蕾丝米色沙发": {
+    "category": "皮革制作",
+    "exp": 320,
+    "materials": {
+      "松木棍": 8,
+      "鸭羽毛": 13,
+      "枕头": 3,
+      "羊毛": 25,
+      "山羊皮": 8
+    },
+    "isEvent": false
+  },
+  "蓬松羊毛蕾丝地毯": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "羊驼毛": 15,
+      "线": 10,
+      "羊毛": 5
+    },
+    "isEvent": false
+  },
+  "下午茶圆桌": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "松木材料": 4,
+      "布料": 15,
+      "羊毛": 5,
+      "羊驼毛": 5
+    },
+    "isEvent": false
+  },
+  "可爱荷叶窗帘窗户": {
+    "category": "陶艺制作",
+    "exp": 350,
+    "materials": {
+      "松木棍": 7,
+      "玻璃": 4,
+      "羊驼毛": 6,
+      "毛线": 3
+    },
+    "isEvent": false
+  },
+  "半透明蕾丝落地窗": {
+    "category": "陶艺制作",
+    "exp": 360,
+    "materials": {
+      "松木棍": 10,
+      "玻璃": 6,
+      "铁棒": 2,
+      "铜板": 2,
+      "布料": 12
+    },
+    "isEvent": false
+  },
+  "玫瑰粉木质衣柜": {
+    "category": "原木制作",
+    "exp": 330,
+    "materials": {
+      "松木材料": 5,
+      "松木板": 10,
+      "松木棍": 8,
+      "红色油漆": 1
+    },
+    "isEvent": false
+  },
+  "可爱房间大理石化妆台": {
+    "category": "陶艺制作",
+    "exp": 360,
+    "materials": {
+      "松木棍": 6,
+      "大理石": 4,
+      "钢（钉子）": 6,
+      "玻璃": 2
+    },
+    "isEvent": false
+  },
+  "欧风下午茶大理石装饰柜": {
+    "category": "皮革制作",
+    "exp": 350,
+    "materials": {
+      "松木棍": 6,
+      "大理石": 3,
+      "陶瓷碗": 9,
+      "纤维": 2,
+      "牛皮": 25,
+      "红色染料": 1
+    },
+    "isEvent": false
+  },
+  "浪漫玫瑰心形荷叶边床": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "枕头": 2,
+      "棉被": 2,
+      "鸭羽毛": 30,
+      "羊毛": 5,
+      "红色染料": 1,
+      "黄色染料": 2
+    },
+    "isEvent": false
+  },
+  "粉红乡村风茶室壁纸": {
+    "category": "原木制作",
+    "exp": 330,
+    "materials": {
+      "纸": 10,
+      "红色油漆": 2,
+      "松木材料": 4
+    },
+    "isEvent": false
+  },
+  "粉红乡村风茶室地板": {
+    "category": "陶艺制作",
+    "exp": 330,
+    "materials": {
+      "大理石": 3,
+      "水泥": 2,
+      "红色油漆": 1
+    },
+    "isEvent": false
+  },
+  "可爱房间花卉壁纸": {
+    "category": "原木制作",
+    "exp": 330,
+    "materials": {
+      "纸": 10,
+      "红色油漆": 2,
+      "墨水": 3
+    },
+    "isEvent": false
+  },
+  "可爱房间花卉地板": {
+    "category": "缝纫制作",
+    "exp": 350,
+    "materials": {
+      "羊驼毛": 10,
+      "羊毛": 3,
+      "毛线": 3,
+      "红色染料": 1
+    },
+    "isEvent": false
+  },
+  "红色石斛兰花坛": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "黄色石斛兰花坛": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "草莓花坛": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "白色石斛兰花坛": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "三色木质小围栏": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "自然木小围栏": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty靠垫藤椅": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "白色坐垫藤椅": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty靠垫藤椅背面": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "白色坐垫藤椅（背面）": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty搬家宅配箱组合": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "搬家宅配箱组合": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "红色经典旅行箱": {
+    "category": "皮革制作",
+    "exp": 100,
+    "materials": {
+      "经典旅行箱": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty木质蕾丝桌": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "自然木雕花桌": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty红色书本组": {
+    "category": "皮革制作",
+    "exp": 100,
+    "materials": {
+      "红色系书本捆": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty蓝色书本组": {
+    "category": "皮革制作",
+    "exp": 100,
+    "materials": {
+      "绿色系书本捆": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty名牌木门": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "附有春光名牌的木门": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty装饰壁挂层架": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "摆著书的装饰墙架": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty木框单人床": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "温馨木框单人床": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty木质拼色双层书柜": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "木色拼接双层书柜": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty木框双人沙发": {
+    "category": "缝纫制作",
+    "exp": 100,
+    "materials": {
+      "温馨木框双人沙发": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty木质迷你衣架": {
+    "category": "原木制作",
+    "exp": 100,
+    "materials": {
+      "自然木迷你衣架框": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty蝴蝶结柔软地毯": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "粉米色菱格纹柔软地毯": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty粉红格子壁纸": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "摩登米色直条纹壁纸": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "Hello Kitty粉红格子地板": {
+    "category": "陶艺制作",
+    "exp": 100,
+    "materials": {
+      "摩登米色格纹地板": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗野餐方形收音机": {
+    "category": "金属制作",
+    "exp": 170,
+    "materials": {
+      "野餐方形收音机": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗布丁圣代": {
+    "category": "料理制作",
+    "exp": 170,
+    "materials": {
+      "水果饮料组": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗布丁阳伞": {
+    "category": "缝纫制作",
+    "exp": 170,
+    "materials": {
+      "蕾丝蝴蝶阳伞": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗折叠椅": {
+    "category": "缝纫制作",
+    "exp": 170,
+    "materials": {
+      "橘色折叠椅": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗折叠桌": {
+    "category": "原木制作",
+    "exp": 170,
+    "materials": {
+      "低矮折叠桌": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗野餐吉他": {
+    "category": "金属制作",
+    "exp": 170,
+    "materials": {
+      "野餐吉他": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗格纹野餐垫": {
+    "category": "缝纫制作",
+    "exp": 170,
+    "materials": {
+      "橘色格纹野餐垫": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "布丁狗野餐自行车": {
+    "category": "金属制作",
+    "exp": 170,
+    "materials": {
+      "野餐自行车": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗的面包箱": {
+    "category": "料理制作",
+    "exp": 170,
+    "materials": {
+      "苹果纸箱": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗的绘图工具": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "绘图工具组": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗气球": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "橘色爱心气球": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗爱心气球": {
+    "category": "陶艺制作",
+    "exp": 170,
+    "materials": {
+      "绿色爱心气球": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗浇花器": {
+    "category": "金属制作",
+    "exp": 170,
+    "materials": {
+      "黄色浇花器": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗天空野餐垫": {
+    "category": "缝纫制作",
+    "exp": 170,
+    "materials": {
+      "绿色格纹野餐垫": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗天空画架": {
+    "category": "原木制作",
+    "exp": 170,
+    "materials": {
+      "黄色布质画架": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "大耳狗云朵拍照区": {
+    "category": "原木制作",
+    "exp": 170,
+    "materials": {
+      "漂亮拍照区": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "帕帢狗的朋友抱枕": {
+    "category": "缝纫制作",
+    "exp": 240,
+    "materials": {
+      "鱼鱼抱枕": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷木迷你碗柜": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "绿色木头迷你柜子": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷木迷你餐橱": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "绿色木头迷你橱柜": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "帕恰狗薄荷配色冰箱": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "绿色搭配冰箱": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷木壁挂排风口": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "绿色木头壁挂通风口": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "帕恰狗温暖大型烤箱": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "热腾腾的大型烤箱": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷原木装饰柜": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "咖啡色原木装饰柜": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "帕恰狗薄荷大型流理台": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "厨房用米色大型水槽": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "帕恰狗迷你健康园艺桌": {
+    "category": "原木制作",
+    "exp": 240,
+    "materials": {
+      "迷你健康园艺桌": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷木果昔桌": {
+    "category": "金属制作",
+    "exp": 240,
+    "materials": {
+      "绿色木头冰沙桌": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "薄荷色胡萝卜脚印壁纸": {
+    "category": "陶艺制作",
+    "exp": 240,
+    "materials": {
+      "明亮的橙色渐层壁纸": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "帕恰狗水果图案地板": {
+    "category": "陶艺制作",
+    "exp": 240,
+    "materials": {
+      "明亮橙色方形图案地板": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "Keroppi花盆": {
+    "category": "陶艺制作",
+    "exp": 320,
+    "materials": {
+      "大叶植物盆栽": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "Keroppi咖啡厅菜单": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "白玫瑰菜单板": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "莲花圆桌": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "黑色圆桌": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "莲花单人沙发": {
+    "category": "缝纫制作",
+    "exp": 320,
+    "materials": {
+      "白色单人沙发": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "Keroppi阳伞": {
+    "category": "缝纫制作",
+    "exp": 320,
+    "materials": {
+      "户外阳伞": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "红色吧台桌": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "咖啡厅吧台桌": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "红色吧台椅": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "吧台椅": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "抹茶拿铁组合": {
+    "category": "料理制作",
+    "exp": 320,
+    "materials": {
+      "奶油可颂组": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "绿色圆桌": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "白色圆桌": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "绿色单人沙发": {
+    "category": "缝纫制作",
+    "exp": 320,
+    "materials": {
+      "深色单人沙发": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "大眼蛙收银台": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "收银台": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "大眼蛙面包展示架": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "面包展示架": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "大眼蛙蛋糕展示架": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "蛋糕展示架": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "大眼蛙层架": {
+    "category": "金属制作",
+    "exp": 320,
+    "materials": {
+      "咖啡厅壁挂层架": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "大眼蛙露台棚架": {
+    "category": "原木制作",
+    "exp": 320,
+    "materials": {
+      "露台帐篷": 1,
+      "猫眼石": 3
+    },
+    "isEvent": false
+  },
+  "绿色条纹壁纸": {
+    "category": "陶艺制作",
+    "exp": 320,
+    "materials": {
+      "咖啡厅壁纸": 1,
+      "橄榄石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂布偶": {
+    "category": "缝纫制作",
+    "exp": 400,
+    "materials": {
+      "蓝色蝴蝶结抱枕": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂蕾丝长窗": {
+    "category": "陶艺制作",
+    "exp": 400,
+    "materials": {
+      "半透明蕾丝落地窗": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂下午茶圆桌": {
+    "category": "原木制作",
+    "exp": 400,
+    "materials": {
+      "下午茶圆桌": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂荷叶爱心抱枕沙发": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "可爱蕾丝粉红沙发": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂茶室壁纸": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "粉红乡村风茶室壁纸": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂茶室地板": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "粉红乡村风茶室地板": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂Pipi布偶": {
+    "category": "缝纫制作",
+    "exp": 400,
+    "materials": {
+      "薄荷色蝴蝶结抱枕": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂荷叶窗帘窗户": {
+    "category": "陶艺制作",
+    "exp": 400,
+    "materials": {
+      "可爱荷叶窗帘窗户": 1,
+      "蓝宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂玫瑰爱心荷叶床": {
+    "category": "缝纫制作",
+    "exp": 400,
+    "materials": {
+      "浪漫玫瑰心形荷叶边床": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂木质衣柜": {
+    "category": "原木制作",
+    "exp": 400,
+    "materials": {
+      "玫瑰粉木质衣柜": 1,
+      "红宝石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂抱枕米色沙发": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "可爱蕾丝米色沙发": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂蝴蝶结壁纸": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "可爱房间花卉壁纸": 1,
+      "钻石": 3
+    },
+    "isEvent": false
+  },
+  "美乐蒂蝴蝶结地板": {
+    "category": "皮革制作",
+    "exp": 400,
+    "materials": {
+      "可爱房间花卉地板": 1,
+      "玛瑙": 3
+    },
+    "isEvent": false
+  },
+  "简约椅子": {
+    "category": "原木制作",
+    "exp": 10,
+    "materials": {
+      "小麦": 1
+    },
+    "isEvent": false
+  },
+  "旋转阶梯": {
+    "category": "活动制作",
+    "exp": 10,
+    "materials": {
+      "扁柏木材料": 1
+    },
+    "isEvent": false
+  },
+  "巧克力": {
+    "category": "料理制作",
+    "exp": 170,
+    "materials": {
+      "砂糖": 3,
+      "可可豆": 7
+    },
+    "isEvent": false
+  },
+  "草莓牛奶": {
+    "category": "料理制作",
+    "exp": 240,
+    "materials": {
+      "草莓": 10,
+      "有机牛奶": 10,
+      "砂糖": 3
+    },
+    "isEvent": false
+  }
+}

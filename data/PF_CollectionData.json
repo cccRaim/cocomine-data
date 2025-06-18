@@ -7608,6 +7608,15 @@
       "ItemID": 10500309,
       "ItemType": 20,
       "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 778,
+      "CollectionID": 3004,
+      "UniqueNum": 4,
+      "ItemID": 368,
+      "ItemType": 20,
+      "IsThumbnail": 0
     }
   ],
   "CollectionCutScene": [

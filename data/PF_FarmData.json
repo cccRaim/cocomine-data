@@ -5379,42 +5379,42 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "NickName": "피터"
+      "NickName": "NickName_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "NickName": "로빈"
+      "NickName": "NickName_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "NickName": "미미"
+      "NickName": "NickName_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "NickName": "해리"
+      "NickName": "NickName_4"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "NickName": "에디"
+      "NickName": "NickName_5"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "NickName": "에디슨"
+      "NickName": "NickName_6"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "NickName": "세바스챤"
+      "NickName": "NickName_7"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "NickName": "뚜뚜"
+      "NickName": "NickName_8"
     }
   ]
 }

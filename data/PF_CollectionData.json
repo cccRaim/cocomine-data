@@ -1117,6 +1117,19 @@
       "RwdGroupID": 2310,
       "ThumbnailIcon": "",
       "CollectionVersion": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2312,
+      "CollectionType": 3,
+      "TabType": 16,
+      "CollectionName": "Collection_2312",
+      "CollectionDesc": "Collection_2312_Desc",
+      "IconTag": 0,
+      "SortIndex": 112,
+      "RwdGroupID": 2311,
+      "ThumbnailIcon": "",
+      "CollectionVersion": 2
     }
   ],
   "CollectionItem": [
@@ -7615,6 +7628,231 @@
       "CollectionID": 3004,
       "UniqueNum": 4,
       "ItemID": 368,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 779,
+      "CollectionID": 2312,
+      "UniqueNum": 1,
+      "ItemID": 100353,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 780,
+      "CollectionID": 2312,
+      "UniqueNum": 2,
+      "ItemID": 100354,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 781,
+      "CollectionID": 2312,
+      "UniqueNum": 3,
+      "ItemID": 100355,
+      "ItemType": 20,
+      "IsThumbnail": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 782,
+      "CollectionID": 2312,
+      "UniqueNum": 4,
+      "ItemID": 100356,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 783,
+      "CollectionID": 2312,
+      "UniqueNum": 5,
+      "ItemID": 100357,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 784,
+      "CollectionID": 2312,
+      "UniqueNum": 6,
+      "ItemID": 100358,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 785,
+      "CollectionID": 2312,
+      "UniqueNum": 7,
+      "ItemID": 100359,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 786,
+      "CollectionID": 2312,
+      "UniqueNum": 8,
+      "ItemID": 100360,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 787,
+      "CollectionID": 2312,
+      "UniqueNum": 9,
+      "ItemID": 100361,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 788,
+      "CollectionID": 2312,
+      "UniqueNum": 10,
+      "ItemID": 100362,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 789,
+      "CollectionID": 2312,
+      "UniqueNum": 11,
+      "ItemID": 100363,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 790,
+      "CollectionID": 2312,
+      "UniqueNum": 12,
+      "ItemID": 100364,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 791,
+      "CollectionID": 2312,
+      "UniqueNum": 13,
+      "ItemID": 100365,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 792,
+      "CollectionID": 2312,
+      "UniqueNum": 14,
+      "ItemID": 100366,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 793,
+      "CollectionID": 2312,
+      "UniqueNum": 15,
+      "ItemID": 100367,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 794,
+      "CollectionID": 2312,
+      "UniqueNum": 16,
+      "ItemID": 100368,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 795,
+      "CollectionID": 2312,
+      "UniqueNum": 17,
+      "ItemID": 100369,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 796,
+      "CollectionID": 2312,
+      "UniqueNum": 18,
+      "ItemID": 100370,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 797,
+      "CollectionID": 2312,
+      "UniqueNum": 19,
+      "ItemID": 100371,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 798,
+      "CollectionID": 2312,
+      "UniqueNum": 20,
+      "ItemID": 100372,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 799,
+      "CollectionID": 2312,
+      "UniqueNum": 21,
+      "ItemID": 100373,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 800,
+      "CollectionID": 2312,
+      "UniqueNum": 22,
+      "ItemID": 100374,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 801,
+      "CollectionID": 2312,
+      "UniqueNum": 23,
+      "ItemID": 100375,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 802,
+      "CollectionID": 2312,
+      "UniqueNum": 24,
+      "ItemID": 100376,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 803,
+      "CollectionID": 2312,
+      "UniqueNum": 25,
+      "ItemID": 100377,
       "ItemType": 20,
       "IsThumbnail": 0
     }

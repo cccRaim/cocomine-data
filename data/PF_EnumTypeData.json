@@ -968,6 +968,16 @@
       "Key": 183,
       "Value": "b_shoulder_shrug",
       "Desc": "어깨 들썩이기"
+    },
+    {
+      "Key": 184,
+      "Value": "slide01",
+      "Desc": "미끄럼틀 타기"
+    },
+    {
+      "Key": 185,
+      "Value": "paddle01",
+      "Desc": "물장구 치기"
     }
   ],
   "EAnimTabType": [

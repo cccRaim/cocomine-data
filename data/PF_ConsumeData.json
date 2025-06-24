@@ -10418,34 +10418,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 1513,
-      "ConsumeMatGroupID": 467,
-      "MatItemID": 100205,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1514,
-      "ConsumeMatGroupID": 467,
-      "MatItemID": 328,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1515,
-      "ConsumeMatGroupID": 467,
-      "MatItemID": 100006,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1516,
-      "ConsumeMatGroupID": 467,
-      "MatItemID": 100014,
-      "MatItemCnt": 1
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 1517,
       "ConsumeMatGroupID": 468,
       "MatItemID": 329,
@@ -10499,27 +10471,6 @@
       "ConsumeMatGroupID": 469,
       "MatItemID": 318,
       "MatItemCnt": 3
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1525,
-      "ConsumeMatGroupID": 469,
-      "MatItemID": 263,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1526,
-      "ConsumeMatGroupID": 469,
-      "MatItemID": 303,
-      "MatItemCnt": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 1527,
-      "ConsumeMatGroupID": 469,
-      "MatItemID": 100209,
-      "MatItemCnt": 2
     },
     {
       "ServiceType": "DEV",

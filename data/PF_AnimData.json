@@ -2315,6 +2315,32 @@
       "RndMaxTime": 0,
       "NextAnim": "",
       "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "slide01",
+      "IsLoop": false,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "stand01",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "paddle01",
+      "IsLoop": false,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "stand01",
+      "EffectSkin": ""
     }
   ],
   "EmotionAnim": [

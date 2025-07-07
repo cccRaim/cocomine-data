@@ -1664,7 +1664,7 @@
       "RndMinTime": 0,
       "RndMaxTime": 0,
       "NextAnim": "",
-      "EffectSkin": ""
+      "EffectSkin": "swimsuit_{0}"
     },
     {
       "ServiceType": "DEV",

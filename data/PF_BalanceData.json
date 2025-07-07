@@ -648,7 +648,7 @@
       "Key": 301,
       "BalanceRwdGroupID": 1,
       "RewardType": 10,
-      "Value": 20
+      "Value": 10
     },
     {
       "ServiceType": "DEV",

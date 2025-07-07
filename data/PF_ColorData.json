@@ -2939,6 +2939,30 @@
       "DownColorR": 0,
       "DownColorG": 0,
       "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 230,
+      "ColorName": "Color_230",
+      "IsTwoTone": false,
+      "UpColorR": 161,
+      "UpColorG": 124,
+      "UpColorB": 112,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 231,
+      "ColorName": "Color_231",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 195,
+      "UpColorB": 185,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
     }
   ],
   "ColorGroup": [

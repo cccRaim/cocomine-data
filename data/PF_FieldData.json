@@ -9,6 +9,7 @@
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -20,6 +21,7 @@
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -31,6 +33,7 @@
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -42,6 +45,7 @@
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     }
   ],
@@ -71,7 +75,8 @@
       "HouseSkinIconName": "Blueprint1_Room1_icon",
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -103,7 +108,8 @@
       "HouseSkinIconName": "Blueprint1_Room2_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -138,7 +144,8 @@
       "HouseSkinIconName": "Blueprint1_Room3_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_eu",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -176,7 +183,8 @@
       "HouseSkinIconName": "Blueprint1_Room4_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -216,7 +224,8 @@
       "HouseSkinIconName": "Blueprint1_Room5_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_eu",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -255,7 +264,8 @@
       "HouseSkinIconName": "Blueprint1_Room6_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_eu",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -282,7 +292,8 @@
       "HouseSkinIconName": "Blueprint2_Room1_icon",
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -314,7 +325,8 @@
       "HouseSkinIconName": "Blueprint2_Room2_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -349,7 +361,8 @@
       "HouseSkinIconName": "Blueprint2_Room3_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_ct",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -387,7 +400,8 @@
       "HouseSkinIconName": "Blueprint2_Room4_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -427,7 +441,8 @@
       "HouseSkinIconName": "Blueprint2_Room5_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_ct",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -466,7 +481,8 @@
       "HouseSkinIconName": "Blueprint2_Room6_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_ct",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -493,7 +509,8 @@
       "HouseSkinIconName": "Blueprint3_Room1_icon",
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -525,7 +542,8 @@
       "HouseSkinIconName": "Blueprint3_Room2_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -560,7 +578,8 @@
       "HouseSkinIconName": "Blueprint3_Room3_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_fl",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -598,7 +617,8 @@
       "HouseSkinIconName": "Blueprint3_Room4_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -638,7 +658,8 @@
       "HouseSkinIconName": "Blueprint3_Room5_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_fl",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -677,7 +698,8 @@
       "HouseSkinIconName": "Blueprint3_Room6_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_fl",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -704,7 +726,8 @@
       "HouseSkinIconName": "Blueprint4_Room1_icon",
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -736,7 +759,8 @@
       "HouseSkinIconName": "Blueprint4_Room2_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -771,7 +795,8 @@
       "HouseSkinIconName": "Blueprint4_Room3_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_tp",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -809,7 +834,8 @@
       "HouseSkinIconName": "Blueprint4_Room4_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -849,7 +875,8 @@
       "HouseSkinIconName": "Blueprint4_Room5_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_tp",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     },
     {
       "ServiceType": "DEV",
@@ -888,7 +915,8 @@
       "HouseSkinIconName": "Blueprint4_Room6_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_tp",
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
     }
   ],
   "Yard": [
@@ -2303,6 +2331,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2322,6 +2351,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2341,6 +2371,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2360,6 +2391,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2379,6 +2411,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2398,6 +2431,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2417,6 +2451,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2436,6 +2471,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2455,6 +2491,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2474,6 +2511,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 2,
       "PlaceShortcutTypeString": "My_Village",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2493,6 +2531,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 2,
       "PlaceShortcutTypeString": "My_Village",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2512,6 +2551,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 2,
       "PlaceShortcutTypeString": "My_Village",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2531,6 +2571,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 2,
       "PlaceShortcutTypeString": "My_Village",
+      "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -2550,6 +2591,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
@@ -2569,6 +2611,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
@@ -2588,6 +2631,7 @@
       "IsShortcutPopup": true,
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
@@ -2607,6 +2651,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
@@ -2626,6 +2671,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
@@ -2645,6 +2691,7 @@
       "IsShortcutPopup": false,
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     }
   ],

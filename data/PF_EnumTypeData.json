@@ -1114,6 +1114,11 @@
       "Key": 4,
       "Value": "LivingBuff",
       "Desc": "생활"
+    },
+    {
+      "Key": 5,
+      "Value": "CharBuff",
+      "Desc": "캐릭터"
     }
   ],
   "EBuffType": [
@@ -1226,6 +1231,11 @@
       "Key": 22,
       "Value": "CraftingTouchTime",
       "Desc": "크래프팅 터치 시 단축 시간 증가"
+    },
+    {
+      "Key": 23,
+      "Value": "CharEffect",
+      "Desc": "캐릭터에 이펙트 적용"
     }
   ],
   "EBuffValueType": [
@@ -4386,6 +4396,11 @@
       "Key": 4,
       "Value": "EventBuff",
       "Desc": "최대 제작 가능 개수 증가"
+    },
+    {
+      "Key": 5,
+      "Value": "CharBuff",
+      "Desc": "캐릭터 이펙트 추가"
     }
   ],
   "EUserActionType": [

@@ -3085,7 +3085,7 @@
       "Key": 442,
       "ConsumeMatGroupID": 177,
       "MatItemID": 250,
-      "MatItemCnt": 2
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",
@@ -3204,7 +3204,7 @@
       "Key": 459,
       "ConsumeMatGroupID": 182,
       "MatItemID": 250,
-      "MatItemCnt": 2
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",
@@ -3225,7 +3225,7 @@
       "Key": 462,
       "ConsumeMatGroupID": 183,
       "MatItemID": 250,
-      "MatItemCnt": 2
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",
@@ -3239,7 +3239,7 @@
       "Key": 464,
       "ConsumeMatGroupID": 184,
       "MatItemID": 26,
-      "MatItemCnt": 2
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",
@@ -3253,14 +3253,14 @@
       "Key": 466,
       "ConsumeMatGroupID": 184,
       "MatItemID": 255,
-      "MatItemCnt": 1
+      "MatItemCnt": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 467,
       "ConsumeMatGroupID": 185,
       "MatItemID": 250,
-      "MatItemCnt": 2
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",
@@ -3288,14 +3288,14 @@
       "Key": 471,
       "ConsumeMatGroupID": 186,
       "MatItemID": 250,
-      "MatItemCnt": 1
+      "MatItemCnt": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 472,
       "ConsumeMatGroupID": 186,
       "MatItemID": 255,
-      "MatItemCnt": 3
+      "MatItemCnt": 4
     },
     {
       "ServiceType": "DEV",
@@ -3358,7 +3358,7 @@
       "Key": 481,
       "ConsumeMatGroupID": 188,
       "MatItemID": 255,
-      "MatItemCnt": 4
+      "MatItemCnt": 5
     },
     {
       "ServiceType": "DEV",
@@ -3386,7 +3386,7 @@
       "Key": 485,
       "ConsumeMatGroupID": 189,
       "MatItemID": 250,
-      "MatItemCnt": 5
+      "MatItemCnt": 6
     },
     {
       "ServiceType": "DEV",
@@ -3414,7 +3414,7 @@
       "Key": 489,
       "ConsumeMatGroupID": 190,
       "MatItemID": 255,
-      "MatItemCnt": 5
+      "MatItemCnt": 6
     },
     {
       "ServiceType": "DEV",
@@ -3512,7 +3512,7 @@
       "Key": 503,
       "ConsumeMatGroupID": 194,
       "MatItemID": 250,
-      "MatItemCnt": 6
+      "MatItemCnt": 7
     },
     {
       "ServiceType": "DEV",
@@ -3533,7 +3533,7 @@
       "Key": 506,
       "ConsumeMatGroupID": 195,
       "MatItemID": 250,
-      "MatItemCnt": 6
+      "MatItemCnt": 7
     },
     {
       "ServiceType": "DEV",
@@ -3939,7 +3939,7 @@
       "Key": 564,
       "ConsumeMatGroupID": 213,
       "MatItemID": 255,
-      "MatItemCnt": 1
+      "MatItemCnt": 3
     },
     {
       "ServiceType": "DEV",

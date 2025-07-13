@@ -2963,6 +2963,78 @@
       "DownColorR": 0,
       "DownColorG": 0,
       "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 232,
+      "ColorName": "Color_232",
+      "IsTwoTone": false,
+      "UpColorR": 132,
+      "UpColorG": 227,
+      "UpColorB": 204,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 233,
+      "ColorName": "Color_233",
+      "IsTwoTone": false,
+      "UpColorR": 74,
+      "UpColorG": 198,
+      "UpColorB": 198,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 234,
+      "ColorName": "Color_234",
+      "IsTwoTone": false,
+      "UpColorR": 73,
+      "UpColorG": 102,
+      "UpColorB": 123,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 235,
+      "ColorName": "Color_235",
+      "IsTwoTone": false,
+      "UpColorR": 230,
+      "UpColorG": 255,
+      "UpColorB": 250,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 236,
+      "ColorName": "Color_236",
+      "IsTwoTone": false,
+      "UpColorR": 200,
+      "UpColorG": 236,
+      "UpColorB": 182,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 237,
+      "ColorName": "Color_237",
+      "IsTwoTone": false,
+      "UpColorR": 255,
+      "UpColorG": 181,
+      "UpColorB": 194,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
     }
   ],
   "ColorGroup": [

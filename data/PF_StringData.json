@@ -55113,42 +55113,42 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_8",
-      "StringName_KOR": "가을 산책 코디"
+      "StringName_KOR": "땡볕 속 산뜻 데일리룩"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_9",
-      "StringName_KOR": "독서의 계절, 도서관 룩"
+      "StringName_KOR": "해변가의 인어공주"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_10",
-      "StringName_KOR": "가을 나들이 패션쇼"
+      "StringName_KOR": "가을 산책 코디"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_11",
-      "StringName_KOR": "할로윈 코스튬 대결"
+      "StringName_KOR": "독서의 계절, 도서관 룩"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_12",
-      "StringName_KOR": "단풍놀이 데이트 룩"
+      "StringName_KOR": "오늘도 완벽한 출근룩"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_13",
-      "StringName_KOR": "따뜻한 니트 스타일링"
+      "StringName_KOR": "밤하늘 아래의 파티룩"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_14",
-      "StringName_KOR": "크리스마스 파티 코디"
+      "StringName_KOR": "빛나는 아이돌"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_15",
-      "StringName_KOR": "연말 시상식 레드카펫룩"
+      "StringName_KOR": "할로윈 코스튬 대결"
     },
     {
       "ServiceType": "DEV",
@@ -59108,12 +59108,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314",
-      "StringName_KOR": "발레코어 핑크무드 세트"
+      "StringName_KOR": "발레코어 핑크무드 침실 세트"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314_Desc",
-      "StringName_KOR": "핑크빛 공기 속에 사뿐히 내려앉은 사랑과 꿈의 무대가 펼쳐지는 발레코어 핑크무드 가구 세트"
+      "StringName_KOR": "오늘도 발레와 함께 하는 하루, 너무 행복했어! 방에서 휴식을 취할 수 있는 발레코어 핑크무드 침실 세트"
     },
     {
       "ServiceType": "DEV",
@@ -59499,6 +59499,551 @@
       "ServiceType": "DEV",
       "Key": "Color_231",
       "StringName_KOR": "피치 코랄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315",
+      "StringName_KOR": "발레코어 핑크무드 발레룸 세트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315_Desc",
+      "StringName_KOR": "핑크빛 공기 속에 사뿐히 내려앉은 사랑과 꿈의 무대가 펼쳐지는 발레코어 핑크무드 발레룸 세트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000416",
+      "StringName_KOR": "아쿠아 퍼퓸 실크 플라워 원피스"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000417",
+      "StringName_KOR": "아쿠아 퍼퓸 실크 롱 로브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000418",
+      "StringName_KOR": "아쿠아 퍼퓸 실크 롱 팬츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000419",
+      "StringName_KOR": "아쿠아 퍼퓸 트윈 도넛 헤어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000420",
+      "StringName_KOR": "아쿠아 퍼퓸 하프 업 헤어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000421",
+      "StringName_KOR": "뽀얀 옥빛 스트랩 샌들"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000422",
+      "StringName_KOR": "푸른 옥빛 스트랩 샌들"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000423",
+      "StringName_KOR": "뽀얀 옥빛 비단 단화"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000424",
+      "StringName_KOR": "푸른 옥빛 비단 단화"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000425",
+      "StringName_KOR": "하늘하늘 물결 리본"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000426",
+      "StringName_KOR": "하늘하늘 허리 리본"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000427",
+      "StringName_KOR": "아쿠아 플라워 미니백"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000428",
+      "StringName_KOR": "아쿠아 플라워 막대 부채"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000429",
+      "StringName_KOR": "맑은 아쿠아 플라워 헤어 브로치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000430",
+      "StringName_KOR": "푸른 아쿠아 플라워 헤어 브로치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000431",
+      "StringName_KOR": "맑은 아쿠아 드롭 귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000432",
+      "StringName_KOR": "푸른 아쿠아 드롭 귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000433",
+      "StringName_KOR": "화이트 아쿠아 드롭 쵸커"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000434",
+      "StringName_KOR": "블루 아쿠아 드롭 쵸커"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000435",
+      "StringName_KOR": "호기심 많은 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000436",
+      "StringName_KOR": "콩알눈 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000437",
+      "StringName_KOR": "실눈 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000438",
+      "StringName_KOR": "토라진 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000439",
+      "StringName_KOR": "피곤한 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000440",
+      "StringName_KOR": "엄격한 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000441",
+      "StringName_KOR": "우아한 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000442",
+      "StringName_KOR": "겁많은 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000443",
+      "StringName_KOR": "꽃사슴 얼굴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000445",
+      "StringName_KOR": "청춘 언밸런스 캐미솔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000446",
+      "StringName_KOR": "청춘 롱 스커트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000447",
+      "StringName_KOR": "청춘 꽃무늬 셔츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000448",
+      "StringName_KOR": "청춘 조거 팬츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000449",
+      "StringName_KOR": "청춘 플립플랍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000450",
+      "StringName_KOR": "능소화 스니커즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000451",
+      "StringName_KOR": "능소화 플립플랍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000452",
+      "StringName_KOR": "청춘 스니커즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000453",
+      "StringName_KOR": "청춘 언밸런스 트윈테일"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000454",
+      "StringName_KOR": "청춘 투톤 샤기컷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000455",
+      "StringName_KOR": "능소화 언밸런스 트윈테일"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000456",
+      "StringName_KOR": "능소화 투톤 샤기컷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000457",
+      "StringName_KOR": "능소화 폭포"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000458",
+      "StringName_KOR": "능소화 버킷햇"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000459",
+      "StringName_KOR": "능소화 머리장식"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000460",
+      "StringName_KOR": "능소화 진 자리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000461",
+      "StringName_KOR": "능소화 푸른 잎귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000462",
+      "StringName_KOR": "능소화 화이트 잎귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000463",
+      "StringName_KOR": "능소화 푸른 비즈 목걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000464",
+      "StringName_KOR": "능소화 화이트 비즈목덜이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000465",
+      "StringName_KOR": "능소화 푸른 크로스백"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000466",
+      "StringName_KOR": "능소화 화이트 크로스백"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022725",
+      "StringName_KOR": "스윗 바운스 줄무늬 프릴웨어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022726",
+      "StringName_KOR": "스윗 바운스 레드 리본 레인부츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022743",
+      "StringName_KOR": "스윗 바운스 핑크 리본 레인부츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022727",
+      "StringName_KOR": "스윗 바운스 리본 멜빵 티셔츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022728",
+      "StringName_KOR": "스윗 바운스 줄무늬 배색 반바지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022729",
+      "StringName_KOR": "스윗 바운스 연두 레드 언발 슈즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022746",
+      "StringName_KOR": "스윗 바운스 초록 핑크 언발 슈즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022730",
+      "StringName_KOR": "스윗 바운스 언발 로우 포니테일"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022731",
+      "StringName_KOR": "스윗 바운스 연잎핀 애즈펌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022732",
+      "StringName_KOR": "케로피와 리본 놀이동산 풍선"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022733",
+      "StringName_KOR": "리본 개구리 머리띠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022734",
+      "StringName_KOR": "케로피 얼굴 안대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022735",
+      "StringName_KOR": "싱그러운 연잎 바닥장식"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022736",
+      "StringName_KOR": "빨강 리본 케로피 백팩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022737",
+      "StringName_KOR": "검정 리본 케로피 백팩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022738",
+      "StringName_KOR": "빨간 음표 귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022739",
+      "StringName_KOR": "테루테루 얼굴 귀걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022740",
+      "StringName_KOR": "시원한 맛 당고"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022741",
+      "StringName_KOR": "달콤한 맛 당고"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022742",
+      "StringName_KOR": "(임시) 스윗 바운스 줄무늬 프릴웨어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022744",
+      "StringName_KOR": "(임시) 스윗 바운스 리본 멜빵 티셔츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022745",
+      "StringName_KOR": "(임시) 스윗 바운스 줄무늬 배색 반바지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022747",
+      "StringName_KOR": "그리너리 바운스 언발 로우 포니테일"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022748",
+      "StringName_KOR": "그리너리 바운스 연잎핀 애즈펌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_1",
+      "StringName_KOR": "도심의 한 폭포"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_2",
+      "StringName_KOR": "유럽의 한 정원"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_3",
+      "StringName_KOR": "플로렌스 정원"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_4",
+      "StringName_KOR": "봄날의 산책"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_5",
+      "StringName_KOR": "깊은 숲 속"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_6",
+      "StringName_KOR": "여름의 한 해변에서"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_7",
+      "StringName_KOR": "휴가를 떠나요"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_8",
+      "StringName_KOR": "감각적인 패션쇼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_9",
+      "StringName_KOR": "데이지 노랑"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_10",
+      "StringName_KOR": "에메랄드 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_11",
+      "StringName_KOR": "소다맛 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_12",
+      "StringName_KOR": "로맨틱 하트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_13",
+      "StringName_KOR": "스윗 데이즈 하트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_14",
+      "StringName_KOR": "발렌타인"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_15",
+      "StringName_KOR": "하트 구름"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_16",
+      "StringName_KOR": "너와 나의 추억이 담긴 밤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_17",
+      "StringName_KOR": "노란 별빛"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000467",
+      "StringName_KOR": "(임시)아쿠아 퍼퓸 실크 플라워 원피스"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000468",
+      "StringName_KOR": "(임시)아쿠아 퍼퓸 실크 롱 로브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000469",
+      "StringName_KOR": "(임시)아쿠아 퍼퓸 실크 롱 팬츠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000470",
+      "StringName_KOR": "(임시)아쿠아 퍼퓸 트윈 도넛 헤어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000471",
+      "StringName_KOR": "(임시)아쿠아 퍼퓸 하프 업 헤어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_20",
+      "StringName_KOR": "스윗 바운스"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_21",
+      "StringName_KOR": "아쿠아 퍼퓸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_22",
+      "StringName_KOR": "청춘 능소화"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FashionInteriorSet_10",
+      "StringName_KOR": "패션 스타일 배경 세트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_15",
+      "StringName_KOR": "물가 타일 세트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_232",
+      "StringName_KOR": "터콰이즈 민트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_233",
+      "StringName_KOR": "터콰이즈 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_234",
+      "StringName_KOR": "터콰이즈 다크 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_235",
+      "StringName_KOR": "터콰이즈 화이트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_236",
+      "StringName_KOR": "우유 가득 그린티"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_237",
+      "StringName_KOR": "더 진한 딸기우유"
     }
   ],
   "JPN_StringTable": [
@@ -114615,42 +115160,42 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_8",
-      "StringName_JPN": "秋の散歩コーデ"
+      "StringName_JPN": "真夏の日差しにぴったりの爽やかデイリールック  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_9",
-      "StringName_JPN": "読書の秋・図書館コーデ"
+      "StringName_JPN": "ビーチサイドの人魚姫"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_10",
-      "StringName_JPN": "秋のお出かけファッションショー"
+      "StringName_JPN": "秋の散歩コーデ"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_11",
-      "StringName_JPN": "ハロウィン仮装コンテスト"
+      "StringName_JPN": "読書の秋・図書館コーデ"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_12",
-      "StringName_JPN": "紅葉デートコーデ"
+      "StringName_JPN": "今日も完璧な出勤コーデ  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_13",
-      "StringName_JPN": "あったかセータコーデ"
+      "StringName_JPN": "夜空の下のパーティールック  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_14",
-      "StringName_JPN": "クリスマスパーティーコーデ"
+      "StringName_JPN": "輝くアイドル"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_15",
-      "StringName_JPN": "年末授賞式レッドカーペットコーデ"
+      "StringName_JPN": "ハロウィン仮装コンテスト"
     },
     {
       "ServiceType": "DEV",
@@ -118610,12 +119155,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314",
-      "StringName_JPN": "バレコア・ピンクムードセット"
+      "StringName_JPN": "バレコア・ピンクムードのベッドルームセット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314_Desc",
-      "StringName_JPN": "ピンク色の空気にふんわりと舞い降りた愛と夢の舞台が広がるバレエコアピンクムード家具セット"
+      "StringName_JPN": "今日もバレエと過ごした一日、とっても幸せだった！お部屋でほっと一息つけるバレコア・ピンクムードのベッドルームセットです。"
     },
     {
       "ServiceType": "DEV",
@@ -119001,6 +119546,551 @@
       "ServiceType": "DEV",
       "Key": "Color_231",
       "StringName_JPN": "ピーチコーラル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315",
+      "StringName_JPN": "バレコア・ピンクムードのバレエルームセット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315_Desc",
+      "StringName_JPN": "ピンク色の空気の中にそっと舞い降りた愛と夢のステージが広がる、バレコア・ピンクムードのバレエルームセットです。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000416",
+      "StringName_JPN": "アクアパフュームシルクフラワーワンピース"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000417",
+      "StringName_JPN": "アクアパフュームシルクロングローブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000418",
+      "StringName_JPN": "アクアパフュームシルクロングパンツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000419",
+      "StringName_JPN": "アクアパフュームツインドーナツヘア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000420",
+      "StringName_JPN": "アクアパフュームハーフアップヘア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000421",
+      "StringName_JPN": "ふわり翡翠色ストラップサンダル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000422",
+      "StringName_JPN": "青い翡翠色ストラップサンダル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000423",
+      "StringName_JPN": "ふわり翡翠色シルクローファー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000424",
+      "StringName_JPN": "青い翡翠色シルクローファー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000425",
+      "StringName_JPN": "ひらひらウェーブリボン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000426",
+      "StringName_JPN": "ひらひらウエストリボン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000427",
+      "StringName_JPN": "アクアフラワーミニバッグ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000428",
+      "StringName_JPN": "アクアフラワースティックうちわ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000429",
+      "StringName_JPN": "クリアアクアフラワーヘアブローチ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000430",
+      "StringName_JPN": "ブルーアクアフラワーヘアブローチ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000431",
+      "StringName_JPN": "クリアアクアドロップヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000432",
+      "StringName_JPN": "ブルーアクアドロップヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000433",
+      "StringName_JPN": "ホワイトアクアドロップチョーカー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000434",
+      "StringName_JPN": "ブルーアクアドロップチョーカー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000435",
+      "StringName_JPN": "好奇心旺盛な顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000436",
+      "StringName_JPN": "豆粒目の顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000437",
+      "StringName_JPN": "細目の顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000438",
+      "StringName_JPN": "すねた顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000439",
+      "StringName_JPN": "疲れた顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000440",
+      "StringName_JPN": "厳しい顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000441",
+      "StringName_JPN": "優雅な顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000442",
+      "StringName_JPN": "臆病な顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000443",
+      "StringName_JPN": "小鹿の顔"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000445",
+      "StringName_JPN": "青春アンバランスキャミソール"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000446",
+      "StringName_JPN": "青春ロングスカート"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000447",
+      "StringName_JPN": "青春花柄シャツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000448",
+      "StringName_JPN": "青春ジョガーパンツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000449",
+      "StringName_JPN": "青春ビーチサンダル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000450",
+      "StringName_JPN": "ノウゼンカズラスニーカー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000451",
+      "StringName_JPN": "ノウゼンカズラビーチサンダル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000452",
+      "StringName_JPN": "青春スニーカー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000453",
+      "StringName_JPN": "青春アンバランスツインテール"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000454",
+      "StringName_JPN": "青春ツートンシャギーカット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000455",
+      "StringName_JPN": "ノウゼンカズラアンバランスツインテール"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000456",
+      "StringName_JPN": "ノウゼンカズラツートンシャギーカット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000457",
+      "StringName_JPN": "ノウゼンカズラ滝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000458",
+      "StringName_JPN": "ノウゼンカズラバケットハット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000459",
+      "StringName_JPN": "ノウゼンカズラ髪飾り"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000460",
+      "StringName_JPN": "ノウゼンカズラ散った場所"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000461",
+      "StringName_JPN": "ノウゼンカズラ青葉イヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000462",
+      "StringName_JPN": "ノウゼンカズラホワイト葉イヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000463",
+      "StringName_JPN": "ノウゼンカズラブルービーズネックレス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000464",
+      "StringName_JPN": "ノウゼンカズラホワイトビーズネックレス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000465",
+      "StringName_JPN": "ノウゼンカズラブルークロスバッグ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000466",
+      "StringName_JPN": "ノウゼンカズラホワイトクロスバッグ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022725",
+      "StringName_JPN": "スイートバウンスストライプフリルウェア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022726",
+      "StringName_JPN": "スイートバウンスレッドリボンレインブーツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022743",
+      "StringName_JPN": "スイートバウンスピンクリボンレインブーツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022727",
+      "StringName_JPN": "スイートバウンスリボンサスペンダー Tシャツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022728",
+      "StringName_JPN": "スイートバウンスストライプ 配色ショートパンツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022729",
+      "StringName_JPN": "スイートバウンスライムレッドアンバランスシューズ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022746",
+      "StringName_JPN": "スイートバウンスグリーンピンクアンバランスシューズ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022730",
+      "StringName_JPN": "スイートバウンスアンバランスロー ポニーテール"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022731",
+      "StringName_JPN": "スイートバウンス蓮咲くアズパーマ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022732",
+      "StringName_JPN": "けろけろけろっぴとリボン遊園地バルーン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022733",
+      "StringName_JPN": "リボンカエルカチューシャ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022734",
+      "StringName_JPN": "けろけろけろっぴフェイスアイマスク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022735",
+      "StringName_JPN": "爽やかな蓮の葉の床飾り"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022736",
+      "StringName_JPN": "レッドリボンけろけろけろっぴバックパック"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022737",
+      "StringName_JPN": "ブラックリボンけろけろけろっぴバックパック"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022738",
+      "StringName_JPN": "赤い音符のイヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022739",
+      "StringName_JPN": "てるてるイヤリング"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022740",
+      "StringName_JPN": "さっぱりした味の団子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022741",
+      "StringName_JPN": "甘い味の団子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022742",
+      "StringName_JPN": "(仮)スイートバウンスストライプフリルウェア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022744",
+      "StringName_JPN": "(仮)スイートバウンスリボンサスペンダー Tシャツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022745",
+      "StringName_JPN": "(仮)スイートバウンスストライプ配色 ショートパンツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022747",
+      "StringName_JPN": "グリーナリーバウンス アシメローポニーテール"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022748",
+      "StringName_JPN": "グリーナリーバウンス 蓮の葉ピンアッシュパーマ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_1",
+      "StringName_JPN": "都市のとある滝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_2",
+      "StringName_JPN": "ヨーロッパのとある庭園"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_3",
+      "StringName_JPN": "フィレンツェ庭園"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_4",
+      "StringName_JPN": "春の日の散歩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_5",
+      "StringName_JPN": "深い森の中"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_6",
+      "StringName_JPN": "夏のとある海辺で"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_7",
+      "StringName_JPN": "バカンスへ出かけよう"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_8",
+      "StringName_JPN": "感覚的なファッションショー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_9",
+      "StringName_JPN": "デイジーイエロー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_10",
+      "StringName_JPN": "エメラルドブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_11",
+      "StringName_JPN": "ソーダ味ブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_12",
+      "StringName_JPN": "ロマンティックハート"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_13",
+      "StringName_JPN": "スイートデイズハート"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_14",
+      "StringName_JPN": "バレンタイン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_15",
+      "StringName_JPN": "ハート雲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_16",
+      "StringName_JPN": "あなたと私の思い出が詰まった夜"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_17",
+      "StringName_JPN": "黄色い星の光"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000467",
+      "StringName_JPN": "(仮)アクアパフュームシルクフラワーワンピース"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000468",
+      "StringName_JPN": "(仮)アクアパフュームシルクロングローブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000469",
+      "StringName_JPN": "(仮)アクアパフュームシルクロングパンツ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000470",
+      "StringName_JPN": "(仮)アクアパフュームツインドーナツヘア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000471",
+      "StringName_JPN": "(仮)アクアパフュームハーフアップヘア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_20",
+      "StringName_JPN": "スイートバウンス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_21",
+      "StringName_JPN": "アクアパフューム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_22",
+      "StringName_JPN": "青春ノウゼンカズラ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FashionInteriorSet_10",
+      "StringName_JPN": "ファッションスタイル背景セット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_15",
+      "StringName_JPN": "水辺タイルセット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_232",
+      "StringName_JPN": "ターコイズミント"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_233",
+      "StringName_JPN": "ターコイズブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_234",
+      "StringName_JPN": "ターコイズダークブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_235",
+      "StringName_JPN": "ターコイズホワイト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_236",
+      "StringName_JPN": "ミルクたっぷり抹茶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_237",
+      "StringName_JPN": "もっと濃いイチゴミルク"
     }
   ],
   "TRC_StringTable": [
@@ -174117,42 +175207,42 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_8",
-      "StringName_TRC": "秋日散步穿搭"
+      "StringName_TRC": "烈日下的清爽日常穿搭  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_9",
-      "StringName_TRC": "閱讀季的圖書館穿搭"
+      "StringName_TRC": "海灘邊的美人魚"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_10",
-      "StringName_TRC": "秋遊時裝秀"
+      "StringName_TRC": "秋日散步穿搭"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_11",
-      "StringName_TRC": "萬聖節變裝大賽"
+      "StringName_TRC": "閱讀季的圖書館穿搭"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_12",
-      "StringName_TRC": "賞楓約會穿搭"
+      "StringName_TRC": "今天也是完美的上班造型  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_13",
-      "StringName_TRC": "溫暖毛衣造型"
+      "StringName_TRC": "夜空下的派對穿搭  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_14",
-      "StringName_TRC": "聖誕派對穿搭"
+      "StringName_TRC": "閃耀的偶像"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_15",
-      "StringName_TRC": "年終頒獎典禮紅毯造型"
+      "StringName_TRC": "萬聖節變裝大賽"
     },
     {
       "ServiceType": "DEV",
@@ -178112,12 +179202,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314",
-      "StringName_TRC": "芭蕾核心粉紅氛圍套組"
+      "StringName_TRC": "芭蕾核心粉紅氛圍臥室套組"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314_Desc",
-      "StringName_TRC": "在粉紅色空氣中輕柔降落的愛與夢想舞台—芭蕾核心粉紅氛圍家具套組"
+      "StringName_TRC": "今天也是和芭蕾一起度過的一天，好幸福喔！可以在房間裡好好休息的芭蕾核心粉紅氛圍臥室組合。"
     },
     {
       "ServiceType": "DEV",
@@ -178503,6 +179593,551 @@
       "ServiceType": "DEV",
       "Key": "Color_231",
       "StringName_TRC": "蜜桃珊瑚"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315",
+      "StringName_TRC": "芭蕾核心粉色氛围芭蕾房套装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315_Desc",
+      "StringName_TRC": "在粉色空气中轻盈落下，爱与梦想的舞台缓缓展开——芭蕾核心粉色氛围芭蕾房套装。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000416",
+      "StringName_TRC": "水之香絲綢花卉連衣裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000417",
+      "StringName_TRC": "水之香絲綢長袍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000418",
+      "StringName_TRC": "水之香絲綢長褲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000419",
+      "StringName_TRC": "水之香雙甜甜圈髮型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000420",
+      "StringName_TRC": "水之香半扎髮"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000421",
+      "StringName_TRC": "朦朧玉色帶帶涼鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000422",
+      "StringName_TRC": "青玉色帶帶涼鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000423",
+      "StringName_TRC": "朦朧玉色絲綢便鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000424",
+      "StringName_TRC": "青玉色絲綢便鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000425",
+      "StringName_TRC": "飄逸波浪蝴蝶結"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000426",
+      "StringName_TRC": "飄逸腰帶蝴蝶結"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000427",
+      "StringName_TRC": "水花小包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000428",
+      "StringName_TRC": "水花棒扇"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000429",
+      "StringName_TRC": "透明水花髮飾胸針"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000430",
+      "StringName_TRC": "藍色水花髮飾胸針"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000431",
+      "StringName_TRC": "透明水滴耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000432",
+      "StringName_TRC": "藍水滴耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000433",
+      "StringName_TRC": "白色水滴項圈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000434",
+      "StringName_TRC": "藍色水滴項圈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000435",
+      "StringName_TRC": "好奇的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000436",
+      "StringName_TRC": "豆豆眼的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000437",
+      "StringName_TRC": "眯眯眼的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000438",
+      "StringName_TRC": "生氣的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000439",
+      "StringName_TRC": "疲憊的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000440",
+      "StringName_TRC": "嚴厲的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000441",
+      "StringName_TRC": "優雅的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000442",
+      "StringName_TRC": "膽小的臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000443",
+      "StringName_TRC": "小鹿臉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000445",
+      "StringName_TRC": "青春不對稱背心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000446",
+      "StringName_TRC": "青春長裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000447",
+      "StringName_TRC": "青春花卉襯衫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000448",
+      "StringName_TRC": "青春慢跑褲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000449",
+      "StringName_TRC": "青春人字拖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000450",
+      "StringName_TRC": "紫葳運動鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000451",
+      "StringName_TRC": "紫葳人字拖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000452",
+      "StringName_TRC": "青春運動鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000453",
+      "StringName_TRC": "青春不對稱雙馬尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000454",
+      "StringName_TRC": "青春雙色碎髮"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000455",
+      "StringName_TRC": "紫葳不對稱雙馬尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000456",
+      "StringName_TRC": "紫葳雙色碎髮"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000457",
+      "StringName_TRC": "紫葳瀑布"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000458",
+      "StringName_TRC": "紫葳水桶帽"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000459",
+      "StringName_TRC": "紫葳頭飾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000460",
+      "StringName_TRC": "紫葳花瓣裝飾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000461",
+      "StringName_TRC": "紫葳藍葉耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000462",
+      "StringName_TRC": "紫葳白葉耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000463",
+      "StringName_TRC": "紫葳藍色珠鏈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000464",
+      "StringName_TRC": "紫葳白色珠鏈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000465",
+      "StringName_TRC": "紫葳藍色斜挎包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000466",
+      "StringName_TRC": "紫葳白色斜挎包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022725",
+      "StringName_TRC": "甜跳條紋荷葉邊裝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022726",
+      "StringName_TRC": "甜跳紅色蝴蝶結雨靴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022743",
+      "StringName_TRC": "甜跳粉色蝴蝶結雨靴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022727",
+      "StringName_TRC": "甜跳蝴蝶結吊帶T恤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022728",
+      "StringName_TRC": "甜跳條紋拼色短褲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022729",
+      "StringName_TRC": "甜跳黃綠紅不對稱鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022746",
+      "StringName_TRC": "甜跳綠粉不對稱鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022730",
+      "StringName_TRC": "甜跳不對稱低馬尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022731",
+      "StringName_TRC": "甜跳荷葉夾空氣卷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022732",
+      "StringName_TRC": "Keropi和蝴蝶結遊樂園氣球"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022733",
+      "StringName_TRC": "蝴蝶結青蛙髮箍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022734",
+      "StringName_TRC": "Keropi臉遮光眼罩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022735",
+      "StringName_TRC": "清新荷葉地板裝飾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022736",
+      "StringName_TRC": "紅蝴蝶結Keropi雙肩包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022737",
+      "StringName_TRC": "黑蝴蝶結Keropi雙肩包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022738",
+      "StringName_TRC": "紅音符耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022739",
+      "StringName_TRC": "晴天娃娃臉耳環"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022740",
+      "StringName_TRC": "清爽口味團子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022741",
+      "StringName_TRC": "甜味團子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022742",
+      "StringName_TRC": "(暫)甜跳條紋荷葉邊裝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022744",
+      "StringName_TRC": "(暫)甜跳蝴蝶結吊帶T恤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022745",
+      "StringName_TRC": "(暫)甜跳條紋拼色短褲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022747",
+      "StringName_TRC": "綠意躍動不對稱低馬尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022748",
+      "StringName_TRC": "綠意躍動蓮葉髮夾亞麻燙髮"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_1",
+      "StringName_TRC": "城市瀑布"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_2",
+      "StringName_TRC": "歐洲花園"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_3",
+      "StringName_TRC": "佛羅倫薩花園"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_4",
+      "StringName_TRC": "春日散步"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_5",
+      "StringName_TRC": "深林深處"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_6",
+      "StringName_TRC": "夏日海灘"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_7",
+      "StringName_TRC": "去度假吧"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_8",
+      "StringName_TRC": "感官時尚秀"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_9",
+      "StringName_TRC": "雛菊黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_10",
+      "StringName_TRC": "翡翠藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_11",
+      "StringName_TRC": "蘇打味藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_12",
+      "StringName_TRC": "浪漫之心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_13",
+      "StringName_TRC": "甜蜜日心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_14",
+      "StringName_TRC": "情人節"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_15",
+      "StringName_TRC": "心形雲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_16",
+      "StringName_TRC": "記憶與你我的夜晚"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_17",
+      "StringName_TRC": "黃色星光"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000467",
+      "StringName_TRC": "(暫)水之香絲綢花卉連衣裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000468",
+      "StringName_TRC": "(暫)水之香絲綢長袍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000469",
+      "StringName_TRC": "(暫)水之香絲綢長褲"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000470",
+      "StringName_TRC": "(暫)水之香雙甜甜圈髮型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000471",
+      "StringName_TRC": "(暫)水之香半扎髮"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_20",
+      "StringName_TRC": "甜跳"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_21",
+      "StringName_TRC": "水之香"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_22",
+      "StringName_TRC": "青春紫葳"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FashionInteriorSet_10",
+      "StringName_TRC": "時尚風格背景套裝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_15",
+      "StringName_TRC": "水邊瓷磚套裝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_232",
+      "StringName_TRC": "綠松石薄荷色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_233",
+      "StringName_TRC": "綠松石藍色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_234",
+      "StringName_TRC": "深綠松石藍色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_235",
+      "StringName_TRC": "綠松石白色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_236",
+      "StringName_TRC": "牛奶滿滿抹茶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_237",
+      "StringName_TRC": "更濃草莓牛奶"
     }
   ],
   "TRS_StringTable": [
@@ -233619,42 +235254,42 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_8",
-      "StringName_TRS": "秋日散步穿搭"
+      "StringName_TRS": "烈日下的清新日常穿搭  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_9",
-      "StringName_TRS": "阅读季的图书馆穿搭"
+      "StringName_TRS": "海边的人鱼公主"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_10",
-      "StringName_TRS": "秋游时装秀"
+      "StringName_TRS": "秋日散步穿搭"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_11",
-      "StringName_TRS": "万圣节变装大赛"
+      "StringName_TRS": "阅读季的图书馆穿搭"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_12",
-      "StringName_TRS": "赏枫约会穿搭"
+      "StringName_TRS": "今天也完美的上班穿搭  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_13",
-      "StringName_TRS": "温暖毛衣造型"
+      "StringName_TRS": "夜空下的派对造型  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_14",
-      "StringName_TRS": "圣诞派对穿搭"
+      "StringName_TRS": "闪耀的偶像"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_15",
-      "StringName_TRS": "年终颁奖典礼红毯造型"
+      "StringName_TRS": "万圣节变装大赛"
     },
     {
       "ServiceType": "DEV",
@@ -237614,12 +239249,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314",
-      "StringName_TRS": "芭蕾核心粉色氛围套装"
+      "StringName_TRS": "芭蕾核心粉色氛围卧室套装"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314_Desc",
-      "StringName_TRS": "在粉色空气中轻盈降落的爱与梦想舞台——芭蕾核心粉色氛围家具套装"
+      "StringName_TRS": "今天也是和芭蕾一起度过的一天，好幸福！这是一个可以在房间里好好休息的芭蕾核心粉色氛围卧室套装。"
     },
     {
       "ServiceType": "DEV",
@@ -238005,6 +239640,551 @@
       "ServiceType": "DEV",
       "Key": "Color_231",
       "StringName_TRS": "蜜桃珊瑚"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315",
+      "StringName_TRS": "芭蕾核心粉色氛围芭蕾房套装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315_Desc",
+      "StringName_TRS": "在粉色空气中轻盈落下，爱与梦想的舞台缓缓展开——芭蕾核心粉色氛围芭蕾房套装。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000416",
+      "StringName_TRS": "水之香丝绸花卉连衣裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000417",
+      "StringName_TRS": "水之香丝绸长袍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000418",
+      "StringName_TRS": "水之香丝绸长裤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000419",
+      "StringName_TRS": "水之香双甜甜圈发型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000420",
+      "StringName_TRS": "水之香半扎发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000421",
+      "StringName_TRS": "朦胧玉色带带凉鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000422",
+      "StringName_TRS": "青玉色带带凉鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000423",
+      "StringName_TRS": "朦胧玉色丝绸便鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000424",
+      "StringName_TRS": "青玉色丝绸便鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000425",
+      "StringName_TRS": "飘逸波浪蝴蝶结"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000426",
+      "StringName_TRS": "飘逸腰带蝴蝶结"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000427",
+      "StringName_TRS": "水花小包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000428",
+      "StringName_TRS": "水花棒扇"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000429",
+      "StringName_TRS": "透明水花发饰胸针"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000430",
+      "StringName_TRS": "蓝色水花发饰胸针"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000431",
+      "StringName_TRS": "透明水滴耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000432",
+      "StringName_TRS": "蓝水滴耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000433",
+      "StringName_TRS": "白色水滴项圈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000434",
+      "StringName_TRS": "蓝色水滴项圈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000435",
+      "StringName_TRS": "好奇的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000436",
+      "StringName_TRS": "豆豆眼的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000437",
+      "StringName_TRS": "眯眯眼的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000438",
+      "StringName_TRS": "生气的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000439",
+      "StringName_TRS": "疲惫的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000440",
+      "StringName_TRS": "严厉的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000441",
+      "StringName_TRS": "优雅的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000442",
+      "StringName_TRS": "胆小的脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000443",
+      "StringName_TRS": "小鹿脸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000445",
+      "StringName_TRS": "青春不对称背心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000446",
+      "StringName_TRS": "青春长裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000447",
+      "StringName_TRS": "青春花卉衬衫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000448",
+      "StringName_TRS": "青春慢跑裤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000449",
+      "StringName_TRS": "青春人字拖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000450",
+      "StringName_TRS": "紫葳运动鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000451",
+      "StringName_TRS": "紫葳人字拖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000452",
+      "StringName_TRS": "青春运动鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000453",
+      "StringName_TRS": "青春不对称双马尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000454",
+      "StringName_TRS": "青春双色碎发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000455",
+      "StringName_TRS": "紫葳不对称双马尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000456",
+      "StringName_TRS": "紫葳双色碎发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000457",
+      "StringName_TRS": "紫葳瀑布"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000458",
+      "StringName_TRS": "紫葳水桶帽"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000459",
+      "StringName_TRS": "紫葳头饰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000460",
+      "StringName_TRS": "紫葳花瓣装饰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000461",
+      "StringName_TRS": "紫葳蓝叶耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000462",
+      "StringName_TRS": "紫葳白叶耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000463",
+      "StringName_TRS": "紫葳蓝色珠链"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000464",
+      "StringName_TRS": "紫葳白色珠链"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000465",
+      "StringName_TRS": "紫葳蓝色斜挎包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000466",
+      "StringName_TRS": "紫葳白色斜挎包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022725",
+      "StringName_TRS": "甜跳条纹荷叶边装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022726",
+      "StringName_TRS": "甜跳红色蝴蝶结雨靴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022743",
+      "StringName_TRS": "甜跳粉色蝴蝶结雨靴"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022727",
+      "StringName_TRS": "甜跳蝴蝶结吊带T恤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022728",
+      "StringName_TRS": "甜跳条纹拼色短裤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022729",
+      "StringName_TRS": "甜跳黄绿红不对称鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022746",
+      "StringName_TRS": "甜跳绿粉不对称鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022730",
+      "StringName_TRS": "甜跳不对称低马尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022731",
+      "StringName_TRS": "甜跳荷叶夹空气卷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022732",
+      "StringName_TRS": "Keropi和蝴蝶结游乐园气球"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022733",
+      "StringName_TRS": "蝴蝶结青蛙发箍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022734",
+      "StringName_TRS": "Keropi脸遮光眼罩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022735",
+      "StringName_TRS": "清新荷叶地板装饰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022736",
+      "StringName_TRS": "红蝴蝶结Keropi双肩包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022737",
+      "StringName_TRS": "黑蝴蝶结Keropi双肩包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022738",
+      "StringName_TRS": "红音符耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022739",
+      "StringName_TRS": "晴天娃娃脸耳环"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022740",
+      "StringName_TRS": "清爽口味团子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022741",
+      "StringName_TRS": "甜味团子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022742",
+      "StringName_TRS": "(暂)甜跳条纹荷叶边装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022744",
+      "StringName_TRS": "(暂)甜跳蝴蝶结吊带T恤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022745",
+      "StringName_TRS": "(暂)甜跳条纹拼色短裤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022747",
+      "StringName_TRS": "绿意跃动不对称低马尾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022748",
+      "StringName_TRS": "绿意跃动莲叶发夹亚麻烫发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_1",
+      "StringName_TRS": "城市瀑布"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_2",
+      "StringName_TRS": "欧洲花园"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_3",
+      "StringName_TRS": "佛罗伦萨花园"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_4",
+      "StringName_TRS": "春日散步"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_5",
+      "StringName_TRS": "深林深处"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_6",
+      "StringName_TRS": "夏日海滩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_7",
+      "StringName_TRS": "去度假吧"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_8",
+      "StringName_TRS": "感官时尚秀"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_9",
+      "StringName_TRS": "雏菊黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_10",
+      "StringName_TRS": "翡翠蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_11",
+      "StringName_TRS": "苏打味蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_12",
+      "StringName_TRS": "浪漫之心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_13",
+      "StringName_TRS": "甜蜜日心"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_14",
+      "StringName_TRS": "情人节"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_15",
+      "StringName_TRS": "心形云"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_16",
+      "StringName_TRS": "记忆与你我的夜晚"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_17",
+      "StringName_TRS": "黄色星光"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000467",
+      "StringName_TRS": "(暂)水之香丝绸花卉连衣裙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000468",
+      "StringName_TRS": "(暂)水之香丝绸长袍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000469",
+      "StringName_TRS": "(暂)水之香丝绸长裤"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000470",
+      "StringName_TRS": "(暂)水之香双甜甜圈发型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000471",
+      "StringName_TRS": "(暂)水之香半扎发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_20",
+      "StringName_TRS": "甜跳"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_21",
+      "StringName_TRS": "水之香"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_22",
+      "StringName_TRS": "青春紫葳"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FashionInteriorSet_10",
+      "StringName_TRS": "时尚风格背景套装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_15",
+      "StringName_TRS": "水边瓷砖套装"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_232",
+      "StringName_TRS": "绿松石薄荷色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_233",
+      "StringName_TRS": "绿松石蓝色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_234",
+      "StringName_TRS": "深绿松石蓝色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_235",
+      "StringName_TRS": "绿松石白色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_236",
+      "StringName_TRS": "牛奶满满抹茶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_237",
+      "StringName_TRS": "更浓草莓牛奶"
     }
   ],
   "ENG_StringTable": [
@@ -293121,42 +295301,42 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_8",
-      "StringName_ENG": "Autumn Walk Outfit"
+      "StringName_ENG": "A breezy daily look under the blazing sun  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_9",
-      "StringName_ENG": "Library Look for Reading Season"
+      "StringName_ENG": "The Mermaid Princess by the Beach"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_10",
-      "StringName_ENG": "Fall Outing Fashion Show"
+      "StringName_ENG": "Autumn Walk Outfit"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_11",
-      "StringName_ENG": "Halloween Costume Contest"
+      "StringName_ENG": "Library Look for Reading Season"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_12",
-      "StringName_ENG": "Autumn Foliage Date Look"
+      "StringName_ENG": "A perfect office look again today  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_13",
-      "StringName_ENG": "Cozy Knit Styling"
+      "StringName_ENG": "Party style under the night sky  "
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_14",
-      "StringName_ENG": "Christmas Party Outfit"
+      "StringName_ENG": "Shining idol"
     },
     {
       "ServiceType": "DEV",
       "Key": "FashionMatch_15",
-      "StringName_ENG": "Year-End Awards Red Carpet Look"
+      "StringName_ENG": "Halloween Costume Contest"
     },
     {
       "ServiceType": "DEV",
@@ -297116,12 +299296,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314",
-      "StringName_ENG": "Balletcore Pink Mood Set  "
+      "StringName_ENG": "Balletcore Pink Mood Bedroom Set"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_2314_Desc",
-      "StringName_ENG": "A dreamy stage of love and dreams gently landing in pink-tinted air — the Balletcore Pink Mood Furniture Set  "
+      "StringName_ENG": "Another day spent with ballet—so happy! This Balletcore Pink Mood Bedroom Set is perfect for relaxing in your room."
     },
     {
       "ServiceType": "DEV",
@@ -297507,6 +299687,551 @@
       "ServiceType": "DEV",
       "Key": "Color_231",
       "StringName_ENG": "Peach Coral  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315",
+      "StringName_ENG": "Balletcore Pink Mood Ballet Room Set"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2315_Desc",
+      "StringName_ENG": "A stage of love and dreams gently unfolds in the pink-tinted air—this is the Balletcore Pink Mood Ballet Room Set."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000416",
+      "StringName_ENG": "Aqua Perfume Silk Flower Dress"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000417",
+      "StringName_ENG": "Aqua Perfume Silk Long Robe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000418",
+      "StringName_ENG": "Aqua Perfume Silk Long Pants"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000419",
+      "StringName_ENG": "Aqua Perfume Twin Donut Hair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000420",
+      "StringName_ENG": "Aqua Perfume Half‑Up Hair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000421",
+      "StringName_ENG": "Soft Jade‑Tone Strap Sandals"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000422",
+      "StringName_ENG": "Blue‑Jade Strap Sandals"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000423",
+      "StringName_ENG": "Soft Jade‑Tone Silk Flats"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000424",
+      "StringName_ENG": "Blue‑Jade Silk Flats"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000425",
+      "StringName_ENG": "Breezy Wavy Ribbon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000426",
+      "StringName_ENG": "Breezy Waist Ribbon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000427",
+      "StringName_ENG": "Aqua Flower Mini Bag"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000428",
+      "StringName_ENG": "Aqua Flower Stick Fan"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000429",
+      "StringName_ENG": "Clear Aqua Flower Hair Brooch"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000430",
+      "StringName_ENG": "Blue Aqua Flower Hair Brooch"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000431",
+      "StringName_ENG": "Clear Aqua Drop Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000432",
+      "StringName_ENG": "Blue Aqua Drop Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000433",
+      "StringName_ENG": "White Aqua Drop Choker"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000434",
+      "StringName_ENG": "Blue Aqua Drop Choker"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000435",
+      "StringName_ENG": "Curious Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000436",
+      "StringName_ENG": "Bean‑Sized Eyes Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000437",
+      "StringName_ENG": "Slit‑Eyes Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000438",
+      "StringName_ENG": "Sulky Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000439",
+      "StringName_ENG": "Tired Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000440",
+      "StringName_ENG": "Stern Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000441",
+      "StringName_ENG": "Elegant Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000442",
+      "StringName_ENG": "Fearful Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000443",
+      "StringName_ENG": "Fawn Face"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000445",
+      "StringName_ENG": "Youth Unbalanced Cami"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000446",
+      "StringName_ENG": "Youth Long Skirt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000447",
+      "StringName_ENG": "Youth Floral Shirt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000448",
+      "StringName_ENG": "Youth Jogger Pants"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000449",
+      "StringName_ENG": "Youth Flip‑Flops"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000450",
+      "StringName_ENG": "Trumpet Creeper Sneakers"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000451",
+      "StringName_ENG": "Trumpet Creeper Flip‑Flops"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000452",
+      "StringName_ENG": "Youth Sneakers"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000453",
+      "StringName_ENG": "Youth Unbalanced Twin‑Tails"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000454",
+      "StringName_ENG": "Youth Two‑Tone Shaggy Cut"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000455",
+      "StringName_ENG": "Trumpet Creeper Unbalanced Twin‑Tails"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000456",
+      "StringName_ENG": "Trumpet Creeper Two‑Tone Shaggy Cut"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000457",
+      "StringName_ENG": "Trumpet Creeper Waterfall"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000458",
+      "StringName_ENG": "Trumpet Creeper Bucket Hat"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000459",
+      "StringName_ENG": "Trumpet Creeper Hair Accessory"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000460",
+      "StringName_ENG": "Trumpet Creeper Petal Ornament"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000461",
+      "StringName_ENG": "Trumpet Creeper Blue Leaf Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000462",
+      "StringName_ENG": "Trumpet Creeper White Leaf Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000463",
+      "StringName_ENG": "Trumpet Creeper Blue Bead Necklace"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000464",
+      "StringName_ENG": "Trumpet Creeper White Bead Necklace"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000465",
+      "StringName_ENG": "Trumpet Creeper Blue Crossbody Bag"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000466",
+      "StringName_ENG": "Trumpet Creeper White Crossbody Bag"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022725",
+      "StringName_ENG": "Sweet Bounce Striped Frill Wear"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022726",
+      "StringName_ENG": "Sweet Bounce Red‑Ribbon Rain Boots"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022743",
+      "StringName_ENG": "Sweet Bounce Pink‑Ribbon Rain Boots"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022727",
+      "StringName_ENG": "Sweet Bounce Ribbon Overall T‑Shirt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022728",
+      "StringName_ENG": "Sweet Bounce Striped Color‑Block Shorts"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022729",
+      "StringName_ENG": "Sweet Bounce Lime‑Red Asymmetric Shoes"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022746",
+      "StringName_ENG": "Sweet Bounce Green‑Pink Asymmetric Shoes"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022730",
+      "StringName_ENG": "Sweet Bounce Asymmetric Low Ponytail"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022731",
+      "StringName_ENG": "Sweet Bounce Leaf‑Clip Air Perm"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022732",
+      "StringName_ENG": "Keropi & Ribbon Amusement Park Balloon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022733",
+      "StringName_ENG": "Ribbon Frog Headband"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022734",
+      "StringName_ENG": "Keropi Face Eye Mask"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022735",
+      "StringName_ENG": "Fresh Lotus Leaf Floor Decor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022736",
+      "StringName_ENG": "Red‑Ribbon Keropi Backpack"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022737",
+      "StringName_ENG": "Black‑Ribbon Keropi Backpack"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022738",
+      "StringName_ENG": "Red Note Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022739",
+      "StringName_ENG": "Teru‑Teru Face Earrings"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022740",
+      "StringName_ENG": "Refreshing‑Flavor Dango"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022741",
+      "StringName_ENG": "Sweet‑Flavor Dango"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022742",
+      "StringName_ENG": "(Temp) Sweet Bounce Striped Frill Wear"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022744",
+      "StringName_ENG": "(Temp) Sweet Bounce Ribbon Overall T‑Shirt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022745",
+      "StringName_ENG": "(Temp) Sweet Bounce Striped Color‑Block Shorts"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022747",
+      "StringName_ENG": "Greenery Bounce Asym Low Ponytail"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022748",
+      "StringName_ENG": "Greenery Bounce Lotus Pin Ash Perm"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_1",
+      "StringName_ENG": "A Waterfall in the City"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_2",
+      "StringName_ENG": "A European Garden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_3",
+      "StringName_ENG": "Florence Garden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_4",
+      "StringName_ENG": "Spring Day Walk"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_5",
+      "StringName_ENG": "Deep in the Forest"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_6",
+      "StringName_ENG": "At a Summer Beach"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_7",
+      "StringName_ENG": "Let’s Go on Vacation"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_8",
+      "StringName_ENG": "Sensual Fashion Show"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_9",
+      "StringName_ENG": "Daisy Yellow"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_10",
+      "StringName_ENG": "Emerald Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_11",
+      "StringName_ENG": "Soda‑Taste Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_12",
+      "StringName_ENG": "Romantic Heart"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_13",
+      "StringName_ENG": "Sweet Days Heart"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_14",
+      "StringName_ENG": "Valentine"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_15",
+      "StringName_ENG": "Heart Cloud"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_16",
+      "StringName_ENG": "The Night Filled with Our Memories"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "StyleMatch_BG_17",
+      "StringName_ENG": "Yellow Starlight"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000467",
+      "StringName_ENG": "(Temp) Aqua Perfume Silk Flower Dress"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000468",
+      "StringName_ENG": "(Temp) Aqua Perfume Silk Long Robe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000469",
+      "StringName_ENG": "(Temp) Aqua Perfume Silk Long Pants"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000470",
+      "StringName_ENG": "(Temp) Aqua Perfume Twin Donut Hair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_1000471",
+      "StringName_ENG": "(Temp) Aqua Perfume Half‑Up Hair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_20",
+      "StringName_ENG": "Sweet Bounce"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_21",
+      "StringName_ENG": "Aqua Perfume"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_22",
+      "StringName_ENG": "Youth Trumpet Creeper"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FashionInteriorSet_10",
+      "StringName_ENG": "Fashion Style Background Set"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_15",
+      "StringName_ENG": "Waterside Tile Set"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_232",
+      "StringName_ENG": "Turquoise Mint"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_233",
+      "StringName_ENG": "Turquoise Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_234",
+      "StringName_ENG": "Turquoise Dark Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_235",
+      "StringName_ENG": "Turquoise White"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_236",
+      "StringName_ENG": "Milky Green Tea"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_237",
+      "StringName_ENG": "Richer Strawberry Milk"
     }
   ]
 }

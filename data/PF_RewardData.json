@@ -3,60 +3,67 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
+      "Game": 3,
       "RwdGroupID": 7,
       "RwdType": 20,
-      "RewardID": 203,
+      "RewardID": 24,
       "ItemCnt": 1,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 20,
-      "RewardID": 1,
-      "ItemCnt": 1000,
+      "RewardID": 24,
+      "ItemCnt": 10,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "RwdGroupID": 2,
       "RwdType": 20,
-      "RewardID": 2,
+      "RewardID": 24,
       "ItemCnt": 10,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 20,
-      "RewardID": 127,
+      "RewardID": 24,
       "ItemCnt": 1,
-      "SpecialItemID": 100000
+      "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 20,
-      "RewardID": 128,
+      "RewardID": 81,
       "ItemCnt": 1,
-      "SpecialItemID": 100000
+      "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 105,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 20,
-      "RewardID": 129,
+      "RewardID": 26,
       "ItemCnt": 1,
-      "SpecialItemID": 100000
+      "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 106,
+      "Game": 3,
       "RwdGroupID": 4,
       "RwdType": 20,
       "RewardID": 24,
@@ -66,6 +73,7 @@
     {
       "ServiceType": "DEV",
       "Key": 107,
+      "Game": 3,
       "RwdGroupID": 4,
       "RwdType": 20,
       "RewardID": 81,
@@ -75,6 +83,7 @@
     {
       "ServiceType": "DEV",
       "Key": 108,
+      "Game": 3,
       "RwdGroupID": 5,
       "RwdType": 20,
       "RewardID": 24,
@@ -84,24 +93,27 @@
     {
       "ServiceType": "DEV",
       "Key": 109,
+      "Game": 3,
       "RwdGroupID": 5,
       "RwdType": 20,
-      "RewardID": 24,
+      "RewardID": 81,
       "ItemCnt": 1,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 110,
+      "Game": 3,
       "RwdGroupID": 5,
       "RwdType": 20,
-      "RewardID": 24,
+      "RewardID": 26,
       "ItemCnt": 1,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 111,
+      "Game": 3,
       "RwdGroupID": 6,
       "RwdType": 20,
       "RewardID": 24,
@@ -111,24 +123,27 @@
     {
       "ServiceType": "DEV",
       "Key": 112,
+      "Game": 3,
       "RwdGroupID": 6,
       "RwdType": 20,
-      "RewardID": 24,
+      "RewardID": 81,
       "ItemCnt": 1,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 113,
+      "Game": 3,
       "RwdGroupID": 6,
       "RwdType": 20,
-      "RewardID": 24,
+      "RewardID": 26,
       "ItemCnt": 1,
       "SpecialItemID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 114,
+      "Game": 3,
       "RwdGroupID": 7,
       "RwdType": 20,
       "RewardID": 24,
@@ -138,6 +153,7 @@
     {
       "ServiceType": "DEV",
       "Key": 115,
+      "Game": 1,
       "RwdGroupID": 8,
       "RwdType": 20,
       "RewardID": 464,
@@ -147,6 +163,7 @@
     {
       "ServiceType": "DEV",
       "Key": 116,
+      "Game": 3,
       "RwdGroupID": 9,
       "RwdType": 20,
       "RewardID": 26,
@@ -156,6 +173,7 @@
     {
       "ServiceType": "DEV",
       "Key": 117,
+      "Game": 3,
       "RwdGroupID": 10,
       "RwdType": 20,
       "RewardID": 39,
@@ -165,6 +183,7 @@
     {
       "ServiceType": "DEV",
       "Key": 118,
+      "Game": 3,
       "RwdGroupID": 11,
       "RwdType": 20,
       "RewardID": 61,
@@ -174,6 +193,7 @@
     {
       "ServiceType": "DEV",
       "Key": 119,
+      "Game": 3,
       "RwdGroupID": 12,
       "RwdType": 20,
       "RewardID": 74,
@@ -183,6 +203,7 @@
     {
       "ServiceType": "DEV",
       "Key": 120,
+      "Game": 3,
       "RwdGroupID": 13,
       "RwdType": 20,
       "RewardID": 100197,
@@ -192,6 +213,7 @@
     {
       "ServiceType": "DEV",
       "Key": 121,
+      "Game": 3,
       "RwdGroupID": 14,
       "RwdType": 20,
       "RewardID": 100198,
@@ -201,6 +223,7 @@
     {
       "ServiceType": "DEV",
       "Key": 122,
+      "Game": 3,
       "RwdGroupID": 15,
       "RwdType": 11,
       "RewardID": 0,
@@ -210,6 +233,7 @@
     {
       "ServiceType": "DEV",
       "Key": 123,
+      "Game": 3,
       "RwdGroupID": 16,
       "RwdType": 11,
       "RewardID": 0,
@@ -219,6 +243,7 @@
     {
       "ServiceType": "DEV",
       "Key": 124,
+      "Game": 3,
       "RwdGroupID": 17,
       "RwdType": 2,
       "RewardID": 0,
@@ -228,6 +253,7 @@
     {
       "ServiceType": "DEV",
       "Key": 125,
+      "Game": 3,
       "RwdGroupID": 18,
       "RwdType": 2,
       "RewardID": 0,
@@ -237,6 +263,7 @@
     {
       "ServiceType": "DEV",
       "Key": 126,
+      "Game": 3,
       "RwdGroupID": 19,
       "RwdType": 2,
       "RewardID": 0,
@@ -246,6 +273,7 @@
     {
       "ServiceType": "DEV",
       "Key": 127,
+      "Game": 3,
       "RwdGroupID": 20,
       "RwdType": 1,
       "RewardID": 0,
@@ -255,6 +283,7 @@
     {
       "ServiceType": "DEV",
       "Key": 128,
+      "Game": 3,
       "RwdGroupID": 21,
       "RwdType": 1,
       "RewardID": 0,
@@ -264,6 +293,7 @@
     {
       "ServiceType": "DEV",
       "Key": 129,
+      "Game": 3,
       "RwdGroupID": 22,
       "RwdType": 20,
       "RewardID": 419,
@@ -273,6 +303,7 @@
     {
       "ServiceType": "DEV",
       "Key": 130,
+      "Game": 3,
       "RwdGroupID": 23,
       "RwdType": 20,
       "RewardID": 428,
@@ -282,6 +313,7 @@
     {
       "ServiceType": "DEV",
       "Key": 131,
+      "Game": 3,
       "RwdGroupID": 24,
       "RwdType": 20,
       "RewardID": 421,
@@ -291,6 +323,7 @@
     {
       "ServiceType": "DEV",
       "Key": 132,
+      "Game": 3,
       "RwdGroupID": 25,
       "RwdType": 20,
       "RewardID": 423,
@@ -300,10 +333,21 @@
     {
       "ServiceType": "DEV",
       "Key": 133,
+      "Game": 3,
       "RwdGroupID": 26,
       "RwdType": 20,
       "RewardID": 424,
       "ItemCnt": 3,
+      "SpecialItemID": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 136,
+      "Game": 1,
+      "RwdGroupID": 28,
+      "RwdType": 20,
+      "RewardID": 539,
+      "ItemCnt": 1,
       "SpecialItemID": 0
     }
   ],
@@ -311,6 +355,7 @@
     {
       "ServiceType": "DEV",
       "Key": 100000,
+      "Game": 3,
       "SpecialProb": 1
     }
   ],
@@ -318,6 +363,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "RwdType": 2,
       "RewardItemID": 2,
       "RewardValue": 5
@@ -325,6 +371,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "RwdType": 2,
       "RewardItemID": 2,
       "RewardValue": 5
@@ -332,6 +379,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "RwdType": 2,
       "RewardItemID": 2,
       "RewardValue": 10
@@ -341,6 +389,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000101,
+      "Game": 3,
       "QuestRewardType": 11,
       "RewardID": 5,
       "RewardValue": 5
@@ -348,6 +397,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000102,
+      "Game": 3,
       "QuestRewardType": 20,
       "RewardID": 100000,
       "RewardValue": 1
@@ -355,6 +405,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000103,
+      "Game": 3,
       "QuestRewardType": 20,
       "RewardID": 100197,
       "RewardValue": 1
@@ -362,15 +413,73 @@
     {
       "ServiceType": "DEV",
       "Key": 1000104,
+      "Game": 3,
       "QuestRewardType": 20,
       "RewardID": 100198,
       "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000105,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 100391,
+      "RewardValue": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000106,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 10500338,
+      "RewardValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000107,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 10500337,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000108,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 10500236,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000109,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 10500241,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000110,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 10500239,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000111,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 100391,
+      "RewardValue": 2
     }
   ],
   "CollectionRwd": [
     {
       "ServiceType": "DEV",
       "Key": 26,
+      "Game": 3,
       "RwdGroupID": 4401,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -380,6 +489,7 @@
     {
       "ServiceType": "DEV",
       "Key": 27,
+      "Game": 3,
       "RwdGroupID": 4401,
       "CollectionFillValue": 5,
       "RwdType": 1,
@@ -389,6 +499,7 @@
     {
       "ServiceType": "DEV",
       "Key": 28,
+      "Game": 3,
       "RwdGroupID": 4401,
       "CollectionFillValue": 10,
       "RwdType": 1,
@@ -398,6 +509,7 @@
     {
       "ServiceType": "DEV",
       "Key": 53,
+      "Game": 3,
       "RwdGroupID": 4501,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -407,6 +519,7 @@
     {
       "ServiceType": "DEV",
       "Key": 54,
+      "Game": 3,
       "RwdGroupID": 4501,
       "CollectionFillValue": 2,
       "RwdType": 1,
@@ -416,6 +529,7 @@
     {
       "ServiceType": "DEV",
       "Key": 55,
+      "Game": 3,
       "RwdGroupID": 4501,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -425,6 +539,7 @@
     {
       "ServiceType": "DEV",
       "Key": 56,
+      "Game": 3,
       "RwdGroupID": 4502,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -434,6 +549,7 @@
     {
       "ServiceType": "DEV",
       "Key": 57,
+      "Game": 3,
       "RwdGroupID": 4502,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -443,6 +559,7 @@
     {
       "ServiceType": "DEV",
       "Key": 58,
+      "Game": 3,
       "RwdGroupID": 4502,
       "CollectionFillValue": 8,
       "RwdType": 1,
@@ -452,6 +569,7 @@
     {
       "ServiceType": "DEV",
       "Key": 59,
+      "Game": 3,
       "RwdGroupID": 4601,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -461,6 +579,7 @@
     {
       "ServiceType": "DEV",
       "Key": 60,
+      "Game": 3,
       "RwdGroupID": 4601,
       "CollectionFillValue": 3,
       "RwdType": 1,
@@ -470,6 +589,7 @@
     {
       "ServiceType": "DEV",
       "Key": 61,
+      "Game": 3,
       "RwdGroupID": 4601,
       "CollectionFillValue": 6,
       "RwdType": 1,
@@ -479,6 +599,7 @@
     {
       "ServiceType": "DEV",
       "Key": 65,
+      "Game": 3,
       "RwdGroupID": 4701,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -488,6 +609,7 @@
     {
       "ServiceType": "DEV",
       "Key": 66,
+      "Game": 3,
       "RwdGroupID": 4701,
       "CollectionFillValue": 3,
       "RwdType": 1,
@@ -497,6 +619,7 @@
     {
       "ServiceType": "DEV",
       "Key": 67,
+      "Game": 3,
       "RwdGroupID": 4701,
       "CollectionFillValue": 6,
       "RwdType": 1,
@@ -506,6 +629,7 @@
     {
       "ServiceType": "DEV",
       "Key": 68,
+      "Game": 3,
       "RwdGroupID": 2201,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -515,6 +639,7 @@
     {
       "ServiceType": "DEV",
       "Key": 69,
+      "Game": 3,
       "RwdGroupID": 2201,
       "CollectionFillValue": 15,
       "RwdType": 1,
@@ -524,6 +649,7 @@
     {
       "ServiceType": "DEV",
       "Key": 70,
+      "Game": 3,
       "RwdGroupID": 2201,
       "CollectionFillValue": 31,
       "RwdType": 2,
@@ -533,6 +659,7 @@
     {
       "ServiceType": "DEV",
       "Key": 71,
+      "Game": 3,
       "RwdGroupID": 2202,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -542,6 +669,7 @@
     {
       "ServiceType": "DEV",
       "Key": 72,
+      "Game": 3,
       "RwdGroupID": 2202,
       "CollectionFillValue": 15,
       "RwdType": 1,
@@ -551,6 +679,7 @@
     {
       "ServiceType": "DEV",
       "Key": 73,
+      "Game": 3,
       "RwdGroupID": 2202,
       "CollectionFillValue": 30,
       "RwdType": 2,
@@ -560,6 +689,7 @@
     {
       "ServiceType": "DEV",
       "Key": 74,
+      "Game": 3,
       "RwdGroupID": 2203,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -569,6 +699,7 @@
     {
       "ServiceType": "DEV",
       "Key": 75,
+      "Game": 3,
       "RwdGroupID": 2203,
       "CollectionFillValue": 15,
       "RwdType": 1,
@@ -578,6 +709,7 @@
     {
       "ServiceType": "DEV",
       "Key": 76,
+      "Game": 3,
       "RwdGroupID": 2203,
       "CollectionFillValue": 30,
       "RwdType": 2,
@@ -587,6 +719,7 @@
     {
       "ServiceType": "DEV",
       "Key": 77,
+      "Game": 3,
       "RwdGroupID": 2204,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -596,6 +729,7 @@
     {
       "ServiceType": "DEV",
       "Key": 78,
+      "Game": 3,
       "RwdGroupID": 2204,
       "CollectionFillValue": 15,
       "RwdType": 1,
@@ -605,6 +739,7 @@
     {
       "ServiceType": "DEV",
       "Key": 79,
+      "Game": 3,
       "RwdGroupID": 2204,
       "CollectionFillValue": 30,
       "RwdType": 2,
@@ -614,6 +749,7 @@
     {
       "ServiceType": "DEV",
       "Key": 80,
+      "Game": 3,
       "RwdGroupID": 2205,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -623,6 +759,7 @@
     {
       "ServiceType": "DEV",
       "Key": 81,
+      "Game": 3,
       "RwdGroupID": 2205,
       "CollectionFillValue": 14,
       "RwdType": 1,
@@ -632,6 +769,7 @@
     {
       "ServiceType": "DEV",
       "Key": 82,
+      "Game": 3,
       "RwdGroupID": 2205,
       "CollectionFillValue": 29,
       "RwdType": 2,
@@ -641,6 +779,7 @@
     {
       "ServiceType": "DEV",
       "Key": 83,
+      "Game": 3,
       "RwdGroupID": 2206,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -650,6 +789,7 @@
     {
       "ServiceType": "DEV",
       "Key": 84,
+      "Game": 3,
       "RwdGroupID": 2206,
       "CollectionFillValue": 9,
       "RwdType": 1,
@@ -659,6 +799,7 @@
     {
       "ServiceType": "DEV",
       "Key": 85,
+      "Game": 3,
       "RwdGroupID": 2206,
       "CollectionFillValue": 19,
       "RwdType": 2,
@@ -668,6 +809,7 @@
     {
       "ServiceType": "DEV",
       "Key": 86,
+      "Game": 3,
       "RwdGroupID": 2207,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -677,6 +819,7 @@
     {
       "ServiceType": "DEV",
       "Key": 87,
+      "Game": 3,
       "RwdGroupID": 2207,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -686,6 +829,7 @@
     {
       "ServiceType": "DEV",
       "Key": 88,
+      "Game": 3,
       "RwdGroupID": 2207,
       "CollectionFillValue": 8,
       "RwdType": 2,
@@ -695,6 +839,7 @@
     {
       "ServiceType": "DEV",
       "Key": 89,
+      "Game": 3,
       "RwdGroupID": 2208,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -704,6 +849,7 @@
     {
       "ServiceType": "DEV",
       "Key": 90,
+      "Game": 3,
       "RwdGroupID": 2208,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -713,6 +859,7 @@
     {
       "ServiceType": "DEV",
       "Key": 91,
+      "Game": 3,
       "RwdGroupID": 2208,
       "CollectionFillValue": 8,
       "RwdType": 2,
@@ -722,6 +869,7 @@
     {
       "ServiceType": "DEV",
       "Key": 92,
+      "Game": 3,
       "RwdGroupID": 2209,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -731,6 +879,7 @@
     {
       "ServiceType": "DEV",
       "Key": 93,
+      "Game": 3,
       "RwdGroupID": 2209,
       "CollectionFillValue": 6,
       "RwdType": 1,
@@ -740,6 +889,7 @@
     {
       "ServiceType": "DEV",
       "Key": 94,
+      "Game": 3,
       "RwdGroupID": 2209,
       "CollectionFillValue": 12,
       "RwdType": 2,
@@ -749,6 +899,7 @@
     {
       "ServiceType": "DEV",
       "Key": 95,
+      "Game": 3,
       "RwdGroupID": 2210,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -758,6 +909,7 @@
     {
       "ServiceType": "DEV",
       "Key": 96,
+      "Game": 3,
       "RwdGroupID": 2210,
       "CollectionFillValue": 8,
       "RwdType": 1,
@@ -767,6 +919,7 @@
     {
       "ServiceType": "DEV",
       "Key": 97,
+      "Game": 3,
       "RwdGroupID": 2210,
       "CollectionFillValue": 16,
       "RwdType": 2,
@@ -776,6 +929,7 @@
     {
       "ServiceType": "DEV",
       "Key": 98,
+      "Game": 3,
       "RwdGroupID": 2211,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -785,6 +939,7 @@
     {
       "ServiceType": "DEV",
       "Key": 99,
+      "Game": 3,
       "RwdGroupID": 2211,
       "CollectionFillValue": 6,
       "RwdType": 1,
@@ -794,6 +949,7 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
+      "Game": 3,
       "RwdGroupID": 2211,
       "CollectionFillValue": 13,
       "RwdType": 2,
@@ -803,6 +959,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "RwdGroupID": 2301,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -812,6 +969,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "RwdGroupID": 2301,
       "CollectionFillValue": 7,
       "RwdType": 2,
@@ -821,6 +979,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "RwdGroupID": 2301,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -830,6 +989,7 @@
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "RwdGroupID": 2302,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -839,6 +999,7 @@
     {
       "ServiceType": "DEV",
       "Key": 105,
+      "Game": 3,
       "RwdGroupID": 2302,
       "CollectionFillValue": 7,
       "RwdType": 2,
@@ -848,6 +1009,7 @@
     {
       "ServiceType": "DEV",
       "Key": 106,
+      "Game": 3,
       "RwdGroupID": 2302,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -857,6 +1019,7 @@
     {
       "ServiceType": "DEV",
       "Key": 107,
+      "Game": 3,
       "RwdGroupID": 2303,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -866,6 +1029,7 @@
     {
       "ServiceType": "DEV",
       "Key": 108,
+      "Game": 3,
       "RwdGroupID": 2303,
       "CollectionFillValue": 7,
       "RwdType": 2,
@@ -875,6 +1039,7 @@
     {
       "ServiceType": "DEV",
       "Key": 109,
+      "Game": 3,
       "RwdGroupID": 2303,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -884,6 +1049,7 @@
     {
       "ServiceType": "DEV",
       "Key": 110,
+      "Game": 3,
       "RwdGroupID": 2304,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -893,6 +1059,7 @@
     {
       "ServiceType": "DEV",
       "Key": 111,
+      "Game": 3,
       "RwdGroupID": 2304,
       "CollectionFillValue": 7,
       "RwdType": 2,
@@ -902,6 +1069,7 @@
     {
       "ServiceType": "DEV",
       "Key": 112,
+      "Game": 3,
       "RwdGroupID": 2304,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -911,6 +1079,7 @@
     {
       "ServiceType": "DEV",
       "Key": 113,
+      "Game": 3,
       "RwdGroupID": 2305,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -920,6 +1089,7 @@
     {
       "ServiceType": "DEV",
       "Key": 114,
+      "Game": 3,
       "RwdGroupID": 2305,
       "CollectionFillValue": 8,
       "RwdType": 2,
@@ -929,6 +1099,7 @@
     {
       "ServiceType": "DEV",
       "Key": 115,
+      "Game": 3,
       "RwdGroupID": 2305,
       "CollectionFillValue": 16,
       "RwdType": 2,
@@ -938,6 +1109,7 @@
     {
       "ServiceType": "DEV",
       "Key": 116,
+      "Game": 3,
       "RwdGroupID": 2306,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -947,6 +1119,7 @@
     {
       "ServiceType": "DEV",
       "Key": 117,
+      "Game": 3,
       "RwdGroupID": 2306,
       "CollectionFillValue": 8,
       "RwdType": 2,
@@ -956,6 +1129,7 @@
     {
       "ServiceType": "DEV",
       "Key": 118,
+      "Game": 3,
       "RwdGroupID": 2306,
       "CollectionFillValue": 17,
       "RwdType": 2,
@@ -965,6 +1139,7 @@
     {
       "ServiceType": "DEV",
       "Key": 119,
+      "Game": 3,
       "RwdGroupID": 2307,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -974,6 +1149,7 @@
     {
       "ServiceType": "DEV",
       "Key": 120,
+      "Game": 3,
       "RwdGroupID": 2307,
       "CollectionFillValue": 7,
       "RwdType": 2,
@@ -983,6 +1159,7 @@
     {
       "ServiceType": "DEV",
       "Key": 121,
+      "Game": 3,
       "RwdGroupID": 2307,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -992,6 +1169,7 @@
     {
       "ServiceType": "DEV",
       "Key": 122,
+      "Game": 3,
       "RwdGroupID": 4,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1001,6 +1179,7 @@
     {
       "ServiceType": "DEV",
       "Key": 123,
+      "Game": 3,
       "RwdGroupID": 4,
       "CollectionFillValue": 2,
       "RwdType": 2,
@@ -1010,6 +1189,7 @@
     {
       "ServiceType": "DEV",
       "Key": 124,
+      "Game": 3,
       "RwdGroupID": 4,
       "CollectionFillValue": 4,
       "RwdType": 2,
@@ -1019,6 +1199,7 @@
     {
       "ServiceType": "DEV",
       "Key": 125,
+      "Game": 3,
       "RwdGroupID": 5,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1028,6 +1209,7 @@
     {
       "ServiceType": "DEV",
       "Key": 126,
+      "Game": 3,
       "RwdGroupID": 5,
       "CollectionFillValue": 2,
       "RwdType": 2,
@@ -1037,6 +1219,7 @@
     {
       "ServiceType": "DEV",
       "Key": 127,
+      "Game": 3,
       "RwdGroupID": 5,
       "CollectionFillValue": 5,
       "RwdType": 2,
@@ -1046,6 +1229,7 @@
     {
       "ServiceType": "DEV",
       "Key": 128,
+      "Game": 3,
       "RwdGroupID": 3000,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1055,6 +1239,7 @@
     {
       "ServiceType": "DEV",
       "Key": 129,
+      "Game": 3,
       "RwdGroupID": 3000,
       "CollectionFillValue": 2,
       "RwdType": 1,
@@ -1064,6 +1249,7 @@
     {
       "ServiceType": "DEV",
       "Key": 130,
+      "Game": 3,
       "RwdGroupID": 3000,
       "CollectionFillValue": 5,
       "RwdType": 1,
@@ -1073,6 +1259,7 @@
     {
       "ServiceType": "DEV",
       "Key": 131,
+      "Game": 3,
       "RwdGroupID": 3004,
       "CollectionFillValue": 1,
       "RwdType": 2,
@@ -1082,6 +1269,7 @@
     {
       "ServiceType": "DEV",
       "Key": 132,
+      "Game": 3,
       "RwdGroupID": 3004,
       "CollectionFillValue": 2,
       "RwdType": 2,
@@ -1091,6 +1279,7 @@
     {
       "ServiceType": "DEV",
       "Key": 133,
+      "Game": 3,
       "RwdGroupID": 3004,
       "CollectionFillValue": 3,
       "RwdType": 2,
@@ -1100,6 +1289,7 @@
     {
       "ServiceType": "DEV",
       "Key": 134,
+      "Game": 3,
       "RwdGroupID": 3004,
       "CollectionFillValue": 4,
       "RwdType": 2,
@@ -1109,6 +1299,7 @@
     {
       "ServiceType": "DEV",
       "Key": 135,
+      "Game": 3,
       "RwdGroupID": 3006,
       "CollectionFillValue": 1,
       "RwdType": 2,
@@ -1118,6 +1309,7 @@
     {
       "ServiceType": "DEV",
       "Key": 136,
+      "Game": 3,
       "RwdGroupID": 3006,
       "CollectionFillValue": 2,
       "RwdType": 2,
@@ -1127,6 +1319,7 @@
     {
       "ServiceType": "DEV",
       "Key": 140,
+      "Game": 3,
       "RwdGroupID": 4402,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1136,6 +1329,7 @@
     {
       "ServiceType": "DEV",
       "Key": 141,
+      "Game": 3,
       "RwdGroupID": 4402,
       "CollectionFillValue": 2,
       "RwdType": 1,
@@ -1145,6 +1339,7 @@
     {
       "ServiceType": "DEV",
       "Key": 142,
+      "Game": 3,
       "RwdGroupID": 4402,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -1154,6 +1349,7 @@
     {
       "ServiceType": "DEV",
       "Key": 143,
+      "Game": 3,
       "RwdGroupID": 4403,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1163,6 +1359,7 @@
     {
       "ServiceType": "DEV",
       "Key": 144,
+      "Game": 3,
       "RwdGroupID": 4403,
       "CollectionFillValue": 3,
       "RwdType": 1,
@@ -1172,6 +1369,7 @@
     {
       "ServiceType": "DEV",
       "Key": 145,
+      "Game": 3,
       "RwdGroupID": 4403,
       "CollectionFillValue": 6,
       "RwdType": 1,
@@ -1181,6 +1379,7 @@
     {
       "ServiceType": "DEV",
       "Key": 146,
+      "Game": 3,
       "RwdGroupID": 4404,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1190,6 +1389,7 @@
     {
       "ServiceType": "DEV",
       "Key": 147,
+      "Game": 3,
       "RwdGroupID": 4404,
       "CollectionFillValue": 4,
       "RwdType": 1,
@@ -1199,6 +1399,7 @@
     {
       "ServiceType": "DEV",
       "Key": 148,
+      "Game": 3,
       "RwdGroupID": 4404,
       "CollectionFillValue": 9,
       "RwdType": 1,
@@ -1208,6 +1409,7 @@
     {
       "ServiceType": "DEV",
       "Key": 149,
+      "Game": 3,
       "RwdGroupID": 4301,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1217,6 +1419,7 @@
     {
       "ServiceType": "DEV",
       "Key": 150,
+      "Game": 3,
       "RwdGroupID": 4301,
       "CollectionFillValue": 3,
       "RwdType": 1,
@@ -1226,6 +1429,7 @@
     {
       "ServiceType": "DEV",
       "Key": 151,
+      "Game": 3,
       "RwdGroupID": 4303,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1235,6 +1439,7 @@
     {
       "ServiceType": "DEV",
       "Key": 152,
+      "Game": 3,
       "RwdGroupID": 2308,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1244,6 +1449,7 @@
     {
       "ServiceType": "DEV",
       "Key": 153,
+      "Game": 3,
       "RwdGroupID": 2308,
       "CollectionFillValue": 10,
       "RwdType": 2,
@@ -1253,6 +1459,7 @@
     {
       "ServiceType": "DEV",
       "Key": 154,
+      "Game": 3,
       "RwdGroupID": 2308,
       "CollectionFillValue": 20,
       "RwdType": 2,
@@ -1262,6 +1469,7 @@
     {
       "ServiceType": "DEV",
       "Key": 155,
+      "Game": 3,
       "RwdGroupID": 2309,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1271,6 +1479,7 @@
     {
       "ServiceType": "DEV",
       "Key": 156,
+      "Game": 3,
       "RwdGroupID": 2309,
       "CollectionFillValue": 6,
       "RwdType": 2,
@@ -1280,6 +1489,7 @@
     {
       "ServiceType": "DEV",
       "Key": 157,
+      "Game": 3,
       "RwdGroupID": 2309,
       "CollectionFillValue": 13,
       "RwdType": 2,
@@ -1289,6 +1499,7 @@
     {
       "ServiceType": "DEV",
       "Key": 158,
+      "Game": 3,
       "RwdGroupID": 2310,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1298,6 +1509,7 @@
     {
       "ServiceType": "DEV",
       "Key": 159,
+      "Game": 3,
       "RwdGroupID": 2310,
       "CollectionFillValue": 15,
       "RwdType": 2,
@@ -1307,6 +1519,7 @@
     {
       "ServiceType": "DEV",
       "Key": 160,
+      "Game": 3,
       "RwdGroupID": 2310,
       "CollectionFillValue": 30,
       "RwdType": 2,
@@ -1316,6 +1529,7 @@
     {
       "ServiceType": "DEV",
       "Key": 161,
+      "Game": 3,
       "RwdGroupID": 2311,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1325,6 +1539,7 @@
     {
       "ServiceType": "DEV",
       "Key": 162,
+      "Game": 3,
       "RwdGroupID": 2311,
       "CollectionFillValue": 12,
       "RwdType": 2,
@@ -1334,6 +1549,7 @@
     {
       "ServiceType": "DEV",
       "Key": 163,
+      "Game": 3,
       "RwdGroupID": 2311,
       "CollectionFillValue": 25,
       "RwdType": 2,
@@ -1343,6 +1559,7 @@
     {
       "ServiceType": "DEV",
       "Key": 164,
+      "Game": 3,
       "RwdGroupID": 2312,
       "CollectionFillValue": 1,
       "RwdType": 1,
@@ -1352,6 +1569,7 @@
     {
       "ServiceType": "DEV",
       "Key": 165,
+      "Game": 3,
       "RwdGroupID": 2312,
       "CollectionFillValue": 16,
       "RwdType": 2,
@@ -1361,6 +1579,7 @@
     {
       "ServiceType": "DEV",
       "Key": 166,
+      "Game": 3,
       "RwdGroupID": 2312,
       "CollectionFillValue": 32,
       "RwdType": 2,
@@ -1372,6 +1591,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 20,
       "RewardID": 1000001,
@@ -1380,6 +1600,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 1,
       "RewardID": 1,
@@ -1388,6 +1609,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "RwdGroupID": 2,
       "RwdType": 20,
       "RewardID": 24,
@@ -1398,6 +1620,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RwdType": 20,
       "RewardID": 95,
       "RewardCount": 88
@@ -1405,6 +1628,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "RwdType": 4,
       "RewardID": 0,
       "RewardCount": 88
@@ -1412,6 +1636,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "RwdType": 20,
       "RewardID": 95,
       "RewardCount": 88
@@ -1419,6 +1644,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RwdType": 20,
       "RewardID": 95,
       "RewardCount": 88
@@ -1426,6 +1652,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "RwdType": 20,
       "RewardID": 95,
       "RewardCount": 88
@@ -1433,6 +1660,7 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
+      "Game": 3,
       "RwdType": 2,
       "RewardID": 0,
       "RewardCount": 10
@@ -1440,6 +1668,7 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
+      "Game": 3,
       "RwdType": 2,
       "RewardID": 0,
       "RewardCount": 50
@@ -1447,6 +1676,7 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
+      "Game": 3,
       "RwdType": 2,
       "RewardID": 0,
       "RewardCount": 100
@@ -1454,6 +1684,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
+      "Game": 3,
       "RwdType": 1,
       "RewardID": 0,
       "RewardCount": 2000
@@ -1461,6 +1692,7 @@
     {
       "ServiceType": "DEV",
       "Key": 21,
+      "Game": 3,
       "RwdType": 1,
       "RewardID": 0,
       "RewardCount": 5000
@@ -1469,637 +1701,8 @@
   "NPCGFRwd": [
     {
       "ServiceType": "DEV",
-      "Key": 101,
-      "NPCID": 1,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 102,
-      "NPCID": 1,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 103,
-      "NPCID": 1,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 104,
-      "NPCID": 1,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 105,
-      "NPCID": 1,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 106,
-      "NPCID": 2,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 107,
-      "NPCID": 2,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 108,
-      "NPCID": 2,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 109,
-      "NPCID": 2,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 110,
-      "NPCID": 2,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 111,
-      "NPCID": 3,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 112,
-      "NPCID": 3,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 113,
-      "NPCID": 3,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 114,
-      "NPCID": 3,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 115,
-      "NPCID": 3,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 116,
-      "NPCID": 4,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 117,
-      "NPCID": 4,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 118,
-      "NPCID": 4,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 119,
-      "NPCID": 4,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 120,
-      "NPCID": 4,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 121,
-      "NPCID": 5,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 122,
-      "NPCID": 5,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 123,
-      "NPCID": 5,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 124,
-      "NPCID": 5,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 125,
-      "NPCID": 5,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 126,
-      "NPCID": 6,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 127,
-      "NPCID": 6,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 128,
-      "NPCID": 6,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 129,
-      "NPCID": 6,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 130,
-      "NPCID": 6,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 131,
-      "NPCID": 7,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 132,
-      "NPCID": 7,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 133,
-      "NPCID": 7,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 134,
-      "NPCID": 7,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 135,
-      "NPCID": 7,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 136,
-      "NPCID": 8,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 137,
-      "NPCID": 8,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 138,
-      "NPCID": 8,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 139,
-      "NPCID": 8,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 140,
-      "NPCID": 8,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 141,
-      "NPCID": 9,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 142,
-      "NPCID": 9,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 143,
-      "NPCID": 9,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 144,
-      "NPCID": 9,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 145,
-      "NPCID": 9,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 146,
-      "NPCID": 10,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 147,
-      "NPCID": 10,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 148,
-      "NPCID": 10,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 149,
-      "NPCID": 10,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 150,
-      "NPCID": 10,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 151,
-      "NPCID": 11,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 152,
-      "NPCID": 11,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 153,
-      "NPCID": 11,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 154,
-      "NPCID": 11,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 155,
-      "NPCID": 11,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 156,
-      "NPCID": 12,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 157,
-      "NPCID": 12,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 158,
-      "NPCID": 12,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 159,
-      "NPCID": 12,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 160,
-      "NPCID": 12,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 161,
-      "NPCID": 13,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 162,
-      "NPCID": 13,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 163,
-      "NPCID": 13,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 164,
-      "NPCID": 13,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 165,
-      "NPCID": 13,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 166,
-      "NPCID": 14,
-      "GFLevel": 1,
-      "RwdType": 1,
-      "RewardID": 1,
-      "RewardCount": 5000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 167,
-      "NPCID": 14,
-      "GFLevel": 2,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 15
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 168,
-      "NPCID": 14,
-      "GFLevel": 3,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 169,
-      "NPCID": 14,
-      "GFLevel": 4,
-      "RwdType": 20,
-      "RewardID": 356,
-      "RewardCount": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 170,
-      "NPCID": 14,
-      "GFLevel": 5,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 35
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 171,
+      "Game": 1,
       "NPCID": 1001,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2109,6 +1712,7 @@
     {
       "ServiceType": "DEV",
       "Key": 172,
+      "Game": 1,
       "NPCID": 1001,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2118,6 +1722,7 @@
     {
       "ServiceType": "DEV",
       "Key": 173,
+      "Game": 1,
       "NPCID": 1001,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2127,6 +1732,7 @@
     {
       "ServiceType": "DEV",
       "Key": 174,
+      "Game": 1,
       "NPCID": 1001,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2136,6 +1742,7 @@
     {
       "ServiceType": "DEV",
       "Key": 175,
+      "Game": 1,
       "NPCID": 1001,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2145,6 +1752,7 @@
     {
       "ServiceType": "DEV",
       "Key": 176,
+      "Game": 1,
       "NPCID": 1002,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2154,6 +1762,7 @@
     {
       "ServiceType": "DEV",
       "Key": 177,
+      "Game": 1,
       "NPCID": 1002,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2163,6 +1772,7 @@
     {
       "ServiceType": "DEV",
       "Key": 178,
+      "Game": 1,
       "NPCID": 1002,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2172,6 +1782,7 @@
     {
       "ServiceType": "DEV",
       "Key": 179,
+      "Game": 1,
       "NPCID": 1002,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2181,6 +1792,7 @@
     {
       "ServiceType": "DEV",
       "Key": 180,
+      "Game": 1,
       "NPCID": 1002,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2190,6 +1802,7 @@
     {
       "ServiceType": "DEV",
       "Key": 181,
+      "Game": 1,
       "NPCID": 2001,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2199,6 +1812,7 @@
     {
       "ServiceType": "DEV",
       "Key": 182,
+      "Game": 1,
       "NPCID": 2001,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2208,6 +1822,7 @@
     {
       "ServiceType": "DEV",
       "Key": 183,
+      "Game": 1,
       "NPCID": 2001,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2217,6 +1832,7 @@
     {
       "ServiceType": "DEV",
       "Key": 184,
+      "Game": 1,
       "NPCID": 2001,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2226,6 +1842,7 @@
     {
       "ServiceType": "DEV",
       "Key": 185,
+      "Game": 1,
       "NPCID": 2001,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2235,6 +1852,7 @@
     {
       "ServiceType": "DEV",
       "Key": 186,
+      "Game": 1,
       "NPCID": 2002,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2244,6 +1862,7 @@
     {
       "ServiceType": "DEV",
       "Key": 187,
+      "Game": 1,
       "NPCID": 2002,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2253,6 +1872,7 @@
     {
       "ServiceType": "DEV",
       "Key": 188,
+      "Game": 1,
       "NPCID": 2002,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2262,6 +1882,7 @@
     {
       "ServiceType": "DEV",
       "Key": 189,
+      "Game": 1,
       "NPCID": 2002,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2271,6 +1892,7 @@
     {
       "ServiceType": "DEV",
       "Key": 190,
+      "Game": 1,
       "NPCID": 2002,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2280,6 +1902,7 @@
     {
       "ServiceType": "DEV",
       "Key": 191,
+      "Game": 1,
       "NPCID": 3001,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2289,6 +1912,7 @@
     {
       "ServiceType": "DEV",
       "Key": 192,
+      "Game": 1,
       "NPCID": 3001,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2298,6 +1922,7 @@
     {
       "ServiceType": "DEV",
       "Key": 193,
+      "Game": 1,
       "NPCID": 3001,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2307,6 +1932,7 @@
     {
       "ServiceType": "DEV",
       "Key": 194,
+      "Game": 1,
       "NPCID": 3001,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2316,6 +1942,7 @@
     {
       "ServiceType": "DEV",
       "Key": 195,
+      "Game": 1,
       "NPCID": 3001,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2325,6 +1952,7 @@
     {
       "ServiceType": "DEV",
       "Key": 196,
+      "Game": 1,
       "NPCID": 1003,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2334,6 +1962,7 @@
     {
       "ServiceType": "DEV",
       "Key": 197,
+      "Game": 1,
       "NPCID": 1003,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2343,6 +1972,7 @@
     {
       "ServiceType": "DEV",
       "Key": 198,
+      "Game": 1,
       "NPCID": 1003,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2352,6 +1982,7 @@
     {
       "ServiceType": "DEV",
       "Key": 199,
+      "Game": 1,
       "NPCID": 1003,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2361,6 +1992,7 @@
     {
       "ServiceType": "DEV",
       "Key": 200,
+      "Game": 1,
       "NPCID": 1003,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2370,6 +2002,7 @@
     {
       "ServiceType": "DEV",
       "Key": 201,
+      "Game": 1,
       "NPCID": 3002,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2379,6 +2012,7 @@
     {
       "ServiceType": "DEV",
       "Key": 202,
+      "Game": 1,
       "NPCID": 3002,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2388,6 +2022,7 @@
     {
       "ServiceType": "DEV",
       "Key": 203,
+      "Game": 1,
       "NPCID": 3002,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2397,6 +2032,7 @@
     {
       "ServiceType": "DEV",
       "Key": 204,
+      "Game": 1,
       "NPCID": 3002,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2406,6 +2042,7 @@
     {
       "ServiceType": "DEV",
       "Key": 205,
+      "Game": 1,
       "NPCID": 3002,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2415,6 +2052,7 @@
     {
       "ServiceType": "DEV",
       "Key": 206,
+      "Game": 1,
       "NPCID": 3003,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2424,6 +2062,7 @@
     {
       "ServiceType": "DEV",
       "Key": 207,
+      "Game": 1,
       "NPCID": 3003,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2433,6 +2072,7 @@
     {
       "ServiceType": "DEV",
       "Key": 208,
+      "Game": 1,
       "NPCID": 3003,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2442,6 +2082,7 @@
     {
       "ServiceType": "DEV",
       "Key": 209,
+      "Game": 1,
       "NPCID": 3003,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2451,6 +2092,7 @@
     {
       "ServiceType": "DEV",
       "Key": 210,
+      "Game": 1,
       "NPCID": 3003,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2460,6 +2102,7 @@
     {
       "ServiceType": "DEV",
       "Key": 211,
+      "Game": 1,
       "NPCID": 3004,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2469,6 +2112,7 @@
     {
       "ServiceType": "DEV",
       "Key": 212,
+      "Game": 1,
       "NPCID": 3004,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2478,6 +2122,7 @@
     {
       "ServiceType": "DEV",
       "Key": 213,
+      "Game": 1,
       "NPCID": 3004,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2487,6 +2132,7 @@
     {
       "ServiceType": "DEV",
       "Key": 214,
+      "Game": 1,
       "NPCID": 3004,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2496,6 +2142,7 @@
     {
       "ServiceType": "DEV",
       "Key": 215,
+      "Game": 1,
       "NPCID": 3004,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2505,6 +2152,7 @@
     {
       "ServiceType": "DEV",
       "Key": 216,
+      "Game": 1,
       "NPCID": 3005,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2514,6 +2162,7 @@
     {
       "ServiceType": "DEV",
       "Key": 217,
+      "Game": 1,
       "NPCID": 3005,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2523,6 +2172,7 @@
     {
       "ServiceType": "DEV",
       "Key": 218,
+      "Game": 1,
       "NPCID": 3005,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2532,6 +2182,7 @@
     {
       "ServiceType": "DEV",
       "Key": 219,
+      "Game": 1,
       "NPCID": 3005,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2541,6 +2192,7 @@
     {
       "ServiceType": "DEV",
       "Key": 220,
+      "Game": 1,
       "NPCID": 3005,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2550,6 +2202,7 @@
     {
       "ServiceType": "DEV",
       "Key": 221,
+      "Game": 1,
       "NPCID": 3006,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2559,6 +2212,7 @@
     {
       "ServiceType": "DEV",
       "Key": 222,
+      "Game": 1,
       "NPCID": 3006,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2568,6 +2222,7 @@
     {
       "ServiceType": "DEV",
       "Key": 223,
+      "Game": 1,
       "NPCID": 3006,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2577,6 +2232,7 @@
     {
       "ServiceType": "DEV",
       "Key": 224,
+      "Game": 1,
       "NPCID": 3006,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2586,6 +2242,7 @@
     {
       "ServiceType": "DEV",
       "Key": 225,
+      "Game": 1,
       "NPCID": 3006,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2595,6 +2252,7 @@
     {
       "ServiceType": "DEV",
       "Key": 226,
+      "Game": 1,
       "NPCID": 2003,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2604,6 +2262,7 @@
     {
       "ServiceType": "DEV",
       "Key": 227,
+      "Game": 1,
       "NPCID": 2003,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2613,6 +2272,7 @@
     {
       "ServiceType": "DEV",
       "Key": 228,
+      "Game": 1,
       "NPCID": 2003,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2622,6 +2282,7 @@
     {
       "ServiceType": "DEV",
       "Key": 229,
+      "Game": 1,
       "NPCID": 2003,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2631,6 +2292,7 @@
     {
       "ServiceType": "DEV",
       "Key": 230,
+      "Game": 1,
       "NPCID": 2003,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2640,6 +2302,7 @@
     {
       "ServiceType": "DEV",
       "Key": 231,
+      "Game": 1,
       "NPCID": 4001,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2649,6 +2312,7 @@
     {
       "ServiceType": "DEV",
       "Key": 232,
+      "Game": 1,
       "NPCID": 4001,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2658,6 +2322,7 @@
     {
       "ServiceType": "DEV",
       "Key": 233,
+      "Game": 1,
       "NPCID": 4001,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2667,6 +2332,7 @@
     {
       "ServiceType": "DEV",
       "Key": 234,
+      "Game": 1,
       "NPCID": 4001,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2676,6 +2342,7 @@
     {
       "ServiceType": "DEV",
       "Key": 235,
+      "Game": 1,
       "NPCID": 4001,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2685,6 +2352,7 @@
     {
       "ServiceType": "DEV",
       "Key": 236,
+      "Game": 1,
       "NPCID": 1006,
       "GFLevel": 1,
       "RwdType": 1,
@@ -2694,6 +2362,7 @@
     {
       "ServiceType": "DEV",
       "Key": 237,
+      "Game": 1,
       "NPCID": 1006,
       "GFLevel": 2,
       "RwdType": 2,
@@ -2703,6 +2372,7 @@
     {
       "ServiceType": "DEV",
       "Key": 238,
+      "Game": 1,
       "NPCID": 1006,
       "GFLevel": 3,
       "RwdType": 2,
@@ -2712,6 +2382,7 @@
     {
       "ServiceType": "DEV",
       "Key": 239,
+      "Game": 1,
       "NPCID": 1006,
       "GFLevel": 4,
       "RwdType": 2,
@@ -2721,6 +2392,7 @@
     {
       "ServiceType": "DEV",
       "Key": 240,
+      "Game": 1,
       "NPCID": 1006,
       "GFLevel": 5,
       "RwdType": 2,
@@ -2732,6 +2404,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 20,
       "RewardID": 1000001,
@@ -2740,6 +2413,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 1,
       "RewardID": 1,
@@ -2748,6 +2422,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 20,
       "RewardID": 24,
@@ -2756,6 +2431,7 @@
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 2,
       "RewardID": 2,
@@ -2764,6 +2440,7 @@
     {
       "ServiceType": "DEV",
       "Key": 105,
+      "Game": 3,
       "RwdGroupID": 1,
       "RwdType": 20,
       "RewardID": 81,
@@ -2772,6 +2449,7 @@
     {
       "ServiceType": "DEV",
       "Key": 106,
+      "Game": 3,
       "RwdGroupID": 2,
       "RwdType": 11,
       "RewardID": 0,
@@ -2780,6 +2458,7 @@
     {
       "ServiceType": "DEV",
       "Key": 107,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 11,
       "RewardID": 0,
@@ -2788,6 +2467,7 @@
     {
       "ServiceType": "DEV",
       "Key": 108,
+      "Game": 3,
       "RwdGroupID": 4,
       "RwdType": 11,
       "RewardID": 0,
@@ -2796,6 +2476,7 @@
     {
       "ServiceType": "DEV",
       "Key": 109,
+      "Game": 3,
       "RwdGroupID": 2,
       "RwdType": 20,
       "RewardID": 81,
@@ -2804,6 +2485,7 @@
     {
       "ServiceType": "DEV",
       "Key": 110,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 20,
       "RewardID": 81,
@@ -2812,6 +2494,7 @@
     {
       "ServiceType": "DEV",
       "Key": 111,
+      "Game": 3,
       "RwdGroupID": 4,
       "RwdType": 20,
       "RewardID": 81,
@@ -2820,6 +2503,7 @@
     {
       "ServiceType": "DEV",
       "Key": 112,
+      "Game": 3,
       "RwdGroupID": 2,
       "RwdType": 1,
       "RewardID": 1,
@@ -2828,6 +2512,7 @@
     {
       "ServiceType": "DEV",
       "Key": 113,
+      "Game": 3,
       "RwdGroupID": 3,
       "RwdType": 1,
       "RewardID": 1,
@@ -2836,6 +2521,7 @@
     {
       "ServiceType": "DEV",
       "Key": 114,
+      "Game": 3,
       "RwdGroupID": 4,
       "RwdType": 1,
       "RewardID": 1,
@@ -2846,6 +2532,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000,
+      "Game": 3,
       "GroupID": 10,
       "Count": 1,
       "RewardType": 2,
@@ -2854,6 +2541,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1001,
+      "Game": 3,
       "GroupID": 10,
       "Count": 12,
       "RewardType": 2,
@@ -2862,6 +2550,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1002,
+      "Game": 3,
       "GroupID": 10,
       "Count": 24,
       "RewardType": 2,
@@ -2872,6 +2561,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RwdGroupID": 101,
       "RwdType": 1,
       "RewardID": 1,
@@ -2880,6 +2570,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "RwdGroupID": 101,
       "RwdType": 2,
       "RewardID": 2,
@@ -2888,6 +2579,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "RwdGroupID": 101,
       "RwdType": 20,
       "RewardID": 24,
@@ -2896,6 +2588,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RwdGroupID": 102,
       "RwdType": 1,
       "RewardID": 1,
@@ -2904,6 +2597,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "RwdGroupID": 102,
       "RwdType": 10,
       "RewardID": 0,
@@ -2912,6 +2606,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "RwdGroupID": 103,
       "RwdType": 1,
       "RewardID": 1,
@@ -2920,6 +2615,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "RwdGroupID": 103,
       "RwdType": 10,
       "RewardID": 0,
@@ -2930,6 +2626,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "MissionClearCount": 1,
       "RwdType": 2,
       "RewardID": 2,
@@ -2938,6 +2635,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "MissionClearCount": 5,
       "RwdType": 2,
       "RewardID": 2,
@@ -2946,6 +2644,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "MissionClearCount": 9,
       "RwdType": 2,
       "RewardID": 2,
@@ -2956,6 +2655,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RwdGroupID": 101,
       "CraftingCount": 1,
       "RwdType": 20,
@@ -2965,6 +2665,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "RwdGroupID": 101,
       "CraftingCount": 2,
       "RwdType": 20,
@@ -2974,6 +2675,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "RwdGroupID": 101,
       "CraftingCount": 3,
       "RwdType": 20,
@@ -2983,6 +2685,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RwdGroupID": 101,
       "CraftingCount": 4,
       "RwdType": 20,
@@ -2994,6 +2697,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "PassRwdGroupID": 101,
       "PassLevel": 1,
       "PassRwdType": 1,
@@ -3004,6 +2708,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "PassRwdGroupID": 101,
       "PassLevel": 1,
       "PassRwdType": 2,
@@ -3014,6 +2719,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "PassRwdGroupID": 101,
       "PassLevel": 2,
       "PassRwdType": 1,
@@ -3024,6 +2730,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "PassRwdGroupID": 101,
       "PassLevel": 2,
       "PassRwdType": 2,
@@ -3034,6 +2741,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "PassRwdGroupID": 101,
       "PassLevel": 2,
       "PassRwdType": 2,
@@ -3046,6 +2754,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 1,
@@ -3056,6 +2765,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 1,
@@ -3066,6 +2776,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 1,
@@ -3076,6 +2787,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 1,
@@ -3086,6 +2798,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 2,
@@ -3096,6 +2809,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 2,
@@ -3106,6 +2820,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 2,
@@ -3116,6 +2831,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 3,
@@ -3126,6 +2842,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 3,
@@ -3136,6 +2853,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 3,
@@ -3146,6 +2864,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 10,
@@ -3156,6 +2875,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 10,
@@ -3166,6 +2886,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "RankValue": 50,
@@ -3176,6 +2897,7 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "RankValue": 20,
@@ -3186,6 +2908,7 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "RankValue": 20,
@@ -3196,6 +2919,7 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "RankValue": 50,
@@ -3206,6 +2930,7 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "RankValue": 80,
@@ -3216,6 +2941,7 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "RankValue": 100,
@@ -3228,6 +2954,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "CriteriaValue1": 1,
@@ -3240,6 +2967,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "CriteriaValue1": 2,
@@ -3252,6 +2980,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "CriteriaValue1": 3,
@@ -3264,6 +2993,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
       "CriteriaValue1": 4,
@@ -3276,9 +3006,10 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
-      "CriteriaValue1": 11,
+      "CriteriaValue1": 10,
       "CriteriaValue2": 50,
       "CriteriaInfoText": "RankingCriteria_Num11_to_Num50",
       "RwdType": 2,
@@ -3288,9 +3019,10 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
-      "CriteriaValue1": 51,
+      "CriteriaValue1": 50,
       "CriteriaValue2": 100,
       "CriteriaInfoText": "RankingCriteria_Num51_to_Num100",
       "RwdType": 2,
@@ -3300,9 +3032,10 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
-      "CriteriaValue1": 101,
+      "CriteriaValue1": 100,
       "CriteriaValue2": 200,
       "CriteriaInfoText": "RankingCriteria_Num101_to_Per200",
       "RwdType": 2,
@@ -3312,9 +3045,10 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
-      "CriteriaValue1": 201,
+      "CriteriaValue1": 200,
       "CriteriaValue2": 300,
       "CriteriaInfoText": "RankingCriteria_Num201_to_Per300",
       "RwdType": 2,
@@ -3324,9 +3058,10 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 1,
-      "CriteriaValue1": 301,
+      "CriteriaValue1": 300,
       "CriteriaValue2": 500,
       "CriteriaInfoText": "RankingCriteria_Num301_to_Per500",
       "RwdType": 2,
@@ -3336,6 +3071,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "CriteriaValue1": 50,
@@ -3348,9 +3084,10 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
-      "CriteriaValue1": 71,
+      "CriteriaValue1": 70,
       "CriteriaValue2": 85,
       "CriteriaInfoText": "RankingCriteria_Per71_to_Per85",
       "RwdType": 2,
@@ -3360,6 +3097,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "RwdGroupID": 101,
       "RankType": 2,
       "CriteriaValue1": 85,

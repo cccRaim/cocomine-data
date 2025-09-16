@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": "grow01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 5,
@@ -12,6 +13,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_stand01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 1,
       "RndMinTime": 10,
@@ -21,6 +23,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_stand02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 2,
       "RndMinTime": 10,
@@ -30,6 +33,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_stand03",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 3,
       "RndMinTime": 10,
@@ -39,6 +43,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_idle01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 1,
       "RndMinTime": 5,
@@ -48,6 +53,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_idle02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 2,
       "RndMinTime": 5,
@@ -57,6 +63,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_idle03",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 3,
       "RndMinTime": 5,
@@ -66,6 +73,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_start01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -75,6 +83,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_gathering",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -84,6 +93,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_selecting01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -93,6 +103,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_selecting02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -102,6 +113,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_growup",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -111,6 +123,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_walk01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 3,
       "RndMinTime": 2,
@@ -120,6 +133,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_walk02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 3,
       "RndMinTime": 2,
@@ -129,6 +143,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_starting_pushwagon01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -138,6 +153,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_farming",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -147,6 +163,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_gathering_start",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -156,6 +173,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_gathering_loop",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -165,6 +183,7 @@
     {
       "ServiceType": "DEV",
       "Key": "farm_gathering_touchEnd",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -174,6 +193,7 @@
     {
       "ServiceType": "DEV",
       "Key": "comein01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -183,6 +203,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutTree_tree01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -192,6 +213,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutTree_tree02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -201,6 +223,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutTree_tree03",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -210,6 +233,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutTree_tree04",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -219,6 +243,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutTree_tree05",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -228,6 +253,7 @@
     {
       "ServiceType": "DEV",
       "Key": "activate01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "RndMinTime": 0,
@@ -239,6 +265,7 @@
     {
       "ServiceType": "DEV",
       "Key": "stand01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 1,
       "IsNPCAnim": true,
@@ -252,6 +279,7 @@
     {
       "ServiceType": "DEV",
       "Key": "happy01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -265,6 +293,7 @@
     {
       "ServiceType": "DEV",
       "Key": "excited01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -278,6 +307,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lol01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -291,6 +321,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hi01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -304,6 +335,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hello01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -317,6 +349,7 @@
     {
       "ServiceType": "DEV",
       "Key": "clap01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -330,6 +363,7 @@
     {
       "ServiceType": "DEV",
       "Key": "love01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -343,6 +377,7 @@
     {
       "ServiceType": "DEV",
       "Key": "peaceful01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -356,6 +391,7 @@
     {
       "ServiceType": "DEV",
       "Key": "dance01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -369,6 +405,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shock01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -382,6 +419,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sad01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -395,6 +433,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cry01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -408,6 +447,7 @@
     {
       "ServiceType": "DEV",
       "Key": "mad01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -421,6 +461,7 @@
     {
       "ServiceType": "DEV",
       "Key": "tired01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -434,6 +475,7 @@
     {
       "ServiceType": "DEV",
       "Key": "worry01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -447,6 +489,7 @@
     {
       "ServiceType": "DEV",
       "Key": "question01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -460,6 +503,7 @@
     {
       "ServiceType": "DEV",
       "Key": "brag01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -473,6 +517,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shy01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -486,6 +531,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sulky01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -499,6 +545,7 @@
     {
       "ServiceType": "DEV",
       "Key": "expected01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -512,6 +559,7 @@
     {
       "ServiceType": "DEV",
       "Key": "scared01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -525,6 +573,7 @@
     {
       "ServiceType": "DEV",
       "Key": "walk01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -538,6 +587,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cheerup01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -551,6 +601,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lonely01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -564,6 +615,7 @@
     {
       "ServiceType": "DEV",
       "Key": "awkward01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -577,6 +629,7 @@
     {
       "ServiceType": "DEV",
       "Key": "noidea01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -590,6 +643,7 @@
     {
       "ServiceType": "DEV",
       "Key": "realize01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -603,6 +657,7 @@
     {
       "ServiceType": "DEV",
       "Key": "heartbreak01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -616,6 +671,7 @@
     {
       "ServiceType": "DEV",
       "Key": "nod01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -629,6 +685,7 @@
     {
       "ServiceType": "DEV",
       "Key": "noway01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -642,6 +699,7 @@
     {
       "ServiceType": "DEV",
       "Key": "giveme01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -655,6 +713,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hungry01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -668,6 +727,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sigh01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -681,6 +741,7 @@
     {
       "ServiceType": "DEV",
       "Key": "spark01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -694,6 +755,7 @@
     {
       "ServiceType": "DEV",
       "Key": "congratulations01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -707,6 +769,7 @@
     {
       "ServiceType": "DEV",
       "Key": "surprise01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -720,6 +783,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lookaround01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -733,6 +797,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_cloth01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -746,6 +811,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_hair01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -759,6 +825,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_eye01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -772,6 +839,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_accessories01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -785,6 +853,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_shoes01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -798,6 +867,7 @@
     {
       "ServiceType": "DEV",
       "Key": "plantseed01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -811,6 +881,7 @@
     {
       "ServiceType": "DEV",
       "Key": "planttree01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -824,6 +895,7 @@
     {
       "ServiceType": "DEV",
       "Key": "plantelse01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -837,6 +909,7 @@
     {
       "ServiceType": "DEV",
       "Key": "waterplants01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -850,6 +923,7 @@
     {
       "ServiceType": "DEV",
       "Key": "logging01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -863,6 +937,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shakingtree01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -876,6 +951,7 @@
     {
       "ServiceType": "DEV",
       "Key": "waitseed01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -889,6 +965,7 @@
     {
       "ServiceType": "DEV",
       "Key": "waittree01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -902,6 +979,7 @@
     {
       "ServiceType": "DEV",
       "Key": "waitelse01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -915,6 +993,7 @@
     {
       "ServiceType": "DEV",
       "Key": "mine01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -928,6 +1007,7 @@
     {
       "ServiceType": "DEV",
       "Key": "mine02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -941,6 +1021,7 @@
     {
       "ServiceType": "DEV",
       "Key": "minewalk01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -954,6 +1035,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hold01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -967,6 +1049,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hold02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -980,6 +1063,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sit01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -993,6 +1077,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sit02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1006,6 +1091,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sithorse01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1019,6 +1105,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sithorse02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1032,6 +1119,7 @@
     {
       "ServiceType": "DEV",
       "Key": "liedown01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1045,6 +1133,7 @@
     {
       "ServiceType": "DEV",
       "Key": "liedown02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1058,6 +1147,7 @@
     {
       "ServiceType": "DEV",
       "Key": "eat01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1071,6 +1161,7 @@
     {
       "ServiceType": "DEV",
       "Key": "read01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1084,6 +1175,7 @@
     {
       "ServiceType": "DEV",
       "Key": "bornfire01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1097,6 +1189,7 @@
     {
       "ServiceType": "DEV",
       "Key": "bath01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1110,6 +1203,7 @@
     {
       "ServiceType": "DEV",
       "Key": "teatime01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1123,6 +1217,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cook01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1136,6 +1231,7 @@
     {
       "ServiceType": "DEV",
       "Key": "clean01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1149,6 +1245,7 @@
     {
       "ServiceType": "DEV",
       "Key": "makeup01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1162,6 +1259,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_cook01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1175,6 +1273,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_wood01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1188,6 +1287,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_metal01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1201,6 +1301,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_sewing01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1214,6 +1315,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_pottery01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1227,6 +1329,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_event01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1240,6 +1343,7 @@
     {
       "ServiceType": "DEV",
       "Key": "harvest01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1253,6 +1357,7 @@
     {
       "ServiceType": "DEV",
       "Key": "waitanimal01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1266,6 +1371,7 @@
     {
       "ServiceType": "DEV",
       "Key": "pickup01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1279,6 +1385,7 @@
     {
       "ServiceType": "DEV",
       "Key": "searchbush01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1292,6 +1399,7 @@
     {
       "ServiceType": "DEV",
       "Key": "pushwagon01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1305,6 +1413,7 @@
     {
       "ServiceType": "DEV",
       "Key": "serarchmine01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1318,6 +1427,7 @@
     {
       "ServiceType": "DEV",
       "Key": "usedrill01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1331,6 +1441,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_leather01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1344,6 +1455,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_science01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1357,6 +1469,7 @@
     {
       "ServiceType": "DEV",
       "Key": "talk01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -1370,6 +1483,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_makeup01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1383,6 +1497,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sithorse03",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1396,6 +1511,7 @@
     {
       "ServiceType": "DEV",
       "Key": "worry02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -1409,6 +1525,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_cloth02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1422,6 +1539,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_accessories02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1435,6 +1553,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_floor01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1448,6 +1567,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sit03",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1461,6 +1581,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sit04",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1474,6 +1595,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sit06",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1487,6 +1609,7 @@
     {
       "ServiceType": "DEV",
       "Key": "bug01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -1500,6 +1623,7 @@
     {
       "ServiceType": "DEV",
       "Key": "walk02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -1513,6 +1637,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sithorse04",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1526,6 +1651,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hairsalon01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1539,6 +1665,7 @@
     {
       "ServiceType": "DEV",
       "Key": "drowse01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 1,
       "IsNPCAnim": false,
@@ -1552,6 +1679,7 @@
     {
       "ServiceType": "DEV",
       "Key": "humming01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 1,
       "IsNPCAnim": false,
@@ -1565,6 +1693,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lookatsky01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 1,
       "IsNPCAnim": false,
@@ -1578,6 +1707,7 @@
     {
       "ServiceType": "DEV",
       "Key": "move_car",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1591,6 +1721,7 @@
     {
       "ServiceType": "DEV",
       "Key": "signature01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": true,
@@ -1604,6 +1735,7 @@
     {
       "ServiceType": "DEV",
       "Key": "fishingstart01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1617,6 +1749,7 @@
     {
       "ServiceType": "DEV",
       "Key": "fishing01",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1630,6 +1763,7 @@
     {
       "ServiceType": "DEV",
       "Key": "fishingsuccess01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1643,6 +1777,7 @@
     {
       "ServiceType": "DEV",
       "Key": "fishingend01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1656,6 +1791,7 @@
     {
       "ServiceType": "DEV",
       "Key": "swimming01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1669,6 +1805,7 @@
     {
       "ServiceType": "DEV",
       "Key": "gift01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1682,6 +1819,7 @@
     {
       "ServiceType": "DEV",
       "Key": "throwcoin01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1695,6 +1833,7 @@
     {
       "ServiceType": "DEV",
       "Key": "dynamite01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1708,6 +1847,7 @@
     {
       "ServiceType": "DEV",
       "Key": "bath_start01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1721,6 +1861,7 @@
     {
       "ServiceType": "DEV",
       "Key": "bath_jump01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1734,6 +1875,7 @@
     {
       "ServiceType": "DEV",
       "Key": "liedown03",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1747,6 +1889,7 @@
     {
       "ServiceType": "DEV",
       "Key": "jump01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1760,6 +1903,7 @@
     {
       "ServiceType": "DEV",
       "Key": "armturnside01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1773,6 +1917,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shock02",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1786,6 +1931,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_cook_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1799,6 +1945,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_wood_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1812,6 +1959,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_metal_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1825,6 +1973,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_sewing_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1838,6 +1987,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_pottery_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1851,6 +2001,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_science_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1864,6 +2015,7 @@
     {
       "ServiceType": "DEV",
       "Key": "showoff01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1877,6 +2029,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hard01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1890,6 +2043,7 @@
     {
       "ServiceType": "DEV",
       "Key": "dizzy01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1903,6 +2057,7 @@
     {
       "ServiceType": "DEV",
       "Key": "craft_leather_end01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1916,6 +2071,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sitfloor01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1929,6 +2085,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sitfloor02",
+      "Game": 3,
       "IsLoop": true,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1942,6 +2099,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sitfloor03",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1955,6 +2113,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1968,6 +2127,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1981,6 +2141,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -1994,6 +2155,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sit",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2007,6 +2169,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_jump",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2020,6 +2183,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_strech_r_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2033,6 +2197,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_strech_l_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2046,6 +2211,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_stretch_arm",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2059,6 +2225,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_waist_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2072,6 +2239,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_arm_jump",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2085,6 +2253,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_arm_jump",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2098,6 +2267,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_leg",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2111,6 +2281,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_leg",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2124,6 +2295,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_kick_r_leg",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2137,6 +2309,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_kick_l_leg",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2150,6 +2323,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_cheek_both",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2163,6 +2337,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_head_shake_lr",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2176,6 +2351,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sweep_l_hair",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2189,6 +2365,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sweep_r_hair",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2202,6 +2379,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_r_chin",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2215,6 +2393,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_l_chin",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2228,6 +2407,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_l_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2241,6 +2421,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_r_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2254,6 +2435,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2267,6 +2449,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_l_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2280,6 +2463,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_r_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2293,6 +2477,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_hand",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2306,6 +2491,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_shoulder_shrug",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2319,6 +2505,7 @@
     {
       "ServiceType": "DEV",
       "Key": "slide01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2332,6 +2519,77 @@
     {
       "ServiceType": "DEV",
       "Key": "paddle01",
+      "Game": 3,
+      "IsLoop": false,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "stand01",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "serving01",
+      "Game": 3,
+      "IsLoop": true,
+      "AnimGroupID": 0,
+      "IsNPCAnim": true,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "stand01",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "siteat01",
+      "Game": 3,
+      "IsLoop": true,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "siteat02",
+      "Game": 3,
+      "IsLoop": true,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": false,
+      "ExistBackAnim": true,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "jump02",
+      "Game": 3,
+      "IsLoop": true,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "",
+      "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "mini_car01",
+      "Game": 3,
       "IsLoop": false,
       "AnimGroupID": 0,
       "IsNPCAnim": false,
@@ -2347,6 +2605,7 @@
     {
       "ServiceType": "DEV",
       "Key": "happy01",
+      "Game": 3,
       "SortIndex": 1,
       "EmotionIcon": "happy01",
       "IsBaseEmotion": true,
@@ -2356,6 +2615,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hi01",
+      "Game": 3,
       "SortIndex": 2,
       "EmotionIcon": "hi01",
       "IsBaseEmotion": true,
@@ -2365,6 +2625,7 @@
     {
       "ServiceType": "DEV",
       "Key": "clap01",
+      "Game": 3,
       "SortIndex": 3,
       "EmotionIcon": "clap01",
       "IsBaseEmotion": true,
@@ -2374,6 +2635,7 @@
     {
       "ServiceType": "DEV",
       "Key": "love01",
+      "Game": 3,
       "SortIndex": 4,
       "EmotionIcon": "love01",
       "IsBaseEmotion": true,
@@ -2383,6 +2645,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shock01",
+      "Game": 3,
       "SortIndex": 5,
       "EmotionIcon": "shock01",
       "IsBaseEmotion": true,
@@ -2392,6 +2655,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cry01",
+      "Game": 3,
       "SortIndex": 6,
       "EmotionIcon": "cry01",
       "IsBaseEmotion": true,
@@ -2401,6 +2665,7 @@
     {
       "ServiceType": "DEV",
       "Key": "mad01",
+      "Game": 3,
       "SortIndex": 7,
       "EmotionIcon": "mad01",
       "IsBaseEmotion": true,
@@ -2410,6 +2675,7 @@
     {
       "ServiceType": "DEV",
       "Key": "question01",
+      "Game": 3,
       "SortIndex": 8,
       "EmotionIcon": "question01",
       "IsBaseEmotion": true,
@@ -2419,6 +2685,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_hair01",
+      "Game": 3,
       "SortIndex": 9,
       "EmotionIcon": "change_hair01",
       "IsBaseEmotion": false,
@@ -2428,6 +2695,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_cloth01",
+      "Game": 3,
       "SortIndex": 10,
       "EmotionIcon": "change_cloth01",
       "IsBaseEmotion": false,
@@ -2437,6 +2705,7 @@
     {
       "ServiceType": "DEV",
       "Key": "change_eye01",
+      "Game": 3,
       "SortIndex": 11,
       "EmotionIcon": "change_eye01",
       "IsBaseEmotion": false,
@@ -2446,6 +2715,7 @@
     {
       "ServiceType": "DEV",
       "Key": "excited01",
+      "Game": 3,
       "SortIndex": 12,
       "EmotionIcon": "excited01",
       "IsBaseEmotion": false,
@@ -2455,6 +2725,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lol01",
+      "Game": 3,
       "SortIndex": 13,
       "EmotionIcon": "lol01",
       "IsBaseEmotion": false,
@@ -2464,6 +2735,7 @@
     {
       "ServiceType": "DEV",
       "Key": "peaceful01",
+      "Game": 3,
       "SortIndex": 14,
       "EmotionIcon": "peaceful01",
       "IsBaseEmotion": false,
@@ -2473,6 +2745,7 @@
     {
       "ServiceType": "DEV",
       "Key": "dance01",
+      "Game": 3,
       "SortIndex": 15,
       "EmotionIcon": "dance01",
       "IsBaseEmotion": false,
@@ -2482,6 +2755,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sad01",
+      "Game": 3,
       "SortIndex": 16,
       "EmotionIcon": "sad01",
       "IsBaseEmotion": false,
@@ -2491,6 +2765,7 @@
     {
       "ServiceType": "DEV",
       "Key": "tired01",
+      "Game": 3,
       "SortIndex": 17,
       "EmotionIcon": "tired01",
       "IsBaseEmotion": false,
@@ -2500,6 +2775,7 @@
     {
       "ServiceType": "DEV",
       "Key": "worry01",
+      "Game": 3,
       "SortIndex": 18,
       "EmotionIcon": "worry01",
       "IsBaseEmotion": false,
@@ -2509,6 +2785,7 @@
     {
       "ServiceType": "DEV",
       "Key": "worry02",
+      "Game": 3,
       "SortIndex": 19,
       "EmotionIcon": "worry02",
       "IsBaseEmotion": false,
@@ -2518,6 +2795,7 @@
     {
       "ServiceType": "DEV",
       "Key": "brag01",
+      "Game": 3,
       "SortIndex": 20,
       "EmotionIcon": "brag01",
       "IsBaseEmotion": false,
@@ -2527,6 +2805,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shy01",
+      "Game": 3,
       "SortIndex": 21,
       "EmotionIcon": "shy01",
       "IsBaseEmotion": false,
@@ -2536,6 +2815,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sulky01",
+      "Game": 3,
       "SortIndex": 22,
       "EmotionIcon": "sulky01",
       "IsBaseEmotion": false,
@@ -2545,6 +2825,7 @@
     {
       "ServiceType": "DEV",
       "Key": "expected01",
+      "Game": 3,
       "SortIndex": 23,
       "EmotionIcon": "expected01",
       "IsBaseEmotion": false,
@@ -2554,6 +2835,7 @@
     {
       "ServiceType": "DEV",
       "Key": "scared01",
+      "Game": 3,
       "SortIndex": 24,
       "EmotionIcon": "scared01",
       "IsBaseEmotion": false,
@@ -2563,6 +2845,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cheerup01",
+      "Game": 3,
       "SortIndex": 25,
       "EmotionIcon": "cheerup01",
       "IsBaseEmotion": false,
@@ -2572,6 +2855,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lonely01",
+      "Game": 3,
       "SortIndex": 26,
       "EmotionIcon": "lonely01",
       "IsBaseEmotion": false,
@@ -2581,6 +2865,7 @@
     {
       "ServiceType": "DEV",
       "Key": "awkward01",
+      "Game": 3,
       "SortIndex": 27,
       "EmotionIcon": "awkward01",
       "IsBaseEmotion": false,
@@ -2590,6 +2875,7 @@
     {
       "ServiceType": "DEV",
       "Key": "realize01",
+      "Game": 3,
       "SortIndex": 28,
       "EmotionIcon": "realize01",
       "IsBaseEmotion": false,
@@ -2599,6 +2885,7 @@
     {
       "ServiceType": "DEV",
       "Key": "heartbreak01",
+      "Game": 3,
       "SortIndex": 29,
       "EmotionIcon": "heartbreak01",
       "IsBaseEmotion": false,
@@ -2608,6 +2895,7 @@
     {
       "ServiceType": "DEV",
       "Key": "nod01",
+      "Game": 3,
       "SortIndex": 30,
       "EmotionIcon": "nod01",
       "IsBaseEmotion": false,
@@ -2617,6 +2905,7 @@
     {
       "ServiceType": "DEV",
       "Key": "noway01",
+      "Game": 3,
       "SortIndex": 31,
       "EmotionIcon": "noway01",
       "IsBaseEmotion": false,
@@ -2626,6 +2915,7 @@
     {
       "ServiceType": "DEV",
       "Key": "giveme01",
+      "Game": 3,
       "SortIndex": 32,
       "EmotionIcon": "giveme01",
       "IsBaseEmotion": false,
@@ -2635,6 +2925,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hungry01",
+      "Game": 3,
       "SortIndex": 33,
       "EmotionIcon": "hungry01",
       "IsBaseEmotion": false,
@@ -2644,6 +2935,7 @@
     {
       "ServiceType": "DEV",
       "Key": "sigh01",
+      "Game": 3,
       "SortIndex": 34,
       "EmotionIcon": "sigh01",
       "IsBaseEmotion": false,
@@ -2653,6 +2945,7 @@
     {
       "ServiceType": "DEV",
       "Key": "spark01",
+      "Game": 3,
       "SortIndex": 35,
       "EmotionIcon": "spark01",
       "IsBaseEmotion": false,
@@ -2662,6 +2955,7 @@
     {
       "ServiceType": "DEV",
       "Key": "congratulations01",
+      "Game": 3,
       "SortIndex": 36,
       "EmotionIcon": "congratulations01",
       "IsBaseEmotion": false,
@@ -2671,6 +2965,7 @@
     {
       "ServiceType": "DEV",
       "Key": "surprise01",
+      "Game": 3,
       "SortIndex": 37,
       "EmotionIcon": "surprise01",
       "IsBaseEmotion": false,
@@ -2680,6 +2975,7 @@
     {
       "ServiceType": "DEV",
       "Key": "lookaround01",
+      "Game": 3,
       "SortIndex": 38,
       "EmotionIcon": "lookaround01",
       "IsBaseEmotion": false,
@@ -2689,6 +2985,7 @@
     {
       "ServiceType": "DEV",
       "Key": "eat01",
+      "Game": 3,
       "SortIndex": 39,
       "EmotionIcon": "eat01",
       "IsBaseEmotion": false,
@@ -2698,6 +2995,7 @@
     {
       "ServiceType": "DEV",
       "Key": "read01",
+      "Game": 3,
       "SortIndex": 40,
       "EmotionIcon": "read01",
       "IsBaseEmotion": false,
@@ -2707,6 +3005,7 @@
     {
       "ServiceType": "DEV",
       "Key": "teatime01",
+      "Game": 3,
       "SortIndex": 41,
       "EmotionIcon": "teatime01",
       "IsBaseEmotion": false,
@@ -2716,6 +3015,7 @@
     {
       "ServiceType": "DEV",
       "Key": "cook01",
+      "Game": 3,
       "SortIndex": 42,
       "EmotionIcon": "cook01",
       "IsBaseEmotion": false,
@@ -2725,6 +3025,7 @@
     {
       "ServiceType": "DEV",
       "Key": "clean01",
+      "Game": 3,
       "SortIndex": 43,
       "EmotionIcon": "clean01",
       "IsBaseEmotion": false,
@@ -2734,6 +3035,7 @@
     {
       "ServiceType": "DEV",
       "Key": "makeup01",
+      "Game": 3,
       "SortIndex": 44,
       "EmotionIcon": "makeup01",
       "IsBaseEmotion": false,
@@ -2743,6 +3045,7 @@
     {
       "ServiceType": "DEV",
       "Key": "armturnside01",
+      "Game": 3,
       "SortIndex": 45,
       "EmotionIcon": "armturnside01",
       "IsBaseEmotion": false,
@@ -2752,6 +3055,7 @@
     {
       "ServiceType": "DEV",
       "Key": "shock02",
+      "Game": 3,
       "SortIndex": 46,
       "EmotionIcon": "shock02",
       "IsBaseEmotion": false,
@@ -2761,6 +3065,7 @@
     {
       "ServiceType": "DEV",
       "Key": "wink01",
+      "Game": 3,
       "SortIndex": 47,
       "EmotionIcon": "wink01",
       "IsBaseEmotion": false,
@@ -2770,6 +3075,7 @@
     {
       "ServiceType": "DEV",
       "Key": "hard01",
+      "Game": 3,
       "SortIndex": 48,
       "EmotionIcon": "hard01",
       "IsBaseEmotion": false,
@@ -2779,6 +3085,7 @@
     {
       "ServiceType": "DEV",
       "Key": "dizzy01",
+      "Game": 3,
       "SortIndex": 49,
       "EmotionIcon": "dizzy01",
       "IsBaseEmotion": false,
@@ -2788,6 +3095,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_arm",
+      "Game": 3,
       "SortIndex": 9,
       "EmotionIcon": "b_raise_r_arm",
       "IsBaseEmotion": false,
@@ -2797,6 +3105,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_arm",
+      "Game": 3,
       "SortIndex": 10,
       "EmotionIcon": "b_raise_l_arm",
       "IsBaseEmotion": false,
@@ -2806,6 +3115,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_arm",
+      "Game": 3,
       "SortIndex": 11,
       "EmotionIcon": "b_raise_arm",
       "IsBaseEmotion": false,
@@ -2815,6 +3125,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sit",
+      "Game": 3,
       "SortIndex": 12,
       "EmotionIcon": "b_sit",
       "IsBaseEmotion": false,
@@ -2824,6 +3135,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_jump",
+      "Game": 3,
       "SortIndex": 13,
       "EmotionIcon": "b_jump",
       "IsBaseEmotion": false,
@@ -2833,6 +3145,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_strech_r_arm",
+      "Game": 3,
       "SortIndex": 14,
       "EmotionIcon": "b_strech_r_arm",
       "IsBaseEmotion": false,
@@ -2842,6 +3155,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_strech_l_arm",
+      "Game": 3,
       "SortIndex": 15,
       "EmotionIcon": "b_strech_l_arm",
       "IsBaseEmotion": false,
@@ -2851,6 +3165,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_stretch_arm",
+      "Game": 3,
       "SortIndex": 16,
       "EmotionIcon": "b_stretch_arm",
       "IsBaseEmotion": false,
@@ -2860,6 +3175,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_waist_hand",
+      "Game": 3,
       "SortIndex": 17,
       "EmotionIcon": "b_waist_hand",
       "IsBaseEmotion": false,
@@ -2869,6 +3185,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_arm_jump",
+      "Game": 3,
       "SortIndex": 18,
       "EmotionIcon": "b_raise_r_arm_jump",
       "IsBaseEmotion": false,
@@ -2878,6 +3195,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_arm_jump",
+      "Game": 3,
       "SortIndex": 19,
       "EmotionIcon": "b_raise_l_arm_jump",
       "IsBaseEmotion": false,
@@ -2887,6 +3205,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_r_leg",
+      "Game": 3,
       "SortIndex": 20,
       "EmotionIcon": "b_raise_r_leg",
       "IsBaseEmotion": false,
@@ -2896,6 +3215,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_raise_l_leg",
+      "Game": 3,
       "SortIndex": 21,
       "EmotionIcon": "b_raise_l_leg",
       "IsBaseEmotion": false,
@@ -2905,6 +3225,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_kick_r_leg",
+      "Game": 3,
       "SortIndex": 22,
       "EmotionIcon": "b_kick_r_leg",
       "IsBaseEmotion": false,
@@ -2914,6 +3235,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_kick_l_leg",
+      "Game": 3,
       "SortIndex": 23,
       "EmotionIcon": "b_kick_l_leg",
       "IsBaseEmotion": false,
@@ -2923,6 +3245,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_cheek_both",
+      "Game": 3,
       "SortIndex": 24,
       "EmotionIcon": "b_hand_cheek_both",
       "IsBaseEmotion": false,
@@ -2932,6 +3255,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_head_shake_lr",
+      "Game": 3,
       "SortIndex": 25,
       "EmotionIcon": "b_head_shake_lr",
       "IsBaseEmotion": false,
@@ -2941,6 +3265,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sweep_l_hair",
+      "Game": 3,
       "SortIndex": 26,
       "EmotionIcon": "b_sweep_l_hair",
       "IsBaseEmotion": false,
@@ -2950,6 +3275,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_sweep_r_hair",
+      "Game": 3,
       "SortIndex": 27,
       "EmotionIcon": "b_sweep_r_hair",
       "IsBaseEmotion": false,
@@ -2959,6 +3285,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_r_chin",
+      "Game": 3,
       "SortIndex": 28,
       "EmotionIcon": "b_hand_r_chin",
       "IsBaseEmotion": false,
@@ -2968,6 +3295,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_hand_l_chin",
+      "Game": 3,
       "SortIndex": 29,
       "EmotionIcon": "b_hand_l_chin",
       "IsBaseEmotion": false,
@@ -2977,6 +3305,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_l_hand",
+      "Game": 3,
       "SortIndex": 30,
       "EmotionIcon": "b_wave_fb_l_hand",
       "IsBaseEmotion": false,
@@ -2986,6 +3315,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_r_hand",
+      "Game": 3,
       "SortIndex": 31,
       "EmotionIcon": "b_wave_fb_r_hand",
       "IsBaseEmotion": false,
@@ -2995,6 +3325,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_fb_hand",
+      "Game": 3,
       "SortIndex": 32,
       "EmotionIcon": "b_wave_fb_hand",
       "IsBaseEmotion": false,
@@ -3004,6 +3335,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_l_hand",
+      "Game": 3,
       "SortIndex": 33,
       "EmotionIcon": "b_wave_lr_l_hand",
       "IsBaseEmotion": false,
@@ -3013,6 +3345,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_r_hand",
+      "Game": 3,
       "SortIndex": 34,
       "EmotionIcon": "b_wave_lr_r_hand",
       "IsBaseEmotion": false,
@@ -3022,6 +3355,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_shoulder_shrug",
+      "Game": 3,
       "SortIndex": 36,
       "EmotionIcon": "b_shoulder_shrug",
       "IsBaseEmotion": false,
@@ -3031,6 +3365,7 @@
     {
       "ServiceType": "DEV",
       "Key": "b_wave_lr_hand",
+      "Game": 3,
       "SortIndex": 35,
       "EmotionIcon": "b_wave_lr_hand",
       "IsBaseEmotion": false,
@@ -3042,6 +3377,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "CharActionType": 1,
       "CharActionName": "ActionType_VisitFriend",
       "AnimName": "stand01"
@@ -3049,6 +3385,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "CharActionType": 1,
       "CharActionName": "ActionType_VisitFriend",
       "AnimName": "happy01"
@@ -3056,6 +3393,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "CharActionType": 1,
       "CharActionName": "ActionType_VisitFriend",
       "AnimName": "angry01"
@@ -3063,6 +3401,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "CharActionType": 1,
       "CharActionName": "ActionType_VisitFriend",
       "AnimName": "sad01"
@@ -3070,6 +3409,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "CharActionType": 2,
       "CharActionName": "ActionType_GiveWater",
       "AnimName": "sad01"
@@ -3077,6 +3417,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "CharActionType": 2,
       "CharActionName": "ActionType_GiveWater",
       "AnimName": "angry01"
@@ -3084,6 +3425,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "CharActionType": 2,
       "CharActionName": "ActionType_GiveWater",
       "AnimName": "happy01"
@@ -3091,6 +3433,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "CharActionType": 3,
       "CharActionName": "ActionType_Capture",
       "AnimName": "stand01"
@@ -3098,6 +3441,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "CharActionType": 3,
       "CharActionName": "ActionType_Capture",
       "AnimName": "happy01"
@@ -3105,6 +3449,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "CharActionType": 3,
       "CharActionName": "ActionType_Capture",
       "AnimName": "angry01"
@@ -3112,6 +3457,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "CharActionType": 4,
       "CharActionName": "ActionType_IngameStart",
       "AnimName": "stand01"
@@ -3119,6 +3465,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "CharActionType": 4,
       "CharActionName": "ActionType_IngameStart",
       "AnimName": "happy01"
@@ -3126,6 +3473,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "Game": 3,
       "CharActionType": 4,
       "CharActionName": "ActionType_IngameStart",
       "AnimName": "angry01"

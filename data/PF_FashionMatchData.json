@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_1",
       "FeatureLimitID": 0,
@@ -17,6 +18,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_3",
       "FeatureLimitID": 0,
@@ -31,6 +33,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_2",
       "FeatureLimitID": 0,
@@ -45,6 +48,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_4",
       "FeatureLimitID": 0,
@@ -59,6 +63,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_5",
       "FeatureLimitID": 0,
@@ -73,6 +78,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_6",
       "FeatureLimitID": 0,
@@ -87,6 +93,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_7",
       "FeatureLimitID": 0,
@@ -101,6 +108,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_8",
       "FeatureLimitID": 0,
@@ -115,6 +123,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_9",
       "FeatureLimitID": 0,
@@ -129,6 +138,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_10",
       "FeatureLimitID": 0,
@@ -143,6 +153,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_11",
       "FeatureLimitID": 0,
@@ -157,6 +168,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_12",
       "FeatureLimitID": 0,
@@ -171,6 +183,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_13",
       "FeatureLimitID": 0,
@@ -185,6 +198,7 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_14",
       "FeatureLimitID": 0,
@@ -199,6 +213,7 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
+      "Game": 3,
       "Nation": 15,
       "SeasonName": "FashionMatch_15",
       "FeatureLimitID": 0,
@@ -215,6 +230,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "FeatureType": [
         1,
         3,
@@ -229,6 +245,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -238,6 +255,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -247,6 +265,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -256,6 +275,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -265,6 +285,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -274,6 +295,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -283,6 +305,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -292,6 +315,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -301,6 +325,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -310,6 +335,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -319,6 +345,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -328,6 +355,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -337,6 +365,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -346,6 +375,7 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -355,6 +385,7 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
+      "Game": 3,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -366,6 +397,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "BotNickName": "NickName_5",
       "Level": 5,
       "DefaultScore": 50,
@@ -389,6 +421,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "BotNickName": "NickName_6",
       "Level": 5,
       "DefaultScore": 100,
@@ -412,6 +445,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "BotNickName": "NickName_7",
       "Level": 5,
       "DefaultScore": 100,
@@ -435,6 +469,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "BotNickName": "NickName_8",
       "Level": 10,
       "DefaultScore": 100,
@@ -459,119 +494,144 @@
   "WinAnim": [
     {
       "ServiceType": "DEV",
-      "Key": "happy01"
+      "Key": "happy01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "hi01"
+      "Key": "hi01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "clap01"
+      "Key": "clap01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "excited01"
+      "Key": "excited01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "lol01"
+      "Key": "lol01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "cheerup01"
+      "Key": "cheerup01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "peaceful01"
+      "Key": "peaceful01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "shy01"
+      "Key": "shy01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "surprise01"
+      "Key": "surprise01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "showoff01"
+      "Key": "showoff01",
+      "Game": 3
     }
   ],
   "LoseAnim": [
     {
       "ServiceType": "DEV",
-      "Key": "cry01"
+      "Key": "cry01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "mad01"
+      "Key": "mad01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "shock01"
+      "Key": "shock01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "worry01"
+      "Key": "worry01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "sigh01"
+      "Key": "sigh01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "sulky01"
+      "Key": "sulky01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "lonely01"
+      "Key": "lonely01",
+      "Game": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": "worry02"
+      "Key": "worry02",
+      "Game": 3
     }
   ],
   "FashionStageAnim": [
     {
       "ServiceType": "DEV",
       "Key": "happy01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "change_cloth01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "change_hair01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "hi01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "showoff01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "armturnside01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     },
     {
       "ServiceType": "DEV",
       "Key": "surprise01",
+      "Game": 3,
       "RndMinTime": 5,
       "RndMaxTime": 10
     }

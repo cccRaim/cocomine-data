@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": "help_fishing",
+      "Game": 3,
       "KRImage1": "Fishing_Image_1",
       "JPNImage1": "Fishing_Image_1",
       "ENGImage1": "Fishing_Image_1",
@@ -25,6 +26,7 @@
     {
       "ServiceType": "DEV",
       "Key": "help_fountain",
+      "Game": 3,
       "KRImage1": "Fountain_Image_1",
       "JPNImage1": "Fountain_Image_1",
       "ENGImage1": "Fountain_Image_1",
@@ -47,6 +49,7 @@
     {
       "ServiceType": "DEV",
       "Key": "help_mygarden",
+      "Game": 3,
       "KRImage1": "MyGarden_Image_1",
       "JPNImage1": "MyGarden_Image_1",
       "ENGImage1": "MyGarden_Image_1",

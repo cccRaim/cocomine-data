@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 124,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -12,6 +13,7 @@
     {
       "ServiceType": "DEV",
       "Key": 125,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -21,6 +23,7 @@
     {
       "ServiceType": "DEV",
       "Key": 126,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -30,6 +33,7 @@
     {
       "ServiceType": "DEV",
       "Key": 170,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -39,6 +43,7 @@
     {
       "ServiceType": "DEV",
       "Key": 171,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -48,6 +53,7 @@
     {
       "ServiceType": "DEV",
       "Key": 172,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -57,6 +63,7 @@
     {
       "ServiceType": "DEV",
       "Key": 173,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -66,6 +73,7 @@
     {
       "ServiceType": "DEV",
       "Key": 174,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -75,6 +83,7 @@
     {
       "ServiceType": "DEV",
       "Key": 175,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,
@@ -84,6 +93,7 @@
     {
       "ServiceType": "DEV",
       "Key": 176,
+      "Game": 3,
       "RewardType": 20,
       "IsPremium": false,
       "EffectID": 0,

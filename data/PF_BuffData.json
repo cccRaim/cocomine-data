@@ -3,12 +3,13 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
-      "BuffGroupID": 10,
+      "Game": 3,
+      "BuffGroupID": 1,
       "BuffType": 1,
       "BuffName": "BuffName_01",
       "BuffCategoryType": 1,
       "IconName": "",
-      "BuffValue": 15,
+      "BuffValue": 10,
       "BuffValueType": 1,
       "BGEffect": "",
       "CEffectAttachBone": "shadow",
@@ -17,12 +18,13 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
-      "BuffGroupID": 10,
+      "Game": 3,
+      "BuffGroupID": 2,
       "BuffType": 2,
       "BuffName": "BuffName_02",
       "BuffCategoryType": 2,
       "IconName": "",
-      "BuffValue": 15,
+      "BuffValue": 10,
       "BuffValueType": 1,
       "BGEffect": "",
       "CEffectAttachBone": "",
@@ -31,6 +33,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "BuffGroupID": 11,
       "BuffType": 12,
       "BuffName": "BuffName_12",
@@ -45,6 +48,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "BuffGroupID": 12,
       "BuffType": 1,
       "BuffName": "BuffName_01",
@@ -59,6 +63,7 @@
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "BuffGroupID": 13,
       "BuffType": 2,
       "BuffName": "BuffName_02",
@@ -73,12 +78,13 @@
     {
       "ServiceType": "DEV",
       "Key": 105,
-      "BuffGroupID": 14,
+      "Game": 3,
+      "BuffGroupID": 3,
       "BuffType": 7,
       "BuffName": "BuffName_07",
       "BuffCategoryType": 1,
       "IconName": "",
-      "BuffValue": 4,
+      "BuffValue": 10,
       "BuffValueType": 1,
       "BGEffect": "",
       "CEffectAttachBone": "",
@@ -87,6 +93,7 @@
     {
       "ServiceType": "DEV",
       "Key": 106,
+      "Game": 3,
       "BuffGroupID": 15,
       "BuffType": 10,
       "BuffName": "BuffName_10",
@@ -101,6 +108,7 @@
     {
       "ServiceType": "NONE",
       "Key": 107,
+      "Game": 3,
       "BuffGroupID": 16,
       "BuffType": 0,
       "BuffName": "",
@@ -115,6 +123,7 @@
     {
       "ServiceType": "NONE",
       "Key": 108,
+      "Game": 3,
       "BuffGroupID": 17,
       "BuffType": 0,
       "BuffName": "",
@@ -129,6 +138,7 @@
     {
       "ServiceType": "DEV",
       "Key": 109,
+      "Game": 3,
       "BuffGroupID": 18,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -143,6 +153,7 @@
     {
       "ServiceType": "DEV",
       "Key": 110,
+      "Game": 3,
       "BuffGroupID": 19,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -157,6 +168,7 @@
     {
       "ServiceType": "DEV",
       "Key": 111,
+      "Game": 3,
       "BuffGroupID": 20,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -171,6 +183,7 @@
     {
       "ServiceType": "DEV",
       "Key": 112,
+      "Game": 3,
       "BuffGroupID": 21,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -185,6 +198,7 @@
     {
       "ServiceType": "DEV",
       "Key": 113,
+      "Game": 3,
       "BuffGroupID": 22,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -199,6 +213,7 @@
     {
       "ServiceType": "DEV",
       "Key": 114,
+      "Game": 3,
       "BuffGroupID": 23,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -213,6 +228,7 @@
     {
       "ServiceType": "DEV",
       "Key": 115,
+      "Game": 3,
       "BuffGroupID": 24,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -227,6 +243,7 @@
     {
       "ServiceType": "DEV",
       "Key": 116,
+      "Game": 3,
       "BuffGroupID": 25,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -241,6 +258,7 @@
     {
       "ServiceType": "DEV",
       "Key": 117,
+      "Game": 3,
       "BuffGroupID": 26,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -255,6 +273,7 @@
     {
       "ServiceType": "DEV",
       "Key": 118,
+      "Game": 3,
       "BuffGroupID": 27,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -269,6 +288,7 @@
     {
       "ServiceType": "DEV",
       "Key": 119,
+      "Game": 3,
       "BuffGroupID": 28,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -283,6 +303,7 @@
     {
       "ServiceType": "DEV",
       "Key": 120,
+      "Game": 3,
       "BuffGroupID": 29,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -297,6 +318,7 @@
     {
       "ServiceType": "DEV",
       "Key": 121,
+      "Game": 3,
       "BuffGroupID": 30,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -311,6 +333,7 @@
     {
       "ServiceType": "DEV",
       "Key": 122,
+      "Game": 3,
       "BuffGroupID": 31,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -325,6 +348,7 @@
     {
       "ServiceType": "DEV",
       "Key": 123,
+      "Game": 3,
       "BuffGroupID": 32,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -339,6 +363,7 @@
     {
       "ServiceType": "DEV",
       "Key": 124,
+      "Game": 3,
       "BuffGroupID": 33,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -353,6 +378,7 @@
     {
       "ServiceType": "DEV",
       "Key": 125,
+      "Game": 3,
       "BuffGroupID": 34,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -367,6 +393,7 @@
     {
       "ServiceType": "DEV",
       "Key": 126,
+      "Game": 3,
       "BuffGroupID": 35,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -381,6 +408,7 @@
     {
       "ServiceType": "DEV",
       "Key": 127,
+      "Game": 3,
       "BuffGroupID": 36,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -395,6 +423,7 @@
     {
       "ServiceType": "DEV",
       "Key": 128,
+      "Game": 3,
       "BuffGroupID": 37,
       "BuffType": 21,
       "BuffName": "BuffName_21",
@@ -409,22 +438,159 @@
     {
       "ServiceType": "DEV",
       "Key": 129,
+      "Game": 3,
       "BuffGroupID": 38,
       "BuffType": 23,
       "BuffName": "BuffName_25",
+      "BuffCategoryType": 4,
+      "IconName": "",
+      "BuffValue": 180,
+      "BuffValueType": 2,
+      "BGEffect": "100383_bg",
+      "CEffectAttachBone": "shadow",
+      "CEffect": "100383_effect"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "Game": 3,
+      "BuffGroupID": 39,
+      "BuffType": 23,
+      "BuffName": "BuffName_25",
+      "BuffCategoryType": 4,
+      "IconName": "",
+      "BuffValue": 180,
+      "BuffValueType": 2,
+      "BGEffect": "cn_cafe_effect3",
+      "CEffectAttachBone": "shadow",
+      "CEffect": "100386_effect"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "Game": 3,
+      "BuffGroupID": 40,
+      "BuffType": 23,
+      "BuffName": "BuffName_25",
+      "BuffCategoryType": 4,
+      "IconName": "",
+      "BuffValue": 90,
+      "BuffValueType": 2,
+      "BGEffect": "100382_bg",
+      "CEffectAttachBone": "shadow",
+      "CEffect": "100382_effect"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "Game": 3,
+      "BuffGroupID": 41,
+      "BuffType": 23,
+      "BuffName": "BuffName_25",
+      "BuffCategoryType": 4,
+      "IconName": "",
+      "BuffValue": 90,
+      "BuffValueType": 2,
+      "BGEffect": "100381_bg",
+      "CEffectAttachBone": "shadow",
+      "CEffect": "100381_effect"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 133,
+      "Game": 3,
+      "BuffGroupID": 42,
+      "BuffType": 1,
+      "BuffName": "BuffName_01",
       "BuffCategoryType": 1,
       "IconName": "",
       "BuffValue": 5,
+      "BuffValueType": 1,
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 134,
+      "Game": 3,
+      "BuffGroupID": 43,
+      "BuffType": 2,
+      "BuffName": "BuffName_02",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 5,
+      "BuffValueType": 1,
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 135,
+      "Game": 3,
+      "BuffGroupID": 44,
+      "BuffType": 7,
+      "BuffName": "BuffName_07",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 10,
+      "BuffValueType": 1,
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 136,
+      "Game": 3,
+      "BuffGroupID": 45,
+      "BuffType": 6,
+      "BuffName": "BuffName_06",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 10,
+      "BuffValueType": 1,
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 137,
+      "Game": 3,
+      "BuffGroupID": 46,
+      "BuffType": 4,
+      "BuffName": "BuffName_04",
+      "BuffCategoryType": 2,
+      "IconName": "",
+      "BuffValue": 5,
       "BuffValueType": 2,
-      "BGEffect": "cn_cafe_effect1",
-      "CEffectAttachBone": "shadow",
-      "CEffect": "cinnamoroll01"
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 138,
+      "Game": 3,
+      "BuffGroupID": 47,
+      "BuffType": 5,
+      "BuffName": "BuffName_05",
+      "BuffCategoryType": 1,
+      "IconName": "",
+      "BuffValue": 2,
+      "BuffValueType": 1,
+      "BGEffect": "",
+      "CEffectAttachBone": "",
+      "CEffect": ""
     }
   ],
   "UseBuffType": [
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "UseBuffType": 1,
       "IconType": 1,
       "StepIcon": "",
@@ -434,6 +600,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "UseBuffType": 2,
       "IconType": 2,
       "StepIcon": "HouseMileage_Icon",
@@ -443,6 +610,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "UseBuffType": 3,
       "IconType": 1,
       "StepIcon": "",
@@ -452,6 +620,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "UseBuffType": 4,
       "IconType": 2,
       "StepIcon": "Event_Icon",
@@ -461,6 +630,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "UseBuffType": 5,
       "IconType": 2,
       "StepIcon": "Event_Icon",

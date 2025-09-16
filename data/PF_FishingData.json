@@ -3,151 +3,181 @@
     {
       "ServiceType": "DEV",
       "Key": 359,
+      "Game": 3,
       "FishingGrade": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 360,
+      "Game": 3,
       "FishingGrade": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 361,
+      "Game": 3,
       "FishingGrade": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 362,
+      "Game": 3,
       "FishingGrade": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 363,
+      "Game": 3,
       "FishingGrade": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 364,
+      "Game": 3,
       "FishingGrade": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 365,
+      "Game": 3,
       "FishingGrade": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 366,
+      "Game": 3,
       "FishingGrade": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 367,
+      "Game": 3,
       "FishingGrade": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 368,
+      "Game": 3,
       "FishingGrade": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 369,
+      "Game": 3,
       "FishingGrade": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 370,
+      "Game": 3,
       "FishingGrade": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 371,
+      "Game": 3,
       "FishingGrade": 7
     },
     {
       "ServiceType": "DEV",
       "Key": 372,
+      "Game": 3,
       "FishingGrade": 7
     },
     {
       "ServiceType": "DEV",
       "Key": 383,
+      "Game": 3,
       "FishingGrade": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 384,
+      "Game": 3,
       "FishingGrade": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 385,
+      "Game": 3,
       "FishingGrade": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 386,
+      "Game": 3,
       "FishingGrade": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 387,
+      "Game": 3,
       "FishingGrade": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 388,
+      "Game": 3,
       "FishingGrade": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 389,
+      "Game": 3,
       "FishingGrade": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 390,
+      "Game": 3,
       "FishingGrade": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 391,
+      "Game": 3,
       "FishingGrade": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 392,
+      "Game": 3,
       "FishingGrade": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 393,
+      "Game": 3,
       "FishingGrade": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 394,
+      "Game": 3,
       "FishingGrade": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 395,
+      "Game": 3,
       "FishingGrade": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 396,
+      "Game": 3,
       "FishingGrade": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 397,
+      "Game": 3,
       "FishingGrade": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 398,
+      "Game": 3,
       "FishingGrade": 6
     }
   ],
@@ -155,6 +185,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 1,
       "DropRate": 30
@@ -162,6 +193,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 2,
       "DropRate": 25
@@ -169,6 +201,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 3,
       "DropRate": 20
@@ -176,6 +209,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 4,
       "DropRate": 13
@@ -183,6 +217,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 5,
       "DropRate": 8
@@ -190,6 +225,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "FishingType": 1,
       "FishingGrade": 6,
       "DropRate": 4
@@ -197,6 +233,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 1,
       "DropRate": 22
@@ -204,6 +241,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 2,
       "DropRate": 22
@@ -211,6 +249,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 3,
       "DropRate": 18
@@ -218,6 +257,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 4,
       "DropRate": 16
@@ -225,6 +265,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 5,
       "DropRate": 13
@@ -232,6 +273,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "FishingType": 2,
       "FishingGrade": 6,
       "DropRate": 9
@@ -241,12 +283,14 @@
     {
       "ServiceType": "DEV",
       "Key": 357,
+      "Game": 3,
       "FishingType": 1,
       "AnimSkin": "fishingstick_01"
     },
     {
       "ServiceType": "DEV",
       "Key": 358,
+      "Game": 3,
       "FishingType": 2,
       "AnimSkin": "fishingstick_01_s"
     }

@@ -1,74 +1,248 @@
 {
+  "InteractionReward": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "FieldID": 2003,
+      "ItemID": 10500269,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": true,
+      "Timer": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "FieldID": 2003,
+      "ItemID": 10500268,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "FieldID": 2003,
+      "ItemID": 10500271,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "FieldID": 2003,
+      "ItemID": 10500272,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldID": 2003,
+      "ItemID": 10500273,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldID": 2003,
+      "ItemID": 10500266,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldID": 2003,
+      "ItemID": 100378,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "FieldID": 2003,
+      "ItemID": 100379,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "FieldID": 2003,
+      "ItemID": 100380,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "FieldID": 2003,
+      "ItemID": 100381,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 11,
+      "FieldID": 2003,
+      "ItemID": 100382,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "FieldID": 2003,
+      "ItemID": 100383,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "FieldID": 2003,
+      "ItemID": 100384,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "FieldID": 2003,
+      "ItemID": 100385,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "FieldID": 2003,
+      "ItemID": 100386,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "FieldID": 2003,
+      "ItemID": 100387,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    }
+  ],
   "MonthTerm": [
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "January_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "Februrary_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "March_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "April_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "May_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "June_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "July_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "August_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "September_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "October_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "November_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "Nation": 15,
       "RankingStringkey": "December_Ranking"
     }
@@ -77,60 +251,70 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_4"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_5"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_6"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_7"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_8"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_9"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_10"
     }
@@ -139,22 +323,26 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "FieldID": 2003,
       "ItemID": 373,
       "RwdType": 20,
       "RwdItemID": 454,
       "RwdItemQnty": 1,
-      "Point": 1
+      "Point": 1,
+      "Rate": 5000
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "FieldID": 2003,
       "ItemID": 374,
       "RwdType": 20,
       "RwdItemID": 453,
       "RwdItemQnty": 1,
-      "Point": 5
+      "Point": 5,
+      "Rate": 7000
     }
   ]
 }

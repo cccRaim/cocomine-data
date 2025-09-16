@@ -1,58 +1,63 @@
 {
   "Blueprint": [
     {
-      "ServiceType": "NONE",
-      "Key": 1,
-      "BlueprintName": "Blueprint_1",
-      "IconID": "Blueprint_icon_1",
-      "SortIndex": 1,
-      "FieldLimitType": [],
-      "BuyPriceType": 4,
-      "BuyPriceValue": 100,
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "BlueprintName": "Blueprint_2",
       "IconID": "Blueprint_icon_2",
       "SortIndex": 2,
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
-      "IsPlayable": false,
+      "IsPlayable": true,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "BlueprintName": "Blueprint_3",
       "IconID": "Blueprint_icon_3",
       "SortIndex": 3,
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
-      "IsPlayable": false,
+      "IsPlayable": true,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "BlueprintName": "Blueprint_4",
       "IconID": "Blueprint_icon_4",
       "SortIndex": 4,
       "FieldLimitType": [],
       "BuyPriceType": 4,
       "BuyPriceValue": 100,
-      "IsPlayable": false,
+      "IsPlayable": true,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000,
+      "Game": 1,
+      "BlueprintName": "Blueprint_1000",
+      "IconID": "Blueprint_icon_1000",
+      "SortIndex": 1000,
+      "FieldLimitType": [],
+      "BuyPriceType": 4,
+      "BuyPriceValue": 100,
+      "IsPlayable": false,
+      "OpenTime": "2023-03-02T05:50:10 +09:01"
     }
   ],
   "Room": [
     {
       "ServiceType": "DEV",
       "Key": 1000,
+      "Game": 3,
       "RoomName": "Room_1000",
       "BlueprintID": 1,
       "IconID": "Room_icon_1",
@@ -76,11 +81,12 @@
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1001,
+      "Game": 3,
       "RoomName": "Room_1001",
       "BlueprintID": 1,
       "IconID": "Room_icon_2",
@@ -109,11 +115,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1002,
+      "Game": 3,
       "RoomName": "Room_1002",
       "BlueprintID": 1,
       "IconID": "Room_icon_3",
@@ -145,11 +152,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_eu",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1003,
+      "Game": 3,
       "RoomName": "Room_1003",
       "BlueprintID": 1,
       "IconID": "Room_icon_4",
@@ -184,11 +192,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1004,
+      "Game": 3,
       "RoomName": "Room_1004",
       "BlueprintID": 1,
       "IconID": "Room_icon_5",
@@ -225,11 +234,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_eu",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1005,
+      "Game": 3,
       "RoomName": "Room_1005",
       "BlueprintID": 1,
       "IconID": "Room_icon_6",
@@ -265,11 +275,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_eu",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1006,
+      "Game": 3,
       "RoomName": "Room_1006",
       "BlueprintID": 2,
       "IconID": "Room_icon_1",
@@ -293,11 +304,12 @@
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1007,
+      "Game": 3,
       "RoomName": "Room_1007",
       "BlueprintID": 2,
       "IconID": "Room_icon_2",
@@ -326,11 +338,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1008,
+      "Game": 3,
       "RoomName": "Room_1008",
       "BlueprintID": 2,
       "IconID": "Room_icon_3",
@@ -362,11 +375,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_ct",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1009,
+      "Game": 3,
       "RoomName": "Room_1009",
       "BlueprintID": 2,
       "IconID": "Room_icon_4",
@@ -401,11 +415,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1010,
+      "Game": 3,
       "RoomName": "Room_1010",
       "BlueprintID": 2,
       "IconID": "Room_icon_5",
@@ -442,11 +457,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_ct",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1011,
+      "Game": 3,
       "RoomName": "Room_1011",
       "BlueprintID": 2,
       "IconID": "Room_icon_6",
@@ -482,11 +498,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_ct",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1012,
+      "Game": 3,
       "RoomName": "Room_1012",
       "BlueprintID": 3,
       "IconID": "Room_icon_1",
@@ -510,11 +527,12 @@
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1013,
+      "Game": 3,
       "RoomName": "Room_1013",
       "BlueprintID": 3,
       "IconID": "Room_icon_2",
@@ -543,11 +561,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1014,
+      "Game": 3,
       "RoomName": "Room_1014",
       "BlueprintID": 3,
       "IconID": "Room_icon_3",
@@ -579,11 +598,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_fl",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1015,
+      "Game": 3,
       "RoomName": "Room_1015",
       "BlueprintID": 3,
       "IconID": "Room_icon_4",
@@ -618,11 +638,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1016,
+      "Game": 3,
       "RoomName": "Room_1016",
       "BlueprintID": 3,
       "IconID": "Room_icon_5",
@@ -659,11 +680,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_fl",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1017,
+      "Game": 3,
       "RoomName": "Room_1017",
       "BlueprintID": 3,
       "IconID": "Room_icon_6",
@@ -699,11 +721,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_fl",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1018,
+      "Game": 3,
       "RoomName": "Room_1018",
       "BlueprintID": 4,
       "IconID": "Room_icon_1",
@@ -727,11 +750,12 @@
       "RoomConstructionTime": 0,
       "InteriorIconID": "1lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1019,
+      "Game": 3,
       "RoomName": "Room_1019",
       "BlueprintID": 4,
       "IconID": "Room_icon_2",
@@ -760,11 +784,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "2lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1020,
+      "Game": 3,
       "RoomName": "Room_1020",
       "BlueprintID": 4,
       "IconID": "Room_icon_3",
@@ -796,11 +821,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "3lv-room_tp",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1021,
+      "Game": 3,
       "RoomName": "Room_1021",
       "BlueprintID": 4,
       "IconID": "Room_icon_4",
@@ -835,11 +861,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "4lv-room",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1022,
+      "Game": 3,
       "RoomName": "Room_1022",
       "BlueprintID": 4,
       "IconID": "Room_icon_5",
@@ -876,11 +903,12 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "5lv-room_tp",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
-      "IsPlayable": false
+      "IsPlayable": true
     },
     {
       "ServiceType": "DEV",
       "Key": 1023,
+      "Game": 3,
       "RoomName": "Room_1023",
       "BlueprintID": 4,
       "IconID": "Room_icon_6",
@@ -916,6 +944,47 @@
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_tp",
       "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000000,
+      "Game": 3,
+      "RoomName": "Room_1000000",
+      "BlueprintID": 1000,
+      "IconID": "Room_icon_6",
+      "IsBase": true,
+      "OpenSortIndex": 1,
+      "BuyPriceType": 4,
+      "BuyPriceValue": 16000,
+      "OpenGroupID": 10045,
+      "WallID": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "DisappearWallID": [
+        10004,
+        10104
+      ],
+      "FloorID": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "FieldPrefabName": "CinnamorollBlueprint",
+      "HouseSkinIconName": "Blueprint4_Room6_icon",
+      "RoomConstructionTime": 24000,
+      "InteriorIconID": "6lv-room_tp",
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
       "IsPlayable": false
     }
   ],
@@ -923,6 +992,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000000,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000000",
       "IconID": "Yard_icon_1",
@@ -935,6 +1005,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000001,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000001",
       "IconID": "Yard_icon_1",
@@ -947,6 +1018,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000002,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000002",
       "IconID": "Yard_icon_1",
@@ -959,6 +1031,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000003,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000003",
       "IconID": "Yard_icon_1",
@@ -971,6 +1044,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000004,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000004",
       "IconID": "Yard_icon_2",
@@ -983,6 +1057,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000006,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000005",
       "IconID": "Yard_icon_2",
@@ -995,6 +1070,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000007,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000006",
       "IconID": "Yard_icon_3",
@@ -1007,6 +1083,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000008,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000007",
       "IconID": "Yard_icon_3",
@@ -1019,6 +1096,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000009,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000008",
       "IconID": "Yard_icon_2",
@@ -1031,6 +1109,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000010,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000009",
       "IconID": "Yard_icon_2",
@@ -1043,6 +1122,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000011,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000010",
       "IconID": "Yard_icon_3",
@@ -1055,6 +1135,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000012,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000011",
       "IconID": "Yard_icon_5",
@@ -1067,6 +1148,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000013,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000012",
       "IconID": "Yard_icon_3",
@@ -1079,6 +1161,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000014,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000013",
       "IconID": "Yard_icon_3",
@@ -1091,6 +1174,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000015,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000014",
       "IconID": "Yard_icon_3",
@@ -1103,6 +1187,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000016,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000015",
       "IconID": "Yard_icon_3",
@@ -1115,6 +1200,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000017,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000016",
       "IconID": "Yard_icon_4",
@@ -1127,6 +1213,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000018,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000017",
       "IconID": "Yard_icon_3",
@@ -1139,6 +1226,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000019,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000018",
       "IconID": "Yard_icon_3",
@@ -1151,6 +1239,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000020,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000019",
       "IconID": "Yard_icon_3",
@@ -1163,6 +1252,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000021,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000020",
       "IconID": "Yard_icon_3",
@@ -1175,6 +1265,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000022,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000021",
       "IconID": "Yard_icon_5",
@@ -1187,6 +1278,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000023,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000022",
       "IconID": "Yard_icon_3",
@@ -1199,6 +1291,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000024,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000023",
       "IconID": "Yard_icon_3",
@@ -1211,6 +1304,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000025,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000024",
       "IconID": "Yard_icon_3",
@@ -1223,6 +1317,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000026,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000025",
       "IconID": "Yard_icon_3",
@@ -1235,6 +1330,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000027,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000026",
       "IconID": "Yard_icon_4",
@@ -1247,6 +1343,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000028,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000027",
       "IconID": "Yard_icon_3",
@@ -1259,6 +1356,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000029,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000028",
       "IconID": "Yard_icon_3",
@@ -1271,6 +1369,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000030,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000029",
       "IconID": "Yard_icon_3",
@@ -1283,6 +1382,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000031,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_0",
       "IconID": "Yard_icon_1",
@@ -1295,6 +1395,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000032,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_1",
       "IconID": "Yard_icon_1",
@@ -1307,6 +1408,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000033,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_2",
       "IconID": "Yard_icon_1",
@@ -1319,6 +1421,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000034,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_3",
       "IconID": "Yard_icon_1",
@@ -1331,6 +1434,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000035,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_4",
       "IconID": "Yard_icon_1",
@@ -1343,6 +1447,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000036,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_5",
       "IconID": "Yard_icon_2",
@@ -1355,6 +1460,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000037,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_6",
       "IconID": "Yard_icon_2",
@@ -1367,6 +1473,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000038,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_7",
       "IconID": "Yard_icon_3",
@@ -1379,6 +1486,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000039,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_8",
       "IconID": "Yard_icon_3",
@@ -1391,6 +1499,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000040,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_9",
       "IconID": "Yard_icon_2",
@@ -1403,6 +1512,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000041,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_10",
       "IconID": "Yard_icon_2",
@@ -1415,6 +1525,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000042,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000030",
       "IconID": "Yard_icon_3",
@@ -1427,6 +1538,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000043,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000031",
       "IconID": "Yard_icon_5",
@@ -1439,6 +1551,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000044,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000032",
       "IconID": "Yard_icon_3",
@@ -1451,6 +1564,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000045,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000033",
       "IconID": "Yard_icon_3",
@@ -1463,6 +1577,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000046,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000034",
       "IconID": "Yard_icon_3",
@@ -1475,6 +1590,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000047,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000035",
       "IconID": "Yard_icon_3",
@@ -1487,6 +1603,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000048,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000036",
       "IconID": "Yard_icon_4",
@@ -1499,6 +1616,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000049,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000037",
       "IconID": "Yard_icon_3",
@@ -1511,6 +1629,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000050,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000038",
       "IconID": "Yard_icon_3",
@@ -1523,6 +1642,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000051,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000039",
       "IconID": "Yard_icon_4",
@@ -1535,6 +1655,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000052,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_11",
       "IconID": "Yard_icon_1",
@@ -1547,6 +1668,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000053,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_12",
       "IconID": "Yard_icon_1",
@@ -1559,6 +1681,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000054,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_13",
       "IconID": "Yard_icon_1",
@@ -1571,6 +1694,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000055,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_14",
       "IconID": "Yard_icon_1",
@@ -1583,6 +1707,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000056,
+      "Game": 3,
       "FieldID": 104,
       "YardName": "GreenFarm_Yard_15",
       "IconID": "Yard_icon_1",
@@ -1595,6 +1720,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000057,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000040",
       "IconID": "Yard_icon_5",
@@ -1607,6 +1733,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000058,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000041",
       "IconID": "Yard_icon_3",
@@ -1619,6 +1746,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000059,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000042",
       "IconID": "Yard_icon_6",
@@ -1631,6 +1759,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000060,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000043",
       "IconID": "Yard_icon_2",
@@ -1643,6 +1772,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000061,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000044",
       "IconID": "Yard_icon_3",
@@ -1655,6 +1785,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000062,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000045",
       "IconID": "Yard_icon_5",
@@ -1667,6 +1798,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000063,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000046",
       "IconID": "Yard_icon_3",
@@ -1679,6 +1811,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000064,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000047",
       "IconID": "Yard_icon_3",
@@ -1691,6 +1824,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000065,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000048",
       "IconID": "Yard_icon_4",
@@ -1703,6 +1837,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000066,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000049",
       "IconID": "Yard_icon_5",
@@ -1715,6 +1850,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000067,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000050",
       "IconID": "Yard_icon_3",
@@ -1727,6 +1863,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000068,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000051",
       "IconID": "Yard_icon_3",
@@ -1739,6 +1876,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000069,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000052",
       "IconID": "Yard_icon_3",
@@ -1751,6 +1889,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000070,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000053",
       "IconID": "Yard_icon_4",
@@ -1763,6 +1902,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000071,
+      "Game": 3,
       "FieldID": 102,
       "YardName": "Yard_1000054",
       "IconID": "Yard_icon_1",
@@ -1775,6 +1915,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000072,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000055",
       "IconID": "Yard_icon_5",
@@ -1787,6 +1928,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000073,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000056",
       "IconID": "Yard_icon_3",
@@ -1799,6 +1941,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000074,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000057",
       "IconID": "Yard_icon_6",
@@ -1811,6 +1954,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000075,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000058",
       "IconID": "Yard_icon_2",
@@ -1823,6 +1967,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000076,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000059",
       "IconID": "Yard_icon_5",
@@ -1835,6 +1980,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000077,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000060",
       "IconID": "Yard_icon_3",
@@ -1847,6 +1993,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000078,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000061",
       "IconID": "Yard_icon_3",
@@ -1859,6 +2006,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000079,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000062",
       "IconID": "Yard_icon_3",
@@ -1871,6 +2019,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000080,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000063",
       "IconID": "Yard_icon_3",
@@ -1883,6 +2032,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000081,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000064",
       "IconID": "Yard_icon_5",
@@ -1895,6 +2045,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000082,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000065",
       "IconID": "Yard_icon_3",
@@ -1907,6 +2058,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000083,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000066",
       "IconID": "Yard_icon_3",
@@ -1919,6 +2071,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000084,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000067",
       "IconID": "Yard_icon_3",
@@ -1931,6 +2084,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000085,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000068",
       "IconID": "Yard_icon_4",
@@ -1943,6 +2097,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000086,
+      "Game": 3,
       "FieldID": 100,
       "YardName": "Yard_1000069",
       "IconID": "Yard_icon_1",
@@ -1955,6 +2110,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000087,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000070",
       "IconID": "Yard_icon_5",
@@ -1967,6 +2123,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000088,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000071",
       "IconID": "Yard_icon_3",
@@ -1979,6 +2136,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000089,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000072",
       "IconID": "Yard_icon_6",
@@ -1991,6 +2149,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000090,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000073",
       "IconID": "Yard_icon_2",
@@ -2003,6 +2162,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000091,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000074",
       "IconID": "Yard_icon_3",
@@ -2015,6 +2175,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000092,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000075",
       "IconID": "Yard_icon_5",
@@ -2027,6 +2188,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000093,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000076",
       "IconID": "Yard_icon_3",
@@ -2039,6 +2201,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000094,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000077",
       "IconID": "Yard_icon_3",
@@ -2051,6 +2214,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000095,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000078",
       "IconID": "Yard_icon_4",
@@ -2063,6 +2227,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000096,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000079",
       "IconID": "Yard_icon_5",
@@ -2075,6 +2240,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000097,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000080",
       "IconID": "Yard_icon_3",
@@ -2087,6 +2253,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000098,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000081",
       "IconID": "Yard_icon_3",
@@ -2099,6 +2266,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000099,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000082",
       "IconID": "Yard_icon_3",
@@ -2111,6 +2279,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000100,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000083",
       "IconID": "Yard_icon_4",
@@ -2123,6 +2292,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000101,
+      "Game": 3,
       "FieldID": 103,
       "YardName": "Yard_1000084",
       "IconID": "Yard_icon_1",
@@ -2135,6 +2305,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000102,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000085",
       "IconID": "Yard_icon_5",
@@ -2147,6 +2318,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000103,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000086",
       "IconID": "Yard_icon_3",
@@ -2159,6 +2331,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000104,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000087",
       "IconID": "Yard_icon_6",
@@ -2171,6 +2344,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000105,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000088",
       "IconID": "Yard_icon_2",
@@ -2183,6 +2357,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000106,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000089",
       "IconID": "Yard_icon_3",
@@ -2195,6 +2370,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000107,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000090",
       "IconID": "Yard_icon_5",
@@ -2207,6 +2383,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000108,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000091",
       "IconID": "Yard_icon_3",
@@ -2219,6 +2396,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000109,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000092",
       "IconID": "Yard_icon_3",
@@ -2231,6 +2409,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000110,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000093",
       "IconID": "Yard_icon_4",
@@ -2243,6 +2422,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000111,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000094",
       "IconID": "Yard_icon_5",
@@ -2255,6 +2435,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000112,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000095",
       "IconID": "Yard_icon_3",
@@ -2267,6 +2448,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000113,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000096",
       "IconID": "Yard_icon_3",
@@ -2279,6 +2461,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000114,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000097",
       "IconID": "Yard_icon_3",
@@ -2291,6 +2474,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000115,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000098",
       "IconID": "Yard_icon_4",
@@ -2303,6 +2487,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000116,
+      "Game": 3,
       "FieldID": 101,
       "YardName": "Yard_1000099",
       "IconID": "Yard_icon_1",
@@ -2317,6 +2502,7 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
+      "Game": 3,
       "FieldName": "Field_100",
       "IconID": "icon_house",
       "FieldImage": "Field100_image",
@@ -2332,31 +2518,13 @@
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
       "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 101,
-      "FieldName": "Field_101",
-      "IconID": "icon_house",
-      "FieldImage": "Field101_image",
-      "IsSquare": false,
-      "IsHouse": true,
-      "BGMPrefabName": "BGM_European",
-      "NightBGMPrefabName": "BGM_European_N",
-      "CityID": 2,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "Field101",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 1,
-      "PlaceShortcutTypeString": "My_House",
-      "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "FieldName": "Field_102",
       "IconID": "icon_house",
       "FieldImage": "Field102_image",
@@ -2372,11 +2540,13 @@
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "FieldName": "Field_103",
       "IconID": "icon_house",
       "FieldImage": "Field103_image",
@@ -2392,11 +2562,13 @@
       "PlaceShortcutType": 1,
       "PlaceShortcutTypeString": "My_House",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "FieldName": "Field_104",
       "IconID": "icon_greenfarm",
       "FieldImage": "Field104_image",
@@ -2412,171 +2584,13 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 105,
-      "FieldName": "Field_105",
-      "IconID": "icon_town2",
-      "FieldImage": "icon_town2",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "BGM_CentralTown",
-      "NightBGMPrefabName": "BGM_CentralTown_N",
-      "CityID": 1,
-      "IsShortcut": true,
-      "IconTag": 0,
-      "FieldPrefabName": "CentralTownField105",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 3,
-      "PlaceShortcutTypeString": "Plaza",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 106,
-      "FieldName": "Field_106",
-      "IconID": "icon_adventure",
-      "FieldImage": "Field106_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "BGM_EverGreen",
-      "NightBGMPrefabName": "BGM_EverGreen_N",
-      "CityID": 2,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "LandMark106",
-      "IsShortcutPopup": false,
-      "PlaceShortcutType": 3,
-      "PlaceShortcutTypeString": "Plaza",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 107,
-      "FieldName": "Field_107",
-      "IconID": "Field107_icon",
-      "FieldImage": "Field107_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "BGM_QueenPalace",
-      "NightBGMPrefabName": "BGM_QueenPalace_N",
-      "CityID": 1,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "QueensPalaceLandMark001",
-      "IsShortcutPopup": false,
-      "PlaceShortcutType": 0,
-      "PlaceShortcutTypeString": "",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 108,
-      "FieldName": "Field_108",
-      "IconID": "icon_fashionstreet",
-      "FieldImage": "Field108_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "BGM_FashionStreet",
-      "NightBGMPrefabName": "BGM_FashionStreet_N",
-      "CityID": 4,
-      "IsShortcut": true,
-      "IconTag": 0,
-      "FieldPrefabName": "Field108",
-      "IsShortcutPopup": false,
-      "PlaceShortcutType": 3,
-      "PlaceShortcutTypeString": "Plaza",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 109,
-      "FieldName": "Field_109",
-      "IconID": "icon_town",
-      "FieldImage": "Field109_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "",
-      "NightBGMPrefabName": "",
-      "CityID": 1,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "Village000001",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 2,
-      "PlaceShortcutTypeString": "My_Village",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 110,
-      "FieldName": "Field_110",
-      "IconID": "icon_town",
-      "FieldImage": "Field109_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "",
-      "NightBGMPrefabName": "",
-      "CityID": 2,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "Village000002",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 2,
-      "PlaceShortcutTypeString": "My_Village",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 111,
-      "FieldName": "Field_111",
-      "IconID": "icon_town",
-      "FieldImage": "Field109_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "",
-      "NightBGMPrefabName": "",
-      "CityID": 3,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "Village000003",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 2,
-      "PlaceShortcutTypeString": "My_Village",
-      "IsPlayable": false,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 112,
-      "FieldName": "Field_112",
-      "IconID": "icon_town",
-      "FieldImage": "Field109_image",
-      "IsSquare": true,
-      "IsHouse": false,
-      "BGMPrefabName": "",
-      "NightBGMPrefabName": "",
-      "CityID": 4,
-      "IsShortcut": false,
-      "IconTag": 0,
-      "FieldPrefabName": "Village000004",
-      "IsShortcutPopup": true,
-      "PlaceShortcutType": 2,
-      "PlaceShortcutTypeString": "My_Village",
-      "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2001,
+      "Game": 1,
       "FieldName": "field_2001",
       "IconID": "fashion_ps",
       "FieldImage": "field_2001_image",
@@ -2592,11 +2606,13 @@
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2002,
+      "Game": 3,
       "FieldName": "HairShop",
       "IconID": "",
       "FieldImage": "",
@@ -2612,11 +2628,13 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2003,
+      "Game": 1,
       "FieldName": "Field_2003",
       "IconID": "icon_cinnamoroll",
       "FieldImage": "Field_2003_image",
@@ -2632,11 +2650,13 @@
       "PlaceShortcutType": 3,
       "PlaceShortcutTypeString": "Plaza",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2004,
+      "Game": 1,
       "FieldName": "Town_Map",
       "IconID": "",
       "FieldImage": "",
@@ -2652,11 +2672,13 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2005,
+      "Game": 1,
       "FieldName": "Field_2005",
       "IconID": "",
       "FieldImage": "",
@@ -2672,11 +2694,13 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2006,
+      "Game": 1,
       "FieldName": "Field_2006",
       "IconID": "",
       "FieldImage": "",
@@ -2692,6 +2716,73 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
+      "IsItemSell": true,
+      "OpenTime": "1999-01-01T00:00:00 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2007,
+      "Game": 1,
+      "FieldName": "Field_2007",
+      "IconID": "",
+      "FieldImage": "",
+      "IsSquare": true,
+      "IsHouse": false,
+      "BGMPrefabName": "BGM_Cinnamoroll",
+      "NightBGMPrefabName": "BGM_Cinnamoroll",
+      "CityID": 0,
+      "IsShortcut": false,
+      "IconTag": 0,
+      "FieldPrefabName": "CinnamorollCafe2007",
+      "IsShortcutPopup": false,
+      "PlaceShortcutType": 0,
+      "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
+      "IsItemSell": false,
+      "OpenTime": "1999-01-01T00:00:00 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2008,
+      "Game": 1,
+      "FieldName": "Field_2008",
+      "IconID": "",
+      "FieldImage": "",
+      "IsSquare": true,
+      "IsHouse": false,
+      "BGMPrefabName": "BGM_Cinnamoroll",
+      "NightBGMPrefabName": "BGM_Cinnamoroll",
+      "CityID": 0,
+      "IsShortcut": false,
+      "IconTag": 0,
+      "FieldPrefabName": "CinnamorollPlayground2008",
+      "IsShortcutPopup": false,
+      "PlaceShortcutType": 0,
+      "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
+      "IsItemSell": false,
+      "OpenTime": "1999-01-01T00:00:00 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2009,
+      "Game": 1,
+      "FieldName": "Beauty_Clinic",
+      "IconID": "",
+      "FieldImage": "",
+      "IsSquare": false,
+      "IsHouse": false,
+      "BGMPrefabName": "",
+      "NightBGMPrefabName": "",
+      "CityID": 0,
+      "IsShortcut": false,
+      "IconTag": 0,
+      "FieldPrefabName": "NPCHousingField2009",
+      "IsShortcutPopup": false,
+      "PlaceShortcutType": 0,
+      "PlaceShortcutTypeString": "",
+      "IsPlayable": false,
+      "IsItemSell": false,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     }
   ],
@@ -2699,6 +2790,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000000,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 1,
       "BuyPriceType": 1,
@@ -2709,6 +2801,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000001,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 2,
       "BuyPriceType": 4,
@@ -2719,6 +2812,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000002,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 3,
       "BuyPriceType": 4,
@@ -2729,6 +2823,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000003,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 4,
       "BuyPriceType": 4,
@@ -2739,6 +2834,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000004,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 1,
       "BuyPriceType": 1,
@@ -2749,6 +2845,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000005,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 2,
       "BuyPriceType": 4,
@@ -2759,6 +2856,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000006,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 3,
       "BuyPriceType": 4,
@@ -2769,6 +2867,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000007,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 4,
       "BuyPriceType": 4,
@@ -2779,6 +2878,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000008,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 1,
       "BuyPriceType": 1,
@@ -2789,6 +2889,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000009,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 2,
       "BuyPriceType": 4,
@@ -2799,6 +2900,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000010,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 3,
       "BuyPriceType": 4,
@@ -2809,6 +2911,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000011,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 4,
       "BuyPriceType": 4,
@@ -2819,6 +2922,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000012,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 1,
       "BuyPriceType": 1,
@@ -2829,6 +2933,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000013,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 2,
       "BuyPriceType": 4,
@@ -2839,6 +2944,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000014,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 3,
       "BuyPriceType": 4,
@@ -2849,6 +2955,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000015,
+      "Game": 3,
       "FieldID": 0,
       "Sortindex": 4,
       "BuyPriceType": 4,

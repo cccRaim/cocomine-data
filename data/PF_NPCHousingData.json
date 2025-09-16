@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_hair",
@@ -11,22 +12,25 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "RoomID": 1001,
-      "FieldID": 2003,
-      "BGImage": "bg_cs_furniture",
+      "Game": 3,
+      "RoomID": 1000000,
+      "FieldID": 2006,
+      "BGImage": "",
       "NPCInHouseGroupID": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "RoomID": 1001,
-      "FieldID": 2003,
-      "BGImage": "bg_cs_dress",
+      "Game": 3,
+      "RoomID": 1000000,
+      "FieldID": 2006,
+      "BGImage": "",
       "NPCInHouseGroupID": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_shop",
@@ -35,21 +39,69 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_shop",
       "NPCInHouseGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Game": 3,
+      "RoomID": 1000000,
+      "FieldID": 2007,
+      "BGImage": "",
+      "NPCInHouseGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Game": 3,
+      "RoomID": 1000000,
+      "FieldID": 2008,
+      "BGImage": "",
+      "NPCInHouseGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Game": 3,
+      "RoomID": 1001,
+      "FieldID": 2008,
+      "BGImage": "",
+      "NPCInHouseGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Game": 3,
+      "RoomID": 1023,
+      "FieldID": 113,
+      "BGImage": "",
+      "NPCInHouseGroupID": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Game": 3,
+      "RoomID": 1001,
+      "FieldID": 2002,
+      "BGImage": "bg_fs_clinic",
+      "NPCInHouseGroupID": 9
     }
   ],
   "NPCInHouse": [
     {
       "ServiceType": "DEV",
       "Key": 100,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "IsUserInteraction": true,
       "IsUserFollow": true,
       "IsWander": false,
+      "IsUseSpawnPoint": false,
       "XCoord": 0,
       "YCoord": 0,
       "NPCAnimGroupID": 1,
@@ -58,11 +110,13 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "IsUserInteraction": true,
       "IsUserFollow": true,
       "IsWander": false,
+      "IsUseSpawnPoint": false,
       "XCoord": 0,
       "YCoord": 0,
       "NPCAnimGroupID": 1,
@@ -71,47 +125,99 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "IsUserInteraction": true,
       "IsUserFollow": true,
       "IsWander": false,
-      "XCoord": 0,
-      "YCoord": 0,
+      "IsUseSpawnPoint": false,
+      "XCoord": -19,
+      "YCoord": 56,
       "NPCAnimGroupID": 1,
       "NPCChatGroupID": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "IsUserInteraction": true,
       "IsUserFollow": true,
       "IsWander": false,
-      "XCoord": 0,
-      "YCoord": 0,
+      "IsUseSpawnPoint": false,
+      "XCoord": -19,
+      "YCoord": 56,
       "NPCAnimGroupID": 1,
       "NPCChatGroupID": 4
     },
     {
       "ServiceType": "DEV",
       "Key": 104,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "IsUserInteraction": true,
       "IsUserFollow": true,
       "IsWander": false,
+      "IsUseSpawnPoint": false,
       "XCoord": 0,
       "YCoord": 0,
       "NPCAnimGroupID": 1,
       "NPCChatGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "IsUserInteraction": false,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "IsUseSpawnPoint": true,
+      "XCoord": -20,
+      "YCoord": 56,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "IsUserInteraction": false,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "IsUseSpawnPoint": true,
+      "XCoord": -18,
+      "YCoord": 55,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "IsUserInteraction": false,
+      "IsUserFollow": true,
+      "IsWander": false,
+      "IsUseSpawnPoint": false,
+      "XCoord": 0,
+      "YCoord": 0,
+      "NPCAnimGroupID": 1,
+      "NPCChatGroupID": 9
     }
   ],
   "NPCAnim": [
     {
       "ServiceType": "DEV",
       "Key": 10000,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "happy01",
       "NPCAnim": "happy01"
@@ -119,6 +225,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10001,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "hi01",
       "NPCAnim": "hi01"
@@ -126,6 +233,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10002,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "clap01",
       "NPCAnim": "happy01"
@@ -133,6 +241,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10003,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "love01",
       "NPCAnim": "signature01"
@@ -140,6 +249,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10004,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "shock01",
       "NPCAnim": "expected01"
@@ -147,6 +257,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10005,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "cry01",
       "NPCAnim": "sad01"
@@ -154,6 +265,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10006,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "mad01",
       "NPCAnim": "mad01"
@@ -161,6 +273,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10007,
+      "Game": 3,
       "GroupID": 1,
       "UserAnim": "question01",
       "NPCAnim": "signature01"
@@ -170,6 +283,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_1",
@@ -181,6 +295,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_2",
@@ -192,6 +307,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_3",
@@ -203,6 +319,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_4",
@@ -214,6 +331,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_5",
@@ -225,6 +343,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_6",
@@ -236,6 +355,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_7",
@@ -247,6 +367,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_8",
@@ -258,6 +379,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_9",
@@ -269,6 +391,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_10",
@@ -280,6 +403,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_11",
@@ -291,6 +415,7 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_12",
@@ -302,6 +427,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_13",
@@ -313,6 +439,7 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_14",
@@ -324,6 +451,7 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_15",
@@ -335,6 +463,7 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
+      "Game": 3,
       "GroupID": 1,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_16",
@@ -346,6 +475,7 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_17",
@@ -357,6 +487,7 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_18",
@@ -368,6 +499,7 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_19",
@@ -379,6 +511,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_20",
@@ -390,6 +523,7 @@
     {
       "ServiceType": "DEV",
       "Key": 21,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_21",
@@ -401,6 +535,7 @@
     {
       "ServiceType": "DEV",
       "Key": 22,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_22",
@@ -412,6 +547,7 @@
     {
       "ServiceType": "DEV",
       "Key": 23,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_23",
@@ -423,6 +559,7 @@
     {
       "ServiceType": "DEV",
       "Key": 24,
+      "Game": 3,
       "GroupID": 2,
       "NPCID": 2001,
       "NPCChat": "FashionSquare_Text_24",
@@ -434,6 +571,7 @@
     {
       "ServiceType": "DEV",
       "Key": 25,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_1",
@@ -445,6 +583,7 @@
     {
       "ServiceType": "DEV",
       "Key": 26,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_2",
@@ -456,6 +595,7 @@
     {
       "ServiceType": "DEV",
       "Key": 27,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_3",
@@ -467,6 +607,7 @@
     {
       "ServiceType": "DEV",
       "Key": 28,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_4",
@@ -478,6 +619,7 @@
     {
       "ServiceType": "DEV",
       "Key": 29,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_5",
@@ -489,6 +631,7 @@
     {
       "ServiceType": "DEV",
       "Key": 30,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_6",
@@ -500,6 +643,7 @@
     {
       "ServiceType": "DEV",
       "Key": 31,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_7",
@@ -511,6 +655,7 @@
     {
       "ServiceType": "DEV",
       "Key": 32,
+      "Game": 3,
       "GroupID": 3,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_8",
@@ -522,6 +667,7 @@
     {
       "ServiceType": "DEV",
       "Key": 33,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_9",
@@ -533,6 +679,7 @@
     {
       "ServiceType": "DEV",
       "Key": 34,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_10",
@@ -544,6 +691,7 @@
     {
       "ServiceType": "DEV",
       "Key": 35,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_11",
@@ -555,6 +703,7 @@
     {
       "ServiceType": "DEV",
       "Key": 36,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_12",
@@ -566,6 +715,7 @@
     {
       "ServiceType": "DEV",
       "Key": 37,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_13",
@@ -577,6 +727,7 @@
     {
       "ServiceType": "DEV",
       "Key": 38,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_14",
@@ -588,6 +739,7 @@
     {
       "ServiceType": "DEV",
       "Key": 39,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_15",
@@ -599,6 +751,7 @@
     {
       "ServiceType": "DEV",
       "Key": 40,
+      "Game": 3,
       "GroupID": 4,
       "NPCID": 1002,
       "NPCChat": "CinnamorollSquare_Text_16",
@@ -610,6 +763,7 @@
     {
       "ServiceType": "DEV",
       "Key": 41,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_25",
@@ -621,6 +775,7 @@
     {
       "ServiceType": "DEV",
       "Key": 42,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_26",
@@ -632,6 +787,7 @@
     {
       "ServiceType": "DEV",
       "Key": 43,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_27",
@@ -643,6 +799,7 @@
     {
       "ServiceType": "DEV",
       "Key": 44,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_28",
@@ -654,6 +811,7 @@
     {
       "ServiceType": "DEV",
       "Key": 45,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_29",
@@ -665,6 +823,7 @@
     {
       "ServiceType": "DEV",
       "Key": 46,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_30",
@@ -676,6 +835,7 @@
     {
       "ServiceType": "DEV",
       "Key": 47,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_31",
@@ -687,6 +847,7 @@
     {
       "ServiceType": "DEV",
       "Key": 48,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_32",
@@ -698,6 +859,7 @@
     {
       "ServiceType": "DEV",
       "Key": 49,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_33",
@@ -709,6 +871,7 @@
     {
       "ServiceType": "DEV",
       "Key": 50,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_34",
@@ -720,6 +883,7 @@
     {
       "ServiceType": "DEV",
       "Key": 51,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_35",
@@ -731,6 +895,7 @@
     {
       "ServiceType": "DEV",
       "Key": 52,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_36",
@@ -742,6 +907,7 @@
     {
       "ServiceType": "DEV",
       "Key": 53,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_37",
@@ -753,6 +919,7 @@
     {
       "ServiceType": "DEV",
       "Key": 54,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_38",
@@ -764,6 +931,7 @@
     {
       "ServiceType": "DEV",
       "Key": 55,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_39",
@@ -775,6 +943,7 @@
     {
       "ServiceType": "DEV",
       "Key": 56,
+      "Game": 3,
       "GroupID": 5,
       "NPCID": 2002,
       "NPCChat": "FashionSquare_Text_40",
@@ -782,6 +951,330 @@
       "IsEnter": false,
       "IsExit": true,
       "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 57,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_1",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 58,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_2",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 59,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_3",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 60,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_4",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 61,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_1",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 62,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_2",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 63,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_3",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 64,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_4",
+      "AnimName": "talk01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 65,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_5",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 66,
+      "Game": 3,
+      "GroupID": 6,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Cafe_Touch_6",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 67,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_1",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 68,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_2",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 69,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_3",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 70,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_4",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_Touch_1",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_Touch_2",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "Game": 3,
+      "GroupID": 7,
+      "NPCID": 1002,
+      "NPCChat": "Cinnamoroll_Playground_Touch_3",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "Game": 3,
+      "GroupID": 8,
+      "NPCID": 13,
+      "NPCChat": "Cinnamoroll_Playground_Touch_3",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_1",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_2",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_3",
+      "AnimName": "hi01",
+      "IsEnter": true,
+      "IsExit": false,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_4",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_5",
+      "AnimName": "expected",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_6",
+      "AnimName": "love01",
+      "IsEnter": false,
+      "IsExit": true,
+      "IsTouch": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_7",
+      "AnimName": "love01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_8",
+      "AnimName": "signature01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "Game": 3,
+      "GroupID": 9,
+      "NPCID": 2003,
+      "NPCChat": "Beauty_Clinic_Text_9",
+      "AnimName": "happy01",
+      "IsEnter": false,
+      "IsExit": false,
+      "IsTouch": true
     }
   ]
 }

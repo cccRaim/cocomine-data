@@ -3,21 +3,25 @@
     {
       "ServiceType": "DEV",
       "Key": "BGM_BeautySalon",
+      "Game": 3,
       "NightBGMPrefabName": ""
     },
     {
       "ServiceType": "DEV",
       "Key": "BGM_Shop",
+      "Game": 3,
       "NightBGMPrefabName": ""
     },
     {
       "ServiceType": "DEV",
       "Key": "BGM_Map",
+      "Game": 3,
       "NightBGMPrefabName": ""
     },
     {
       "ServiceType": "DEV",
       "Key": "BGM_Login",
+      "Game": 3,
       "NightBGMPrefabName": ""
     }
   ]

@@ -9,7 +9,7 @@
       "IsTutorial": true,
       "JawName": "FaceType_1",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -20,18 +20,95 @@
       "IsTutorial": true,
       "JawName": "FaceType_2",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
       "Game": 3,
       "FaceType": 3,
-      "IconID": "faceicon_2",
+      "IconID": "faceicon_3",
       "IsTutorial": true,
       "JawName": "FaceType_3",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 4,
+      "Game": 3,
+      "FaceType": 4,
+      "IconID": "faceicon_4",
+      "IsTutorial": false,
+      "JawName": "Item_1000551",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Game": 3,
+      "FaceType": 5,
+      "IconID": "faceicon_5",
+      "IsTutorial": false,
+      "JawName": "Item_1000552",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Game": 3,
+      "FaceType": 6,
+      "IconID": "faceicon_6",
+      "IsTutorial": false,
+      "JawName": "Item_1000553",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Game": 3,
+      "FaceType": 7,
+      "IconID": "faceicon_7",
+      "IsTutorial": false,
+      "JawName": "Item_1000554",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Game": 3,
+      "FaceType": 8,
+      "IconID": "faceicon_8",
+      "IsTutorial": false,
+      "JawName": "Item_1000555",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Game": 3,
+      "FaceType": 9,
+      "IconID": "faceicon_9",
+      "IsTutorial": false,
+      "JawName": "Item_1000556",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Game": 3,
+      "FaceType": 10,
+      "IconID": "faceicon_10",
+      "IsTutorial": false,
+      "JawName": "Item_1000557",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 1000
     }
   ],
   "CharacterPreset": [
@@ -64,7 +141,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_149",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -75,7 +152,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_150",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -86,7 +163,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_151",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -97,7 +174,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_152",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -108,7 +185,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_153",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -119,7 +196,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_154",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -130,7 +207,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_189",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -141,7 +218,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_190",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -152,7 +229,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_191",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -163,7 +240,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_192",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -174,7 +251,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_149",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -185,7 +262,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_150",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -196,7 +273,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_151",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -207,7 +284,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_152",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -218,7 +295,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_153",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -229,7 +306,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_154",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -240,7 +317,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_189",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -251,7 +328,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_190",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -262,7 +339,7 @@
       "IsTutorial": true,
       "EyeColorName": "Color_191",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
@@ -273,7 +350,117 @@
       "IsTutorial": true,
       "EyeColorName": "Color_192",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 200
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "Game": 1,
+      "SexType": 1,
+      "EyeColor": 56,
+      "IsTutorial": false,
+      "EyeColorName": "Color_56",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "Game": 1,
+      "SexType": 1,
+      "EyeColor": 191,
+      "IsTutorial": false,
+      "EyeColorName": "Color_191",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "Game": 1,
+      "SexType": 1,
+      "EyeColor": 88,
+      "IsTutorial": false,
+      "EyeColorName": "Color_88",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "Game": 1,
+      "SexType": 1,
+      "EyeColor": 82,
+      "IsTutorial": false,
+      "EyeColorName": "Color_82",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "Game": 1,
+      "SexType": 1,
+      "EyeColor": 229,
+      "IsTutorial": false,
+      "EyeColorName": "Color_229",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 26,
+      "Game": 1,
+      "SexType": 2,
+      "EyeColor": 56,
+      "IsTutorial": false,
+      "EyeColorName": "Color_56",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 27,
+      "Game": 1,
+      "SexType": 2,
+      "EyeColor": 191,
+      "IsTutorial": false,
+      "EyeColorName": "Color_191",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 28,
+      "Game": 1,
+      "SexType": 2,
+      "EyeColor": 88,
+      "IsTutorial": false,
+      "EyeColorName": "Color_88",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 29,
+      "Game": 1,
+      "SexType": 2,
+      "EyeColor": 82,
+      "IsTutorial": false,
+      "EyeColorName": "Color_82",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 300
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 30,
+      "Game": 1,
+      "SexType": 2,
+      "EyeColor": 229,
+      "IsTutorial": false,
+      "EyeColorName": "Color_229",
+      "BuyPriceType": 4,
+      "BuyPriceValue": 500
     }
   ],
   "SkinColorPreset": [
@@ -286,7 +473,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_13",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -297,7 +484,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_6",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -308,7 +495,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_15",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -319,7 +506,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_25",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -330,7 +517,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_16",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -341,21 +528,21 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_26",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
       "Game": 3,
       "SexType": 1,
-      "SkinColorID": 17,
+      "SkinColorID": 10,
       "IsTutorial": true,
-      "SkinColorName": "SkinColor_17",
+      "SkinColorName": "SkinColor_10",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
       "Game": 3,
       "SexType": 1,
@@ -363,10 +550,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_18",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 9,
       "Game": 3,
       "SexType": 1,
@@ -374,10 +561,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_19",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 10,
       "Game": 3,
       "SexType": 1,
@@ -385,10 +572,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_20",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 11,
       "Game": 3,
       "SexType": 1,
@@ -396,10 +583,10 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_15",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 12,
       "Game": 3,
       "SexType": 1,
@@ -407,7 +594,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_16",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -418,7 +605,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_17",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -429,7 +616,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_18",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -440,7 +627,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_19",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -451,7 +638,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_20",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -462,7 +649,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_21",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -473,7 +660,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_22",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -484,7 +671,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_23",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -495,7 +682,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_24",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -506,7 +693,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_13",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -517,7 +704,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_6",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -528,7 +715,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_15",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -539,7 +726,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_25",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -550,7 +737,7 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_16",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -561,21 +748,21 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_26",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
       "Key": 27,
       "Game": 3,
       "SexType": 2,
-      "SkinColorID": 17,
+      "SkinColorID": 10,
       "IsTutorial": true,
-      "SkinColorName": "SkinColor_17",
+      "SkinColorName": "SkinColor_10",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 28,
       "Game": 3,
       "SexType": 2,
@@ -583,10 +770,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_18",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 29,
       "Game": 3,
       "SexType": 2,
@@ -594,10 +781,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_19",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 30,
       "Game": 3,
       "SexType": 2,
@@ -605,10 +792,10 @@
       "IsTutorial": true,
       "SkinColorName": "SkinColor_20",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 31,
       "Game": 3,
       "SexType": 2,
@@ -616,10 +803,10 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_15",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 32,
       "Game": 3,
       "SexType": 2,
@@ -627,7 +814,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_16",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1000
     },
     {
       "ServiceType": "DEV",
@@ -638,7 +825,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_17",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -649,7 +836,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_18",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -660,7 +847,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_19",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -671,7 +858,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_20",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -682,7 +869,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_21",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -693,7 +880,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_22",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -704,7 +891,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_23",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     },
     {
       "ServiceType": "DEV",
@@ -715,7 +902,7 @@
       "IsTutorial": false,
       "SkinColorName": "SkinColor_24",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 1500
     }
   ],
   "HairPreset": [
@@ -891,7 +1078,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000049",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -903,7 +1090,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000050",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -915,7 +1102,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000050",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -927,7 +1114,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000049",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -939,7 +1126,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000079",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -951,7 +1138,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000080",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -963,7 +1150,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000081",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -975,7 +1162,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000082",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -987,7 +1174,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000083",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -999,7 +1186,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000084",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1011,7 +1198,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000085",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1023,7 +1210,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000086",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1035,7 +1222,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000079",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1047,7 +1234,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000080",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1059,7 +1246,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000081",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1071,7 +1258,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000082",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1083,7 +1270,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000083",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1095,7 +1282,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000084",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1107,7 +1294,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000085",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1119,7 +1306,7 @@
       "IsTutorial": true,
       "MakeupName": "Item_1000086",
       "BuyPriceType": 4,
-      "BuyPriceValue": 150
+      "BuyPriceValue": 700
     },
     {
       "ServiceType": "DEV",
@@ -1131,7 +1318,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000435",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1143,7 +1330,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000436",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1155,7 +1342,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000437",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1167,7 +1354,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000438",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1179,7 +1366,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000439",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1191,7 +1378,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000440",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1203,7 +1390,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000441",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1215,7 +1402,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000442",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1227,10 +1414,10 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000443",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": " NONE",
+      "ServiceType": "NONE",
       "Key": 30,
       "Game": 3,
       "SexType": 1,
@@ -1239,10 +1426,10 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000016",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
-      "ServiceType": " NONE",
+      "ServiceType": "NONE",
       "Key": 31,
       "Game": 3,
       "SexType": 1,
@@ -1251,7 +1438,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000020",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1263,7 +1450,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000021",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1200
     },
     {
       "ServiceType": "DEV",
@@ -1275,7 +1462,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000061",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1200
     },
     {
       "ServiceType": "DEV",
@@ -1287,7 +1474,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000435",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1299,7 +1486,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000436",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1311,7 +1498,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000437",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1323,7 +1510,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000438",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1335,7 +1522,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000439",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1347,7 +1534,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000440",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1359,7 +1546,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000441",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1371,7 +1558,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000442",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1383,10 +1570,10 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000443",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1000
     },
     {
-      "ServiceType": " NONE",
+      "ServiceType": "NONE",
       "Key": 43,
       "Game": 3,
       "SexType": 2,
@@ -1395,10 +1582,10 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000016",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
-      "ServiceType": " NONE",
+      "ServiceType": "NONE",
       "Key": 44,
       "Game": 3,
       "SexType": 2,
@@ -1407,7 +1594,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000020",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 900
     },
     {
       "ServiceType": "DEV",
@@ -1419,7 +1606,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000021",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1200
     },
     {
       "ServiceType": "DEV",
@@ -1431,7 +1618,7 @@
       "IsTutorial": false,
       "MakeupName": "Item_1000061",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 1200
     }
   ],
   "HouseItemPreset": [

@@ -8,8 +8,20 @@
       "PotSpine": 100197,
       "PotRwdGroupID": 8,
       "PotFriendRwdGroupID": 8,
-      "PotReceiveRwdGroupID": 0,
-      "MailBoxStringKey": 0,
+      "PotReceiveRwdGroupID": 28,
+      "MailBoxStringKey": 18,
+      "Charging": 240
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Game": 1,
+      "ItemKey": 10500170,
+      "PotSpine": 10500170,
+      "PotRwdGroupID": 8,
+      "PotFriendRwdGroupID": 8,
+      "PotReceiveRwdGroupID": 28,
+      "MailBoxStringKey": 18,
       "Charging": 240
     }
   ],

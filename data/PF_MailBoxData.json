@@ -145,7 +145,7 @@
       "ExpireDate": 43200
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 18,
       "Game": 1,
       "NPCID": 1001,

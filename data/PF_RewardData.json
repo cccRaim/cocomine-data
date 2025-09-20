@@ -1585,6 +1585,46 @@
       "RwdType": 2,
       "RewardID": 0,
       "RewardCount": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 167,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 1,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 168,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 2,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 169,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 3,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 170,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 4,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 70
     }
   ],
   "PlazaGachaRwd": [

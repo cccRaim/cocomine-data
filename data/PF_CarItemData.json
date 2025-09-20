@@ -59,7 +59,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "LocationType": 1,
       "FieldID": 0,
       "IconID": "icon_house_ps"
@@ -67,7 +67,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 1,
       "LocationType": 3,
       "FieldID": 104,
       "IconID": "icon_mygarden"
@@ -91,7 +91,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
+      "Game": 1,
       "LocationType": 6,
       "FieldID": 0,
       "IconID": "icon_PlaySquare"

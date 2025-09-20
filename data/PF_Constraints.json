@@ -979,6 +979,20 @@
       "Game": 3,
       "Value": 20,
       "Context": "화분 물주기로 하루에 받을 수 있는 우편함 보상 최대치 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "MaxNPC_Request_Count",
+      "Game": 3,
+      "Value": 10,
+      "Context": "아르바이트에서 나오는 의뢰 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "FashionMatch_BotActivateCnt",
+      "Game": 3,
+      "Value": 2,
+      "Context": "몇명일때 봇이 나오는가"
     }
   ]
 }

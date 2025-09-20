@@ -1677,6 +1677,13 @@
       "Desc": "생활"
     }
   ],
+  "EDonationType": [
+    {
+      "Key": 1,
+      "Value": "Village_Donate",
+      "Desc": "빌리지 기부함"
+    }
+  ],
   "EDrillType": [
     {
       "Key": 1,
@@ -1930,6 +1937,48 @@
       "Value": "IdolFace",
       "Desc": "갸름",
       "SkinName": "ChinType3"
+    },
+    {
+      "Key": 4,
+      "Value": "RoundedFace",
+      "Desc": "라운디드",
+      "SkinName": "ChinType4"
+    },
+    {
+      "Key": 5,
+      "Value": "BabyFace",
+      "Desc": "베이비",
+      "SkinName": "ChinType5"
+    },
+    {
+      "Key": 6,
+      "Value": "BoyishFace",
+      "Desc": "보이쉬",
+      "SkinName": "ChinType6"
+    },
+    {
+      "Key": 7,
+      "Value": "SquareFace",
+      "Desc": "스퀘어",
+      "SkinName": "ChinType7"
+    },
+    {
+      "Key": 8,
+      "Value": "ShortFace",
+      "Desc": "숏",
+      "SkinName": "ChinType8"
+    },
+    {
+      "Key": 9,
+      "Value": "RobustFace",
+      "Desc": "마초 ",
+      "SkinName": "ChinType9"
+    },
+    {
+      "Key": 10,
+      "Value": "SharpFace",
+      "Desc": "샤프",
+      "SkinName": "ChinType10"
     }
   ],
   "EFarmType": [
@@ -2098,6 +2147,18 @@
       "Key": 2,
       "Value": "SpecialFishingRod",
       "Desc": "스페셜 낚싯대"
+    }
+  ],
+  "EFruitType": [
+    {
+      "Key": 1,
+      "Value": "Basket",
+      "Desc": "바구니"
+    },
+    {
+      "Key": 2,
+      "Value": "Ax",
+      "Desc": "도끼"
     }
   ],
   "EGachaGradeType": [
@@ -2457,18 +2518,6 @@
       "Desc": "음악"
     }
   ],
-  "EFruitType": [
-    {
-      "Key": 1,
-      "Value": "Basket",
-      "Desc": "바구니"
-    },
-    {
-      "Key": 2,
-      "Value": "Ax",
-      "Desc": "도끼"
-    }
-  ],
   "EItemUILinkType": [
     {
       "Key": 0,
@@ -2642,13 +2691,6 @@
       "Key": 2,
       "Value": "Drink",
       "Desc": "음료"
-    }
-  ],
-  "EDonationType": [
-    {
-      "Key": 1,
-      "Value": "Village_Donate",
-      "Desc": "빌리지 기부함"
     }
   ],
   "ELandType": [
@@ -3746,6 +3788,28 @@
       "Desc": "일대일 구도"
     }
   ],
+  "EPresetChange": [
+    {
+      "Key": 0,
+      "Value": "MakeupChange",
+      "Desc": "얼굴 수정"
+    },
+    {
+      "Key": 1,
+      "Value": "JawChange",
+      "Desc": "턱 수정"
+    },
+    {
+      "Key": 2,
+      "Value": "EyeColorChange",
+      "Desc": "눈색 수정"
+    },
+    {
+      "Key": 3,
+      "Value": "SkinColorChange",
+      "Desc": "피부색 수정"
+    }
+  ],
   "EPreStepType": [
     {
       "Key": 1,
@@ -4188,70 +4252,6 @@
       "Desc": "주소 등록 팝업창"
     }
   ],
-  "EPresetChange": [
-    {
-      "Key": 0,
-      "Value": "MakeupChange",
-      "Desc": "얼굴 수정"
-    },
-    {
-      "Key": 1,
-      "Value": "JawChange",
-      "Desc": "턱 수정"
-    },
-    {
-      "Key": 2,
-      "Value": "EyeColorChange",
-      "Desc": "눈색 수정"
-    },
-    {
-      "Key": 3,
-      "Value": "SkinColorChange",
-      "Desc": "피부색 수정"
-    }
-  ],
-  "ESellPlaceType": [
-    {
-      "Key": 0,
-      "Value": "NormalShop",
-      "Desc": "일반 상점"
-    },
-    {
-      "Key": 1,
-      "Value": "Field_104_Sell",
-      "Desc": "패션 스트릿"
-    },
-    {
-      "Key": 2,
-      "Value": "Field_106_Sell",
-      "Desc": "어드벤처 포레스트"
-    },
-    {
-      "Key": 3,
-      "Value": "Field_105_Sell",
-      "Desc": "센트럴 타운"
-    },
-    {
-      "Key": 4,
-      "Value": "Field_2001_Sell",
-      "Desc": "패션 스퀘어"
-    },
-    {
-      "Key": 5,
-      "Value": "Field_2003_Sell",
-      "Desc": "시나모롤 스퀘어"
-    },
-    {
-      "Key": 6,
-      "Value": "Field_2005_Sell",
-      "Desc": "플레이 스퀘어"
-    },
-    {
-      "Key": 7,
-      "Value": "Field_2006_Sell",
-      "Desc": "시나모롤 하우스"
-    }
-  ],
   "ERankType": [
     {
       "Key": 1,
@@ -4495,6 +4495,48 @@
       "Key": 5,
       "Value": "Miss",
       "Desc": "Miss"
+    }
+  ],
+  "ESellPlaceType": [
+    {
+      "Key": 0,
+      "Value": "NormalShop",
+      "Desc": "일반 상점"
+    },
+    {
+      "Key": 1,
+      "Value": "Field_104_Sell",
+      "Desc": "패션 스트릿"
+    },
+    {
+      "Key": 2,
+      "Value": "Field_106_Sell",
+      "Desc": "어드벤처 포레스트"
+    },
+    {
+      "Key": 3,
+      "Value": "Field_105_Sell",
+      "Desc": "센트럴 타운"
+    },
+    {
+      "Key": 4,
+      "Value": "Field_2001_Sell",
+      "Desc": "패션 스퀘어"
+    },
+    {
+      "Key": 5,
+      "Value": "Field_2003_Sell",
+      "Desc": "시나모롤 스퀘어"
+    },
+    {
+      "Key": 6,
+      "Value": "Field_2005_Sell",
+      "Desc": "플레이 스퀘어"
+    },
+    {
+      "Key": 7,
+      "Value": "Field_2006_Sell",
+      "Desc": "시나모롤 하우스"
     }
   ],
   "ESexType": [

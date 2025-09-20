@@ -1273,6 +1273,20 @@
       "RwdGroupID": 2308,
       "ThumbnailIcon": "",
       "CollectionVersion": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2319,
+      "Game": 3,
+      "CollectionType": 5,
+      "TabType": 9,
+      "CollectionName": "Collection_2319",
+      "CollectionDesc": "Collection_2319_Desc",
+      "IconTag": 0,
+      "SortIndex": 8,
+      "RwdGroupID": 3007,
+      "ThumbnailIcon": "",
+      "CollectionVersion": 2
     }
   ],
   "CollectionItem": [
@@ -9863,6 +9877,46 @@
       "CollectionID": 2318,
       "UniqueNum": 20,
       "ItemID": 100517,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 916,
+      "Game": 3,
+      "CollectionID": 2319,
+      "UniqueNum": 1,
+      "ItemID": 545,
+      "ItemType": 20,
+      "IsThumbnail": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 917,
+      "Game": 3,
+      "CollectionID": 2319,
+      "UniqueNum": 2,
+      "ItemID": 546,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 918,
+      "Game": 3,
+      "CollectionID": 2319,
+      "UniqueNum": 3,
+      "ItemID": 547,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 919,
+      "Game": 3,
+      "CollectionID": 2319,
+      "UniqueNum": 4,
+      "ItemID": 548,
       "ItemType": 20,
       "IsThumbnail": 0
     }

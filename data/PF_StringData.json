@@ -7738,12 +7738,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Notice",
-      "StringName_KOR": "<color=#FD3968>* 주소는 30일동안 유지됩니다.<br>유지 기간에 접속 시 무료로 30일씩 자동 연장됩니다.</color>"
+      "StringName_KOR": "<color=#FD3968>* 주소는 {0}일동안 유지됩니다.<br>유지 기간에 접속 시 무료로 {0}일씩 자동 연장됩니다.</color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Price",
-      "StringName_KOR": "주소 등록비"
+      "StringName_KOR": "주소 유지비"
     },
     {
       "ServiceType": "DEV",
@@ -9103,32 +9103,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_149",
-      "StringName_KOR": "검은 눈동자"
+      "StringName_KOR": "오닉스 블랙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_150",
-      "StringName_KOR": "어두운 갈색 눈동자"
+      "StringName_KOR": "모카 브라운"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_151",
-      "StringName_KOR": "밝은 갈색 눈동자"
+      "StringName_KOR": "헤이즐 라이트"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_152",
-      "StringName_KOR": "파란색 눈동자"
+      "StringName_KOR": "스카이 블루"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_153",
-      "StringName_KOR": "초록색 눈동자"
+      "StringName_KOR": "에메랄드 그린"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_154",
-      "StringName_KOR": "붉은색 눈동자"
+      "StringName_KOR": "루비 레드"
     },
     {
       "ServiceType": "DEV",
@@ -23023,7 +23023,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutScene_UserChat_910030022",
-      "StringName_KOR": "괜찮아요, 피커 씨."
+      "StringName_KOR": "괜찮아요, 피터 씨."
     },
     {
       "ServiceType": "DEV",
@@ -25863,12 +25863,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_1_URL",
-      "StringName_KOR": "https://www.skywalkgames.com/Skywalk_Terms_and_Conditions_COCOMINE.html"
+      "StringName_KOR": "https://www.skywalkgames.com/c/Skywalk_Terms_and_Conditions.html"
     },
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_2_URL",
-      "StringName_KOR": "https://www.skywalkgames.com/Skywalk_Use_Personal_Information_COCOMINE.html"
+      "StringName_KOR": "https://www.skywalkgames.com/c/Skywalk_Use_Personal_Information.html"
     },
     {
       "ServiceType": "DEV",
@@ -28533,47 +28533,47 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_184",
-      "StringName_KOR": "애쉬 베이지 눈동자"
+      "StringName_KOR": "애쉬 베이지"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_185",
-      "StringName_KOR": "브라이트 오렌지 눈동자"
+      "StringName_KOR": "브라이트 오렌지"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_186",
-      "StringName_KOR": "애쉬 카키 눈동자"
+      "StringName_KOR": "애쉬 카키"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_187",
-      "StringName_KOR": "크리미 블론드 눈동자"
+      "StringName_KOR": "크리미 블론드"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_188",
-      "StringName_KOR": "블루 블랙 눈동자"
+      "StringName_KOR": "블루 블랙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_189",
-      "StringName_KOR": "카라멜 오렌지 눈동자"
+      "StringName_KOR": "카라멜 오렌지"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_190",
-      "StringName_KOR": "애쉬 그레이 눈동자"
+      "StringName_KOR": "애쉬 그레이"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_191",
-      "StringName_KOR": "네이비 눈동자"
+      "StringName_KOR": "네이비"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_192",
-      "StringName_KOR": "그린 카키 눈동자"
+      "StringName_KOR": "그린 카키"
     },
     {
       "ServiceType": "DEV",
@@ -29193,7 +29193,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_437",
-      "StringName_KOR": "우정의 증표"
+      "StringName_KOR": "시나모롤의 우정의 증표"
     },
     {
       "ServiceType": "DEV",
@@ -51193,7 +51193,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_422_Desc",
-      "StringName_KOR": "입을 앙~ 다물면 어지간한 힘으로는 열리지 않아요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "입을 앙~ 다물면 어지간한 힘으로는 열리지 않아요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
@@ -51658,7 +51658,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_94_Desc",
-      "StringName_KOR": "동그랗고 매끈해서 데구르르~ 굴러가 버려요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "동그랗고 매끈해서 데구르르~ 굴러가 버려요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
@@ -51673,7 +51673,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_247_Desc",
-      "StringName_KOR": "톱니바퀴 모양이 귀여운 잎사귀네요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "톱니바퀴 모양이 귀여운 잎사귀네요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
@@ -52083,7 +52083,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_426_Desc",
-      "StringName_KOR": "염소의 가죽을 가공한 아이템이에요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "염소의 가죽을 가공한 아이템이에요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
@@ -52098,37 +52098,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_429_Desc",
-      "StringName_KOR": "활짝 핀 꽃을 보니 기분이 좋아지네요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "활짝 핀 꽃을 보니 기분이 좋아지네요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_430_Desc",
-      "StringName_KOR": "시원한 물을 담아둔 물병이에요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "시원한 물을 담아둔 물병이에요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_431_Desc",
-      "StringName_KOR": "이슬이 맺혀있던걸까? 마지면 살짝 시원해져요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "이슬이 맺혀있던걸까? 마지면 살짝 시원해져요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_432_Desc",
-      "StringName_KOR": "그냥 먹어도 맛있고 구워먹어도 맛있는 야채를 모아봤어요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "그냥 먹어도 맛있고 구워먹어도 맛있는 야채를 모아봤어요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_433_Desc",
-      "StringName_KOR": "달콤한 과일들을 잔뜩 모아봤어요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "달콤한 과일들을 잔뜩 모아봤어요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_437_Desc",
-      "StringName_KOR": "우정 수집기 상자에서 얻을 수 있는 우정의 증표!"
+      "StringName_KOR": "이벤트 기간 동안 우정 수집기 상자에서 얻을 수 있는 우정의 증표!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_375_Desc",
-      "StringName_KOR": "도끼가 있으면 마이가든의 나무를 벨 수 있어요!<br>(포차코 샵에서 구매 가능!)"
+      "StringName_KOR": "도끼가 있으면 마이가든의 나무를 벨 수 있어요!<br>(농작물샵에서 구매 가능!)"
     },
     {
       "ServiceType": "DEV",
@@ -52453,12 +52453,12 @@
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_25",
-      "StringName_KOR": "뉴트럴톤 어두운 피부"
+      "StringName_KOR": "카카오 브라운"
     },
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_26",
-      "StringName_KOR": "세피아톤 피부"
+      "StringName_KOR": "세피아"
     },
     {
       "ServiceType": "DEV",
@@ -60338,7 +60338,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2316",
-      "StringName_KOR": "마이스윗피아노의 뷰티 클리닉"
+      "StringName_KOR": "마이스윗피아노의 메종 드 코코"
     },
     {
       "ServiceType": "DEV",
@@ -76083,7 +76083,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Beauty_Clinic",
-      "StringName_KOR": "뷰티 클리닉"
+      "StringName_KOR": "메종 드 코코"
     },
     {
       "ServiceType": "DEV",
@@ -79878,37 +79878,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000551",
-      "StringName_KOR": "라운디드"
+      "StringName_KOR": "라운디드형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000552",
-      "StringName_KOR": "베이비"
+      "StringName_KOR": "베이비형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000553",
-      "StringName_KOR": "보이쉬"
+      "StringName_KOR": "보이쉬형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000554",
-      "StringName_KOR": "스퀘어"
+      "StringName_KOR": "스퀘어형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000555",
-      "StringName_KOR": "숏"
+      "StringName_KOR": "숏형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000556",
-      "StringName_KOR": "마초"
+      "StringName_KOR": "강인미형"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000557",
-      "StringName_KOR": "샤프"
+      "StringName_KOR": "샤프형"
     },
     {
       "ServiceType": "DEV",
@@ -80209,6 +80209,981 @@
       "ServiceType": "DEV",
       "Key": "FaceType_3",
       "StringName_KOR": "아이돌형"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_EndDay",
+      "StringName_KOR": "{0}까지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FAQ_URL_COCOMINE",
+      "StringName_KOR": "https://sites.google.com/skywalkgames.com/cocomine-eng"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Create_House_Date",
+      "StringName_KOR": "하우스 생성 일자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Pot_Item_Desc",
+      "StringName_KOR": "플레이 스퀘어에 있는 리사이클링 존에 넣으면 기본 우정 수집기를 돌려 받으실 수 있어요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545",
+      "StringName_KOR": "핑크 크리스탈 파편"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_546",
+      "StringName_KOR": "블루 크리스탈 파편"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_547",
+      "StringName_KOR": "그린 크리스탈 파편"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_548",
+      "StringName_KOR": "옐로우 크리스탈 파편"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549",
+      "StringName_KOR": "알쏭달쏭 가든 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_551",
+      "StringName_KOR": "소라껍데기"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_552",
+      "StringName_KOR": "이슬 방울"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_553",
+      "StringName_KOR": "고운 모래알"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554",
+      "StringName_KOR": "꽃잎 조각"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545_Desc",
+      "StringName_KOR": "알쏭달쏭 가든 상자에서 나오는 크리스탈 파편이에요! 도감을 완성하고 리사이클링해보세요~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554_Desc",
+      "StringName_KOR": "알쏭달쏭 가든 상자에서 수집할 수 있는 아이템이에요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100523",
+      "StringName_KOR": "정원 램프"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100524",
+      "StringName_KOR": "가든 울타리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100525",
+      "StringName_KOR": "정원 의자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100526",
+      "StringName_KOR": "정원 미니 테이블"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549_Desc",
+      "StringName_KOR": "알쏭달쏭 가든 상자에서 어떤 아이템이 나올까요?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319",
+      "StringName_KOR": "반짝이는 크리스탈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319_Desc",
+      "StringName_KOR": "예쁜 크리스탈 파편을 모아뒀어요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_560",
+      "StringName_KOR": "빛나는 상의 선택 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_561",
+      "StringName_KOR": "빛나는 하의 선택 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_562",
+      "StringName_KOR": "빛나는 헤어 선택 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_563",
+      "StringName_KOR": "빛나는 액세서리 선택 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_287",
+      "StringName_KOR": "체리 루즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_288",
+      "StringName_KOR": "코랄 핑크"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_289",
+      "StringName_KOR": "살몬 오렌지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_290",
+      "StringName_KOR": "슈가 블러쉬 핑크"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_291",
+      "StringName_KOR": "초콜칩 브라운"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_292",
+      "StringName_KOR": "허니 브라운"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_293",
+      "StringName_KOR": "탠저린 플레임"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_294",
+      "StringName_KOR": "코랄 선셋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_295",
+      "StringName_KOR": "허니 오렌지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_296",
+      "StringName_KOR": "샌디 피치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_297",
+      "StringName_KOR": "로즈 베이지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_298",
+      "StringName_KOR": "토마토 레드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_299",
+      "StringName_KOR": "레몬 브라이트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_300",
+      "StringName_KOR": "망고 옐로우"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_301",
+      "StringName_KOR": "바닐라 크림"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_302",
+      "StringName_KOR": "더스티 로즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_303",
+      "StringName_KOR": "골든 머스터드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_304",
+      "StringName_KOR": "선샤인 옐로우"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_305",
+      "StringName_KOR": "라임 머스터드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_306",
+      "StringName_KOR": "샤르트뢰즈 옐로우"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_307",
+      "StringName_KOR": "카멜 골드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_308",
+      "StringName_KOR": "포레스트 올리브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_309",
+      "StringName_KOR": "샴페인 라이트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_310",
+      "StringName_KOR": "프레시 라임"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_311",
+      "StringName_KOR": "세이지 그린"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_312",
+      "StringName_KOR": "카키 토프"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_313",
+      "StringName_KOR": "로얄 퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_314",
+      "StringName_KOR": "페일 올리브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_315",
+      "StringName_KOR": "모스 그린"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_316",
+      "StringName_KOR": "올드 올리브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_317",
+      "StringName_KOR": "앤틱 카키"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_318",
+      "StringName_KOR": "민트 옐로우"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_319",
+      "StringName_KOR": "에메랄드 리프"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_320",
+      "StringName_KOR": "쥬니퍼 민트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_321",
+      "StringName_KOR": "로지 브라운"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_322",
+      "StringName_KOR": "스카이 민트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_323",
+      "StringName_KOR": "라군 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_324",
+      "StringName_KOR": "피콕 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_325",
+      "StringName_KOR": "딥 슬레이트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_326",
+      "StringName_KOR": "아쿠아 스카이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_327",
+      "StringName_KOR": "라일락 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_328",
+      "StringName_KOR": "스모키 인디고"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_329",
+      "StringName_KOR": "라벤더 퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_330",
+      "StringName_KOR": "베이비 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_331",
+      "StringName_KOR": "라일락 퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_332",
+      "StringName_KOR": "오키드 퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_333",
+      "StringName_KOR": "스톤 그레이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_334",
+      "StringName_KOR": "파우더 블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_335",
+      "StringName_KOR": "로지 체리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_336",
+      "StringName_KOR": "로즈 마우브"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_252",
+      "StringName_KOR": "투톤 딸기크림"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_253",
+      "StringName_KOR": "투톤 루비라떼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_254",
+      "StringName_KOR": "투톤 스트로베리캔디"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_255",
+      "StringName_KOR": "투톤 로즈젤리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_256",
+      "StringName_KOR": "투톤 체리브릭"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_257",
+      "StringName_KOR": "투톤 애프리콧크림"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_258",
+      "StringName_KOR": "투톤 자몽스무디"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_259",
+      "StringName_KOR": "투톤 오렌지블러쉬"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_260",
+      "StringName_KOR": "투톤 선셋라떼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_261",
+      "StringName_KOR": "투톤 어텀브릭"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_262",
+      "StringName_KOR": "투톤 피치망고"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_263",
+      "StringName_KOR": "투톤 바나나우유"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_264",
+      "StringName_KOR": "투톤 선셋피치"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_265",
+      "StringName_KOR": "투톤 레몬라임"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_266",
+      "StringName_KOR": "투톤 레몬소르베"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_267",
+      "StringName_KOR": "투톤 라임젤리"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_268",
+      "StringName_KOR": "투톤 그린애플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_269",
+      "StringName_KOR": "투톤 새벽초록"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_270",
+      "StringName_KOR": "투톤 키위라임"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_271",
+      "StringName_KOR": "투톤 레몬그린티"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_272",
+      "StringName_KOR": "투톤 스카이밀크"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_273",
+      "StringName_KOR": "투톤 아쿠아라떼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_274",
+      "StringName_KOR": "투톤 블루베리소다"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_275",
+      "StringName_KOR": "투톤 블루라군"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_276",
+      "StringName_KOR": "투톤 스노우블루"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_277",
+      "StringName_KOR": "투톤 퍼플미스트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_278",
+      "StringName_KOR": "투톤 미드나잇퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_279",
+      "StringName_KOR": "투톤 코튼캔디퍼플"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_280",
+      "StringName_KOR": "투톤 체리블라썸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_281",
+      "StringName_KOR": "투톤 라벤더크림"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_282",
+      "StringName_KOR": "투톤 차콜브리즈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_283",
+      "StringName_KOR": "투톤 스톤바닐라"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_284",
+      "StringName_KOR": "투톤 안개호수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_285",
+      "StringName_KOR": "투톤 모카샌드"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_286",
+      "StringName_KOR": "투톤 회색눈송이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension",
+      "StringName_KOR": "연장"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension_Text",
+      "StringName_KOR": "주소 유지 기간이 변경되었습니다."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_1",
+      "StringName_KOR": "재료를 많이 모았네♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_2",
+      "StringName_KOR": "혹시 궁금한 게 있어?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_3",
+      "StringName_KOR": "창고 공간은 아직 괜찮아?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_4",
+      "StringName_KOR": "다양한 물건이 있어서 재미있다♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_5",
+      "StringName_KOR": "무언가 찾고 있어?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30056",
+      "StringName_KOR": "내가 갖고 싶은 걸 가진 사람, 없을까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30057",
+      "StringName_KOR": "오늘은 같이 크래프팅에 도전해보지 않을래?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30058",
+      "StringName_KOR": "이걸로 재료 준비는 끝이야!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30059",
+      "StringName_KOR": "어떤 게 완성될 지 기대된다♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30060",
+      "StringName_KOR": "지금 이게 필요해♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30061",
+      "StringName_KOR": "나도 크래프팅 해보고 싶어~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30062",
+      "StringName_KOR": "이거라면 분명 재미있는 걸 할 수 있을 거야!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30063",
+      "StringName_KOR": "시나모롤 카페에도 놀러 와줘♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30064",
+      "StringName_KOR": "시나몬롤 먹고 싶다~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30065",
+      "StringName_KOR": "이걸로 뭐하고 놀까~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30066",
+      "StringName_KOR": "이거, 왠지 갖고 싶어졌어!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30067",
+      "StringName_KOR": "푸딩 체조, 같이 해보지 않을래?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30068",
+      "StringName_KOR": "나도 크래프팅 할 수 있을까~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30069",
+      "StringName_KOR": "이걸로 엄청난 걸 만들어버릴 거야~!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30070",
+      "StringName_KOR": "이것만 있으면 말이지~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30071",
+      "StringName_KOR": "나도 크래프팅에 도전해볼게!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30072",
+      "StringName_KOR": "나한테 이걸 가져다줄 녀석, 어디 없나~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30073",
+      "StringName_KOR": "이 정도면 완벽한걸!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30074",
+      "StringName_KOR": "내 부탁 좀 들어줄래? 이게 갖고 싶은 거야!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30075",
+      "StringName_KOR": "무엇을 만들지는 비밀이야!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30076",
+      "StringName_KOR": "마이멜로디도 크래프팅 해보고 싶어♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30077",
+      "StringName_KOR": "이걸로 멋진 걸 만들 수 있대♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30078",
+      "StringName_KOR": "여기에 소원을 적으면 이루어지는 거야?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30079",
+      "StringName_KOR": "마이멜로디 기다리고 있을게♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30080",
+      "StringName_KOR": "이거 갖고 싶어♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30081",
+      "StringName_KOR": "포차코샵에도 놀러오지 않을래?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30082",
+      "StringName_KOR": "이거 갖고 싶어☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30083",
+      "StringName_KOR": "이거, 어디에 있는 걸까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30084",
+      "StringName_KOR": "누군가가 도와주려나?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30085",
+      "StringName_KOR": "이거, 가지고 있어?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30086",
+      "StringName_KOR": "소원을 적으면 되는 거야?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30087",
+      "StringName_KOR": "우리가 갖고 싶은 건 바로 이거야☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30088",
+      "StringName_KOR": "둘이서 크래프팅 해보자☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30089",
+      "StringName_KOR": "소원이 이루어지길 바라☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30090",
+      "StringName_KOR": "이거, 누군가가 소원을 이루어주는 걸까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30091",
+      "StringName_KOR": "나도 크래프팅 데뷔해볼까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30092",
+      "StringName_KOR": "이걸로 뭘 만들 수 있는거야?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30093",
+      "StringName_KOR": "이건 어디서 구할 수 있을까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30094",
+      "StringName_KOR": "기다리고 있을게~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30095",
+      "StringName_KOR": "가지고 싶어졌어~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30096",
+      "StringName_KOR": "크래프팅으로 멋진 걸 만들어 보이겠어!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30097",
+      "StringName_KOR": "이거 갖고 싶어~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30098",
+      "StringName_KOR": "이런 날엔 노래 부르고 싶어지지♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30099",
+      "StringName_KOR": "다음엔 같이 나들이 가지 않을래?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30100",
+      "StringName_KOR": "이거, 갖고 싶다~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30101",
+      "StringName_KOR": "이 몸도 크래프팅 할 수 있다고!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30102",
+      "StringName_KOR": "이 몸이 못 하는 건 없거든?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30103",
+      "StringName_KOR": "이게 갖고 싶어!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30104",
+      "StringName_KOR": "누가 좀 가져다줘~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30105",
+      "StringName_KOR": "이 몸의 실력을 보여주겠어〜!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30106",
+      "StringName_KOR": "이게 좋아♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30107",
+      "StringName_KOR": "내가 아끼는 양동이에 담아둘게♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30108",
+      "StringName_KOR": "소중히 간직할게☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30109",
+      "StringName_KOR": "이거 갖고 싶다♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30110",
+      "StringName_KOR": "나도 크래프팅 해볼까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30111",
+      "StringName_KOR": "이거… 나한테 양보해줄 수 있을까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30112",
+      "StringName_KOR": "우선은 이게 필요해!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30113",
+      "StringName_KOR": "내일은 뭘 만들어볼까?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30114",
+      "StringName_KOR": "렛츠 크래프팅!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30115",
+      "StringName_KOR": "새로운 도전이네♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30116",
+      "StringName_KOR": "이거 갖고 싶어졌어♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30117",
+      "StringName_KOR": "가끔은 이런 것도 좋은 것 같아♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30118",
+      "StringName_KOR": "크래프팅 할 거야♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30119",
+      "StringName_KOR": "미리 말해둘게♪ 고마워♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30120",
+      "StringName_KOR": "어떤 게 완성될지, 기대해줘♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30121",
+      "StringName_KOR": "느물……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30122",
+      "StringName_KOR": "데굴……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30123",
+      "StringName_KOR": "일단…… 부탁해 놔야지……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30124",
+      "StringName_KOR": "일단…… 다시 자야겠다……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30125",
+      "StringName_KOR": "괜찮아…… 안 들어줘도……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_1",
+      "StringName_KOR": "마..마음에 드세요..?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_2",
+      "StringName_KOR": "고..고객님한테는 이런 헤어 스타일이 어울릴 것 같은데.. 어떠세요..?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_3",
+      "StringName_KOR": "이…이런 스타일도.. 좋은.. 것 같아요…"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_4",
+      "StringName_KOR": "호..혹시...마음에 안드시면… 말씀.. 주세요.."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022795",
+      "StringName_KOR": "한교동 모자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022796",
+      "StringName_KOR": "마이멜로디 모자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Village_Select",
+      "StringName_KOR": "빌리지 선택"
     }
   ],
   "JPN_StringTable": [
@@ -82110,17 +83085,17 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC04_Name",
-      "StringName_JPN": "ダッキ?"
+      "StringName_JPN": "ダッキー"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC05_Name",
-      "StringName_JPN": "ピ?タ?"
+      "StringName_JPN": "ピーター"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC06_Name",
-      "StringName_JPN": "パ?カ?"
+      "StringName_JPN": "パーカー"
     },
     {
       "ServiceType": "DEV",
@@ -82135,7 +83110,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC09_Name",
-      "StringName_JPN": "ルビ?"
+      "StringName_JPN": "ルビー"
     },
     {
       "ServiceType": "DEV",
@@ -82150,7 +83125,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC12_Name",
-      "StringName_JPN": "コ?ル"
+      "StringName_JPN": "コール"
     },
     {
       "ServiceType": "DEV",
@@ -82165,62 +83140,62 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC01_Desc",
-      "StringName_JPN": "イヴはゲ?ムの世界で作られた最初のキャラクタ?です。ゲ?ムの世界が誕生した初期、イヴは種を植え、作物を育て始め、その?穫物を後に登場する多くの他の住民に贈り物として?えました。<br>こうして農業がゲ?ムの世界の?展に大きく貢?したと考えるイヴは、今でも農作業を?しんでいます。他人を助けることが好きで、いつも親切なイヴは、みんなに愛されるキャラクタ?です。"
+      "StringName_JPN": "イヴはゲームの世界で作られた最初のキャラクターです。ゲームの世界が誕生した初期、イヴは種を植え、作物を育て始め、その収穫物を後に登場する多くの他の住民に贈り物として与えました。<br>こうして農業がゲームの世界の発展に大きく貢献したと考えるイヴは、今でも農作業を楽しんでいます。他人を助けることが好きで、いつも親切なイヴは、みんなに愛されるキャラクターです。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC02_Desc",
-      "StringName_JPN": "トリは好奇心旺盛なおてんば少女です。インフルエンサ?が夢の彼女は、新しい場所や人、物に?する好奇心でいっぱいです！何にでもキラキラした目で常に質問を投げかけ、?察し、??しようとしています。<br>いつも明るく前向きなトリは、ゲ?ムの世界のすべての住民にポジティブなエネルギ?を?播しています！"
+      "StringName_JPN": "トリは好奇心旺盛なおてんば少女です。インフルエンサーが夢の彼女は、新しい場所や人、物に対する好奇心でいっぱいです！何にでもキラキラした目で常に質問を投げかけ、観察し、経験しようとしています。<br>いつも明るく前向きなトリは、ゲームの世界のすべての住民にポジティブなエネルギーを広めています！"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC03_Desc",
-      "StringName_JPN": "ジョイは後に大きな家で一人でゆったりと暮らしたいという夢を抱いて、一生懸命に生きている女の子です。彼女は自分の店を運?しながら、時??生するアルバイトの機?にも積極的に取り組んでいます。ジョイはほぼ常に忙しく?いており、辛いことも知らずにお金を必死に貯めることに集中しています。ジョイの努力と?身は、彼女が夢見るゆったりとした未?へ一?ずつ進む手助けをしています。"
+      "StringName_JPN": "ジョイは後に大きな家で一人でゆったりと暮らしたいという夢を抱いて、一生懸命に生きている女の子です。彼女は自分の店を運営しながら、時々発生するアルバイトの機会にも積極的に取り組んでいます。ジョイはほぼ常に忙しく働いており、辛いことも知らずにお金を必死に貯めることに集中しています。ジョイの努力と献身は、彼女が夢見るゆったりとした未来へ一歩ずつ進む手助けをしています。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC04_Desc",
-      "StringName_JPN": "ダッキ?は現?世界から?た唯一の動物住民で、他の住民のように話すことができません。彼は「ガ?ガ?」という音しか出せませんが、不思議なことに彼が何を言っているのかがわかります。<br>ダッキ?は何か?に入らないことがあると、すぐに?みつく傾向があり、時には扱いにくいこともあります。しかし、彼の純?でおバカな魅力は、さりげない保護本能を刺激します。多くの住民がダッキ?を守っており、そのおかげでダッキ?はたくさんの愛を受けるアヒルになりました。"
+      "StringName_JPN": "ダッキーは現実世界から来た唯一の動物住民で、他の住民のように話すことができません。彼は「ガーガー」という音しか出せませんが、不思議なことに彼が何を言っているのかがわかります。<br>ダッキーは何か気に入らないことがあると、すぐに噛みつく傾向があり、時には扱いにくいこともあります。しかし、彼の純粋でおバカな魅力は、さりげない保護本能を刺激します。多くの住民がダッキーを守っており、そのおかげでダッキーはたくさんの愛を受けるアヒルになりました。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC05_Desc",
-      "StringName_JPN": "ピ?タ?は子供の頃から手先が器用で、創造力にあふれていました。最初は?純な?明品を趣味で作っていましたが、シティで開催されたクラフト大?で優勝してから本格的に業界に飛び?むことになりました。捨てられた物も彼の手を?ると新しい命を得るのです！<br>クラフトについて疑問があれば、遠慮せずにピ?タ?を訪ねてください。いつでも?迎しますよ！"
+      "StringName_JPN": "ピーターは子供の頃から手先が器用で、創造力にあふれていました。最初は単純な発明品を趣味で作っていましたが、シティで開催されたクラフト大会で優勝してから本格的に業界に飛び込むことになりました。捨てられた物も彼の手に渡ると新しい命を得るのです！<br>クラフトについて疑問があれば、遠慮せずにピーターを訪ねてください。いつでも歓迎しますよ！"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC06_Desc",
-      "StringName_JPN": "パ?カ?は不動産仲介業者として?いています。家を購入したり引っ越したりするたびに、住民はパ?カ?と相談し契約を結びます。初めて?うと無愛想に見えるかもしれませんが、親しくなると彼の誠?な性格と優しさがわかります。<br>パ?カ?はすべての契約書と金融取引を直接管理しているため、非常に細かいところまで?を配り、仕事に?する誠?さと情熱も?外れており、住民から高い信?を得ています。こうしたパ?カ?の?門性と人間味は、彼をゲ?ムの世界で欠かせない重要な人物にしています。"
+      "StringName_JPN": "パーカーは不動産仲介業者として働いています。家を購入したり引っ越したりするたびに、住民はパーカーと相談し契約を結びます。初めて会うと無愛想に見えるかもしれませんが、親しくなると彼の誠実な性格と優しさがわかります。<br>パーカーはすべての契約書と金融取引を直接管理しているため、非常に細かいところまで気を配り、仕事に対する誠実さと情熱も並外れており、住民から高い信頼を得ています。こうしたパーカーの専門性と人間味は、彼をゲームの世界で欠かせない重要な人物にしています。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC07_Desc",
-      "StringName_JPN": "テオは有名なピアニストです。彼の?書には演奏できない曲、演奏できない?器はありません。また、テオは作曲にも秀でていて、時?音?を作るとゲ?ムの世界で大ヒットすることもあります。こうして知的な姿が存在する一方で、テオには好きな誰かがいれば命をかけてでも守ろうとする純情な一面もあります。彼があなたを好きになったら、あなたが望むことは何でもしてくれるでしょう。本?に何でもです。"
+      "StringName_JPN": "テオは有名なピアニストです。彼の辞書には演奏できない曲、演奏できない楽器はありません。また、テオは作曲にも秀でていて、時々音楽を作るとゲームの世界で大ヒットすることもあります。こうして知的な姿が存在する一方で、テオには好きな誰かがいれば命をかけてでも守ろうとする純情な一面もあります。彼があなたを好きになったら、あなたが望むことは何でもしてくれるでしょう。本当に何でもです。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC08_Desc",
-      "StringName_JPN": "デュークはゲ?ムの世界で全ての建築物を??する建築家です。しかし、彼は怠け者なので新しい建築の依?を受けると、仕事を始める前に悲しむことがよくあります。建築をする時は無?力な表情で作業を始めますが、それでも最終的には頑丈で?足のいく成果物を作り出します。<br>オリバ?は大食いでもあるので、時?依?を受けたくない時や辛い時には、美味しい食べ物で彼の?持ちを和らげてお願いすれば大丈夫です。"
+      "StringName_JPN": "デュークはゲームの世界で全ての建築物を担当する建築家です。しかし、彼は怠け者なので新しい建築の依頼を受けると、仕事を始める前に悲しむことがよくあります。建築をする時は無気力な表情で作業を始めますが、それでも最終的には頑丈で満足のいく成果物を作り出します。<br>デュークは大食いでもあるので、時々依頼を受けたくない時や辛い時には、美味しい食べ物で彼の気持ちを和らげてからお願いすれば大丈夫です。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC09_Desc",
-      "StringName_JPN": "ルビ?は常に優雅な雰??を漂わせ、洗練されたスタイルと自信に?ちた態度でゲ?ムの世界の代表的なファッションスタ?としての地位を確立しています。彼女は自分自身だけでなく、他の人を飾ることも非常に好きで、優れたファッションセンスを持っています。?難しいところもありますが、飾り付けに?することでは他人を助けることを厭いません。彼女の情熱と?門性はファッションショ?を通じて?回新たに表現され、多くの住民にインスピレ?ションを?えています。"
+      "StringName_JPN": "ルビーは常に優雅な雰囲気を漂わせ、洗練されたスタイルと自信に満ちた態度でゲームの世界の代表的なファッションスターとしての地位を確立しています。彼女は自分自身だけでなく、他の人を飾ることも非常に好きで、優れたファッションセンスを持っています。気難しいところもありますが、飾り付けに関することでは他人を助けることを厭いません。彼女の情熱と専門性はファッションショーを通じて毎回新たに表現され、多くの住民にインスピレーションを与えています。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC10_Desc",
-      "StringName_JPN": "ミアは姉のリアと一?に同じ美容室の建物の1階で?いています。?細に?選された色合いやスタイルを扱う姉とは違い、自由奔放な性格のミアは自分の美容室で幅?く多?なスタイルを?究しています。自分のファッションに自信があり、他の住民に似合うスタイルを見つけて推薦するのが好きです。まだ姉のスタイルの?値?を理解していませんが、それでもいつも姉のことを考えている優しい妹です。"
+      "StringName_JPN": "ミアは姉のリアと一緒に同じ美容室の建物の1階で働いています。繊細に厳選された色合いやスタイルを扱う姉とは違い、自由奔放な性格のミアは自分の美容室で幅広く多様なスタイルを研究しています。自分のファッションに自信があり、他の住民に似合うスタイルを見つけてお勧めするのが好きです。まだ姉のスタイルの価値観を理解していませんが、それでもいつも姉のことを考えている優しい妹です。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC11_Desc",
-      "StringName_JPN": "リアは妹のミアと一?に同じ美容室のビルの1階で?いています。多?で幅?いスタイルに興味がある妹とは異なり、?細で敏感な性格のミアは、自分の美容室で?選されたプレミアムスタイルを?究しています。リアには自分だけの世界があり、その中で常に??とスタイルの?究をしています。何事にも冷?で?細であり、いつも妹を優先して?遣う優しいお姉さんです。"
+      "StringName_JPN": "リアは妹のミアと一緒に同じ美容室のビルの1階で働いています。多様で幅広いスタイルに興味がある妹とは異なり、繊細で敏感な性格のミアは、自分の美容室で厳選されたプレミアムスタイルを研究しています。リアには自分だけの世界があり、その中で常に黙々とスタイルの研究をしています。何事にも冷静で繊細であり、いつも妹を優先して気遣う優しいお姉さんです。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC12_Desc",
-      "StringName_JPN": "20代の天才科??究者コ?ルは無愛想に見えますが、誰かが助けを求めると積極的に手を差し伸べます。現?世界では科?技術?究所の新技術?究本部で高?率エネルギ?素材の開?を??していました。<br>ある日、偶然ゲ?ムの世界に接?することになり、そこでの科?技術が現?より200年?れていることに?づきました。そこでコ?ルは自分が開?した新技術でこの世界を現代化し始めました。移動手段、ランドマ?ク、さらには感情の原石まで、すべてコ?ルの作品です！"
+      "StringName_JPN": "20代の天才科学研究者コールは無愛想に見えますが、誰かが助けを求めると積極的に手を差し伸べます。現実世界では科学技術研究所の新技術研究本部で高効率エネルギー素材の開発を担当していました。<br>ある日、偶然ゲームの世界に接続することになり、そこでの科学技術が現実より200年遅れていることに気づきました。そこでコールは自分が開発した新技術でこの世界を現代化し始めました。移動手段、ランドマーク、さらには感情の原石まで、すべてコールの作品です！"
     },
     {
       "ServiceType": "DEV",
@@ -82280,7 +83255,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_Chat_1000103",
-      "StringName_JPN": "（仮）コ?ルです。あなたは？"
+      "StringName_JPN": "（仮）コールです。あなたは？"
     },
     {
       "ServiceType": "DEV",
@@ -82290,17 +83265,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_Chat_1000106",
-      "StringName_JPN": "?な人ですね。"
+      "StringName_JPN": "変な人ですね。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_Chat_1000107",
-      "StringName_JPN": "（仮）?究所から?ました。"
+      "StringName_JPN": "（仮）研究所から来ました。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_Chat_1000108",
-      "StringName_JPN": "（仮）コ?ルは本?に賢い！"
+      "StringName_JPN": "（仮）コールは本当に賢い！"
     },
     {
       "ServiceType": "DEV",
@@ -82310,7 +83285,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_Chat_1000110",
-      "StringName_JPN": "次に?おう！"
+      "StringName_JPN": "次に会おう！"
     },
     {
       "ServiceType": "DEV",
@@ -83260,7 +84235,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Clothes_Reform",
-      "StringName_JPN": "色替え"
+      "StringName_JPN": "カラーチェンジ"
     },
     {
       "ServiceType": "DEV",
@@ -83310,7 +84285,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_81",
-      "StringName_JPN": "エバーグリーンツリー {0}レベル達成"
+      "StringName_JPN": "エバーグリーンツリー{0}レベル達成"
     },
     {
       "ServiceType": "DEV",
@@ -83635,7 +84610,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPCShop_Script_5",
-      "StringName_JPN": "ふふ。?しい取引だったね。もっと行く？"
+      "StringName_JPN": "ふふ。楽しい取引だったね。もっと行く？"
     },
     {
       "ServiceType": "DEV",
@@ -83680,7 +84655,7 @@
     {
       "ServiceType": "DEV",
       "Key": "CutScene_UserChat_10000000",
-      "StringName_JPN": "(第1四半期)今日は天?がいい！"
+      "StringName_JPN": "(第1四半期)今日は天気がいい！"
     },
     {
       "ServiceType": "DEV",
@@ -83700,12 +84675,12 @@
     {
       "ServiceType": "DEV",
       "Key": "CutScene_UserChat_10000004",
-      "StringName_JPN": "（第1四半期）ゲ?ム"
+      "StringName_JPN": "(第1四半期)ゲーム"
     },
     {
       "ServiceType": "DEV",
       "Key": "CutScene_UserChat_10000005",
-      "StringName_JPN": "(第2四半期)勉?"
+      "StringName_JPN": "(第2四半期)勉強"
     },
     {
       "ServiceType": "DEV",
@@ -83765,7 +84740,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_72",
-      "StringName_JPN": "ハウス住所登? {0}番を行う"
+      "StringName_JPN": "ハウス住所登録 {0}番を行う"
     },
     {
       "ServiceType": "DEV",
@@ -83820,7 +84795,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Parkers_Real_Estate",
-      "StringName_JPN": "パ?カ?不動産株式?社"
+      "StringName_JPN": "パーカー不動産株式会社"
     },
     {
       "ServiceType": "DEV",
@@ -84105,12 +85080,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_2",
-      "StringName_JPN": "ホワイトオ?クタウン"
+      "StringName_JPN": "ホワイトオークタウン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Town_3",
-      "StringName_JPN": "スノ? ニ?ドル タウン"
+      "StringName_JPN": "スノー ニードル タウン"
     },
     {
       "ServiceType": "DEV",
@@ -84120,7 +85095,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_5",
-      "StringName_JPN": "リバ?タウン"
+      "StringName_JPN": "リバータウン"
     },
     {
       "ServiceType": "DEV",
@@ -84130,12 +85105,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_7",
-      "StringName_JPN": "ロイヤルベイカ?タウン"
+      "StringName_JPN": "ロイヤルベイカータウン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Town_8",
-      "StringName_JPN": "エブリクイ?ンズタウン"
+      "StringName_JPN": "エブリクイーンズタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84150,7 +85125,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_11",
-      "StringName_JPN": "グレ?トソ?ラ?タウン"
+      "StringName_JPN": "グレートソーラータウン"
     },
     {
       "ServiceType": "DEV",
@@ -84160,7 +85135,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_13",
-      "StringName_JPN": "ビッグスト?ンタウン"
+      "StringName_JPN": "ビッグストーンタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84170,12 +85145,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_15",
-      "StringName_JPN": "デュ?ンキャニオンタウン"
+      "StringName_JPN": "デューンキャニオンタウン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Town_16",
-      "StringName_JPN": "スワンボ?ンタウン"
+      "StringName_JPN": "スワンボーンタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84185,7 +85160,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_18",
-      "StringName_JPN": "スウィ?ティ?パパヤタウン"
+      "StringName_JPN": "スウィーティーパパヤタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84200,7 +85175,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_21",
-      "StringName_JPN": "ミュ?ズタウン"
+      "StringName_JPN": "ミューズタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84210,7 +85185,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Town_23",
-      "StringName_JPN": "セントアレ?ネタウン"
+      "StringName_JPN": "セントアレーネタウン"
     },
     {
       "ServiceType": "DEV",
@@ -84220,7 +85195,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_1",
-      "StringName_JPN": "ゴ?ルデンベル"
+      "StringName_JPN": "ゴールデンベル"
     },
     {
       "ServiceType": "DEV",
@@ -84235,7 +85210,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_4",
-      "StringName_JPN": "スノ?ベル"
+      "StringName_JPN": "スノーベル"
     },
     {
       "ServiceType": "DEV",
@@ -84245,7 +85220,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_6",
-      "StringName_JPN": "ジンジャ?"
+      "StringName_JPN": "ジンジャー"
     },
     {
       "ServiceType": "DEV",
@@ -84255,17 +85230,17 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_8",
-      "StringName_JPN": "パンジ?"
+      "StringName_JPN": "パンジー"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_9",
-      "StringName_JPN": "ペイズリ?"
+      "StringName_JPN": "ペイズリー"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_10",
-      "StringName_JPN": "ア?ガイル"
+      "StringName_JPN": "アーガイル"
     },
     {
       "ServiceType": "DEV",
@@ -84280,7 +85255,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_13",
-      "StringName_JPN": "ブロ?ドリ?フ"
+      "StringName_JPN": "ブロードリーフ"
     },
     {
       "ServiceType": "DEV",
@@ -84300,7 +85275,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_17",
-      "StringName_JPN": "ウォ?タ?ポピ?"
+      "StringName_JPN": "ウォーターポピー"
     },
     {
       "ServiceType": "DEV",
@@ -84335,12 +85310,12 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_24",
-      "StringName_JPN": "アンバ?ト"
+      "StringName_JPN": "アンバート"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_25",
-      "StringName_JPN": "モリア?ティ"
+      "StringName_JPN": "モリアーティ"
     },
     {
       "ServiceType": "DEV",
@@ -84350,22 +85325,22 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_27",
-      "StringName_JPN": "イジド?ル"
+      "StringName_JPN": "イジドール"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_28",
-      "StringName_JPN": "エルキュ?ル"
+      "StringName_JPN": "エルキュール"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_29",
-      "StringName_JPN": "マルコ?ポ?ロ"
+      "StringName_JPN": "マルコーポーロ"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_30",
-      "StringName_JPN": "ダ?ジリン"
+      "StringName_JPN": "ダージリン"
     },
     {
       "ServiceType": "DEV",
@@ -84400,7 +85375,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_37",
-      "StringName_JPN": "로드 중..."
+      "StringName_JPN": "ロード中..."
     },
     {
       "ServiceType": "DEV",
@@ -84460,12 +85435,12 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_49",
-      "StringName_JPN": "ム?ンスト?ン"
+      "StringName_JPN": "ムーンストーン"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_50",
-      "StringName_JPN": "ガ?ネット"
+      "StringName_JPN": "ガーネット"
     },
     {
       "ServiceType": "DEV",
@@ -84475,17 +85450,17 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_52",
-      "StringName_JPN": "カ?ネリアン"
+      "StringName_JPN": "カーネリアン"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_53",
-      "StringName_JPN": "ブル?コミット"
+      "StringName_JPN": "ブルーコミット"
     },
     {
       "ServiceType": "DEV",
       "Key": "StreetName_54",
-      "StringName_JPN": "レインボ?"
+      "StringName_JPN": "レインボー"
     },
     {
       "ServiceType": "DEV",
@@ -84495,7 +85470,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_56",
-      "StringName_JPN": "オ?ロラ"
+      "StringName_JPN": "オーロラ"
     },
     {
       "ServiceType": "DEV",
@@ -84565,7 +85540,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_70",
-      "StringName_JPN": "ダ?リングダ?リング"
+      "StringName_JPN": "ダーリングダーリング"
     },
     {
       "ServiceType": "DEV",
@@ -84575,7 +85550,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_72",
-      "StringName_JPN": "ラク?ン"
+      "StringName_JPN": "ラクーン"
     },
     {
       "ServiceType": "DEV",
@@ -84615,7 +85590,7 @@
     {
       "ServiceType": "DEV",
       "Key": "StreetName_80",
-      "StringName_JPN": "ア?ルヌ?ボ?"
+      "StringName_JPN": "アールヌーボー"
     },
     {
       "ServiceType": "DEV",
@@ -85000,7 +85975,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Hashtag_12",
-      "StringName_JPN": "色替え"
+      "StringName_JPN": "カラーチェンジ"
     },
     {
       "ServiceType": "DEV",
@@ -85170,42 +86145,42 @@
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_104",
-      "StringName_JPN": "（仮）コルネの家"
+      "StringName_JPN": "（仮）コールの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_105",
-      "StringName_JPN": "（仮）ダッキの家"
+      "StringName_JPN": "（仮）ダッキーの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_106",
-      "StringName_JPN": "（仮）ルビ?ネの家"
+      "StringName_JPN": "（仮）ルビーの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_107",
-      "StringName_JPN": "（仮）アントニオ?ネの家"
+      "StringName_JPN": "（仮）アントニオの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_108",
-      "StringName_JPN": "（仮）パ?カ?ネの家"
+      "StringName_JPN": "（仮）パーカーの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_109",
-      "StringName_JPN": "（仮）オリバ?の家"
+      "StringName_JPN": "（仮）デュークの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_110",
-      "StringName_JPN": "（仮）ミアネの家"
+      "StringName_JPN": "（仮）ミアの家"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_111",
-      "StringName_JPN": "（仮）リアネの家"
+      "StringName_JPN": "（仮）リアの家"
     },
     {
       "ServiceType": "DEV",
@@ -85260,12 +86235,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_1022",
-      "StringName_JPN": "（仮）1部 1期: ゲ?ムの中へ"
+      "StringName_JPN": "（仮）1部 1期: ゲームの中へ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Collection_1022_Desc",
-      "StringName_JPN": "（仮）1部 1期: ゲ?ムの中の?鑑ディスクリプション"
+      "StringName_JPN": "（仮）1部 1期: ゲームの中の図鑑ディスクリプション"
     },
     {
       "ServiceType": "DEV",
@@ -85550,7 +86525,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FarmItem_139",
-      "StringName_JPN": "ドリルー用の岩"
+      "StringName_JPN": "ドリル専用の岩"
     },
     {
       "ServiceType": "DEV",
@@ -85855,7 +86830,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Hair_Dye_Unavailable",
-      "StringName_JPN": "このヘアは色替えできません！"
+      "StringName_JPN": "このヘアはカラーチェンジできません！"
     },
     {
       "ServiceType": "DEV",
@@ -85880,7 +86855,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Dye_Unavailable",
-      "StringName_JPN": "色替え不可"
+      "StringName_JPN": "カラーチェンジ不可"
     },
     {
       "ServiceType": "DEV",
@@ -85900,7 +86875,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Dyed_Hair",
-      "StringName_JPN": "色替えヘア"
+      "StringName_JPN": "カラーチェンジヘア"
     },
     {
       "ServiceType": "DEV",
@@ -85910,17 +86885,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Spend_Money_Ask ",
-      "StringName_JPN": "このまま色替えしますか？"
+      "StringName_JPN": "このままカラーチェンジしますか？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Dye",
-      "StringName_JPN": "色替えする"
+      "StringName_JPN": "カラーチェンジする"
     },
     {
       "ServiceType": "DEV",
       "Key": "Dye_Complete  ",
-      "StringName_JPN": "色替え完了！"
+      "StringName_JPN": "カラーチェンジ完了！"
     },
     {
       "ServiceType": "DEV",
@@ -86080,7 +87055,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Reform",
-      "StringName_JPN": "色替え"
+      "StringName_JPN": "カラーチェンジ"
     },
     {
       "ServiceType": "DEV",
@@ -87390,7 +88365,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Reform_Unavailable",
-      "StringName_JPN": "色替え不可"
+      "StringName_JPN": "カラーチェンジ不可"
     },
     {
       "ServiceType": "DEV",
@@ -87615,12 +88590,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Searching_Service",
-      "StringName_JPN": "パ?カ?不動産の位置探しサ?ビス"
+      "StringName_JPN": "パーカー不動産の位置探しサービス"
     },
     {
       "ServiceType": "DEV",
       "Key": "Enter_House_Address_Keyword",
-      "StringName_JPN": "住所キ?ワ?ドを入力してください！"
+      "StringName_JPN": "住所キーワードを入力してください！"
     },
     {
       "ServiceType": "DEV",
@@ -87655,7 +88630,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_NPC_Guide",
-      "StringName_JPN": "<color=#FF0000>都市の位置</color>と<color=#FF0000>混?度</color>によって土地の?格は常に?わるので?考にしてください。"
+      "StringName_JPN": "<color=#FF0000>都市の位置</color>と<color=#FF0000>混雑度</color>によって土地の価格は常に変わるので参考にしてください。"
     },
     {
       "ServiceType": "DEV",
@@ -87665,17 +88640,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Detail_Address_Register",
-      "StringName_JPN": "件名: <color=#70AD47>住所登?</color>"
+      "StringName_JPN": "件名: <color=#70AD47>住所登録</color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Registration_Complete",
-      "StringName_JPN": "ハウスに住所を登?しました！"
+      "StringName_JPN": "ハウスに住所を登録しました！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Land_Price",
-      "StringName_JPN": "土地?格"
+      "StringName_JPN": "土地価格"
     },
     {
       "ServiceType": "DEV",
@@ -87685,7 +88660,7 @@
     {
       "ServiceType": "DEV",
       "Key": "House_Move_NPC_Guide",
-      "StringName_JPN": "新しい土地に引っ越すと、<color=#FF0000>庭は最初から再オ?プン</color>しなければならないことを知ってるよね？<color=#FF0000>家の構造工事も再度行う</color>必要があるから、?重に選んでね。"
+      "StringName_JPN": "新しい土地に引っ越すと、<color=#FF0000>庭は最初から再オープン</color>しなければならないことを知ってるよね？<color=#FF0000>家の構造工事も再度行う</color>必要があるから、慎重に選んでね。"
     },
     {
       "ServiceType": "DEV",
@@ -87850,7 +88825,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC15_Name",
-      "StringName_JPN": "バギ?"
+      "StringName_JPN": "バギー"
     },
     {
       "ServiceType": "DEV",
@@ -87950,12 +88925,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Notice",
-      "StringName_JPN": "<color=#FD3968>* 住所は30日間保持されます。<br>保持期間中にアクセスすると、無料で30日ずつ自動延長されます。</color>"
+      "StringName_JPN": "<color=#FD3968>* 住所は{0}日間保持されます。<br>保持期間中にアクセスすると、無料で{0}日ずつ自動延長されます。</color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Price",
-      "StringName_JPN": "住所登?費"
+      "StringName_JPN": "住所維持費"
     },
     {
       "ServiceType": "DEV",
@@ -87975,17 +88950,17 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC_Buff_Unavailable",
-      "StringName_JPN": "{0} ?用バフ: {1}<br><color=#FF0000>好感度を最後まで上げて、感情ノ?トをすべて記?してみてください！</color>"
+      "StringName_JPN": "{0} 専用バフ: {1}<br><color=#FF0000>好感度を最後まで上げて、感情ノートをすべて記録してみてください！</color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_Buff_Available",
-      "StringName_JPN": "{0} ?用バフ: {1}(<color=#FF0000>{2}</color> ?り)"
+      "StringName_JPN": "{0} 専用バフ: {1}(<color=#FF0000>{2}</color> 残り)"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_Buff_Need_More_Stone",
-      "StringName_JPN": "{0} ?用バフ: {1}<br><color=#FF0000>エモ?ションスト?ンの力が不足しています。</color>"
+      "StringName_JPN": "{0} 専用バフ: {1}<br><color=#FF0000>エモーションストーンの力が不足しています。</color>"
     },
     {
       "ServiceType": "DEV",
@@ -88180,7 +89155,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Reform_available",
-      "StringName_JPN": "色替え可能"
+      "StringName_JPN": "カラーチェンジ可能"
     },
     {
       "ServiceType": "DEV",
@@ -88200,7 +89175,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Dye_Available",
-      "StringName_JPN": "色替え可能"
+      "StringName_JPN": "カラーチェンジ可能"
     },
     {
       "ServiceType": "DEV",
@@ -88285,22 +89260,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Choose_City",
-      "StringName_JPN": "都市の中心にあるセントラルパ?クでの散?"
+      "StringName_JPN": "都市の中心にあるセントラルパークでの散歩"
     },
     {
       "ServiceType": "DEV",
       "Key": "Choose_Forest",
-      "StringName_JPN": "都市を離れ、森の中の木?がいっぱいの場所"
+      "StringName_JPN": "都市を離れ、森の中の木々がいっぱいの場所"
     },
     {
       "ServiceType": "DEV",
       "Key": "Choose_European",
-      "StringName_JPN": "ロイヤルアンティ?クヨ?ロッパスタウン?光"
+      "StringName_JPN": "ロイヤルアンティークヨーロッパタウン観光"
     },
     {
       "ServiceType": "DEV",
       "Key": "Choose_Vacation",
-      "StringName_JPN": "?の香りが漂う海?で泳ぐ"
+      "StringName_JPN": "塩の香りが漂う海で泳ぐ"
     },
     {
       "ServiceType": "DEV",
@@ -89315,32 +90290,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_149",
-      "StringName_JPN": "黒い瞳"
+      "StringName_JPN": "オニキスブラック"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_150",
-      "StringName_JPN": "暗い茶色の瞳"
+      "StringName_JPN": "モカブラウン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_151",
-      "StringName_JPN": "明るい茶色の瞳"
+      "StringName_JPN": "ヘーゼルライト"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_152",
-      "StringName_JPN": "青い瞳"
+      "StringName_JPN": "スカイブルー"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_153",
-      "StringName_JPN": "緑の瞳"
+      "StringName_JPN": "エメラルドグリーン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_154",
-      "StringName_JPN": "赤い目"
+      "StringName_JPN": "ルビーレッド"
     },
     {
       "ServiceType": "DEV",
@@ -89420,7 +90395,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_Enter_Fail",
-      "StringName_JPN": "ビレッジにユーザーが詰まっていて、つながりません！"
+      "StringName_JPN": "ビレッジがユーザーで混んでいて、つながりません！"
     },
     {
       "ServiceType": "DEV",
@@ -89905,7 +90880,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Dyeing",
-      "StringName_JPN": "色替え中……"
+      "StringName_JPN": "カラーチェンジ中……"
     },
     {
       "ServiceType": "DEV",
@@ -89945,12 +90920,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Map_Tab_Population",
-      "StringName_JPN": "로드 중..."
+      "StringName_JPN": "分布図"
     },
     {
       "ServiceType": "DEV",
       "Key": "Map_Tab_Simple",
-      "StringName_JPN": "簡?"
+      "StringName_JPN": "簡単"
     },
     {
       "ServiceType": "DEV",
@@ -90180,7 +91155,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mail_Title_1",
-      "StringName_JPN": "住民手帳エモ?ションスト?ン返金?連"
+      "StringName_JPN": "住民手帳エモーションストーン返金関連"
     },
     {
       "ServiceType": "DEV",
@@ -90210,12 +91185,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Mail_Title_7",
-      "StringName_JPN": "ルビ?がくれる?場ボ?ナスプレゼント！"
+      "StringName_JPN": "ルビーがくれる広場ボーナスプレゼント！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Mail_Desc_1",
-      "StringName_JPN": "感情ノ?トのオ?プンに必要なイモ?ションスト?ンの?が?加しました。<br>これに伴い、これまで?用バフのために集めていただいたイモ?ションスト?ンを一括返金いたします！"
+      "StringName_JPN": "感情ノートのオープンに必要なイモーションストーンの数が増加しました。<br>これに伴い、これまで専用バフのために集めていただいたイモーションストーンを一括返金いたします！"
     },
     {
       "ServiceType": "DEV",
@@ -90225,7 +91200,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mail_Desc_3",
-      "StringName_JPN": "{NICK}、元気？<br><br>?は、君が30日以上家を空けているということで、役所から通知が?たんだ。<br>仕方なく住所を削除したよ。?考にしてね。"
+      "StringName_JPN": "{NICK}、元気？<br><br>実は、君が30日以上家を空けているということで、役所から通知が届いたんだ。<br>仕方なく住所を削除したよ。参考にしてね。"
     },
     {
       "ServiceType": "DEV",
@@ -90245,7 +91220,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mail_Desc_7",
-      "StringName_JPN": "?場で誰かが大成功を?めたの?!<br><br>?分だ、<br>これはルビ?がみんなに贈るボ?ナスプレゼントだよ！"
+      "StringName_JPN": "広場で誰かが大成功を収めたの?!<br><br>気分だ、<br>これはルビーがみんなに贈るボーナスプレゼントだよ！"
     },
     {
       "ServiceType": "DEV",
@@ -90255,7 +91230,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC01_GiftHintDesc",
-      "StringName_JPN": "自然が詰まった庭で過ごすのは本?に?しいことです！"
+      "StringName_JPN": "自然が詰まった庭で過ごすのは本当に楽しいことです！"
     },
     {
       "ServiceType": "DEV",
@@ -90265,7 +91240,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_1",
-      "StringName_JPN": "ゴ?ルデンベルビレッジ"
+      "StringName_JPN": "ゴールデンベルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90280,7 +91255,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_4",
-      "StringName_JPN": "スノ?ベルビレッジ"
+      "StringName_JPN": "スノーベルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90290,22 +91265,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_6",
-      "StringName_JPN": "ジンジャ??ビレッジ"
+      "StringName_JPN": "ジンジャービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_7",
-      "StringName_JPN": "リリ?ビレッジ"
+      "StringName_JPN": "リリービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_8",
-      "StringName_JPN": "ファンジ??ビレッジ"
+      "StringName_JPN": "ファンジービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_9",
-      "StringName_JPN": "ペイズリ??ビレッジ"
+      "StringName_JPN": "ペイズリービレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90325,7 +91300,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_13",
-      "StringName_JPN": "ブロ?ドリ?フビレッジ"
+      "StringName_JPN": "ブロードリーフビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90345,17 +91320,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_17",
-      "StringName_JPN": "ウォ?タ?ポピ??ビレッジ"
+      "StringName_JPN": "ウォーターポピービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_18",
-      "StringName_JPN": "ロ?タスビレッジ"
+      "StringName_JPN": "ロータスビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_19",
-      "StringName_JPN": "リシア村"
+      "StringName_JPN": "リシアビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90380,7 +91355,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_24",
-      "StringName_JPN": "アンバ?トビレッジ"
+      "StringName_JPN": "アンバートビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90390,27 +91365,27 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_26",
-      "StringName_JPN": "ガニマル村"
+      "StringName_JPN": "ガニマルビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_27",
-      "StringName_JPN": "イジド?ルビレッジ"
+      "StringName_JPN": "イジドールビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_28",
-      "StringName_JPN": "エルキュ?ルビレッジ"
+      "StringName_JPN": "エルキュールビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_29",
-      "StringName_JPN": "マルコポ?ロビレッジ"
+      "StringName_JPN": "マルコポーロビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_30",
-      "StringName_JPN": "ダ?ジリン村"
+      "StringName_JPN": "ダージリンビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90435,7 +91410,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_35",
-      "StringName_JPN": "ドンドゥルマ村"
+      "StringName_JPN": "ドンドゥルマビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90450,7 +91425,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_38",
-      "StringName_JPN": "シャブレ村"
+      "StringName_JPN": "シャブレビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90460,17 +91435,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_40",
-      "StringName_JPN": "アッペンツェル村"
+      "StringName_JPN": "アッペンツェルビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_41",
-      "StringName_JPN": "リオ村"
+      "StringName_JPN": "リオビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_42",
-      "StringName_JPN": "ミストゥラ村"
+      "StringName_JPN": "ミストゥラビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90480,7 +91455,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_44",
-      "StringName_JPN": "セルバンティ?ノ?ビレッジ"
+      "StringName_JPN": "セルバンティーノビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90490,12 +91465,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_46",
-      "StringName_JPN": "トルチェッロ村"
+      "StringName_JPN": "トルチェッロビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_47",
-      "StringName_JPN": "이에솔로ビレッジ"
+      "StringName_JPN": "イエソロビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90505,12 +91480,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_49",
-      "StringName_JPN": "ム?ンスト?ンビレッジ"
+      "StringName_JPN": "ムーンストーンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_50",
-      "StringName_JPN": "ガ?ネットビレッジ"
+      "StringName_JPN": "ガーネットビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90520,17 +91495,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_52",
-      "StringName_JPN": "カ?ネリアンビレッジ"
+      "StringName_JPN": "カーネリアンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_53",
-      "StringName_JPN": "ブル?コミットビレッジ"
+      "StringName_JPN": "ブルーコミットビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_54",
-      "StringName_JPN": "レインボ??ビレッジ"
+      "StringName_JPN": "レインボービレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90540,7 +91515,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_56",
-      "StringName_JPN": "オ?ロラビレッジ"
+      "StringName_JPN": "オーロラビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90560,7 +91535,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_60",
-      "StringName_JPN": "タタコヤ村"
+      "StringName_JPN": "タタコヤビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90570,12 +91545,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_62",
-      "StringName_JPN": "アルジャナ村"
+      "StringName_JPN": "アルジャナビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_63",
-      "StringName_JPN": "アルビレオ村"
+      "StringName_JPN": "アルビレオビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90585,7 +91560,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_65",
-      "StringName_JPN": "グランドタ?トルビレッジ"
+      "StringName_JPN": "グランドタートルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90605,12 +91580,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_69",
-      "StringName_JPN": "プワワ村"
+      "StringName_JPN": "プワワビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_70",
-      "StringName_JPN": "ダ?リングダ?リングビレッジ"
+      "StringName_JPN": "ダーリングダーリングビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90620,27 +91595,27 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_72",
-      "StringName_JPN": "ラク?ンビレッジ"
+      "StringName_JPN": "ラクーンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_73",
-      "StringName_JPN": "ヘイムダル村"
+      "StringName_JPN": "ヘイムダルビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_74",
-      "StringName_JPN": "ヴェルダンディ村"
+      "StringName_JPN": "ヴェルダンディビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_75",
-      "StringName_JPN": "シグルン村"
+      "StringName_JPN": "シグルンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_76",
-      "StringName_JPN": "バニ?ル村"
+      "StringName_JPN": "バニールビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90650,7 +91625,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_78",
-      "StringName_JPN": "ヘレニズム村"
+      "StringName_JPN": "ヘレニズムビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90660,12 +91635,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_80",
-      "StringName_JPN": "アルヌ?ボビレッジ"
+      "StringName_JPN": "アルヌーボビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_81",
-      "StringName_JPN": "アルチェステ村"
+      "StringName_JPN": "アルチェステビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90680,27 +91655,27 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_84",
-      "StringName_JPN": "マノレスコ村"
+      "StringName_JPN": "マノレスコビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_85",
-      "StringName_JPN": "エポナ村"
+      "StringName_JPN": "エポナビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_86",
-      "StringName_JPN": "ベルベリア村"
+      "StringName_JPN": "ベルベリアビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_87",
-      "StringName_JPN": "ロスマ?タビレッジ"
+      "StringName_JPN": "ロスマータビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_88",
-      "StringName_JPN": "エラハ村"
+      "StringName_JPN": "エラハビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90720,12 +91695,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_92",
-      "StringName_JPN": "トロイ村"
+      "StringName_JPN": "トロイビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_93",
-      "StringName_JPN": "ハプスブルク村"
+      "StringName_JPN": "ハプスブルクビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90735,7 +91710,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_95",
-      "StringName_JPN": "フランダ?スビレッジ"
+      "StringName_JPN": "フランダースビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90750,7 +91725,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_98",
-      "StringName_JPN": "スティップガ?ドビレッジ"
+      "StringName_JPN": "スティップガードビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90765,7 +91740,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_101",
-      "StringName_JPN": "ダ?クピ?クビレッジ"
+      "StringName_JPN": "ダークピークビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90775,7 +91750,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_103",
-      "StringName_JPN": "シマ?ゲ?トビレッジ"
+      "StringName_JPN": "シマーゲートビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90785,12 +91760,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_105",
-      "StringName_JPN": "スタ?ブリッチビレッジ"
+      "StringName_JPN": "スターブリッチビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_106",
-      "StringName_JPN": "ライトホ?ルドビレッジ"
+      "StringName_JPN": "ライトホールドビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90810,7 +91785,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_110",
-      "StringName_JPN": "ロズミ?ル村"
+      "StringName_JPN": "ロズミールビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90820,7 +91795,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_112",
-      "StringName_JPN": "ボルトン村"
+      "StringName_JPN": "ボルトンビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90830,47 +91805,47 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_114",
-      "StringName_JPN": "スタフォ?ドビレッジ"
+      "StringName_JPN": "スタフォードビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_115",
-      "StringName_JPN": "ドレイコ?トビレッジ"
+      "StringName_JPN": "ドレイコートビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_116",
-      "StringName_JPN": "ガムスビ?村"
+      "StringName_JPN": "ガムスビービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_117",
-      "StringName_JPN": "クレドラ村"
+      "StringName_JPN": "クレドラビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_118",
-      "StringName_JPN": "ウィルドスト?ンビレッジ"
+      "StringName_JPN": "ウィルドストーンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_119",
-      "StringName_JPN": "アイボリ?ビレッジ"
+      "StringName_JPN": "アイボリービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_120",
-      "StringName_JPN": "ウォ?タ?フォ?ルビレッジ"
+      "StringName_JPN": "ウォーターフォールビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_121",
-      "StringName_JPN": "アレルビ村"
+      "StringName_JPN": "アレルビビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_122",
-      "StringName_JPN": "ナポ?トビレッジ"
+      "StringName_JPN": "ナポートビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90880,22 +91855,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_124",
-      "StringName_JPN": "ゴックフィ?ルドビレッジ"
+      "StringName_JPN": "ゴックフィールドビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_125",
-      "StringName_JPN": "ショ?ン村"
+      "StringName_JPN": "ショーンビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_126",
-      "StringName_JPN": "ジルバス村"
+      "StringName_JPN": "ジルバスビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_127",
-      "StringName_JPN": "ア?ルドバリ?村"
+      "StringName_JPN": "アールドバリービレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90910,7 +91885,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_130",
-      "StringName_JPN": "ヤ?ドビレッジ"
+      "StringName_JPN": "ヤードビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90920,22 +91895,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_132",
-      "StringName_JPN": "オカソ村"
+      "StringName_JPN": "オカソビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_133",
-      "StringName_JPN": "アカゲ?ト村"
+      "StringName_JPN": "アカゲートビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_134",
-      "StringName_JPN": "アイリバ??ビレッジ"
+      "StringName_JPN": "アイリバービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_135",
-      "StringName_JPN": "ブロイ?ル村"
+      "StringName_JPN": "ブロイールビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90950,17 +91925,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_138",
-      "StringName_JPN": "ジョウゲ?トビレッジ"
+      "StringName_JPN": "ジョウゲートビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_139",
-      "StringName_JPN": "ズレサ村"
+      "StringName_JPN": "ズレサビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_140",
-      "StringName_JPN": "ダ?ジビレッジ"
+      "StringName_JPN": "ダージビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90970,12 +91945,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_142",
-      "StringName_JPN": "イ?ドピアビレッジ"
+      "StringName_JPN": "イードピアビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_143",
-      "StringName_JPN": "オ?クドンビレッジ"
+      "StringName_JPN": "オークドンビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -90985,12 +91960,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_145",
-      "StringName_JPN": "セスウェル村"
+      "StringName_JPN": "セスウェルビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_146",
-      "StringName_JPN": "ゲットル村"
+      "StringName_JPN": "ゲットルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91005,7 +91980,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_149",
-      "StringName_JPN": "ウスタ??ビレッジ"
+      "StringName_JPN": "ウスタービレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91020,7 +91995,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_152",
-      "StringName_JPN": "イラカス村"
+      "StringName_JPN": "イラカスビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91030,7 +92005,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_154",
-      "StringName_JPN": "カタドル村"
+      "StringName_JPN": "カタドルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91040,7 +92015,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_156",
-      "StringName_JPN": "로드 중..."
+      "StringName_JPN": "オイロウビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91050,22 +92025,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_158",
-      "StringName_JPN": "ボラ村"
+      "StringName_JPN": "ボラビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_159",
-      "StringName_JPN": "エクロ?ル村"
+      "StringName_JPN": "エクロールビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_160",
-      "StringName_JPN": "オ?クバリ??ビレッジ"
+      "StringName_JPN": "オークバリービレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_161",
-      "StringName_JPN": "エコバ?トビレッジ"
+      "StringName_JPN": "エコバートビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91080,7 +92055,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_164",
-      "StringName_JPN": "グル?ビ??ビレッジ"
+      "StringName_JPN": "グルービービレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91090,7 +92065,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_166",
-      "StringName_JPN": "フロ?ドビレッジ"
+      "StringName_JPN": "フロードビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91100,7 +92075,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_168",
-      "StringName_JPN": "アコダル村"
+      "StringName_JPN": "アコダルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91120,7 +92095,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_172",
-      "StringName_JPN": "ペゴ村"
+      "StringName_JPN": "ペゴビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91130,7 +92105,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_174",
-      "StringName_JPN": "クライル村"
+      "StringName_JPN": "クライルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91140,7 +92115,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_176",
-      "StringName_JPN": "アフ?ル村"
+      "StringName_JPN": "アフールビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91150,7 +92125,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_178",
-      "StringName_JPN": "ツインフォ?ドビレッジ"
+      "StringName_JPN": "ツインフォードビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91160,7 +92135,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_180",
-      "StringName_JPN": "オリスフィ?ルドビレッジ"
+      "StringName_JPN": "オリスフィールドビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91190,7 +92165,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_186",
-      "StringName_JPN": "カルシェル村"
+      "StringName_JPN": "カルシェルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -91200,12 +92175,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_188",
-      "StringName_JPN": "カラン村"
+      "StringName_JPN": "カランビレッジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Village_189",
-      "StringName_JPN": "リムズビル村"
+      "StringName_JPN": "リムズビルビレッジ"
     },
     {
       "ServiceType": "DEV",
@@ -100300,7 +101275,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Greenery_Store",
-      "StringName_JPN": "ポチャッコショップ"
+      "StringName_JPN": "農作物ショップ"
     },
     {
       "ServiceType": "DEV",
@@ -101110,7 +102085,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_35_Desc",
-      "StringName_JPN": "コケコッコーたまごがころり～<br>マイガーデンにのみ配置できます♪<br>１５０分に１個ずつ、たまごが収穫できます！"
+      "StringName_JPN": "コケコッコーたまごがころり～<br>マイガーデンにのみ配置できます♪<br>30分に１個ずつ、たまごが収穫できます！"
     },
     {
       "ServiceType": "DEV",
@@ -106075,12 +107050,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_1_URL",
-      "StringName_JPN": "https://www.skywalkgames.com/Skywalk_Terms_and_Conditions_COCOMINE.html"
+      "StringName_JPN": "https://www.skywalkgames.com/c/Skywalk_Terms_and_Conditions.html"
     },
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_2_URL",
-      "StringName_JPN": "https://www.skywalkgames.com/Skywalk_Use_Personal_Information_COCOMINE.html"
+      "StringName_JPN": "https://www.skywalkgames.com/c/Skywalk_Use_Personal_Information.html"
     },
     {
       "ServiceType": "DEV",
@@ -108770,12 +109745,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_189",
-      "StringName_JPN": "キャラメ・ルオレンジ"
+      "StringName_JPN": "キャラメルオレンジ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_190",
-      "StringName_JPN": "アッシュ・グレー"
+      "StringName_JPN": "アッシュグレー"
     },
     {
       "ServiceType": "DEV",
@@ -108785,7 +109760,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_192",
-      "StringName_JPN": "グリーン・カーキ"
+      "StringName_JPN": "グリーンカーキ"
     },
     {
       "ServiceType": "DEV",
@@ -131405,7 +132380,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_422_Desc",
-      "StringName_JPN": "一回口を閉ざすとなかなか開けられませんよ！<br>ポチャッコショップで売ってます！"
+      "StringName_JPN": "一度口を閉ざすとなかなか開けませんよ！<br>農作物ショップで購入可能！"
     },
     {
       "ServiceType": "DEV",
@@ -132335,7 +133310,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_437_Desc",
-      "StringName_JPN": "ナカヨシ集め箱からもらえる友情の証！"
+      "StringName_JPN": "イベント期間中、ナカヨシ集めボックスから手に入るナカヨシの証！"
     },
     {
       "ServiceType": "DEV",
@@ -132665,12 +133640,12 @@
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_25",
-      "StringName_JPN": "ニュートラルな日焼け肌"
+      "StringName_JPN": "カカオブラウン"
     },
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_26",
-      "StringName_JPN": "セピア調肌"
+      "StringName_JPN": "セピア"
     },
     {
       "ServiceType": "DEV",
@@ -140550,7 +141525,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2316",
-      "StringName_JPN": "マイスウィートピアノのビューティークリニック"
+      "StringName_JPN": "マイスウィートピアノのメゾン・ド・ココ"
     },
     {
       "ServiceType": "DEV",
@@ -141670,17 +142645,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500380",
-      "StringName_JPN": "シナモロール クリームソーダ XL"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": "Item_10500381",
       "StringName_JPN": "シナモロール 雲かき氷 XL"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Item_538",
+      "Key": "Item_10500381",
       "StringName_JPN": "シナモロール 雲の国ケーキ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_538",
+      "StringName_JPN": "スイートパワーシロップ"
     },
     {
       "ServiceType": "DEV",
@@ -156295,7 +157270,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Beauty_Clinic",
-      "StringName_JPN": "ビューティークリニック"
+      "StringName_JPN": "メゾン・ド・ココ"
     },
     {
       "ServiceType": "DEV",
@@ -160090,37 +161065,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000551",
-      "StringName_JPN": "ラウンデッド"
+      "StringName_JPN": "ラウンド型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000552",
-      "StringName_JPN": "ベビー"
+      "StringName_JPN": "ベイビー型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000553",
-      "StringName_JPN": "ボーイッシュ"
+      "StringName_JPN": "ボーイッシュ型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000554",
-      "StringName_JPN": "スクエア"
+      "StringName_JPN": "スクエア型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000555",
-      "StringName_JPN": "ショート"
+      "StringName_JPN": "ショート型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000556",
-      "StringName_JPN": "マッチョ"
+      "StringName_JPN": "タフ型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000557",
-      "StringName_JPN": "シャープ"
+      "StringName_JPN": "シャープ型"
     },
     {
       "ServiceType": "DEV",
@@ -160421,6 +161396,981 @@
       "ServiceType": "DEV",
       "Key": "FaceType_3",
       "StringName_JPN": "アイドルタイプ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_EndDay",
+      "StringName_JPN": "{0}まで"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FAQ_URL_COCOMINE",
+      "StringName_JPN": "https://sites.google.com/skywalkgames.com/cocomine-eng"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Create_House_Date",
+      "StringName_JPN": "ハウス作成日"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Pot_Item_Desc",
+      "StringName_JPN": "プレイスクエアにあるリサイクルゾーンに入れると、通常のおともだちシップコレクターを受け取ることができます！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545",
+      "StringName_JPN": "ピンククリスタルの欠片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_546",
+      "StringName_JPN": "ブルークリスタルの欠片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_547",
+      "StringName_JPN": "グリーンクリスタルの欠片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_548",
+      "StringName_JPN": "イエロークリスタルの欠片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549",
+      "StringName_JPN": "謎のガーデンボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_551",
+      "StringName_JPN": "貝がら"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_552",
+      "StringName_JPN": "しずく"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_553",
+      "StringName_JPN": "きれいな砂粒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554",
+      "StringName_JPN": "花びらの欠片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545_Desc",
+      "StringName_JPN": "謎のガーデンボックスから出てくるクリスタルの欠片だよ！図鑑が完成したらリサイクルしてみてね〜"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554_Desc",
+      "StringName_JPN": "謎のガーデンボックスで集められるアイテムだよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100523",
+      "StringName_JPN": "ガーデンランプ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100524",
+      "StringName_JPN": "ガーデンフェンス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100525",
+      "StringName_JPN": "ガーデンチェア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100526",
+      "StringName_JPN": "ガーデンミニテーブル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549_Desc",
+      "StringName_JPN": "謎のガーデンボックスから、どんなアイテムが出てくるかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319",
+      "StringName_JPN": "きらきらのクリスタル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319_Desc",
+      "StringName_JPN": "きれいなクリスタルの欠片を集めておいたよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_560",
+      "StringName_JPN": "輝くトップス選択ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_561",
+      "StringName_JPN": "輝くボトムス選択ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_562",
+      "StringName_JPN": "輝くヘア選択ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_563",
+      "StringName_JPN": "輝くアクセサリー選択ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_287",
+      "StringName_JPN": "チェリーレッド"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_288",
+      "StringName_JPN": "コーラルピンク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_289",
+      "StringName_JPN": "サーモンオレンジ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_290",
+      "StringName_JPN": "シュガーブラッシュピンク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_291",
+      "StringName_JPN": "チョコレートブラウン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_292",
+      "StringName_JPN": "ハニーブラウン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_293",
+      "StringName_JPN": "タンジェリンフレイム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_294",
+      "StringName_JPN": "コーラルサンセット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_295",
+      "StringName_JPN": "ハニーオレンジ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_296",
+      "StringName_JPN": "サンディピーチ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_297",
+      "StringName_JPN": "ローズベージュ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_298",
+      "StringName_JPN": "トマトレッド"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_299",
+      "StringName_JPN": "レモンブライト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_300",
+      "StringName_JPN": "マンゴイエロー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_301",
+      "StringName_JPN": "バニラクリーム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_302",
+      "StringName_JPN": "ダスティローズ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_303",
+      "StringName_JPN": "ゴールデンマスタード"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_304",
+      "StringName_JPN": "サンシャインイエロー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_305",
+      "StringName_JPN": "ライムマスタード"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_306",
+      "StringName_JPN": "シャルトリューズイエロー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_307",
+      "StringName_JPN": "キャメルゴールド"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_308",
+      "StringName_JPN": "フォレストオリーブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_309",
+      "StringName_JPN": "シャンパンライト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_310",
+      "StringName_JPN": "フレッシュライム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_311",
+      "StringName_JPN": "セージグリーン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_312",
+      "StringName_JPN": "カーキトープ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_313",
+      "StringName_JPN": "ロイヤルパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_314",
+      "StringName_JPN": "ペールオリーブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_315",
+      "StringName_JPN": "モスグリーン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_316",
+      "StringName_JPN": "オールドオリーブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_317",
+      "StringName_JPN": "アンティークカーキ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_318",
+      "StringName_JPN": "ミントイエロー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_319",
+      "StringName_JPN": "エメラルドリーフ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_320",
+      "StringName_JPN": "ジュニパーミント"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_321",
+      "StringName_JPN": "ロージーブラウン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_322",
+      "StringName_JPN": "スカイミント"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_323",
+      "StringName_JPN": "ラグーンブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_324",
+      "StringName_JPN": "ピーコックブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_325",
+      "StringName_JPN": "ディープスレート"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_326",
+      "StringName_JPN": "アクアスカイ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_327",
+      "StringName_JPN": "ライラックブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_328",
+      "StringName_JPN": "スモーキーインディゴ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_329",
+      "StringName_JPN": "ラベンダーパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_330",
+      "StringName_JPN": "ベビーブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_331",
+      "StringName_JPN": "ライラックパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_332",
+      "StringName_JPN": "オーキッドパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_333",
+      "StringName_JPN": "ストーングレイ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_334",
+      "StringName_JPN": "パウダーブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_335",
+      "StringName_JPN": "ロージーチェリー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_336",
+      "StringName_JPN": "ローズモーブ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_252",
+      "StringName_JPN": "ツートンストロベリークリーム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_253",
+      "StringName_JPN": "ツートンルビラテ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_254",
+      "StringName_JPN": "ツートンストロベリーキャンディ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_255",
+      "StringName_JPN": "ツートンローズゼリー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_256",
+      "StringName_JPN": "ツートンチェリーブリック"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_257",
+      "StringName_JPN": "ツートンアプリコットクリーム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_258",
+      "StringName_JPN": "ツートングレープフルーツスムージー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_259",
+      "StringName_JPN": "ツートンオレンジブラッシュ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_260",
+      "StringName_JPN": "ツートンサンセットラテ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_261",
+      "StringName_JPN": "ツートンオータムブリック"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_262",
+      "StringName_JPN": "ツートンピーチマンゴー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_263",
+      "StringName_JPN": "ツートンバナナミルク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_264",
+      "StringName_JPN": "ツートンサンセットピーチ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_265",
+      "StringName_JPN": "ツートンレモンライム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_266",
+      "StringName_JPN": "ツートンレモンソルベ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_267",
+      "StringName_JPN": "ツートンライムゼリー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_268",
+      "StringName_JPN": "ツートングリーンアップル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_269",
+      "StringName_JPN": "ツートンミントグリーン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_270",
+      "StringName_JPN": "ツートンキウイライム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_271",
+      "StringName_JPN": "ツートンレモングリーンティー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_272",
+      "StringName_JPN": "ツートンスカイミルク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_273",
+      "StringName_JPN": "ツートンアクアラテ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_274",
+      "StringName_JPN": "ツートンブルーベリーソーダ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_275",
+      "StringName_JPN": "ツートンブルーラグーン"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_276",
+      "StringName_JPN": "ツートンスノーブルー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_277",
+      "StringName_JPN": "ツートンパープルミスト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_278",
+      "StringName_JPN": "ツートンミッドナイトパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_279",
+      "StringName_JPN": "ツートンコットンキャンディパープル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_280",
+      "StringName_JPN": "ツートンチェリーブロッサム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_281",
+      "StringName_JPN": "ツートンラベンダークリーム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_282",
+      "StringName_JPN": "ツートンチャコールブリーズ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_283",
+      "StringName_JPN": "ツートンストーンバニラ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_284",
+      "StringName_JPN": "ツートンフォグレイク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_285",
+      "StringName_JPN": "ツートンモカサンド"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_286",
+      "StringName_JPN": "ツートングレースノーフレーク"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension",
+      "StringName_JPN": "延長"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension_Text",
+      "StringName_JPN": "アドレス保持期間が変更されました。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_1",
+      "StringName_JPN": "いっぱい素材を集めたね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_2",
+      "StringName_JPN": "何か気になるものはあったかしら？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_3",
+      "StringName_JPN": "倉庫スペースはまだ大丈夫？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_4",
+      "StringName_JPN": "いろんなものがあっておもしろいね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_5",
+      "StringName_JPN": "何か探してるの？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30056",
+      "StringName_JPN": "わたしの欲しいもの、持っている人いないかしら？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30057",
+      "StringName_JPN": "今日は（一緒に）クラフトに挑戦してみない？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30058",
+      "StringName_JPN": "これで素材の準備は完了ね！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30059",
+      "StringName_JPN": "何ができるか楽しみね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30060",
+      "StringName_JPN": "今これが必要なの♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30061",
+      "StringName_JPN": "ぼくもクラフトしてみたいな～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30062",
+      "StringName_JPN": "これならきっと面白いことができるはず！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30063",
+      "StringName_JPN": "「シナモロールカフェ」にも遊びに来てね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30064",
+      "StringName_JPN": "シナモンロールがたべたいな♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30065",
+      "StringName_JPN": "これで何してあそぼうかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30066",
+      "StringName_JPN": "これ、なんだかほしくなっちゃった！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30067",
+      "StringName_JPN": "プリン体操、いっしょにやってみない？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30068",
+      "StringName_JPN": "クラフトぼくにもできるかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30069",
+      "StringName_JPN": "これですっごいものを作っちゃうよ～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30070",
+      "StringName_JPN": "これさえあればね～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30071",
+      "StringName_JPN": "アタイもクラフトに挑戦してみるよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30072",
+      "StringName_JPN": "アタイにこれを持ってきてくれるやつ、いないのかい？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30073",
+      "StringName_JPN": "これだけあればバッチリだよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30074",
+      "StringName_JPN": "アタイの頼み聞いてくれるかい？これが欲しいんだ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30075",
+      "StringName_JPN": "何を作るのかはナイショだよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30076",
+      "StringName_JPN": "メロディもクラフトしてみたいな♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30077",
+      "StringName_JPN": "これがあればすてきなものがつくれるんですって♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30078",
+      "StringName_JPN": "ここにおねがいをかいたらかなうの？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30079",
+      "StringName_JPN": "メロディまってるね♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30080",
+      "StringName_JPN": "これがほしいな♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30081",
+      "StringName_JPN": "ポチャッコショップに遊びに来ない？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30082",
+      "StringName_JPN": "これが欲しいな☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30083",
+      "StringName_JPN": "これってどこにあるの？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30084",
+      "StringName_JPN": "誰か手伝ってくれるかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30085",
+      "StringName_JPN": "これ、持ってる？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30086",
+      "StringName_JPN": "お願いを書けばいいの？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30087",
+      "StringName_JPN": "わたしたちが欲しいのは、これ☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30088",
+      "StringName_JPN": "ふたりでクラフトしてみよう☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30089",
+      "StringName_JPN": "願いが叶いますように☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30090",
+      "StringName_JPN": "これって、誰かが叶えてくれるのかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30091",
+      "StringName_JPN": "クラフトデビューしてみようかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30092",
+      "StringName_JPN": "これで何が作れるの？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30093",
+      "StringName_JPN": "これはどこで手に入れられるんだろう？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30094",
+      "StringName_JPN": "待ってるね～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30095",
+      "StringName_JPN": "欲しくなっちゃんたんだよ～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30096",
+      "StringName_JPN": "クラフトでステキなものをつくってみせる！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30097",
+      "StringName_JPN": "これが欲しいんだ～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30098",
+      "StringName_JPN": "こんな日には歌を歌いたいな♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30099",
+      "StringName_JPN": "今度一緒に出かけない？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30100",
+      "StringName_JPN": "これ、欲しいな～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30101",
+      "StringName_JPN": "オレさまもクラフトできるぞ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30102",
+      "StringName_JPN": "オレさまができないことはないぞ？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30103",
+      "StringName_JPN": "これが欲しい！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30104",
+      "StringName_JPN": "だれか持ってきてくれ～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30105",
+      "StringName_JPN": "オレさまの実力を見せてやる〜！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30106",
+      "StringName_JPN": "これがいいな♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30107",
+      "StringName_JPN": "お気に入りのバケツに入れておくね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30108",
+      "StringName_JPN": "大事にするね☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30109",
+      "StringName_JPN": "これが欲しいな♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30110",
+      "StringName_JPN": "クラフトしてみようかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30111",
+      "StringName_JPN": "これ、譲ってもらえるかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30112",
+      "StringName_JPN": "まずはこれが必要なんだ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30113",
+      "StringName_JPN": "明日は何を作ってみようかな？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30114",
+      "StringName_JPN": "レッツクラフト！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30115",
+      "StringName_JPN": "新しいチャレンジだね♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30116",
+      "StringName_JPN": "これが欲しくなったの♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30117",
+      "StringName_JPN": "たまにはこういうのも良いかも♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30118",
+      "StringName_JPN": "クラフトするの♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30119",
+      "StringName_JPN": "先に言っておくね♪ありがとう♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30120",
+      "StringName_JPN": "どんなものができるか、楽しみにしててね♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30121",
+      "StringName_JPN": "ぐで……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30122",
+      "StringName_JPN": "ごろ……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30123",
+      "StringName_JPN": "まずは……お願いしとこ……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30124",
+      "StringName_JPN": "まずは……二度寝かな……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30125",
+      "StringName_JPN": "いいよ……聞いてくれなくても……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_1",
+      "StringName_JPN": "お気に召しますか…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_2",
+      "StringName_JPN": "お客様にはこのようなヘアスタイルがお似合いかと思いますが…いかがでしょうか…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_3",
+      "StringName_JPN": "このようなスタイルも…良いと思います…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_4",
+      "StringName_JPN": "もし…お気に召さないようでしたら…おっしゃってください…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022795",
+      "StringName_JPN": "ハンギョドンの帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022796",
+      "StringName_JPN": "マイメロディの帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Village_Select",
+      "StringName_JPN": "ビレッジ選択"
     }
   ],
   "TRC_StringTable": [
@@ -168162,12 +170112,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Notice",
-      "StringName_TRC": "<color=#FD3968>* 地址將維持30天。<br>在期間內訪問時將自動免費延長30天。</color>"
+      "StringName_TRC": "<color=#FD3968>* 地址將維持{0}天。<br>在期間內訪問時將自動免費延長{0}天。</color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Price",
-      "StringName_TRC": "地址登記費"
+      "StringName_TRC": "地址維護費"
     },
     {
       "ServiceType": "DEV",
@@ -169527,32 +171477,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_149",
-      "StringName_TRC": "黑色眼睛"
+      "StringName_TRC": "縞瑪瑙黑"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_150",
-      "StringName_TRC": "明亮的棕色眼睛"
+      "StringName_TRC": "摩卡棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_151",
-      "StringName_TRC": "明亮的棕色眼睛"
+      "StringName_TRC": "榛果淺棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_152",
-      "StringName_TRC": "藍色眼睛"
+      "StringName_TRC": "天空藍"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_153",
-      "StringName_TRC": "綠色眼睛"
+      "StringName_TRC": "祖母綠"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_154",
-      "StringName_TRC": "金髮 (髮型)"
+      "StringName_TRC": "紅寶石紅"
     },
     {
       "ServiceType": "DEV",
@@ -186287,12 +188237,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_1_URL",
-      "StringName_TRC": "https://www.skywalkgames.com/Skywalk_Terms_and_Conditions_COCOMINE.html"
+      "StringName_TRC": "https://www.skywalkgames.com/c/Skywalk_Terms_and_Conditions.html"
     },
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_2_URL",
-      "StringName_TRC": "https://www.skywalkgames.com/Skywalk_Use_Personal_Information_COCOMINE.html"
+      "StringName_TRC": "https://www.skywalkgames.com/c/Skywalk_Use_Personal_Information.html"
     },
     {
       "ServiceType": "DEV",
@@ -188982,22 +190932,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_189",
-      "StringName_TRC": "焦糖橘色"
+      "StringName_TRC": "焦糖橘"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_190",
-      "StringName_TRC": "灰色"
+      "StringName_TRC": "灰霧灰"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_191",
-      "StringName_TRC": "深藍色"
+      "StringName_TRC": "海軍藍"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_192",
-      "StringName_TRC": "綠卡其色"
+      "StringName_TRC": "軍綠"
     },
     {
       "ServiceType": "DEV",
@@ -211617,7 +213567,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_422_Desc",
-      "StringName_TRC": "把嘴巴閉上，除非有相當的力量，不然打不開呢！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "把嘴巴閉上，除非有相當的力量，不然打不開呢！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
@@ -212507,7 +214457,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_426_Desc",
-      "StringName_TRC": "這是用羊皮製作的物品！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "這是用羊皮製作的物品！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
@@ -212522,37 +214472,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_429_Desc",
-      "StringName_TRC": "看到盛開的花，心情變得愉快了！ （可以在帕恰狗商店購買！）"
+      "StringName_TRC": "看到盛開的花，心情變得愉快了！ （可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_430_Desc",
-      "StringName_TRC": "裝滿清涼水的水瓶！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "裝滿清涼水的水瓶！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_431_Desc",
-      "StringName_TRC": "是不是露珠滴下來了？最後還稍微涼爽一下！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "是不是露珠滴下來了？最後還稍微涼爽一下！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_432_Desc",
-      "StringName_TRC": "收集了可以生吃或烤來吃的美味蔬菜！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "收集了可以生吃或烤來吃的美味蔬菜！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_433_Desc",
-      "StringName_TRC": "收集了很多甜美的水果！（可以在帕恰狗商店購買！）"
+      "StringName_TRC": "收集了很多甜美的水果！（可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_437_Desc",
-      "StringName_TRC": "在友誼收集箱子中獲得的友誼象徵！"
+      "StringName_TRC": "活動期間可從友誼收集箱子中獲得的友誼象徵！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_375_Desc",
-      "StringName_TRC": "有了斧頭，就能砍掉麥田的樹！ （可以在帕恰狗商店購買！）"
+      "StringName_TRC": "有了斧頭，就能砍掉麥田的樹！ （可以在農作物商店購買！）"
     },
     {
       "ServiceType": "DEV",
@@ -212877,12 +214827,12 @@
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_25",
-      "StringName_TRC": "中性暗皮膚"
+      "StringName_TRC": "可可棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_26",
-      "StringName_TRC": "褐色皮膚"
+      "StringName_TRC": "深褐色"
     },
     {
       "ServiceType": "DEV",
@@ -214327,7 +216277,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Not_Access",
-      "StringName_TRC": "需要存取相片。\n為了順利使用應用程式，需同意相片存取權限。\n請前往「設定 > [Cocomine Sanrio Characters]」重新允許權限。"
+      "StringName_TRC": "照片存取需要\n為了順利使用應用程式，需要開啟照片存取權限。\n請至「設定 > [Cocomine Sanrio characters]」重新允許權限。"
     },
     {
       "ServiceType": "DEV",
@@ -220762,7 +222712,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2316",
-      "StringName_TRC": "彼安諾的美容診所"
+      "StringName_TRC": "彼安諾的梅森德可可"
     },
     {
       "ServiceType": "DEV",
@@ -236507,7 +238457,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Beauty_Clinic",
-      "StringName_TRC": "美容診所"
+      "StringName_TRC": "梅森德可可"
     },
     {
       "ServiceType": "DEV",
@@ -240312,12 +242262,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000553",
-      "StringName_TRC": "中性風"
+      "StringName_TRC": "男孩風型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000554",
-      "StringName_TRC": "方形"
+      "StringName_TRC": "方形型"
     },
     {
       "ServiceType": "DEV",
@@ -240327,12 +242277,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000556",
-      "StringName_TRC": "魁梧型"
+      "StringName_TRC": "強悍型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000557",
-      "StringName_TRC": "尖銳型"
+      "StringName_TRC": "銳利型"
     },
     {
       "ServiceType": "DEV",
@@ -240633,6 +242583,981 @@
       "ServiceType": "DEV",
       "Key": "FaceType_3",
       "StringName_TRC": "偶像型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_EndDay",
+      "StringName_TRC": "{0}爲止"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FAQ_URL_COCOMINE",
+      "StringName_TRC": "https://sites.google.com/skywalkgames.com/cocomine-eng"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Create_House_Date",
+      "StringName_TRC": "建房日期"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Pot_Item_Desc",
+      "StringName_TRC": "放入位於奇幻樂園的回收箱後，可以獲得基本友情收集器！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545",
+      "StringName_TRC": "粉紅水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_546",
+      "StringName_TRC": "藍色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_547",
+      "StringName_TRC": "綠色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_548",
+      "StringName_TRC": "黃色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549",
+      "StringName_TRC": "神秘庭園箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_551",
+      "StringName_TRC": "海螺殼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_552",
+      "StringName_TRC": "露珠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_553",
+      "StringName_TRC": "細緻沙粒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554",
+      "StringName_TRC": "花瓣碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545_Desc",
+      "StringName_TRC": "這是從「神秘庭園箱」中獲得的水晶碎片！完成圖鑑後可以試著回收喔～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554_Desc",
+      "StringName_TRC": "這是可以從「神秘庭園箱」中收集的道具喔！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100523",
+      "StringName_TRC": "庭園燈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100524",
+      "StringName_TRC": "庭園柵欄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100525",
+      "StringName_TRC": "庭園椅子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100526",
+      "StringName_TRC": "庭園迷你桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549_Desc",
+      "StringName_TRC": "從神秘庭園箱裡會出現什麼樣的道具呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319",
+      "StringName_TRC": "閃亮亮的水晶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319_Desc",
+      "StringName_TRC": "我收集了漂亮的水晶碎片喔！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_560",
+      "StringName_TRC": "閃耀上衣選擇箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_561",
+      "StringName_TRC": "閃耀下裝選擇箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_562",
+      "StringName_TRC": "閃耀髮型選擇箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_563",
+      "StringName_TRC": "閃耀飾品選擇箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_287",
+      "StringName_TRC": "櫻桃紅"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_288",
+      "StringName_TRC": "珊瑚粉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_289",
+      "StringName_TRC": "鮭魚橘"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_290",
+      "StringName_TRC": "糖粉紅"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_291",
+      "StringName_TRC": "巧克力片兒棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_292",
+      "StringName_TRC": "蜂蜜棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_293",
+      "StringName_TRC": "橘子火焰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_294",
+      "StringName_TRC": "珊瑚落日"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_295",
+      "StringName_TRC": "蜂蜜橙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_296",
+      "StringName_TRC": "沙灘桃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_297",
+      "StringName_TRC": "玫瑰米色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_298",
+      "StringName_TRC": "番茄紅"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_299",
+      "StringName_TRC": "檸檬亮黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_300",
+      "StringName_TRC": "芒果黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_301",
+      "StringName_TRC": "香草奶油"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_302",
+      "StringName_TRC": "霧玫瑰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_303",
+      "StringName_TRC": "金芥末黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_304",
+      "StringName_TRC": "陽光黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_305",
+      "StringName_TRC": "青檸芥末黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_306",
+      "StringName_TRC": "查特萊黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_307",
+      "StringName_TRC": "駝色金"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_308",
+      "StringName_TRC": "森林橄欖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_309",
+      "StringName_TRC": "香檳亮色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_310",
+      "StringName_TRC": "鮮檸檬"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_311",
+      "StringName_TRC": "鼠尾草綠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_312",
+      "StringName_TRC": "卡其土色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_313",
+      "StringName_TRC": "皇家紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_314",
+      "StringName_TRC": "淡橄欖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_315",
+      "StringName_TRC": "苔綠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_316",
+      "StringName_TRC": "老橄欖"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_317",
+      "StringName_TRC": "古董卡其"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_318",
+      "StringName_TRC": "薄荷黃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_319",
+      "StringName_TRC": "翡翠葉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_320",
+      "StringName_TRC": "杜松薄荷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_321",
+      "StringName_TRC": "玫瑰棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_322",
+      "StringName_TRC": "天空薄荷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_323",
+      "StringName_TRC": "潟湖藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_324",
+      "StringName_TRC": "孔雀藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_325",
+      "StringName_TRC": "深板岩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_326",
+      "StringName_TRC": "水藍天空"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_327",
+      "StringName_TRC": "紫丁香藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_328",
+      "StringName_TRC": "煙靛藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_329",
+      "StringName_TRC": "薰衣草紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_330",
+      "StringName_TRC": "寶寶藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_331",
+      "StringName_TRC": "紫丁香紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_332",
+      "StringName_TRC": "蘭花紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_333",
+      "StringName_TRC": "石灰灰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_334",
+      "StringName_TRC": "粉藍"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_335",
+      "StringName_TRC": "玫瑰櫻桃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_336",
+      "StringName_TRC": "玫瑰紫褐"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_252",
+      "StringName_TRC": "草莓奶油雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_253",
+      "StringName_TRC": "紅寶石拿鐵雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_254",
+      "StringName_TRC": "草莓糖果雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_255",
+      "StringName_TRC": "玫瑰果凍雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_256",
+      "StringName_TRC": "櫻桃磚雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_257",
+      "StringName_TRC": "杏子奶油雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_258",
+      "StringName_TRC": "西柚冰沙雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_259",
+      "StringName_TRC": "橘色腮紅雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_260",
+      "StringName_TRC": "夕陽拿鐵雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_261",
+      "StringName_TRC": "秋磚雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_262",
+      "StringName_TRC": "蜜桃芒果雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_263",
+      "StringName_TRC": "香蕉牛奶雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_264",
+      "StringName_TRC": "夕陽蜜桃雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_265",
+      "StringName_TRC": "檸檬萊姆雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_266",
+      "StringName_TRC": "檸檬雪酪雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_267",
+      "StringName_TRC": "青檸果凍雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_268",
+      "StringName_TRC": "青蘋果雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_269",
+      "StringName_TRC": "薄荷綠雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_270",
+      "StringName_TRC": "奇異果青檸雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_271",
+      "StringName_TRC": "檸檬綠茶雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_272",
+      "StringName_TRC": "天空牛奶雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_273",
+      "StringName_TRC": "水藍拿鐵雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_274",
+      "StringName_TRC": "藍莓蘇打雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_275",
+      "StringName_TRC": "藍色潟湖雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_276",
+      "StringName_TRC": "雪藍雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_277",
+      "StringName_TRC": "紫色薄霧雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_278",
+      "StringName_TRC": "午夜紫雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_279",
+      "StringName_TRC": "棉花糖紫雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_280",
+      "StringName_TRC": "櫻花雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_281",
+      "StringName_TRC": "薰衣草奶油雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_282",
+      "StringName_TRC": "木炭微風雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_283",
+      "StringName_TRC": "石頭香草雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_284",
+      "StringName_TRC": "霧湖雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_285",
+      "StringName_TRC": "摩卡沙丘雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_286",
+      "StringName_TRC": "灰雪花雙色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension",
+      "StringName_TRC": "延長"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension_Text",
+      "StringName_TRC": "地址保留期限已更新。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_1",
+      "StringName_TRC": "收集了好多材料呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_2",
+      "StringName_TRC": "有什麼想問的嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_3",
+      "StringName_TRC": "倉庫空間還夠用嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_4",
+      "StringName_TRC": "有好多東西，好有趣呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_5",
+      "StringName_TRC": "你在找什麼東西嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30056",
+      "StringName_TRC": "有沒有人剛好有我想要的東西呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30057",
+      "StringName_TRC": "今天一起挑戰製作吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30058",
+      "StringName_TRC": "材料準備好囉，就這樣吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30059",
+      "StringName_TRC": "好期待會完成什麼作品呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30060",
+      "StringName_TRC": "現在我正需要這個♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30061",
+      "StringName_TRC": "我也想試試製作～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30062",
+      "StringName_TRC": "有了這個，一定可以做出很有趣的東西！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30063",
+      "StringName_TRC": "也來「大耳狗喜拿咖啡廳」玩吧♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30064",
+      "StringName_TRC": "好想吃個肉桂捲啊~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30065",
+      "StringName_TRC": "用這個玩什麼好呢~？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30066",
+      "StringName_TRC": "這個，好像突然好想要耶！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30067",
+      "StringName_TRC": "一起來做布丁體操吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30068",
+      "StringName_TRC": "我也可以做製作嗎～？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30069",
+      "StringName_TRC": "用這個來做個超厲害的東西吧～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30070",
+      "StringName_TRC": "只要有這個就沒問題啦～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30071",
+      "StringName_TRC": "我也要挑戰製作一下啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30072",
+      "StringName_TRC": "誰來幫我把這個拿來～？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30073",
+      "StringName_TRC": "這樣就超完美的吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30074",
+      "StringName_TRC": "幫個忙嘛～我就是想要這個啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30075",
+      "StringName_TRC": "我要做什麼是祕密唷～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30076",
+      "StringName_TRC": "我也想試試看做製作喔♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30077",
+      "StringName_TRC": "聽說可以用這個做出很棒的東西♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30078",
+      "StringName_TRC": "把願望寫在這裡真的會實現嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30079",
+      "StringName_TRC": "美樂蒂會乖乖等你來喔♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30080",
+      "StringName_TRC": "我想要這個♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30081",
+      "StringName_TRC": "要不要來我的帕恰狗店玩玩看？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30082",
+      "StringName_TRC": "好想要這個☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30083",
+      "StringName_TRC": "這個到底在哪裡呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30084",
+      "StringName_TRC": "會不會有人來幫幫我呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30085",
+      "StringName_TRC": "你有這個嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30086",
+      "StringName_TRC": "把願望寫下來就好了嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30087",
+      "StringName_TRC": "這就是我們想要的東西☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30088",
+      "StringName_TRC": "一起來做製作吧☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30089",
+      "StringName_TRC": "希望願望會實現☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30090",
+      "StringName_TRC": "這是有人幫忙實現的願望嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30091",
+      "StringName_TRC": "我也來嘗試做製作好了？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30092",
+      "StringName_TRC": "這個可以做出什麼啊？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30093",
+      "StringName_TRC": "這個要去哪裡才能拿到啊？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30094",
+      "StringName_TRC": "我在這裡等你唷～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30095",
+      "StringName_TRC": "突然好想要這個～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30096",
+      "StringName_TRC": "我要做出超棒的製作作品！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30097",
+      "StringName_TRC": "好想要這個耶～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30098",
+      "StringName_TRC": "這種天氣就想唱歌～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30099",
+      "StringName_TRC": "下次要不要一起出去玩？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30100",
+      "StringName_TRC": "這個，我想要～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30101",
+      "StringName_TRC": "本大爺也能做製作啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30102",
+      "StringName_TRC": "本大爺可是無所不能的！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30103",
+      "StringName_TRC": "我想要這個！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30104",
+      "StringName_TRC": "誰來幫我拿一下嘛～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30105",
+      "StringName_TRC": "我要展現我的實力囉～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30106",
+      "StringName_TRC": "我喜歡這個♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30107",
+      "StringName_TRC": "我要把它放進我珍愛的水桶裡♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30108",
+      "StringName_TRC": "我會好好珍藏的☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30109",
+      "StringName_TRC": "好想要這個♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30110",
+      "StringName_TRC": "我也來試試製作吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30111",
+      "StringName_TRC": "這個……可以讓給我嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30112",
+      "StringName_TRC": "首先需要這個！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30113",
+      "StringName_TRC": "明天要做些什麼好呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30114",
+      "StringName_TRC": "來製作一下吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30115",
+      "StringName_TRC": "是新的挑戰呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30116",
+      "StringName_TRC": "突然好想要這個♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30117",
+      "StringName_TRC": "偶爾這樣也不錯呢♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30118",
+      "StringName_TRC": "我要做製作啦♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30119",
+      "StringName_TRC": "先說一聲♪ 謝謝你♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30120",
+      "StringName_TRC": "請期待會做出什麼吧♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30121",
+      "StringName_TRC": "軟綿綿……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30122",
+      "StringName_TRC": "滾啊滾……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30123",
+      "StringName_TRC": "先……拜託一下好了……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30124",
+      "StringName_TRC": "先……再睡一下好了……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30125",
+      "StringName_TRC": "沒關係……不幫我也沒事……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_1",
+      "StringName_TRC": "您喜歡嗎…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_2",
+      "StringName_TRC": "我覺得這樣的髮型很適合您…您覺得如何呢…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_3",
+      "StringName_TRC": "這樣的風格也…不錯喔…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_4",
+      "StringName_TRC": "如…果您不喜歡的話…請告訴我…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022795",
+      "StringName_TRC": "人魚漢頓帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022796",
+      "StringName_TRC": "美樂蒂帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Village_Select",
+      "StringName_TRC": "村莊選擇"
     }
   ],
   "TRS_StringTable": [
@@ -248374,12 +251299,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Notice",
-      "StringName_TRS": "<color=#FD3968>* 地址将维持30天。 <br>在期间内访问时将自动免费延长30天。 </color>"
+      "StringName_TRS": "<color=#FD3968>* 地址将维持{0}天。 <br>在期间内访问时将自动免费延长{0}天。 </color>"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Price",
-      "StringName_TRS": "地址登记费"
+      "StringName_TRS": "地址维护费"
     },
     {
       "ServiceType": "DEV",
@@ -249739,32 +252664,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_149",
-      "StringName_TRS": "黑色眼睛"
+      "StringName_TRS": "縞玛瑙黑"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_150",
-      "StringName_TRS": "明亮的棕色眼睛"
+      "StringName_TRS": "摩卡棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_151",
-      "StringName_TRS": "明亮的棕色眼睛"
+      "StringName_TRS": "榛果浅棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_152",
-      "StringName_TRS": "蓝色眼睛"
+      "StringName_TRS": "天空蓝"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_153",
-      "StringName_TRS": "绿色眼睛"
+      "StringName_TRS": "祖母绿"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_154",
-      "StringName_TRS": "金发 (发型)"
+      "StringName_TRS": "红宝石红"
     },
     {
       "ServiceType": "DEV",
@@ -261509,32 +264434,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_57_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得鹿角。"
+      "StringName_TRS": "偷偷地～小鹿掉下角啦！ ※ 只能摆放在我的庭园中♪ 每 120 分钟可收获 1 个！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100070_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得羊驼毛。"
+      "StringName_TRS": "蓬松柔软～羊驼给你牠的毛喔！ ※ 只能摆放在我的庭园中♪ 每 210 分钟可收获 1 个！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_96_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得鸭子羽毛。"
+      "StringName_TRS": "呱呱～鸭子给你牠的羽毛喔！ ※ 只能摆放在我的庭园中♪ 每 150 分钟可收获 1 个！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_50_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得羊毛。"
+      "StringName_TRS": "轻轻柔柔～绵羊给你牠的羊毛喔！ ※ 只能摆放在我的庭园中♪ 每 45 分钟可收获 1 个！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_28_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得牛奶。"
+      "StringName_TRS": "软绵绵～从乳牛那里挤出牛奶吧！ ※ 只能摆放在我的庭园中♪ 每 4 分钟可收获 1 瓶牛奶！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_35_Desc",
-      "StringName_TRS": "只能放在我的庭园。可以获得鸡蛋。"
+      "StringName_TRS": "咕咕～鸡蛋滚出来啦！ ※ 只能摆放在我的庭园中♪ 每 30 分钟可收获 1 颗鸡蛋！"
     },
     {
       "ServiceType": "DEV",
@@ -266499,12 +269424,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_1_URL",
-      "StringName_TRS": "https://www.skywalkgames.com/Skywalk_Terms_and_Conditions_COCOMINE.html"
+      "StringName_TRS": "https://www.skywalkgames.com/c/Skywalk_Terms_and_Conditions.html"
     },
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_2_URL",
-      "StringName_TRS": "https://www.skywalkgames.com/Skywalk_Use_Personal_Information_COCOMINE.html"
+      "StringName_TRS": "https://www.skywalkgames.com/c/Skywalk_Use_Personal_Information.html"
     },
     {
       "ServiceType": "DEV",
@@ -269194,22 +272119,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_189",
-      "StringName_TRS": "焦糖橘色"
+      "StringName_TRS": "焦糖橘"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_190",
-      "StringName_TRS": "灰色"
+      "StringName_TRS": "灰雾灰"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_191",
-      "StringName_TRS": "深蓝色"
+      "StringName_TRS": "海军蓝"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_192",
-      "StringName_TRS": "绿卡其色"
+      "StringName_TRS": "军绿"
     },
     {
       "ServiceType": "DEV",
@@ -291829,7 +294754,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_422_Desc",
-      "StringName_TRS": "把嘴巴閉上，除非有相當的力量，不然打不開呢！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "把嘴巴閉上，除非有相當的力量，不然打不開呢！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
@@ -292719,7 +295644,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_426_Desc",
-      "StringName_TRS": "這是用羊皮製作的物品！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "這是用羊皮製作的物品！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
@@ -292734,37 +295659,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_429_Desc",
-      "StringName_TRS": "看到盛開的花，心情變得愉快了！ （可以在帕恰狗商店購買！）"
+      "StringName_TRS": "看到盛開的花，心情變得愉快了！ （可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_430_Desc",
-      "StringName_TRS": "裝滿清涼水的水瓶！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "裝滿清涼水的水瓶！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_431_Desc",
-      "StringName_TRS": "是不是露珠滴下來了？最後還稍微涼爽一下！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "是不是露珠滴下來了？最後還稍微涼爽一下！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_432_Desc",
-      "StringName_TRS": "收集了可以生吃或烤來吃的美味蔬菜！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "收集了可以生吃或烤來吃的美味蔬菜！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_433_Desc",
-      "StringName_TRS": "收集了很多甜美的水果！（可以在帕恰狗商店購買！）"
+      "StringName_TRS": "收集了很多甜美的水果！（可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_437_Desc",
-      "StringName_TRS": "在友谊收集箱子中获得的友谊象征！"
+      "StringName_TRS": "活动期间可从友谊收集箱子中获得的友谊象征！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_375_Desc",
-      "StringName_TRS": "有了斧頭，就能砍掉麥田的樹！ （可以在帕恰狗商店購買！）"
+      "StringName_TRS": "有了斧頭，就能砍掉麥田的樹！ （可以在农作物商店购买！）"
     },
     {
       "ServiceType": "DEV",
@@ -293089,12 +296014,12 @@
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_25",
-      "StringName_TRS": "中性暗皮肤"
+      "StringName_TRS": "可可棕"
     },
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_26",
-      "StringName_TRS": "褐色皮肤"
+      "StringName_TRS": "深褐色"
     },
     {
       "ServiceType": "DEV",
@@ -294539,7 +297464,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Not_Access",
-      "StringName_TRS": "需要访问照片。\n为了顺利使用应用程序，需同意照片访问权限。\n请前往“设置 > [Cocomine Sanrio Characters]”重新允许权限。"
+      "StringName_TRS": "需要访问照片。\n为了顺利使用应用程序，需要开启照片访问权限。\n请到“设置 > [Cocomine Sanrio characters]”重新允许权限。"
     },
     {
       "ServiceType": "DEV",
@@ -300974,7 +303899,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2316",
-      "StringName_TRS": "彼安诺的美容诊所"
+      "StringName_TRS": "彼安诺的梅森德可可"
     },
     {
       "ServiceType": "DEV",
@@ -316719,7 +319644,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Beauty_Clinic",
-      "StringName_TRS": "美容诊所"
+      "StringName_TRS": "梅森德可可"
     },
     {
       "ServiceType": "DEV",
@@ -320524,12 +323449,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000553",
-      "StringName_TRS": "中性风"
+      "StringName_TRS": "男孩风型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000554",
-      "StringName_TRS": "方形"
+      "StringName_TRS": "方形型"
     },
     {
       "ServiceType": "DEV",
@@ -320539,12 +323464,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000556",
-      "StringName_TRS": "魁梧型"
+      "StringName_TRS": "强悍型"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_1000557",
-      "StringName_TRS": "尖锐型"
+      "StringName_TRS": "锐利型"
     },
     {
       "ServiceType": "DEV",
@@ -320845,6 +323770,981 @@
       "ServiceType": "DEV",
       "Key": "FaceType_3",
       "StringName_TRS": "偶像型"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_EndDay",
+      "StringName_TRS": "{0}为止"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FAQ_URL_COCOMINE",
+      "StringName_TRS": "https://sites.google.com/skywalkgames.com/cocomine-eng"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Create_House_Date",
+      "StringName_TRS": "建房日期"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Pot_Item_Desc",
+      "StringName_TRS": "放入位于奇幻乐园的回收箱后，可以获得基本友情收集器！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545",
+      "StringName_TRS": "粉紅水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_546",
+      "StringName_TRS": "藍色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_547",
+      "StringName_TRS": "綠色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_548",
+      "StringName_TRS": "黃色水晶碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549",
+      "StringName_TRS": "神秘庭园箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_551",
+      "StringName_TRS": "海螺殼"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_552",
+      "StringName_TRS": "露珠"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_553",
+      "StringName_TRS": "細緻沙粒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554",
+      "StringName_TRS": "花瓣碎片"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545_Desc",
+      "StringName_TRS": "这是从“神秘庭园箱”中获得的水晶碎片！完成图鉴后可以试着回收哦～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554_Desc",
+      "StringName_TRS": "这是可以从“神秘庭园箱”中收集的道具哦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100523",
+      "StringName_TRS": "庭园燈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100524",
+      "StringName_TRS": "庭园柵欄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100525",
+      "StringName_TRS": "庭园椅子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100526",
+      "StringName_TRS": "庭园迷你桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549_Desc",
+      "StringName_TRS": "从神秘庭园箱里会出现什么样的道具呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319",
+      "StringName_TRS": "闪亮亮的水晶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319_Desc",
+      "StringName_TRS": "我收集了漂亮的水晶碎片哦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_560",
+      "StringName_TRS": "闪耀上衣选择箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_561",
+      "StringName_TRS": "闪耀下装选择箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_562",
+      "StringName_TRS": "闪耀发型选择箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_563",
+      "StringName_TRS": "闪耀饰品选择箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_287",
+      "StringName_TRS": "樱桃红"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_288",
+      "StringName_TRS": "珊瑚粉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_289",
+      "StringName_TRS": "鲑鱼橙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_290",
+      "StringName_TRS": "糖粉红"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_291",
+      "StringName_TRS": "巧克力片儿棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_292",
+      "StringName_TRS": "蜂蜜棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_293",
+      "StringName_TRS": "橘子火焰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_294",
+      "StringName_TRS": "珊瑚落日"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_295",
+      "StringName_TRS": "蜂蜜橙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_296",
+      "StringName_TRS": "沙滩桃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_297",
+      "StringName_TRS": "玫瑰米色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_298",
+      "StringName_TRS": "番茄红"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_299",
+      "StringName_TRS": "柠檬亮黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_300",
+      "StringName_TRS": "芒果黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_301",
+      "StringName_TRS": "香草奶油"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_302",
+      "StringName_TRS": "雾玫瑰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_303",
+      "StringName_TRS": "金芥末黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_304",
+      "StringName_TRS": "阳光黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_305",
+      "StringName_TRS": "青柠芥末黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_306",
+      "StringName_TRS": "查特鲁兹黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_307",
+      "StringName_TRS": "驼色金"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_308",
+      "StringName_TRS": "森林橄榄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_309",
+      "StringName_TRS": "香槟亮色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_310",
+      "StringName_TRS": "鲜柠檬"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_311",
+      "StringName_TRS": "鼠尾草绿"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_312",
+      "StringName_TRS": "卡其土色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_313",
+      "StringName_TRS": "皇家紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_314",
+      "StringName_TRS": "淡橄榄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_315",
+      "StringName_TRS": "苔绿"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_316",
+      "StringName_TRS": "老橄榄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_317",
+      "StringName_TRS": "古董卡其"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_318",
+      "StringName_TRS": "薄荷黄"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_319",
+      "StringName_TRS": "翡翠叶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_320",
+      "StringName_TRS": "杜松薄荷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_321",
+      "StringName_TRS": "玫瑰棕"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_322",
+      "StringName_TRS": "天空薄荷"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_323",
+      "StringName_TRS": "潟湖蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_324",
+      "StringName_TRS": "孔雀蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_325",
+      "StringName_TRS": "深板岩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_326",
+      "StringName_TRS": "水蓝天空"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_327",
+      "StringName_TRS": "紫丁香蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_328",
+      "StringName_TRS": "烟靛蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_329",
+      "StringName_TRS": "薰衣草紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_330",
+      "StringName_TRS": "宝宝蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_331",
+      "StringName_TRS": "紫丁香紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_332",
+      "StringName_TRS": "兰花紫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_333",
+      "StringName_TRS": "石灰灰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_334",
+      "StringName_TRS": "粉蓝"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_335",
+      "StringName_TRS": "玫瑰樱桃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_336",
+      "StringName_TRS": "玫瑰紫褐"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_252",
+      "StringName_TRS": "草莓奶油双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_253",
+      "StringName_TRS": "红宝石拿铁双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_254",
+      "StringName_TRS": "草莓糖果双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_255",
+      "StringName_TRS": "玫瑰果冻双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_256",
+      "StringName_TRS": "樱桃砖双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_257",
+      "StringName_TRS": "杏子奶油双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_258",
+      "StringName_TRS": "西柚冰沙双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_259",
+      "StringName_TRS": "橙色腮红双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_260",
+      "StringName_TRS": "夕阳拿铁双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_261",
+      "StringName_TRS": "秋砖双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_262",
+      "StringName_TRS": "桃芒果双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_263",
+      "StringName_TRS": "香蕉牛奶双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_264",
+      "StringName_TRS": "夕阳桃双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_265",
+      "StringName_TRS": "柠檬青柠双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_266",
+      "StringName_TRS": "柠檬雪葩双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_267",
+      "StringName_TRS": "青柠果冻双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_268",
+      "StringName_TRS": "青苹果双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_269",
+      "StringName_TRS": "薄荷绿双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_270",
+      "StringName_TRS": "猕猴桃青柠双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_271",
+      "StringName_TRS": "柠檬绿茶双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_272",
+      "StringName_TRS": "天空牛奶双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_273",
+      "StringName_TRS": "水蓝拿铁双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_274",
+      "StringName_TRS": "蓝莓苏打双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_275",
+      "StringName_TRS": "蓝色潟湖双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_276",
+      "StringName_TRS": "雪蓝双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_277",
+      "StringName_TRS": "紫色薄雾双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_278",
+      "StringName_TRS": "午夜紫双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_279",
+      "StringName_TRS": "棉花糖紫双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_280",
+      "StringName_TRS": "樱花双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_281",
+      "StringName_TRS": "薰衣草奶油双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_282",
+      "StringName_TRS": "木炭微风双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_283",
+      "StringName_TRS": "石头香草双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_284",
+      "StringName_TRS": "雾湖双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_285",
+      "StringName_TRS": "摩卡沙丘双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_286",
+      "StringName_TRS": "灰雪花双色"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension",
+      "StringName_TRS": "延长"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension_Text",
+      "StringName_TRS": "地址保留期限已更新。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_1",
+      "StringName_TRS": "收集了好多材料呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_2",
+      "StringName_TRS": "有什么想问的吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_3",
+      "StringName_TRS": "仓库空间还够用吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_4",
+      "StringName_TRS": "有好多东西，好有趣呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_5",
+      "StringName_TRS": "你在找什么东西吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30056",
+      "StringName_TRS": "有没有人刚好有我想要的东西呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30057",
+      "StringName_TRS": "今天一起挑战制作吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30058",
+      "StringName_TRS": "材料准备好咯，就这样吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30059",
+      "StringName_TRS": "好期待会完成什么作品呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30060",
+      "StringName_TRS": "现在我正需要这个♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30061",
+      "StringName_TRS": "我也想试试制作～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30062",
+      "StringName_TRS": "有了这个，一定可以做出很有趣的东西！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30063",
+      "StringName_TRS": "也来「大耳狗喜拿咖啡厅」玩吧♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30064",
+      "StringName_TRS": "好想吃个肉桂卷啊~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30065",
+      "StringName_TRS": "用这个玩什么好呢~？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30066",
+      "StringName_TRS": "这个，好像突然好想要耶！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30067",
+      "StringName_TRS": "一起来做布丁体操吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30068",
+      "StringName_TRS": "我也可以做制作吗～？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30069",
+      "StringName_TRS": "用这个来做个超厉害的东西吧～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30070",
+      "StringName_TRS": "只要有这个就没问题啦～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30071",
+      "StringName_TRS": "我也要挑战制作一下啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30072",
+      "StringName_TRS": "谁来帮我把这个拿来～？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30073",
+      "StringName_TRS": "这样就超完美的吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30074",
+      "StringName_TRS": "帮个忙嘛～我就是想要这个啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30075",
+      "StringName_TRS": "我要做什么是秘密唷～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30076",
+      "StringName_TRS": "我也想试试看做制作喔♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30077",
+      "StringName_TRS": "听说可以用这个做出很棒的东西♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30078",
+      "StringName_TRS": "把愿望写在这里真的会实现吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30079",
+      "StringName_TRS": "美乐蒂会乖乖等你来喔♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30080",
+      "StringName_TRS": "我想要这个♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30081",
+      "StringName_TRS": "要不要来我的帕恰狗店玩玩看？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30082",
+      "StringName_TRS": "好想要这个☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30083",
+      "StringName_TRS": "这个到底在哪里呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30084",
+      "StringName_TRS": "会不会有人来帮帮我呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30085",
+      "StringName_TRS": "你有这个吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30086",
+      "StringName_TRS": "把愿望写下来就好了吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30087",
+      "StringName_TRS": "这就是我们想要的东西☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30088",
+      "StringName_TRS": "一起来做制作吧☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30089",
+      "StringName_TRS": "希望愿望会实现☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30090",
+      "StringName_TRS": "这是有人帮忙实现的愿望吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30091",
+      "StringName_TRS": "我也来尝试做制作好了？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30092",
+      "StringName_TRS": "这个可以做出什么啊？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30093",
+      "StringName_TRS": "这个要去哪里才能拿到啊？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30094",
+      "StringName_TRS": "我在这里等你唷～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30095",
+      "StringName_TRS": "突然好想要这个～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30096",
+      "StringName_TRS": "我要做出超棒的制作作品！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30097",
+      "StringName_TRS": "好想要这个耶～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30098",
+      "StringName_TRS": "这种天气就想唱歌～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30099",
+      "StringName_TRS": "下次要不要一起出去玩？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30100",
+      "StringName_TRS": "这个，我想要～♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30101",
+      "StringName_TRS": "本大爷也能做制作啦！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30102",
+      "StringName_TRS": "本大爷可是无所不能的！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30103",
+      "StringName_TRS": "我想要这个！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30104",
+      "StringName_TRS": "谁来帮我拿一下嘛～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30105",
+      "StringName_TRS": "我要展现我的实力咯～！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30106",
+      "StringName_TRS": "我喜欢这个♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30107",
+      "StringName_TRS": "我要把它放进我珍爱的水桶里♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30108",
+      "StringName_TRS": "我会好好珍藏的☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30109",
+      "StringName_TRS": "好想要这个♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30110",
+      "StringName_TRS": "我也来试试制作吧？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30111",
+      "StringName_TRS": "这个……可以让给我吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30112",
+      "StringName_TRS": "首先需要这个！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30113",
+      "StringName_TRS": "明天要做些什么好呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30114",
+      "StringName_TRS": "来制作一下吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30115",
+      "StringName_TRS": "是新的挑战呢♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30116",
+      "StringName_TRS": "突然好想要这个♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30117",
+      "StringName_TRS": "偶尔这样也不错呢♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30118",
+      "StringName_TRS": "我要做制作啦♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30119",
+      "StringName_TRS": "先说一声♪ 谢谢你♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30120",
+      "StringName_TRS": "请期待会做出什么吧♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30121",
+      "StringName_TRS": "软绵绵……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30122",
+      "StringName_TRS": "滚啊滚……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30123",
+      "StringName_TRS": "先……拜托一下好了……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30124",
+      "StringName_TRS": "先……再睡一下好了……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30125",
+      "StringName_TRS": "没关系……不帮我也没事……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_1",
+      "StringName_TRS": "您喜欢吗…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_2",
+      "StringName_TRS": "我觉得这样的发型很适合您…您觉得怎么样…？  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_3",
+      "StringName_TRS": "这样的风格也…不错哦…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_4",
+      "StringName_TRS": "如…果您不喜欢的话…请告诉我…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022795",
+      "StringName_TRS": "大耳狗喜拿帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022796",
+      "StringName_TRS": "美乐蒂帽子"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Village_Select",
+      "StringName_TRS": "村庄选择"
     }
   ],
   "ENG_StringTable": [
@@ -328586,12 +332486,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Notice",
-      "StringName_ENG": "<color=#FD3968> *Addresses are maintained for 30 days.<br>Logging in will automatically extend it by 30 days for free.</color>*"
+      "StringName_ENG": "<color=#FD3968> *Addresses are maintained for {0} days.<br>Logging in will automatically extend it by {0} days for free.</color>*"
     },
     {
       "ServiceType": "DEV",
       "Key": "Address_Register_Price",
-      "StringName_ENG": "Address Registration Fee"
+      "StringName_ENG": "Address Retention Fee"
     },
     {
       "ServiceType": "DEV",
@@ -329951,32 +333851,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_149",
-      "StringName_ENG": "Black Eyes"
+      "StringName_ENG": "Onyx Black"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_150",
-      "StringName_ENG": "Dark Brown Eyes"
+      "StringName_ENG": "Mocha Brown"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_151",
-      "StringName_ENG": "Light Brown Eyes"
+      "StringName_ENG": "Hazel Light"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_152",
-      "StringName_ENG": "Blue Eyes"
+      "StringName_ENG": "Sky Blue"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_153",
-      "StringName_ENG": "Green Eyes"
+      "StringName_ENG": "Emerald Green"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_154",
-      "StringName_ENG": "Red Eyes"
+      "StringName_ENG": "Ruby Red"
     },
     {
       "ServiceType": "DEV",
@@ -346711,12 +350611,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_1_URL",
-      "StringName_ENG": "https://www.skywalkgames.com/Skywalk_Terms_and_Conditions_COCOMINE.html"
+      "StringName_ENG": "https://www.skywalkgames.com/c/Skywalk_Terms_and_Conditions_EN.html"
     },
     {
       "ServiceType": "DEV",
       "Key": "Terms_of_Use_2_URL",
-      "StringName_ENG": "https://www.skywalkgames.com/Skywalk_Use_Personal_Information_COCOMINE.html"
+      "StringName_ENG": "https://www.skywalkgames.com/c/Skywalk_Use_Personal_Information_EN.html"
     },
     {
       "ServiceType": "DEV",
@@ -349406,22 +353306,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Color_189",
-      "StringName_ENG": "Caramel Orange  "
+      "StringName_ENG": "Caramel Orange"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_190",
-      "StringName_ENG": "Ash Gray  "
+      "StringName_ENG": "Ash Gray"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_191",
-      "StringName_ENG": "Navy  "
+      "StringName_ENG": "Navy"
     },
     {
       "ServiceType": "DEV",
       "Key": "Color_192",
-      "StringName_ENG": "Green Khaki  "
+      "StringName_ENG": "Green Khaki"
     },
     {
       "ServiceType": "DEV",
@@ -372041,7 +375941,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_422_Desc",
-      "StringName_ENG": "If you close your mouth tightly, it won't open with just about any force!\n(Available for purchase at the Pochacco Shop!)"
+      "StringName_ENG": "If you close your mouth tightly, it won't open with just about any force!\n(Available for purchase at the Crop Shop!)"
     },
     {
       "ServiceType": "DEV",
@@ -372506,7 +376406,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_94_Desc",
-      "StringName_ENG": "It’s round and smooth, so it rolls away~<br>(Available for purchase at the Pochacco Shop!)<br>"
+      "StringName_ENG": "It’s round and smooth, so it rolls away~<br>(Available for purchase at the Crop Shop!)<br>"
     },
     {
       "ServiceType": "DEV",
@@ -372521,7 +376421,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_247_Desc",
-      "StringName_ENG": "A leaf shaped like a cute gear!<br>(Available for purchase at the Pochacco Shop!)<br>"
+      "StringName_ENG": "A leaf shaped like a cute gear!<br>(Available for purchase at the Crop Shop!)<br>"
     },
     {
       "ServiceType": "DEV",
@@ -372931,7 +376831,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_426_Desc",
-      "StringName_ENG": "An item made from goat skin!<br>(Available for purchase at the Pochacco Shop!)"
+      "StringName_ENG": "An item made from goat skin!<br>(Available for purchase at the Crop Shop!)"
     },
     {
       "ServiceType": "DEV",
@@ -372971,7 +376871,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_437_Desc",
-      "StringName_ENG": "A token of friendship you can get from the Friendship Collector Box!"
+      "StringName_ENG": "A Token of Friendship you can get from the Friendship Collector Box during the event period!"
     },
     {
       "ServiceType": "DEV",
@@ -373301,12 +377201,12 @@
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_25",
-      "StringName_ENG": "Neutral-tone dark skin"
+      "StringName_ENG": "Kakao Brown"
     },
     {
       "ServiceType": "DEV",
       "Key": "SkinColor_26",
-      "StringName_ENG": "Sepia-tone skin"
+      "StringName_ENG": "Sepia"
     },
     {
       "ServiceType": "DEV",
@@ -381186,7 +385086,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Collection_2316",
-      "StringName_ENG": "My Sweet Piano’s Beauty Clinic"
+      "StringName_ENG": "My Sweet Piano’s Maison de Coco"
     },
     {
       "ServiceType": "DEV",
@@ -396931,7 +400831,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Beauty_Clinic",
-      "StringName_ENG": "Beauty Clinic"
+      "StringName_ENG": "Maison de Coco"
     },
     {
       "ServiceType": "DEV",
@@ -400751,7 +404651,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_1000556",
-      "StringName_ENG": "Macho"
+      "StringName_ENG": "Robust"
     },
     {
       "ServiceType": "DEV",
@@ -401046,17 +404946,992 @@
     {
       "ServiceType": "DEV",
       "Key": "FaceType_1",
-      "StringName_ENG": "Pudding Type"
+      "StringName_ENG": "Pudding"
     },
     {
       "ServiceType": "DEV",
       "Key": "FaceType_2",
-      "StringName_ENG": "Peach Type"
+      "StringName_ENG": "Peach"
     },
     {
       "ServiceType": "DEV",
       "Key": "FaceType_3",
-      "StringName_ENG": "Idol Type"
+      "StringName_ENG": "Idol"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_EndDay",
+      "StringName_ENG": "Until {0}"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "FAQ_URL_COCOMINE",
+      "StringName_ENG": "https://sites.google.com/skywalkgames.com/cocomine-eng"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Create_House_Date",
+      "StringName_ENG": "House Creation Date"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Pot_Item_Desc",
+      "StringName_ENG": "If you put them into the Recycling Zone in Play Square, you can get a regular Friendship Collector!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545",
+      "StringName_ENG": "Pink Crystal Shard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_546",
+      "StringName_ENG": "Blue Crystal Shard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_547",
+      "StringName_ENG": "Green Crystal Shard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_548",
+      "StringName_ENG": "Yellow Crystal Shard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549",
+      "StringName_ENG": "Mysterious Garden Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_551",
+      "StringName_ENG": "Seashell"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_552",
+      "StringName_ENG": "Dewdrop"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_553",
+      "StringName_ENG": "Fine Sand Grain"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554",
+      "StringName_ENG": "Petal Fragment"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_545_Desc",
+      "StringName_ENG": "These are crystal shards from the Mysterious Garden Box! Try recycling them once your collection is complete."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_554_Desc",
+      "StringName_ENG": "This is an item you can collect from the Mysterious Garden Box!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100523",
+      "StringName_ENG": "Garden Lamp"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100524",
+      "StringName_ENG": "Garden Fence"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100525",
+      "StringName_ENG": "Garden Chair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100526",
+      "StringName_ENG": "Garden Mini Table"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_549_Desc",
+      "StringName_ENG": "What kind of items will you find in the Mysterious Garden Box?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319",
+      "StringName_ENG": "Shiny Crystal"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2319_Desc",
+      "StringName_ENG": "I’ve gathered some pretty crystal shards!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_560",
+      "StringName_ENG": "Shining Top Selection Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_561",
+      "StringName_ENG": "Shining Bottom Selection Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_562",
+      "StringName_ENG": "Shining Hair Selection Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_563",
+      "StringName_ENG": "Shining Accessory Selection Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_287",
+      "StringName_ENG": "Cherry Rouge"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_288",
+      "StringName_ENG": "Coral Pink"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_289",
+      "StringName_ENG": "Salmon Orange"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_290",
+      "StringName_ENG": "Sugar Blush Pink"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_291",
+      "StringName_ENG": "Chocochip Brown"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_292",
+      "StringName_ENG": "Honey Brown"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_293",
+      "StringName_ENG": "Tangerine Flame"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_294",
+      "StringName_ENG": "Coral Sunset"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_295",
+      "StringName_ENG": "Honey Orange"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_296",
+      "StringName_ENG": "Sandy Peach"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_297",
+      "StringName_ENG": "Rose Beige"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_298",
+      "StringName_ENG": "Tomato Red"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_299",
+      "StringName_ENG": "Lemon Bright"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_300",
+      "StringName_ENG": "Mango Yellow"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_301",
+      "StringName_ENG": "Vanilla Cream"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_302",
+      "StringName_ENG": "Dusty Rose"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_303",
+      "StringName_ENG": "Golden Mustard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_304",
+      "StringName_ENG": "Sunshine Yellow"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_305",
+      "StringName_ENG": "Lime Mustard"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_306",
+      "StringName_ENG": "Chartreuse Yellow"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_307",
+      "StringName_ENG": "Camel Gold"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_308",
+      "StringName_ENG": "Forest Olive"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_309",
+      "StringName_ENG": "Champagne Light"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_310",
+      "StringName_ENG": "Fresh Lime"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_311",
+      "StringName_ENG": "Sage Green"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_312",
+      "StringName_ENG": "Khaki Taupe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_313",
+      "StringName_ENG": "Royal Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_314",
+      "StringName_ENG": "Pale Olive"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_315",
+      "StringName_ENG": "Moss Green"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_316",
+      "StringName_ENG": "Old Olive"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_317",
+      "StringName_ENG": "Antique Khaki"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_318",
+      "StringName_ENG": "Mint Yellow"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_319",
+      "StringName_ENG": "Emerald Leaf"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_320",
+      "StringName_ENG": "Juniper Mint"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_321",
+      "StringName_ENG": "Rosy Brown"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_322",
+      "StringName_ENG": "Sky Mint"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_323",
+      "StringName_ENG": "Lagoon Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_324",
+      "StringName_ENG": "Peacock Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_325",
+      "StringName_ENG": "Deep Slate"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_326",
+      "StringName_ENG": "Aqua Sky"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_327",
+      "StringName_ENG": "Lilac Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_328",
+      "StringName_ENG": "Smoky Indigo"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_329",
+      "StringName_ENG": "Lavender Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_330",
+      "StringName_ENG": "Baby Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_331",
+      "StringName_ENG": "Lilac Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_332",
+      "StringName_ENG": "Orchid Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_333",
+      "StringName_ENG": "Stone Gray"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_334",
+      "StringName_ENG": "Powder Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_335",
+      "StringName_ENG": "Rosy Cherry"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_336",
+      "StringName_ENG": "Rose Mauve"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_252",
+      "StringName_ENG": "Twotone Strawberry Cream"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_253",
+      "StringName_ENG": "Twotone Ruby Latte"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_254",
+      "StringName_ENG": "Twotone Strawberry Candy"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_255",
+      "StringName_ENG": "Twotone Rose Jelly"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_256",
+      "StringName_ENG": "Twotone Cherry Brick"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_257",
+      "StringName_ENG": "Twotone Apricot Cream"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_258",
+      "StringName_ENG": "Twotone Grapefruit Smoothie"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_259",
+      "StringName_ENG": "Twotone Orange Blush"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_260",
+      "StringName_ENG": "Twotone Sunset Latte"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_261",
+      "StringName_ENG": "Twotone Autumn Brick"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_262",
+      "StringName_ENG": "Twotone Peach Mango"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_263",
+      "StringName_ENG": "Twotone Banana Milk"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_264",
+      "StringName_ENG": "Twotone Sunset Peach"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_265",
+      "StringName_ENG": "Twotone Lemon Lime"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_266",
+      "StringName_ENG": "Twotone Lemon Sorbet"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_267",
+      "StringName_ENG": "Twotone Lime Jelly"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_268",
+      "StringName_ENG": "Twotone Green Apple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_269",
+      "StringName_ENG": "Twotone Dawn Green"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_270",
+      "StringName_ENG": "Twotone Kiwi Lime"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_271",
+      "StringName_ENG": "Twotone Lemon Green Tea"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_272",
+      "StringName_ENG": "Twotone Sky Milk"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_273",
+      "StringName_ENG": "Twotone Aqua Latte"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_274",
+      "StringName_ENG": "Twotone Blueberry Soda"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_275",
+      "StringName_ENG": "Twotone Blue Lagoon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_276",
+      "StringName_ENG": "Twotone Snow Blue"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_277",
+      "StringName_ENG": "Twotone Purple Mist"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_278",
+      "StringName_ENG": "Twotone Midnight Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_279",
+      "StringName_ENG": "Twotone Cotton Candy Purple"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_280",
+      "StringName_ENG": "Twotone Cherry Blossom"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_281",
+      "StringName_ENG": "Twotone Lavender Cream"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_282",
+      "StringName_ENG": "Twotone Charcoal Breeze"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_283",
+      "StringName_ENG": "Twotone Stone Vanilla"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_284",
+      "StringName_ENG": "Twotone Misty Lake"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_285",
+      "StringName_ENG": "Twotone Mocha Sand"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Color_286",
+      "StringName_ENG": "Twotone Grey Snowflake"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension",
+      "StringName_ENG": "Extension"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Address_Extension_Text",
+      "StringName_ENG": "The address retention period has been updated."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_1",
+      "StringName_ENG": "You’ve gathered a lot of materials♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_2",
+      "StringName_ENG": "Is there something you’re curious about?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_3",
+      "StringName_ENG": "Is your storage space still okay?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_4",
+      "StringName_ENG": "It’s fun to see so many different things♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Storage_Text_5",
+      "StringName_ENG": "Are you looking for something?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30056",
+      "StringName_ENG": "I wonder if someone has what I want?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30057",
+      "StringName_ENG": "Shall we try crafting together today?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30058",
+      "StringName_ENG": "That’s all the materials ready!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30059",
+      "StringName_ENG": "I can’t wait to see what you will make♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30060",
+      "StringName_ENG": "I need this right now♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30061",
+      "StringName_ENG": "I want to try crafting too~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30062",
+      "StringName_ENG": "With this, we can definitely make something fun!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30063",
+      "StringName_ENG": "Come visit the “Cinnamoroll Café” too♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30064",
+      "StringName_ENG": "I want to eat a cinnamon roll~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30065",
+      "StringName_ENG": "What should we play with this~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30066",
+      "StringName_ENG": "I suddenly really want this!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30067",
+      "StringName_ENG": "Wanna try the pudding exercise together?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30068",
+      "StringName_ENG": "Do you think I can craft too~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30069",
+      "StringName_ENG": "I’m gonna make something amazing with this~!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30070",
+      "StringName_ENG": "All I need is this~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30071",
+      "StringName_ENG": "I’ll try crafting too!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30072",
+      "StringName_ENG": "Isn’t there someone who can bring me this~?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30073",
+      "StringName_ENG": "This looks perfect!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30074",
+      "StringName_ENG": "Could you do me a favor? I really want this!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30075",
+      "StringName_ENG": "What I’m making is a secret!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30076",
+      "StringName_ENG": "I want to try crafting too♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30077",
+      "StringName_ENG": "They say you can make something lovely with this♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30078",
+      "StringName_ENG": "If I write my wish here, will it come true?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30079",
+      "StringName_ENG": "I will be waiting for you♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30080",
+      "StringName_ENG": "I want this♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30081",
+      "StringName_ENG": "Why don’t you stop by the Pochacco Shop too?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30082",
+      "StringName_ENG": "I want this☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30083",
+      "StringName_ENG": "Where could this be?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30084",
+      "StringName_ENG": "I wonder if someone will help me?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30085",
+      "StringName_ENG": "Do you have this?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30086",
+      "StringName_ENG": "Do I just write my wish?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30087",
+      "StringName_ENG": "This is exactly what we want☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30088",
+      "StringName_ENG": "Let’s try crafting together☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30089",
+      "StringName_ENG": "I hope our wishes come true☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30090",
+      "StringName_ENG": "Will someone really make my wish come true?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30091",
+      "StringName_ENG": "Should I debut in crafting too?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30092",
+      "StringName_ENG": "What can I make with this?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30093",
+      "StringName_ENG": "Where can I get this?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30094",
+      "StringName_ENG": "I’ll be waiting~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30095",
+      "StringName_ENG": "I’ve started wanting this~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30096",
+      "StringName_ENG": "I’m going to craft something amazing!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30097",
+      "StringName_ENG": "I want this~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30098",
+      "StringName_ENG": "Days like this make me want to sing♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30099",
+      "StringName_ENG": "Shall we go on an outing next time?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30100",
+      "StringName_ENG": "I want this~♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30101",
+      "StringName_ENG": "Even I can craft!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30102",
+      "StringName_ENG": "There’s nothing I can’t do!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30103",
+      "StringName_ENG": "I want this!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30104",
+      "StringName_ENG": "Someone bring it to me~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30105",
+      "StringName_ENG": "I’ll show you what I can do〜!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30106",
+      "StringName_ENG": "I like this one♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30107",
+      "StringName_ENG": "I’ll keep it in my favorite bucket♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30108",
+      "StringName_ENG": "I’ll treasure it☆"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30109",
+      "StringName_ENG": "I want this♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30110",
+      "StringName_ENG": "Should I try crafting too?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30111",
+      "StringName_ENG": "Could you… give this to me?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30112",
+      "StringName_ENG": "First, I need this!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30113",
+      "StringName_ENG": "What should we make tomorrow?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30114",
+      "StringName_ENG": "Let’s craft!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30115",
+      "StringName_ENG": "A brand new challenge♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30116",
+      "StringName_ENG": "Now I want this♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30117",
+      "StringName_ENG": "Sometimes, little things like this are nice♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30118",
+      "StringName_ENG": "I’m going to craft♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30119",
+      "StringName_ENG": "Just saying it in advance♪ Thanks♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30120",
+      "StringName_ENG": "Look forward to what I’ll make♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30121",
+      "StringName_ENG": "Wobble……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30122",
+      "StringName_ENG": "Roll……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30123",
+      "StringName_ENG": "First… I should ask……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30124",
+      "StringName_ENG": "First… I should go back to sleep……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Request_comment_30125",
+      "StringName_ENG": "It’s okay… even if you don’t listen to me……"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_1",
+      "StringName_ENG": "Do you like it…?  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_2",
+      "StringName_ENG": "I think this hairstyle would suit you… What do you think…?  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_3",
+      "StringName_ENG": "This style is also… quite nice…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "PremiunHairShop_Text_4",
+      "StringName_ENG": "If… you don’t like it… please let me know…  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022795",
+      "StringName_ENG": "Hangyodon Hat"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022796",
+      "StringName_ENG": "My Melody Hat"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Village_Select",
+      "StringName_ENG": "Select Village"
     }
   ]
 }

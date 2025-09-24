@@ -787,9 +787,9 @@
     {
       "ServiceType": "DEV",
       "Name": "Daily_Reset_Time",
-      "Game": 3,
+      "Game": 1,
       "Value": 20,
-      "Context": "조이샵 데일리 리셋 타임 UTC"
+      "Context": "조이샵 데일리 리셋 타임 UTC (PS)"
     },
     {
       "ServiceType": "DEV",

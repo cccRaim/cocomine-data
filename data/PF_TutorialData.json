@@ -19,6 +19,15 @@
       "IsLock": false
     },
     {
+      "ServiceType": "NONE",
+      "Key": 143,
+      "Game": 3,
+      "EquipItemType": 15,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
       "ServiceType": "DEV",
       "Key": 100022617,
       "Game": 1,
@@ -30,7 +39,7 @@
     {
       "ServiceType": "DEV",
       "Key": 149,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 16,
       "IsGirlDefaultItem": true,
       "IsBoyDefaultItem": false,

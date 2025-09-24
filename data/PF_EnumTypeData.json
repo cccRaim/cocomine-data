@@ -3508,6 +3508,11 @@
       "Key": 100,
       "Value": "UseBomb",
       "Desc": "특정 폭탄{0} {1}개 사용"
+    },
+    {
+      "Key": 101,
+      "Value": "RequestCount",
+      "Desc": "아르바이트 {0}번 완료"
     }
   ],
   "EPassRwdType": [
@@ -4209,7 +4214,7 @@
     {
       "Key": 80,
       "Value": "FarmingObjectItemPopup",
-      "Desc": "보유 시 UI_InventoryItemInfoPopup / 미보유 시 그리너리샵 (JoyShopPopup)"
+      "Desc": "파밍 오브젝트 아이템 배치"
     },
     {
       "Key": 81,

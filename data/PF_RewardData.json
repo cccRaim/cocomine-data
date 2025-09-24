@@ -473,6 +473,38 @@
       "QuestRewardType": 20,
       "RewardID": 100391,
       "RewardValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000112,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 428,
+      "RewardValue": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000113,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 242,
+      "RewardValue": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000114,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 100138,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000115,
+      "Game": 3,
+      "QuestRewardType": 20,
+      "RewardID": 236,
+      "RewardValue": 3
     }
   ],
   "CollectionRwd": [

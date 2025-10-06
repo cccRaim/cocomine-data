@@ -6757,7 +6757,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1037,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 7,
@@ -6777,7 +6777,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1038,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 7,

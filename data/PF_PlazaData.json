@@ -2957,6 +2957,13 @@
       "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20074,
+      "Game": 3,
+      "FieldID": 106,
+      "IsReverse": false
     }
   ],
   "NPCSquare": [
@@ -2991,70 +2998,6 @@
   "Plaza_ExchangeItem": [
     {
       "ServiceType": "DEV",
-      "Key": 1,
-      "Game": 3,
-      "FieldID": 108,
-      "SpawnPointID": 127,
-      "ItemID": 100082
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "Game": 3,
-      "FieldID": 109,
-      "SpawnPointID": 128,
-      "ItemID": 1050043
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 3,
-      "Game": 3,
-      "FieldID": 110,
-      "SpawnPointID": 131,
-      "ItemID": 1050043
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 4,
-      "Game": 3,
-      "FieldID": 111,
-      "SpawnPointID": 130,
-      "ItemID": 1050043
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 5,
-      "Game": 3,
-      "FieldID": 112,
-      "SpawnPointID": 129,
-      "ItemID": 1050043
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 6,
-      "Game": 3,
-      "FieldID": 108,
-      "SpawnPointID": 246,
-      "ItemID": 90000000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "Game": 3,
-      "FieldID": 108,
-      "SpawnPointID": 247,
-      "ItemID": 90000001
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "Game": 3,
-      "FieldID": 108,
-      "SpawnPointID": 248,
-      "ItemID": 90000002
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 20011,
       "Game": 3,
       "FieldID": 2001,
@@ -3064,7 +3007,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20012,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2001,
       "SpawnPointID": 20012,
       "ItemID": 90000000
@@ -3072,7 +3015,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20013,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2001,
       "SpawnPointID": 20013,
       "ItemID": 90000001
@@ -3080,7 +3023,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20014,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2001,
       "SpawnPointID": 20014,
       "ItemID": 90000002
@@ -3088,7 +3031,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20015,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2005,
       "SpawnPointID": 20015,
       "ItemID": 10500043
@@ -3096,7 +3039,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20016,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20061,
       "ItemID": 10500137
@@ -3104,7 +3047,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20017,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20062,
       "ItemID": 10500140
@@ -3112,7 +3055,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20018,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20063,
       "ItemID": 10500141
@@ -3120,7 +3063,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20019,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20064,
       "ItemID": 10500142
@@ -3128,7 +3071,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20020,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20065,
       "ItemID": 10500143
@@ -3136,7 +3079,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20021,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20066,
       "ItemID": 10500144
@@ -3144,7 +3087,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20022,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20067,
       "ItemID": 10500147
@@ -3152,7 +3095,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20023,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20068,
       "ItemID": 10500148
@@ -3160,7 +3103,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20024,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20069,
       "ItemID": 10500149
@@ -3168,7 +3111,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20025,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20070,
       "ItemID": 10500150
@@ -3176,7 +3119,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20026,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20071,
       "ItemID": 10500138
@@ -3184,7 +3127,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20027,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20072,
       "ItemID": 10500147
@@ -3192,7 +3135,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20028,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2006,
       "SpawnPointID": 20073,
       "ItemID": 10500139

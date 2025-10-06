@@ -9718,7 +9718,7 @@
       "UniqueNum": 4,
       "ItemID": 100501,
       "ItemType": 20,
-      "IsThumbnail": 0
+      "IsThumbnail": 1
     },
     {
       "ServiceType": "DEV",
@@ -9888,7 +9888,7 @@
       "UniqueNum": 1,
       "ItemID": 545,
       "ItemType": 20,
-      "IsThumbnail": 1
+      "IsThumbnail": 0
     },
     {
       "ServiceType": "DEV",

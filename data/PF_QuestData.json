@@ -18822,7 +18822,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900001,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90001,
       "OpenConditionType": 51,
@@ -18845,7 +18845,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900002,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90002,
       "OpenConditionType": 60,
@@ -18868,7 +18868,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900003,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90003,
       "OpenConditionType": 3,
@@ -18891,7 +18891,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900004,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90004,
       "OpenConditionType": 3,
@@ -18914,7 +18914,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900005,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90005,
       "OpenConditionType": 15,
@@ -18937,7 +18937,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900006,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90006,
       "OpenConditionType": 3,
@@ -18960,7 +18960,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900007,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90007,
       "OpenConditionType": 44,
@@ -18983,7 +18983,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900008,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90008,
       "OpenConditionType": 41,
@@ -19006,7 +19006,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900009,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90009,
       "OpenConditionType": 44,
@@ -19029,7 +19029,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900010,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90010,
       "OpenConditionType": 41,
@@ -19052,7 +19052,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900011,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90011,
       "OpenConditionType": 15,
@@ -19075,7 +19075,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900012,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90012,
       "OpenConditionType": 60,
@@ -19098,7 +19098,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900013,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90013,
       "OpenConditionType": 3,
@@ -19121,7 +19121,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900014,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90014,
       "OpenConditionType": 15,
@@ -19144,7 +19144,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900015,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90015,
       "OpenConditionType": 15,
@@ -19167,7 +19167,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900016,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90016,
       "OpenConditionType": 51,
@@ -19190,7 +19190,7 @@
     {
       "ServiceType": "DEV",
       "Key": 900017,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 90017,
       "OpenConditionType": 15,
@@ -21908,7 +21908,7 @@
       "Sortindex": 1,
       "QuestID": 90110,
       "OpenConditionType": 3,
-      "QuestStepDesc": "OpenType_3",
+      "QuestStepDesc": "OpenType_3_Farm",
       "param1": 3,
       "param2": 35,
       "param3": 0,
@@ -24710,7 +24710,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100011,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910001,
       "OpenConditionType": 15,
@@ -24733,7 +24733,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100021,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910002,
       "OpenConditionType": 44,
@@ -24756,7 +24756,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100031,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910003,
       "OpenConditionType": 15,
@@ -24779,7 +24779,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100041,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910004,
       "OpenConditionType": 44,
@@ -24802,7 +24802,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100051,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910005,
       "OpenConditionType": 15,
@@ -24825,7 +24825,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100061,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910006,
       "OpenConditionType": 44,
@@ -24848,7 +24848,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100071,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910007,
       "OpenConditionType": 15,
@@ -24871,7 +24871,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100072,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 2,
       "QuestID": 910007,
       "OpenConditionType": 44,
@@ -24894,7 +24894,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9100081,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 910008,
       "OpenConditionType": 60,
@@ -39522,7 +39522,7 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 100,
       "OpenConditionType": 60,
@@ -39545,7 +39545,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 101,
       "OpenConditionType": 3,
@@ -39568,7 +39568,7 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 102,
       "OpenConditionType": 51,
@@ -39591,7 +39591,7 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 103,
       "OpenConditionType": 41,
@@ -39614,7 +39614,7 @@
     {
       "ServiceType": "DEV",
       "Key": 104,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 104,
       "OpenConditionType": 51,
@@ -39637,11 +39637,11 @@
     {
       "ServiceType": "DEV",
       "Key": 105,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 105,
       "OpenConditionType": 3,
-      "QuestStepDesc": "OpenType_3",
+      "QuestStepDesc": "OpenType_3_Farm",
       "param1": 3,
       "param2": 28,
       "param3": 0,
@@ -39660,7 +39660,7 @@
     {
       "ServiceType": "DEV",
       "Key": 106,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 106,
       "OpenConditionType": 3,
@@ -39683,7 +39683,7 @@
     {
       "ServiceType": "DEV",
       "Key": 107,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 107,
       "OpenConditionType": 3,
@@ -39706,7 +39706,7 @@
     {
       "ServiceType": "DEV",
       "Key": 108,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 108,
       "OpenConditionType": 41,
@@ -39729,7 +39729,7 @@
     {
       "ServiceType": "DEV",
       "Key": 109,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 109,
       "OpenConditionType": 41,
@@ -39752,7 +39752,7 @@
     {
       "ServiceType": "DEV",
       "Key": 110,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 110,
       "OpenConditionType": 3,
@@ -39775,7 +39775,7 @@
     {
       "ServiceType": "DEV",
       "Key": 112,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 111,
       "OpenConditionType": 3,
@@ -39798,7 +39798,7 @@
     {
       "ServiceType": "DEV",
       "Key": 113,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 112,
       "OpenConditionType": 41,
@@ -39821,7 +39821,7 @@
     {
       "ServiceType": "DEV",
       "Key": 114,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 113,
       "OpenConditionType": 3,
@@ -39844,7 +39844,7 @@
     {
       "ServiceType": "DEV",
       "Key": 115,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 114,
       "OpenConditionType": 3,
@@ -39867,7 +39867,7 @@
     {
       "ServiceType": "DEV",
       "Key": 116,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 115,
       "OpenConditionType": 3,
@@ -39890,7 +39890,7 @@
     {
       "ServiceType": "DEV",
       "Key": 117,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 2,
       "QuestID": 115,
       "OpenConditionType": 41,
@@ -39913,7 +39913,7 @@
     {
       "ServiceType": "DEV",
       "Key": 118,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 3,
       "QuestID": 115,
       "OpenConditionType": 11,
@@ -39936,7 +39936,7 @@
     {
       "ServiceType": "DEV",
       "Key": 119,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 116,
       "OpenConditionType": 51,
@@ -39959,7 +39959,7 @@
     {
       "ServiceType": "DEV",
       "Key": 120,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 2,
       "QuestID": 116,
       "OpenConditionType": 41,
@@ -39982,7 +39982,7 @@
     {
       "ServiceType": "DEV",
       "Key": 121,
-      "Game": 3,
+      "Game": 1,
       "Sortindex": 1,
       "QuestID": 117,
       "OpenConditionType": 60,

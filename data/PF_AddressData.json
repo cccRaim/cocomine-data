@@ -157,7 +157,7 @@
       "TownName": "Town_13",
       "CityID": 3,
       "TownPrice": 5000000,
-      "TownMiniMapImage": "Town_14_MiniMap"
+      "TownMiniMapImage": "Town_20_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -166,7 +166,7 @@
       "TownName": "Town_14",
       "CityID": 3,
       "TownPrice": 5000000,
-      "TownMiniMapImage": "Town_13_MiniMap"
+      "TownMiniMapImage": "Town_19_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -175,7 +175,7 @@
       "TownName": "Town_15",
       "CityID": 3,
       "TownPrice": 3000000,
-      "TownMiniMapImage": "Town_16_MiniMap"
+      "TownMiniMapImage": "Town_22_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -184,7 +184,7 @@
       "TownName": "Town_16",
       "CityID": 3,
       "TownPrice": 3000000,
-      "TownMiniMapImage": "Town_15_MiniMap"
+      "TownMiniMapImage": "Town_21_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -193,7 +193,7 @@
       "TownName": "Town_17",
       "CityID": 3,
       "TownPrice": 1000000,
-      "TownMiniMapImage": "Town_18_MiniMap"
+      "TownMiniMapImage": "Town_24_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -202,7 +202,7 @@
       "TownName": "Town_18",
       "CityID": 3,
       "TownPrice": 1000000,
-      "TownMiniMapImage": "Town_17_MiniMap"
+      "TownMiniMapImage": "Town_23_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -211,7 +211,7 @@
       "TownName": "Town_19",
       "CityID": 4,
       "TownPrice": 5000000,
-      "TownMiniMapImage": "Town_20_MiniMap"
+      "TownMiniMapImage": "Town_14_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -220,7 +220,7 @@
       "TownName": "Town_20",
       "CityID": 4,
       "TownPrice": 5000000,
-      "TownMiniMapImage": "Town_19_MiniMap"
+      "TownMiniMapImage": "Town_13_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -229,7 +229,7 @@
       "TownName": "Town_21",
       "CityID": 4,
       "TownPrice": 3000000,
-      "TownMiniMapImage": "Town_22_MiniMap"
+      "TownMiniMapImage": "Town_16_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -238,7 +238,7 @@
       "TownName": "Town_22",
       "CityID": 4,
       "TownPrice": 3000000,
-      "TownMiniMapImage": "Town_21_MiniMap"
+      "TownMiniMapImage": "Town_15_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -247,7 +247,7 @@
       "TownName": "Town_23",
       "CityID": 4,
       "TownPrice": 1000000,
-      "TownMiniMapImage": "Town_24_MiniMap"
+      "TownMiniMapImage": "Town_18_MiniMap"
     },
     {
       "ServiceType": "DEV",
@@ -256,7 +256,7 @@
       "TownName": "Town_24",
       "CityID": 4,
       "TownPrice": 1000000,
-      "TownMiniMapImage": "Town_23_MiniMap"
+      "TownMiniMapImage": "Town_17_MiniMap"
     }
   ],
   "Village": [
@@ -17416,7 +17416,7 @@
   "AddressRegister": [],
   "Plaza_NonAccess": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
       "Game": 3,
       "CityID": 3,
@@ -17425,7 +17425,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
       "Game": 3,
       "CityID": 3,
@@ -17434,7 +17434,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 3,
       "Game": 3,
       "CityID": 3,
@@ -17443,7 +17443,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 4,
       "Game": 3,
       "CityID": 3,
@@ -17452,7 +17452,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
       "Game": 3,
       "CityID": 3,
@@ -17461,7 +17461,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 6,
       "Game": 3,
       "CityID": 3,
@@ -17470,7 +17470,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 7,
       "Game": 3,
       "CityID": 3,
@@ -17479,7 +17479,7 @@
       "BlockColor": "#debda0"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
       "Game": 3,
       "CityID": 3,

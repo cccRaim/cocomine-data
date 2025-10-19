@@ -368,9 +368,9 @@
       "Key": 22,
       "Game": 1,
       "SexType": 1,
-      "EyeColor": 191,
+      "EyeColor": 172,
       "IsTutorial": false,
-      "EyeColorName": "Color_191",
+      "EyeColorName": "Color_172",
       "BuyPriceType": 4,
       "BuyPriceValue": 300
     },
@@ -423,9 +423,9 @@
       "Key": 27,
       "Game": 1,
       "SexType": 2,
-      "EyeColor": 191,
+      "EyeColor": 172,
       "IsTutorial": false,
-      "EyeColorName": "Color_191",
+      "EyeColorName": "Color_172",
       "BuyPriceType": 4,
       "BuyPriceValue": 300
     },

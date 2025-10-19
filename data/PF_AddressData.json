@@ -17400,7 +17400,7 @@
       "ServiceType": "DEV",
       "Key": 11,
       "Game": 1,
-      "FieldID": 0,
+      "FieldID": 2009,
       "PlazaType": 8,
       "CityID": 1,
       "TownID": 1,
@@ -17411,6 +17411,70 @@
       "BlockColor": "#F0B3BC",
       "IconID": "icon_town2",
       "ImageID": "icon_town2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 12,
+      "Game": 1,
+      "FieldID": 2010,
+      "PlazaType": 6,
+      "CityID": 2,
+      "TownID": 9,
+      "VillageID": [
+        0
+      ],
+      "IsSpecial": false,
+      "BlockColor": "#F9CADE",
+      "IconID": "icon_cinnamoroll",
+      "ImageID": "icon_cinnamoroll"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "Game": 1,
+      "FieldID": 2011,
+      "PlazaType": 8,
+      "CityID": 1,
+      "TownID": 1,
+      "VillageID": [
+        0
+      ],
+      "IsSpecial": false,
+      "BlockColor": "#E1CCEA",
+      "IconID": "fashion_ps",
+      "ImageID": "fashion_ps"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "Game": 1,
+      "FieldID": 2012,
+      "PlazaType": 8,
+      "CityID": 1,
+      "TownID": 1,
+      "VillageID": [
+        0
+      ],
+      "IsSpecial": false,
+      "BlockColor": "#E1CCEA",
+      "IconID": "fashion_ps",
+      "ImageID": "fashion_ps"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "Game": 1,
+      "FieldID": 2013,
+      "PlazaType": 8,
+      "CityID": 1,
+      "TownID": 1,
+      "VillageID": [
+        0
+      ],
+      "IsSpecial": false,
+      "BlockColor": "#E1CCEA",
+      "IconID": "fashion_ps",
+      "ImageID": "fashion_ps"
     }
   ],
   "AddressRegister": [],

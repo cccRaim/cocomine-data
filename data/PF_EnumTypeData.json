@@ -1653,6 +1653,11 @@
       "Key": 8,
       "Value": "LandMarkCrafting_Crafting",
       "Desc": "광장"
+    },
+    {
+      "Key": 9,
+      "Value": "Kuromi_Crafting",
+      "Desc": "쿠로미"
     }
   ],
   "EDailyMissionType": [
@@ -3759,6 +3764,26 @@
       "Key": 11,
       "Value": "IanHouse",
       "Desc": "이안하우스"
+    },
+    {
+      "Key": 12,
+      "Value": "KuromiVillage",
+      "Desc": "쿠로미 빌리지"
+    },
+    {
+      "Key": 13,
+      "Value": "KuromiHouse",
+      "Desc": "쿠로미 하우스"
+    },
+    {
+      "Key": 14,
+      "Value": "KuromiSecretRoom",
+      "Desc": "쿠로미 시크릿룸"
+    },
+    {
+      "Key": 15,
+      "Value": "KuromiMissionRoom",
+      "Desc": "쿠로미 비밀 작전실"
     }
   ],
   "EPosType": [
@@ -4255,6 +4280,11 @@
       "Key": 88,
       "Value": "AddressRegisterPopup",
       "Desc": "주소 등록 팝업창"
+    },
+    {
+      "Key": 89,
+      "Value": "AdventureForest",
+      "Desc": "어드벤처 포레스트"
     }
   ],
   "ERankType": [

@@ -3,7 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": false,
       "PlazaID": 5,
       "TownSpawnNPCGroupID": 2,
@@ -16,7 +16,7 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -29,7 +29,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -42,7 +42,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -55,7 +55,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -68,9 +68,9 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": false,
-      "PlazaID": 4,
+      "PlazaID": 0,
       "TownSpawnNPCGroupID": 3,
       "IsMainHouse": false,
       "IsNPCSquare": false,
@@ -81,7 +81,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": false,
       "PlazaID": 6,
       "TownSpawnNPCGroupID": 1,
@@ -94,20 +94,20 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
-      "IsEdit": true,
-      "PlazaID": 0,
-      "TownSpawnNPCGroupID": 0,
+      "Game": 1,
+      "IsEdit": false,
+      "PlazaID": 11,
+      "TownSpawnNPCGroupID": 4,
       "IsMainHouse": false,
-      "IsNPCSquare": false,
+      "IsNPCSquare": true,
       "IsLock": false,
-      "OpenLevel": 0,
+      "OpenLevel": 6,
       "TutorialID": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -120,7 +120,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": true,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -133,7 +133,7 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
+      "Game": 1,
       "IsEdit": false,
       "PlazaID": 0,
       "TownSpawnNPCGroupID": 0,
@@ -206,8 +206,8 @@
       "Key": 10007,
       "Game": 3,
       "GroupID": 3,
-      "NPCID": 2001,
-      "AnimID": "signature01"
+      "NPCID": 2003,
+      "AnimID": "happy01"
     },
     {
       "ServiceType": "DEV",
@@ -215,6 +215,14 @@
       "Game": 3,
       "GroupID": 3,
       "NPCID": 2002,
+      "AnimID": "expected01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10009,
+      "Game": 3,
+      "GroupID": 4,
+      "NPCID": 2001,
       "AnimID": "signature01"
     }
   ],

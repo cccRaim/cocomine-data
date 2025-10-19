@@ -159,90 +159,250 @@
       "Point": 1,
       "IsShowTimer": false,
       "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 17,
+      "FieldID": 2010,
+      "ItemID": 10500269,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": true,
+      "Timer": 10
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 18,
+      "FieldID": 2010,
+      "ItemID": 10500268,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 19,
+      "FieldID": 2010,
+      "ItemID": 10500271,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 20,
+      "FieldID": 2010,
+      "ItemID": 10500272,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 21,
+      "FieldID": 2010,
+      "ItemID": 10500273,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 22,
+      "FieldID": 2010,
+      "ItemID": 10500266,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 23,
+      "FieldID": 2010,
+      "ItemID": 100378,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 24,
+      "FieldID": 2010,
+      "ItemID": 100379,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 25,
+      "FieldID": 2010,
+      "ItemID": 100380,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 26,
+      "FieldID": 2010,
+      "ItemID": 100381,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 27,
+      "FieldID": 2010,
+      "ItemID": 100382,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 28,
+      "FieldID": 2010,
+      "ItemID": 100383,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 29,
+      "FieldID": 2010,
+      "ItemID": 100384,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 30,
+      "FieldID": 2010,
+      "ItemID": 100385,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 31,
+      "FieldID": 2010,
+      "ItemID": 100386,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 32,
+      "FieldID": 2010,
+      "ItemID": 100387,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0
     }
   ],
   "MonthTerm": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "January_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "Februrary_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "March_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "April_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "May_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "June_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "July_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "August_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "September_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "October_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "November_Ranking"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "RankingStringkey": "December_Ranking"
     }
@@ -251,98 +411,271 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_4"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_5"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_6"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_7"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_8"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_9"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "RankingStringkey": "Cinnamoroll_Ranking_10"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 11,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_1"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 12,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_2"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 13,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_3"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 14,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_4"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 15,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_5"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 16,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_6"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 17,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_7"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 18,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_8"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 19,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_9"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 20,
+      "Game": 1,
+      "FieldID": 2010,
+      "RankingStringkey": "Kuromi_Ranking_10"
+    }
+  ],
+  "RankingNPC": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Game": 1,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "signature01",
+      "ChatKey": "RankingBubble",
+      "RankingTitle": "RankingTitle"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 2,
+      "Game": 1,
+      "FieldID": 2010,
+      "NPCID": 2001,
+      "AnimID": "happy01",
+      "ChatKey": "Kuromi_Ranking_Chat",
+      "RankingTitle": "RankingTitle_Kuromi"
     }
   ],
   "Fountain": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "ItemID": 373,
       "RwdType": 20,
       "RwdItemID": 454,
       "RwdItemQnty": 1,
       "Point": 1,
-      "Rate": 5000
+      "Rate": 5000,
+      "AnimGroupID": 1,
+      "IsNPCSpawn": false,
+      "NPCID": 1002,
+      "NPCChat": "RankPrizeBubble",
+      "NPCAnim": "hi01"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 1,
       "FieldID": 2003,
       "ItemID": 374,
       "RwdType": 20,
       "RwdItemID": 453,
       "RwdItemQnty": 1,
       "Point": 5,
-      "Rate": 7000
+      "Rate": 7000,
+      "AnimGroupID": 1,
+      "IsNPCSpawn": true,
+      "NPCID": 1002,
+      "NPCChat": "RankPrizeBubble",
+      "NPCAnim": "hi01"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 3,
+      "Game": 1,
+      "FieldID": 2010,
+      "ItemID": 373,
+      "RwdType": 20,
+      "RwdItemID": 454,
+      "RwdItemQnty": 1,
+      "Point": 1,
+      "Rate": 5000,
+      "AnimGroupID": 2,
+      "IsNPCSpawn": false,
+      "NPCID": 2001,
+      "NPCChat": "Kuromi_Reward_Desc",
+      "NPCAnim": "hi01"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 4,
+      "Game": 1,
+      "FieldID": 2010,
+      "ItemID": 374,
+      "RwdType": 20,
+      "RwdItemID": 453,
+      "RwdItemQnty": 1,
+      "Point": 5,
+      "Rate": 7000,
+      "AnimGroupID": 3,
+      "IsNPCSpawn": true,
+      "NPCID": 2001,
+      "NPCChat": "Kuromi_Reward_Desc",
+      "NPCAnim": "hi01"
+    }
+  ],
+  "FountainAnim": [
+    {
+      "ServiceType": "DEV",
+      "Key": 1,
+      "Game": 1,
+      "GroupID": 1,
+      "AnimID": "throwcoin01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Game": 1,
+      "GroupID": 2,
+      "AnimID": "change_eye01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Game": 1,
+      "GroupID": 2,
+      "AnimID": "surprise01"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 4,
+      "Game": 1,
+      "GroupID": 3,
+      "AnimID": "dance01"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 5,
+      "Game": 1,
+      "GroupID": 3,
+      "AnimID": "congratulations01"
     }
   ]
 }

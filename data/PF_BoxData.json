@@ -2739,9 +2739,9 @@
       "Game": 1,
       "BoxID": 539,
       "RwdType": 20,
-      "ItemID": 26,
+      "ItemID": 659,
       "ItemCount": 1,
-      "Rate": 600
+      "Rate": 4950
     },
     {
       "ServiceType": "DEV",
@@ -2749,12 +2749,12 @@
       "Game": 1,
       "BoxID": 539,
       "RwdType": 20,
-      "ItemID": 29,
+      "ItemID": 660,
       "ItemCount": 1,
-      "Rate": 600
+      "Rate": 4950
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 253,
       "Game": 1,
       "BoxID": 539,
@@ -2764,7 +2764,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 254,
       "Game": 1,
       "BoxID": 539,
@@ -2774,7 +2774,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 255,
       "Game": 1,
       "BoxID": 539,
@@ -2784,7 +2784,7 @@
       "Rate": 400
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 256,
       "Game": 1,
       "BoxID": 539,
@@ -2794,7 +2794,7 @@
       "Rate": 400
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 257,
       "Game": 1,
       "BoxID": 539,
@@ -2804,7 +2804,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 258,
       "Game": 1,
       "BoxID": 539,
@@ -2814,7 +2814,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 259,
       "Game": 1,
       "BoxID": 539,
@@ -2824,7 +2824,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 260,
       "Game": 1,
       "BoxID": 539,
@@ -2834,7 +2834,7 @@
       "Rate": 400
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 261,
       "Game": 1,
       "BoxID": 539,
@@ -2844,7 +2844,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 262,
       "Game": 1,
       "BoxID": 539,
@@ -2854,7 +2854,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 263,
       "Game": 1,
       "BoxID": 539,
@@ -2864,7 +2864,7 @@
       "Rate": 400
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 264,
       "Game": 1,
       "BoxID": 539,
@@ -2874,7 +2874,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 265,
       "Game": 1,
       "BoxID": 539,
@@ -2884,7 +2884,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 266,
       "Game": 1,
       "BoxID": 539,
@@ -2894,7 +2894,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 267,
       "Game": 1,
       "BoxID": 539,
@@ -2904,7 +2904,7 @@
       "Rate": 600
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 268,
       "Game": 1,
       "BoxID": 539,
@@ -2914,7 +2914,7 @@
       "Rate": 500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 269,
       "Game": 1,
       "BoxID": 539,

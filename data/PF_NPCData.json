@@ -1566,6 +1566,106 @@
       "NPCID": 1001,
       "NPCText": "Storage_Text_5",
       "AnimName": "talk01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 120,
+      "Game": 1,
+      "GroupID": 39,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Goods_1",
+      "AnimName": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 121,
+      "Game": 1,
+      "GroupID": 39,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Goods_2",
+      "AnimName": "talk01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 122,
+      "Game": 1,
+      "GroupID": 39,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Goods_3",
+      "AnimName": "expected01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 123,
+      "Game": 1,
+      "GroupID": 39,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Goods_4",
+      "AnimName": "mad01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 124,
+      "Game": 1,
+      "GroupID": 39,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Goods_5",
+      "AnimName": "happy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "Game": 1,
+      "GroupID": 40,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Crafting_1",
+      "AnimName": "hi01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "Game": 1,
+      "GroupID": 40,
+      "UILinkType": 81,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Crafting_2",
+      "AnimName": "signature01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "Game": 1,
+      "GroupID": 40,
+      "UILinkType": 15,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Crafting_3",
+      "AnimName": "expected01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "Game": 1,
+      "GroupID": 40,
+      "UILinkType": 15,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Crafting_4",
+      "AnimName": "happy01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "Game": 1,
+      "GroupID": 40,
+      "UILinkType": 15,
+      "NPCID": 2001,
+      "NPCText": "Kuromi_Crafting_5",
+      "AnimName": "signature01"
     }
   ],
   "GFLevel": [

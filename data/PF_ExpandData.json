@@ -1584,7 +1584,7 @@
       "MaxCnt": 2,
       "AddCnt": 1,
       "PriceType": 4,
-      "PriceValue": 10,
+      "PriceValue": 1000,
       "OpenTime": "2023-03-02T05:50:10 +09:01"
     },
     {
@@ -1594,7 +1594,7 @@
       "MaxCnt": 3,
       "AddCnt": 1,
       "PriceType": 4,
-      "PriceValue": 20,
+      "PriceValue": 2000,
       "OpenTime": "2023-03-02T05:50:10 +09:02"
     },
     {
@@ -1604,7 +1604,7 @@
       "MaxCnt": 4,
       "AddCnt": 1,
       "PriceType": 4,
-      "PriceValue": 30,
+      "PriceValue": 3000,
       "OpenTime": "2023-03-02T05:50:10 +09:03"
     }
   ],

@@ -39,6 +39,16 @@
       "ItemID": 0,
       "ItemCnt": 2,
       "IconID": "icon_play_ticket"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "Game": 3,
+      "MiniGameName": "Minigame_5",
+      "RwdType": 30,
+      "ItemID": 0,
+      "ItemCnt": 2,
+      "IconID": "icon_play_ticket"
     }
   ],
   "RhythmGame": [

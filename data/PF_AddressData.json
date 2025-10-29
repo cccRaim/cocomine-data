@@ -17417,7 +17417,7 @@
       "Key": 12,
       "Game": 1,
       "FieldID": 2010,
-      "PlazaType": 6,
+      "PlazaType": 12,
       "CityID": 2,
       "TownID": 9,
       "VillageID": [
@@ -17433,7 +17433,7 @@
       "Key": 13,
       "Game": 1,
       "FieldID": 2011,
-      "PlazaType": 8,
+      "PlazaType": 13,
       "CityID": 1,
       "TownID": 1,
       "VillageID": [
@@ -17449,7 +17449,7 @@
       "Key": 14,
       "Game": 1,
       "FieldID": 2012,
-      "PlazaType": 8,
+      "PlazaType": 13,
       "CityID": 1,
       "TownID": 1,
       "VillageID": [
@@ -17465,7 +17465,7 @@
       "Key": 15,
       "Game": 1,
       "FieldID": 2013,
-      "PlazaType": 8,
+      "PlazaType": 13,
       "CityID": 1,
       "TownID": 1,
       "VillageID": [

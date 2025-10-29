@@ -595,7 +595,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -607,7 +608,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -619,7 +621,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -631,7 +634,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -643,7 +647,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -655,7 +660,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_science"
     },
     {
       "ServiceType": "DEV",
@@ -667,7 +673,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_cook"
     },
     {
       "ServiceType": "DEV",
@@ -679,7 +686,8 @@
       "UpgradeTime": 0,
       "TimePassPrice": 0,
       "OpenGroupID": 0,
-      "ConsumeMatGroupID": 0
+      "ConsumeMatGroupID": 0,
+      "CraftingEndResID": "craft-comp_science"
     },
     {
       "ServiceType": "DEV",
@@ -691,7 +699,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10046,
-      "ConsumeMatGroupID": 407
+      "ConsumeMatGroupID": 407,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -703,7 +712,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10047,
-      "ConsumeMatGroupID": 441
+      "ConsumeMatGroupID": 441,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -715,7 +725,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10047,
-      "ConsumeMatGroupID": 447
+      "ConsumeMatGroupID": 447,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -727,7 +738,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10046,
-      "ConsumeMatGroupID": 453
+      "ConsumeMatGroupID": 453,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -739,7 +751,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10047,
-      "ConsumeMatGroupID": 460
+      "ConsumeMatGroupID": 460,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -751,7 +764,8 @@
       "UpgradeTime": 1800,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 466
+      "ConsumeMatGroupID": 466,
+      "CraftingEndResID": "craft-comp_cook"
     },
     {
       "ServiceType": "DEV",
@@ -763,7 +777,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10047,
-      "ConsumeMatGroupID": 408
+      "ConsumeMatGroupID": 408,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -775,7 +790,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 442
+      "ConsumeMatGroupID": 442,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -787,7 +803,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 448
+      "ConsumeMatGroupID": 448,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -799,7 +816,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10047,
-      "ConsumeMatGroupID": 454
+      "ConsumeMatGroupID": 454,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -811,7 +829,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 461
+      "ConsumeMatGroupID": 461,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -823,7 +842,8 @@
       "UpgradeTime": 3600,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 467
+      "ConsumeMatGroupID": 467,
+      "CraftingEndResID": "craft-comp_cook"
     },
     {
       "ServiceType": "DEV",
@@ -835,7 +855,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 409
+      "ConsumeMatGroupID": 409,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -847,7 +868,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 443
+      "ConsumeMatGroupID": 443,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -859,7 +881,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 449
+      "ConsumeMatGroupID": 449,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -871,7 +894,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10048,
-      "ConsumeMatGroupID": 455
+      "ConsumeMatGroupID": 455,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -883,7 +907,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 462
+      "ConsumeMatGroupID": 462,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -895,7 +920,8 @@
       "UpgradeTime": 5400,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 468
+      "ConsumeMatGroupID": 468,
+      "CraftingEndResID": "craft-comp_cook"
     },
     {
       "ServiceType": "DEV",
@@ -907,7 +933,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 410
+      "ConsumeMatGroupID": 410,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -919,7 +946,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 444
+      "ConsumeMatGroupID": 444,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -931,7 +959,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 450
+      "ConsumeMatGroupID": 450,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -943,7 +972,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10049,
-      "ConsumeMatGroupID": 456
+      "ConsumeMatGroupID": 456,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -955,7 +985,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 463
+      "ConsumeMatGroupID": 463,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -967,7 +998,8 @@
       "UpgradeTime": 7200,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 469
+      "ConsumeMatGroupID": 469,
+      "CraftingEndResID": "craft-comp_cook"
     },
     {
       "ServiceType": "DEV",
@@ -979,7 +1011,8 @@
       "UpgradeTime": 9000,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 411
+      "ConsumeMatGroupID": 411,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -991,7 +1024,8 @@
       "UpgradeTime": 9000,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 445
+      "ConsumeMatGroupID": 445,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -1003,7 +1037,8 @@
       "UpgradeTime": 9000,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 451
+      "ConsumeMatGroupID": 451,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -1015,7 +1050,8 @@
       "UpgradeTime": 9000,
       "TimePassPrice": 100,
       "OpenGroupID": 10050,
-      "ConsumeMatGroupID": 457
+      "ConsumeMatGroupID": 457,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -1027,7 +1063,8 @@
       "UpgradeTime": 9000,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 464
+      "ConsumeMatGroupID": 464,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -1039,7 +1076,8 @@
       "UpgradeTime": 10800,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 412
+      "ConsumeMatGroupID": 412,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -1051,7 +1089,8 @@
       "UpgradeTime": 10800,
       "TimePassPrice": 100,
       "OpenGroupID": 10052,
-      "ConsumeMatGroupID": 446
+      "ConsumeMatGroupID": 446,
+      "CraftingEndResID": "craft-comp_metal"
     },
     {
       "ServiceType": "DEV",
@@ -1063,7 +1102,8 @@
       "UpgradeTime": 10800,
       "TimePassPrice": 100,
       "OpenGroupID": 10052,
-      "ConsumeMatGroupID": 452
+      "ConsumeMatGroupID": 452,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -1075,7 +1115,8 @@
       "UpgradeTime": 10800,
       "TimePassPrice": 100,
       "OpenGroupID": 10051,
-      "ConsumeMatGroupID": 458
+      "ConsumeMatGroupID": 458,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -1087,7 +1128,8 @@
       "UpgradeTime": 10800,
       "TimePassPrice": 100,
       "OpenGroupID": 10052,
-      "ConsumeMatGroupID": 465
+      "ConsumeMatGroupID": 465,
+      "CraftingEndResID": "craft-comp_leather"
     },
     {
       "ServiceType": "DEV",
@@ -1099,7 +1141,8 @@
       "UpgradeTime": 12600,
       "TimePassPrice": 100,
       "OpenGroupID": 10052,
-      "ConsumeMatGroupID": 413
+      "ConsumeMatGroupID": 413,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -1111,7 +1154,8 @@
       "UpgradeTime": 12600,
       "TimePassPrice": 100,
       "OpenGroupID": 10052,
-      "ConsumeMatGroupID": 459
+      "ConsumeMatGroupID": 459,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -1123,7 +1167,8 @@
       "UpgradeTime": 14400,
       "TimePassPrice": 100,
       "OpenGroupID": 10053,
-      "ConsumeMatGroupID": 471
+      "ConsumeMatGroupID": 471,
+      "CraftingEndResID": "craft-comp_wood"
     },
     {
       "ServiceType": "DEV",
@@ -1135,7 +1180,8 @@
       "UpgradeTime": 12600,
       "TimePassPrice": 100,
       "OpenGroupID": 10053,
-      "ConsumeMatGroupID": 472
+      "ConsumeMatGroupID": 472,
+      "CraftingEndResID": "craft-comp_sewing"
     },
     {
       "ServiceType": "DEV",
@@ -1147,7 +1193,8 @@
       "UpgradeTime": 14400,
       "TimePassPrice": 100,
       "OpenGroupID": 10053,
-      "ConsumeMatGroupID": 473
+      "ConsumeMatGroupID": 473,
+      "CraftingEndResID": "craft-comp_pottery"
     },
     {
       "ServiceType": "DEV",
@@ -1159,7 +1206,8 @@
       "UpgradeTime": 12600,
       "TimePassPrice": 100,
       "OpenGroupID": 10053,
-      "ConsumeMatGroupID": 474
+      "ConsumeMatGroupID": 474,
+      "CraftingEndResID": "craft-comp_leather"
     }
   ],
   "CraftingToolItem": [
@@ -2097,6 +2145,78 @@
       "ItemID": 100200,
       "CraftingType": 4,
       "Level": 8,
+      "ResID": "icon_100200_pottery"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 125,
+      "Game": 3,
+      "ItemID": 201,
+      "CraftingType": 5,
+      "Level": 8,
+      "ResID": "icon_201_leather"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 126,
+      "Game": 3,
+      "ItemID": 100200,
+      "CraftingType": 5,
+      "Level": 8,
+      "ResID": "icon_100200_leather"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 127,
+      "Game": 3,
+      "ItemID": 201,
+      "CraftingType": 3,
+      "Level": 8,
+      "ResID": "icon_201_sewing"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 128,
+      "Game": 3,
+      "ItemID": 100200,
+      "CraftingType": 3,
+      "Level": 8,
+      "ResID": "icon_100200_sewing"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 129,
+      "Game": 3,
+      "ItemID": 201,
+      "CraftingType": 1,
+      "Level": 9,
+      "ResID": "icon_201_wood"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 130,
+      "Game": 3,
+      "ItemID": 201,
+      "CraftingType": 4,
+      "Level": 9,
+      "ResID": "icon_201_pottery"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 131,
+      "Game": 3,
+      "ItemID": 100200,
+      "CraftingType": 1,
+      "Level": 9,
+      "ResID": "icon_100200_wood"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 132,
+      "Game": 3,
+      "ItemID": 100200,
+      "CraftingType": 4,
+      "Level": 9,
       "ResID": "icon_100200_pottery"
     }
   ],
@@ -7496,7 +7616,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1073,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 7,
@@ -7974,7 +8094,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1097,
       "Game": 3,
       "Nation": 15,
@@ -7994,7 +8114,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1098,
       "Game": 3,
       "Nation": 15,
@@ -8014,7 +8134,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1099,
       "Game": 3,
       "Nation": 15,
@@ -8034,7 +8154,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1100,
       "Game": 3,
       "Nation": 15,
@@ -8054,7 +8174,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1101,
       "Game": 3,
       "Nation": 15,
@@ -8074,7 +8194,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1102,
       "Game": 3,
       "Nation": 15,
@@ -8934,7 +9054,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1145,
       "Game": 3,
       "Nation": 15,
@@ -8954,7 +9074,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1146,
       "Game": 3,
       "Nation": 15,
@@ -9094,7 +9214,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1153,
       "Game": 3,
       "Nation": 15,
@@ -9134,7 +9254,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1155,
       "Game": 3,
       "Nation": 15,
@@ -9174,7 +9294,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1157,
       "Game": 3,
       "Nation": 15,
@@ -9194,7 +9314,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1158,
       "Game": 3,
       "Nation": 15,
@@ -9214,7 +9334,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1159,
       "Game": 3,
       "Nation": 15,
@@ -9234,7 +9354,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1160,
       "Game": 3,
       "Nation": 15,
@@ -10174,7 +10294,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1207,
       "Game": 3,
       "Nation": 15,
@@ -10274,7 +10394,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1212,
       "Game": 3,
       "Nation": 15,
@@ -10354,7 +10474,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1216,
       "Game": 3,
       "Nation": 15,
@@ -10374,7 +10494,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1217,
       "Game": 3,
       "Nation": 15,
@@ -10394,7 +10514,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1218,
       "Game": 3,
       "Nation": 15,
@@ -10414,7 +10534,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1219,
       "Game": 3,
       "Nation": 15,
@@ -10754,7 +10874,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1236,
       "Game": 1,
       "Nation": 15,
@@ -10774,7 +10894,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1237,
       "Game": 1,
       "Nation": 15,
@@ -10794,7 +10914,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1238,
       "Game": 1,
       "Nation": 15,
@@ -10814,7 +10934,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1239,
       "Game": 1,
       "Nation": 15,
@@ -10834,7 +10954,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1240,
       "Game": 1,
       "Nation": 15,
@@ -11274,7 +11394,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1262,
       "Game": 1,
       "Nation": 15,
@@ -11314,7 +11434,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1264,
       "Game": 1,
       "Nation": 15,
@@ -11334,7 +11454,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1265,
       "Game": 1,
       "Nation": 15,
@@ -11354,7 +11474,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1266,
       "Game": 1,
       "Nation": 15,
@@ -11934,7 +12054,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1295,
       "Game": 1,
       "Nation": 15,
@@ -11954,7 +12074,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1296,
       "Game": 1,
       "Nation": 15,
@@ -12256,7 +12376,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1310,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 6,
@@ -12416,12 +12536,12 @@
     {
       "ServiceType": "DEV",
       "Key": 1394,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 6,
       "OpenGroupKey": 1,
-      "ItemLv": 1,
+      "ItemLv": 20,
       "ItemID": 10500428,
       "ConsumeMatGroupID": 501,
       "CraftingTime": 3600,
@@ -12436,12 +12556,12 @@
     {
       "ServiceType": "DEV",
       "Key": 1395,
-      "Game": 3,
+      "Game": 1,
       "Nation": 15,
       "CraftingKinds": 1,
       "CraftingType": 6,
       "OpenGroupKey": 1,
-      "ItemLv": 1,
+      "ItemLv": 50,
       "ItemID": 10500429,
       "ConsumeMatGroupID": 502,
       "CraftingTime": 21600,
@@ -12449,6 +12569,666 @@
       "SortIndex": 2,
       "IsEvent": false,
       "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1396,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 7,
+      "OpenGroupKey": 1,
+      "ItemLv": 1,
+      "ItemID": 661,
+      "ConsumeMatGroupID": 503,
+      "CraftingTime": 3,
+      "TimePassPrice": 100,
+      "SortIndex": 1,
+      "IsEvent": false,
+      "UserExp": 10,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1397,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 7,
+      "OpenGroupKey": 10,
+      "ItemLv": 10,
+      "ItemID": 100709,
+      "ConsumeMatGroupID": 504,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1412,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 8,
+      "ItemLv": 8,
+      "ItemID": 100712,
+      "ConsumeMatGroupID": 188,
+      "CraftingTime": 8,
+      "TimePassPrice": 100,
+      "SortIndex": 8,
+      "IsEvent": false,
+      "UserExp": 80,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1413,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1005,
+      "ItemLv": 5,
+      "ItemID": 100713,
+      "ConsumeMatGroupID": 189,
+      "CraftingTime": 5,
+      "TimePassPrice": 100,
+      "SortIndex": 5,
+      "IsEvent": false,
+      "UserExp": 50,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1414,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 5,
+      "ItemLv": 5,
+      "ItemID": 100714,
+      "ConsumeMatGroupID": 190,
+      "CraftingTime": 5,
+      "TimePassPrice": 100,
+      "SortIndex": 5,
+      "IsEvent": false,
+      "UserExp": 50,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1415,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 5,
+      "ItemLv": 5,
+      "ItemID": 100715,
+      "ConsumeMatGroupID": 191,
+      "CraftingTime": 5,
+      "TimePassPrice": 100,
+      "SortIndex": 5,
+      "IsEvent": false,
+      "UserExp": 50,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1416,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 5,
+      "ItemLv": 5,
+      "ItemID": 100716,
+      "ConsumeMatGroupID": 192,
+      "CraftingTime": 5,
+      "TimePassPrice": 100,
+      "SortIndex": 5,
+      "IsEvent": false,
+      "UserExp": 50,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1417,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 5,
+      "ItemLv": 5,
+      "ItemID": 100717,
+      "ConsumeMatGroupID": 193,
+      "CraftingTime": 5,
+      "TimePassPrice": 100,
+      "SortIndex": 5,
+      "IsEvent": false,
+      "UserExp": 50,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1418,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 4,
+      "OpenGroupKey": 1000020,
+      "ItemLv": 20,
+      "ItemID": 100718,
+      "ConsumeMatGroupID": 236,
+      "CraftingTime": 20,
+      "TimePassPrice": 100,
+      "SortIndex": 20,
+      "IsEvent": false,
+      "UserExp": 200,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1419,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 4,
+      "OpenGroupKey": 1000023,
+      "ItemLv": 23,
+      "ItemID": 100719,
+      "ConsumeMatGroupID": 237,
+      "CraftingTime": 23,
+      "TimePassPrice": 100,
+      "SortIndex": 23,
+      "IsEvent": false,
+      "UserExp": 230,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1420,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10023,
+      "ItemLv": 23,
+      "ItemID": 100720,
+      "ConsumeMatGroupID": 244,
+      "CraftingTime": 23,
+      "TimePassPrice": 100,
+      "SortIndex": 23,
+      "IsEvent": false,
+      "UserExp": 230,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1421,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10023,
+      "ItemLv": 23,
+      "ItemID": 100721,
+      "ConsumeMatGroupID": 246,
+      "CraftingTime": 23,
+      "TimePassPrice": 100,
+      "SortIndex": 23,
+      "IsEvent": false,
+      "UserExp": 230,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1422,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1020,
+      "ItemLv": 20,
+      "ItemID": 100722,
+      "ConsumeMatGroupID": 248,
+      "CraftingTime": 20,
+      "TimePassPrice": 100,
+      "SortIndex": 20,
+      "IsEvent": false,
+      "UserExp": 200,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1423,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1020,
+      "ItemLv": 20,
+      "ItemID": 100723,
+      "ConsumeMatGroupID": 249,
+      "CraftingTime": 20,
+      "TimePassPrice": 100,
+      "SortIndex": 20,
+      "IsEvent": false,
+      "UserExp": 200,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1424,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10023,
+      "ItemLv": 23,
+      "ItemID": 100724,
+      "ConsumeMatGroupID": 250,
+      "CraftingTime": 23,
+      "TimePassPrice": 100,
+      "SortIndex": 23,
+      "IsEvent": false,
+      "UserExp": 230,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1425,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10020,
+      "ItemLv": 20,
+      "ItemID": 100725,
+      "ConsumeMatGroupID": 251,
+      "CraftingTime": 20,
+      "TimePassPrice": 100,
+      "SortIndex": 20,
+      "IsEvent": false,
+      "UserExp": 200,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1426,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 4,
+      "OpenGroupKey": 1000032,
+      "ItemLv": 32,
+      "ItemID": 100726,
+      "ConsumeMatGroupID": 298,
+      "CraftingTime": 32,
+      "TimePassPrice": 100,
+      "SortIndex": 32,
+      "IsEvent": false,
+      "UserExp": 320,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1427,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 100035,
+      "ItemLv": 35,
+      "ItemID": 100727,
+      "ConsumeMatGroupID": 303,
+      "CraftingTime": 35,
+      "TimePassPrice": 100,
+      "SortIndex": 35,
+      "IsEvent": false,
+      "UserExp": 350,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1428,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1033,
+      "ItemLv": 33,
+      "ItemID": 100728,
+      "ConsumeMatGroupID": 307,
+      "CraftingTime": 33,
+      "TimePassPrice": 100,
+      "SortIndex": 33,
+      "IsEvent": false,
+      "UserExp": 330,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1429,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 4,
+      "OpenGroupKey": 1000036,
+      "ItemLv": 36,
+      "ItemID": 100729,
+      "ConsumeMatGroupID": 308,
+      "CraftingTime": 36,
+      "TimePassPrice": 100,
+      "SortIndex": 36,
+      "IsEvent": false,
+      "UserExp": 360,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1430,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 5,
+      "OpenGroupKey": 10000035,
+      "ItemLv": 35,
+      "ItemID": 100730,
+      "ConsumeMatGroupID": 309,
+      "CraftingTime": 35,
+      "TimePassPrice": 100,
+      "SortIndex": 35,
+      "IsEvent": false,
+      "UserExp": 350,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1431,
+      "Game": 3,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 100035,
+      "ItemLv": 35,
+      "ItemID": 100731,
+      "ConsumeMatGroupID": 310,
+      "CraftingTime": 35,
+      "TimePassPrice": 100,
+      "SortIndex": 35,
+      "IsEvent": false,
+      "UserExp": 350,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1432,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 100010,
+      "ItemLv": 10,
+      "ItemID": 10500431,
+      "ConsumeMatGroupID": 327,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1433,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1010,
+      "ItemLv": 10,
+      "ItemID": 10500432,
+      "ConsumeMatGroupID": 328,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1434,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 100010,
+      "ItemLv": 10,
+      "ItemID": 10500433,
+      "ConsumeMatGroupID": 329,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1435,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1010,
+      "ItemLv": 10,
+      "ItemID": 10500434,
+      "ConsumeMatGroupID": 330,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1436,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 4,
+      "OpenGroupKey": 1000010,
+      "ItemLv": 10,
+      "ItemID": 10500435,
+      "ConsumeMatGroupID": 331,
+      "CraftingTime": 10,
+      "TimePassPrice": 100,
+      "SortIndex": 10,
+      "IsEvent": false,
+      "UserExp": 100,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1437,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10024,
+      "ItemLv": 24,
+      "ItemID": 10500436,
+      "ConsumeMatGroupID": 353,
+      "CraftingTime": 24,
+      "TimePassPrice": 100,
+      "SortIndex": 24,
+      "IsEvent": false,
+      "UserExp": 240,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1438,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10024,
+      "ItemLv": 24,
+      "ItemID": 10500437,
+      "ConsumeMatGroupID": 355,
+      "CraftingTime": 24,
+      "TimePassPrice": 100,
+      "SortIndex": 24,
+      "IsEvent": false,
+      "UserExp": 240,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1439,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1024,
+      "ItemLv": 24,
+      "ItemID": 10500438,
+      "ConsumeMatGroupID": 356,
+      "CraftingTime": 24,
+      "TimePassPrice": 100,
+      "SortIndex": 24,
+      "IsEvent": false,
+      "UserExp": 240,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1440,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 2,
+      "OpenGroupKey": 10024,
+      "ItemLv": 24,
+      "ItemID": 10500439,
+      "ConsumeMatGroupID": 357,
+      "CraftingTime": 24,
+      "TimePassPrice": 100,
+      "SortIndex": 24,
+      "IsEvent": false,
+      "UserExp": 240,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1441,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 3,
+      "OpenGroupKey": 100040,
+      "ItemLv": 40,
+      "ItemID": 10500440,
+      "ConsumeMatGroupID": 386,
+      "CraftingTime": 40,
+      "TimePassPrice": 100,
+      "SortIndex": 40,
+      "IsEvent": false,
+      "UserExp": 400,
+      "SpecialRewardID": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "EndTime": "0001-01-01T00:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1442,
+      "Game": 1,
+      "Nation": 15,
+      "CraftingKinds": 1,
+      "CraftingType": 1,
+      "OpenGroupKey": 1040,
+      "ItemLv": 40,
+      "ItemID": 10500441,
+      "ConsumeMatGroupID": 387,
+      "CraftingTime": 40,
+      "TimePassPrice": 100,
+      "SortIndex": 40,
+      "IsEvent": false,
+      "UserExp": 400,
       "SpecialRewardID": 0,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "EndTime": "0001-01-01T00:00:00"

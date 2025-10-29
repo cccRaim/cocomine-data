@@ -51,6 +51,32 @@
       "BuyPriceValue": 100,
       "IsPlayable": false,
       "OpenTime": "2023-03-02T05:50:10 +09:01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1001,
+      "Game": 1,
+      "BlueprintName": "Blueprint_1001",
+      "IconID": "Blueprint_icon_1000",
+      "SortIndex": 1000,
+      "FieldLimitType": [],
+      "BuyPriceType": 4,
+      "BuyPriceValue": 100,
+      "IsPlayable": false,
+      "OpenTime": "2023-03-02T05:50:10 +09:01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1002,
+      "Game": 1,
+      "BlueprintName": "Blueprint_1002",
+      "IconID": "Blueprint_icon_1000",
+      "SortIndex": 1000,
+      "FieldLimitType": [],
+      "BuyPriceType": 4,
+      "BuyPriceValue": 100,
+      "IsPlayable": false,
+      "OpenTime": "2023-03-02T05:50:10 +09:01"
     }
   ],
   "Room": [
@@ -981,6 +1007,88 @@
         105
       ],
       "FieldPrefabName": "CinnamorollBlueprint",
+      "HouseSkinIconName": "Blueprint4_Room6_icon",
+      "RoomConstructionTime": 24000,
+      "InteriorIconID": "6lv-room_tp",
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000001,
+      "Game": 3,
+      "RoomName": "Room_1000001",
+      "BlueprintID": 1001,
+      "IconID": "Room_icon_3",
+      "IsBase": true,
+      "OpenSortIndex": 1,
+      "BuyPriceType": 4,
+      "BuyPriceValue": 16000,
+      "OpenGroupID": 10045,
+      "WallID": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "DisappearWallID": [
+        10004,
+        10104
+      ],
+      "FloorID": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "FieldPrefabName": "KuromiBlueprint_Room1",
+      "HouseSkinIconName": "Blueprint4_Room6_icon",
+      "RoomConstructionTime": 24000,
+      "InteriorIconID": "6lv-room_tp",
+      "OpenTime": "2023-03-02T05:50:10 +09:00",
+      "IsPlayable": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000002,
+      "Game": 3,
+      "RoomName": "Room_1000002",
+      "BlueprintID": 1002,
+      "IconID": "Room_icon_6",
+      "IsBase": true,
+      "OpenSortIndex": 1,
+      "BuyPriceType": 4,
+      "BuyPriceValue": 16000,
+      "OpenGroupID": 10045,
+      "WallID": [
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "DisappearWallID": [
+        10004,
+        10104
+      ],
+      "FloorID": [
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ],
+      "FieldPrefabName": "KuromiBlueprint_Room2",
       "HouseSkinIconName": "Blueprint4_Room6_icon",
       "RoomConstructionTime": 24000,
       "InteriorIconID": "6lv-room_tp",
@@ -2841,7 +2949,7 @@
       "PlaceShortcutType": 0,
       "PlaceShortcutTypeString": "",
       "IsPlayable": false,
-      "IsItemSell": false,
+      "IsItemSell": true,
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {

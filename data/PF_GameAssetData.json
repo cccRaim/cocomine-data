@@ -47,7 +47,7 @@
       "MoneyName": "MoneyItem_4",
       "MoneyType": 2,
       "IconID": "icon_heart",
-      "ItemCoolTime": 1800,
+      "ItemCoolTime": 600,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -67,7 +67,7 @@
       "MoneyName": "MoneyItem_6",
       "MoneyType": 2,
       "IconID": "icon_passion",
-      "ItemCoolTime": 1800,
+      "ItemCoolTime": 240,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
@@ -77,13 +77,13 @@
       "MoneyName": "MoneyItem_7",
       "MoneyType": 2,
       "IconID": "icon_peace",
-      "ItemCoolTime": 1800,
+      "ItemCoolTime": 1200,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
+      "Game": 1,
       "MoneyName": "MoneyItem_8",
       "MoneyType": 2,
       "IconID": "icon_RC_big_giving",

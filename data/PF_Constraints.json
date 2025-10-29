@@ -200,42 +200,42 @@
       "ServiceType": "DEV",
       "Name": "Construction_Fee_Move_PriceType",
       "Game": 3,
-      "Value": "Jewel",
+      "Value": "Gold",
       "Context": "이사 공사비 재화 타입"
     },
     {
       "ServiceType": "DEV",
       "Name": "Construction_Fee_Move_PriceCount",
       "Game": 3,
-      "Value": 50,
+      "Value": 100000,
       "Context": "이사 공사비 가격"
     },
     {
       "ServiceType": "DEV",
       "Name": "Construction_Fee_BluePrint_PriceType",
       "Game": 3,
-      "Value": "Gold",
+      "Value": "Jewel",
       "Context": "도면 공사비 재화 타입"
     },
     {
       "ServiceType": "DEV",
       "Name": "Construction_Fee_BluePrint_PriceCount",
       "Game": 3,
-      "Value": 50,
+      "Value": 1000,
       "Context": "도면 공사비 가격"
     },
     {
       "ServiceType": "DEV",
       "Name": "Construction_Fee_AddHouse_PriceType",
       "Game": 3,
-      "Value": "Jewel",
+      "Value": "Gold",
       "Context": "하우스 추가 공사비 재화 타입"
     },
     {
       "ServiceType": "DEV",
       "Name": "Construction_Fee_AddHouse_PriceCount",
       "Game": 3,
-      "Value": 100,
+      "Value": 1000000,
       "Context": "하우스 추가 공사비 가격"
     },
     {
@@ -270,7 +270,7 @@
       "ServiceType": "DEV",
       "Name": "TimePass_Passion_Seconds",
       "Game": 3,
-      "Value": 60,
+      "Value": 120,
       "Context": "(초), 패션 재화 1개당 단축되는 시간 "
     },
     {
@@ -346,7 +346,7 @@
     {
       "ServiceType": "DEV",
       "Name": "Mine_AverageCnt",
-      "Game": 3,
+      "Game": 1,
       "Value": 5,
       "Context": "광산 아이템이 출력되는 개수"
     },
@@ -445,7 +445,7 @@
       "ServiceType": "DEV",
       "Name": "Register_Fee_Address_PriceCount",
       "Game": 3,
-      "Value": 100,
+      "Value": 0,
       "Context": "주소 등록비 가격"
     },
     {
@@ -703,7 +703,7 @@
     {
       "ServiceType": "DEV",
       "Name": "CouponWebPageURL",
-      "Game": 3,
+      "Game": 1,
       "Value": "https://coupon.cocosanrio.skywalkgames.com/cocomine_coupon",
       "Context": "쿠폰 등록 페이지 주소 Arg0 = 암호화된 accidx"
     },
@@ -993,6 +993,13 @@
       "Game": 3,
       "Value": 2,
       "Context": "몇명일때 봇이 나오는가"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "KuromiShop_RandomGoods_Num",
+      "Game": 3,
+      "Value": 5,
+      "Context": "(개), 쿠로미샵에서 판매될 랜덤 타입 상품 개수"
     }
   ]
 }

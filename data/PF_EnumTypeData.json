@@ -1063,6 +1063,31 @@
       "Key": 202,
       "Value": "question02",
       "Desc": null
+    },
+    {
+      "Key": 203,
+      "Value": "piano01",
+      "Desc": "피아노하기"
+    },
+    {
+      "Key": 204,
+      "Value": "sitwrite01",
+      "Desc": "글쓰기"
+    },
+    {
+      "Key": 205,
+      "Value": "sitexcited01",
+      "Desc": "앉아서 신나하기"
+    },
+    {
+      "Key": 206,
+      "Value": "sitexcited02",
+      "Desc": "앉아서 신나하기 뒷모습"
+    },
+    {
+      "Key": 207,
+      "Value": "touch01",
+      "Desc": "터치 시 나오는 애니메이션"
     }
   ],
   "EAnimTabType": [
@@ -1530,6 +1555,21 @@
       "Key": 17,
       "Value": "CollectionTabType_19",
       "Desc": "턱시도샘"
+    },
+    {
+      "Key": 18,
+      "Value": "CollectionTabType_20",
+      "Desc": "부티크 쇼룸"
+    },
+    {
+      "Key": 19,
+      "Value": "CollectionTabType_21",
+      "Desc": "산리오캐릭터즈"
+    },
+    {
+      "Key": 20,
+      "Value": "CollectionTabType_22",
+      "Desc": "마이스윗피아노"
     }
   ],
   "ECollectionType": [
@@ -1922,6 +1962,45 @@
       "Key": 2,
       "Value": "ClothingBin",
       "Desc": "의류 수거함"
+    }
+  ],
+  "EEventTabType": [
+    {
+      "Key": 1,
+      "Value": "Event_Tab_Name_4",
+      "Desc": "레벨"
+    },
+    {
+      "Key": 2,
+      "Value": "Event_Tab_Name_5",
+      "Desc": "출석"
+    },
+    {
+      "Key": 3,
+      "Value": "Event_Tab_Name_6",
+      "Desc": "미션"
+    }
+  ],
+  "EEventType": [
+    {
+      "Key": 1,
+      "Value": "Event_All",
+      "Desc": "전체"
+    },
+    {
+      "Key": 2,
+      "Value": "Event_New",
+      "Desc": "신규"
+    },
+    {
+      "Key": 3,
+      "Value": "Event_Return",
+      "Desc": "복귀"
+    },
+    {
+      "Key": 4,
+      "Value": "Event_Active",
+      "Desc": "기존"
     }
   ],
   "EFaceType": [
@@ -2684,18 +2763,33 @@
       "Desc": "기부함 팝업창",
       "IsPrivateField": false,
       "IsPublicField": true
+    },
+    {
+      "Key": 23,
+      "Value": "PremiumHairShop",
+      "Desc": "프리미엄 헤어샵",
+      "IsPrivateField": true,
+      "IsPublicField": true
     }
   ],
   "EKioskType": [
     {
       "Key": 1,
       "Value": "Bakery",
-      "Desc": "베이커리"
+      "Desc": "베이커리",
+      "FieldID": 2007
     },
     {
       "Key": 2,
       "Value": "Drink",
-      "Desc": "음료"
+      "Desc": "음료",
+      "FieldID": 2007
+    },
+    {
+      "Key": 3,
+      "Value": "Goods",
+      "Desc": "굿즈",
+      "FieldID": 2013
     }
   ],
   "ELandType": [
@@ -3162,7 +3256,7 @@
     {
       "Key": 30,
       "Value": "TransactionCount",
-      "Desc": "장터에서 {0}번 판매"
+      "Desc": "장터에 아이템 {0}개 등록하기"
     },
     {
       "Key": 31,
@@ -3518,6 +3612,11 @@
       "Key": 101,
       "Value": "RequestCount",
       "Desc": "아르바이트 {0}번 완료"
+    },
+    {
+      "Key": 102,
+      "Value": "ItemRegister",
+      "Desc": "오픈타입 30으로 대체"
     }
   ],
   "EPassRwdType": [
@@ -4285,6 +4384,16 @@
       "Key": 89,
       "Value": "AdventureForest",
       "Desc": "어드벤처 포레스트"
+    },
+    {
+      "Key": 90,
+      "Value": "UserHouse",
+      "Desc": "유저 하우스"
+    },
+    {
+      "Key": 91,
+      "Value": "UserEventPopup",
+      "Desc": "유저 이벤트 팝업창"
     }
   ],
   "ERankType": [
@@ -4572,6 +4681,33 @@
       "Key": 7,
       "Value": "Field_2006_Sell",
       "Desc": "시나모롤 하우스"
+    },
+    {
+      "Key": 8,
+      "Value": "Field_2007_Sell",
+      "Desc": "쿠로미 빌리지"
+    }
+  ],
+  "EShopType": [
+    {
+      "Key": 0,
+      "Value": "JoyShop",
+      "Desc": "조이샵"
+    },
+    {
+      "Key": 1,
+      "Value": "PlayShop",
+      "Desc": "플레이샵"
+    },
+    {
+      "Key": 2,
+      "Value": "CinnamorollShop",
+      "Desc": "시나모롤샵"
+    },
+    {
+      "Key": 3,
+      "Value": "KuromiShop",
+      "Desc": "쿠로미샵"
     }
   ],
   "ESexType": [
@@ -4730,27 +4866,32 @@
     {
       "Key": 1,
       "Value": "ItemUseBuff",
-      "Desc": "생산 경험치 증가"
+      "Desc": "아이템 사용"
     },
     {
       "Key": 2,
       "Value": "HouseMileageBuff",
-      "Desc": "제작 경험치 증가"
+      "Desc": "하우스 마일리지 버프"
     },
     {
       "Key": 3,
       "Value": "NPCGFBuff",
-      "Desc": "생산량 증가"
+      "Desc": "NPC 버프"
     },
     {
       "Key": 4,
       "Value": "EventBuff",
-      "Desc": "최대 제작 가능 개수 증가"
+      "Desc": "이벤트 버프"
     },
     {
       "Key": 5,
       "Value": "CharBuff",
-      "Desc": "캐릭터 이펙트 추가"
+      "Desc": "캐릭터 이펙트 버프"
+    },
+    {
+      "Key": 6,
+      "Value": "VillageBuff",
+      "Desc": "빌리지 버프"
     }
   ],
   "EUserActionType": [

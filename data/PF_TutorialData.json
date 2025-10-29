@@ -516,7 +516,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000175,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 28,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
@@ -876,7 +876,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000221,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 26,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
@@ -957,7 +957,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000196,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 7,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
@@ -966,7 +966,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000315,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 7,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
@@ -975,7 +975,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1000245,
-      "Game": 3,
+      "Game": 1,
       "EquipItemType": 7,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
@@ -1022,6 +1022,24 @@
       "Key": 1000495,
       "Game": 3,
       "EquipItemType": 8,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000520,
+      "Game": 3,
+      "EquipItemType": 11,
+      "IsGirlDefaultItem": false,
+      "IsBoyDefaultItem": false,
+      "IsLock": false
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000524,
+      "Game": 3,
+      "EquipItemType": 24,
       "IsGirlDefaultItem": false,
       "IsBoyDefaultItem": false,
       "IsLock": false

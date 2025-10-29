@@ -74,7 +74,9 @@
       "Game": 1,
       "LocationType": 1,
       "FieldID": 0,
-      "IconID": "icon_house_ps"
+      "IconID": "icon_house_ps",
+      "UseNativeSize": false,
+      "TutorialKey": 170
     },
     {
       "ServiceType": "DEV",
@@ -82,55 +84,39 @@
       "Game": 1,
       "LocationType": 3,
       "FieldID": 104,
-      "IconID": "icon_mygarden"
+      "IconID": "icon_mygarden",
+      "UseNativeSize": false,
+      "TutorialKey": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
+      "Game": 1,
       "LocationType": 4,
-      "FieldID": 0,
-      "IconID": "icon_subhouse2"
+      "FieldID": 2003,
+      "IconID": "NPC1002_Emoji",
+      "UseNativeSize": false,
+      "TutorialKey": 158
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
-      "LocationType": 5,
-      "FieldID": 0,
-      "IconID": "icon_newshop"
+      "Game": 1,
+      "LocationType": 4,
+      "FieldID": 2010,
+      "IconID": "NPC2001_Emoji",
+      "UseNativeSize": false,
+      "TutorialKey": 158
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
       "Game": 1,
       "LocationType": 6,
-      "FieldID": 0,
-      "IconID": "icon_PlaySquare"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 6,
-      "Game": 3,
-      "LocationType": 2,
-      "FieldID": 0,
-      "IconID": "icon_subhouse"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "Game": 3,
-      "LocationType": 2,
-      "FieldID": 0,
-      "IconID": "icon_subhouse"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "Game": 3,
-      "LocationType": 2,
-      "FieldID": 0,
-      "IconID": "icon_subhouse"
+      "FieldID": 2005,
+      "IconID": "icon_PlaySquare",
+      "UseNativeSize": true,
+      "TutorialKey": 33
     }
   ],
   "ParkingLot": [

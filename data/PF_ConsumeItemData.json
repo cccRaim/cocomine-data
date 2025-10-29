@@ -241,6 +241,30 @@
       "BuffGroupID": 42,
       "ProgressTime": 10,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500421,
+      "Game": 3,
+      "BuffGroupID": 48,
+      "ProgressTime": 90,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500422,
+      "Game": 3,
+      "BuffGroupID": 49,
+      "ProgressTime": 90,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500423,
+      "Game": 3,
+      "BuffGroupID": 50,
+      "ProgressTime": 180,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
     }
   ]
 }

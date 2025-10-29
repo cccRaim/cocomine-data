@@ -80,7 +80,7 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 11,
+      "Key": 12,
       "Game": 1,
       "FieldName": "Field_2010",
       "FieldID": 2010,
@@ -93,7 +93,7 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 12,
+      "Key": 13,
       "Game": 1,
       "FieldName": "Field_2011",
       "FieldID": 2011,
@@ -106,7 +106,7 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 13,
+      "Key": 14,
       "Game": 1,
       "FieldName": "Field_2012",
       "FieldID": 2012,
@@ -119,7 +119,7 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 14,
+      "Key": 15,
       "Game": 1,
       "FieldName": "Field_2013",
       "FieldID": 2013,
@@ -948,7 +948,7 @@
       "ServiceType": "DEV",
       "Key": 30,
       "Game": 3,
-      "PlazaID": 11,
+      "PlazaID": 12,
       "PlazaType": 12,
       "NPCID": 2001,
       "BGName": "BG_NPC1002",
@@ -976,8 +976,8 @@
       "ServiceType": "DEV",
       "Key": 31,
       "Game": 3,
-      "PlazaID": 12,
-      "PlazaType": 9,
+      "PlazaID": 13,
+      "PlazaType": 13,
       "NPCID": 2001,
       "BGName": "BG_NPC1002",
       "IsMonOut": true,
@@ -1004,8 +1004,8 @@
       "ServiceType": "DEV",
       "Key": 32,
       "Game": 3,
-      "PlazaID": 13,
-      "PlazaType": 10,
+      "PlazaID": 14,
+      "PlazaType": 14,
       "NPCID": 2001,
       "BGName": "BG_NPC1002",
       "IsMonOut": true,
@@ -1032,8 +1032,8 @@
       "ServiceType": "DEV",
       "Key": 33,
       "Game": 3,
-      "PlazaID": 14,
-      "PlazaType": 8,
+      "PlazaID": 15,
+      "PlazaType": 15,
       "NPCID": 2001,
       "BGName": "BG_NPC1002",
       "IsMonOut": true,
@@ -3454,6 +3454,15 @@
       "NPCID": 2001,
       "AnimID": "signature01",
       "ChatID": "Kuromi_Village_Greeting_5"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Game": 1,
+      "FieldID": 2012,
+      "NPCID": 2001,
+      "AnimID": "happy01",
+      "ChatID": "Kuromi_Secret_Mission_1"
     }
   ],
   "Plaza_ExchangeItem": [

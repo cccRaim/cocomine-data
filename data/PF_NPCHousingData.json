@@ -3,7 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 1,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_hair",
@@ -30,7 +30,7 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
+      "Game": 1,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_shop",
@@ -39,7 +39,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
+      "Game": 1,
       "RoomID": 1001,
       "FieldID": 2002,
       "BGImage": "bg_fs_shop",

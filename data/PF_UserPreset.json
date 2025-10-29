@@ -542,7 +542,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 8,
       "Game": 3,
       "SexType": 1,
@@ -553,7 +553,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 9,
       "Game": 3,
       "SexType": 1,
@@ -564,7 +564,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 10,
       "Game": 3,
       "SexType": 1,
@@ -608,7 +608,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 14,
       "Game": 3,
       "SexType": 1,
@@ -619,7 +619,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 15,
       "Game": 3,
       "SexType": 1,
@@ -630,7 +630,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 16,
       "Game": 3,
       "SexType": 1,
@@ -762,7 +762,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 28,
       "Game": 3,
       "SexType": 2,
@@ -773,7 +773,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 29,
       "Game": 3,
       "SexType": 2,
@@ -784,7 +784,7 @@
       "BuyPriceValue": 1000
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 30,
       "Game": 3,
       "SexType": 2,
@@ -828,7 +828,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 34,
       "Game": 3,
       "SexType": 2,
@@ -839,7 +839,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 35,
       "Game": 3,
       "SexType": 2,
@@ -850,7 +850,7 @@
       "BuyPriceValue": 1500
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 36,
       "Game": 3,
       "SexType": 2,

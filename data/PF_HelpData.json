@@ -26,7 +26,7 @@
     {
       "ServiceType": "DEV",
       "Key": "help_fountain",
-      "Game": 3,
+      "Game": 1,
       "KRImage1": "Fountain_Image_1",
       "JPNImage1": "Fountain_Image_1",
       "ENGImage1": "Fountain_Image_1",
@@ -68,6 +68,29 @@
       "TRCImage3": "MyGarden_Image_3",
       "TRSImage3": "MyGarden_Image_3",
       "ImgDesc3": "MyGarden_Desc_3"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "help_dome",
+      "Game": 1,
+      "KRImage1": "Dome_Image_1",
+      "JPNImage1": "Dome_Image_1",
+      "ENGImage1": "Dome_Image_1",
+      "TRCImage1": "Dome_Image_1",
+      "TRSImage1": "Dome_Image_1",
+      "ImgDesc1": "Dome_Desc_1",
+      "KRImage2": "Dome_Image_2_KOR",
+      "JPNImage2": "Dome_Image_2_JPN",
+      "ENGImage2": "Dome_Image_2_ENG",
+      "TRCImage2": "Dome_Image_2_TRC",
+      "TRSImage2": "Dome_Image_2_TRC",
+      "ImgDesc2": "Dome_Desc_2",
+      "KRImage3": "Dome_Image_3_KOR",
+      "JPNImage3": "Dome_Image_3_JPN",
+      "ENGImage3": "Dome_Image_3_ENG",
+      "TRCImage3": "Dome_Image_3_TRC",
+      "TRSImage3": "Dome_Image_3_TRC",
+      "ImgDesc3": "Dome_Desc_3"
     }
   ]
 }

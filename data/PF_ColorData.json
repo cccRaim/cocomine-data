@@ -4731,6 +4731,58 @@
       "DownColorR": 0,
       "DownColorG": 0,
       "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 349,
+      "Game": 3,
+      "ColorName": "Color_349",
+      "IsTwoTone": false,
+      "UpColorR": 171,
+      "UpColorG": 94,
+      "UpColorB": 96,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 350,
+      "Game": 3,
+      "ColorName": "Color_350",
+      "IsTwoTone": true,
+      "UpColorR": 60,
+      "UpColorG": 52,
+      "UpColorB": 60,
+      "DownColorR": 255,
+      "DownColorG": 37,
+      "DownColorB": 43
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 351,
+      "Game": 3,
+      "ColorName": "Color_351",
+      "IsTwoTone": false,
+      "UpColorR": 140,
+      "UpColorG": 20,
+      "UpColorB": 24,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 352,
+      "Game": 3,
+      "ColorName": "Color_352",
+      "IsTwoTone": false,
+      "UpColorR": 39,
+      "UpColorG": 36,
+      "UpColorB": 39,
+      "DownColorR": 0,
+      "DownColorG": 0,
+      "DownColorB": 0
     }
   ],
   "ColorGroup": [

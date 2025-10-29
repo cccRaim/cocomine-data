@@ -1,370 +1,6 @@
 {
   "Hashtag": [
     {
-      "ServiceType": "NONE",
-      "Key": 1,
-      "Game": 3,
-      "HashtagType": 1,
-      "Hashtag": "Hashtag_1"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 2,
-      "Game": 3,
-      "HashtagType": 2,
-      "Hashtag": "HashTag_2"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3,
-      "Game": 3,
-      "HashtagType": 2,
-      "Hashtag": "Hashtag_3"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 4,
-      "Game": 3,
-      "HashtagType": 3,
-      "Hashtag": "Hashtag_4"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 5,
-      "Game": 3,
-      "HashtagType": 3,
-      "Hashtag": "Hashtag_5"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 6,
-      "Game": 3,
-      "HashtagType": 4,
-      "Hashtag": "Hashtag_6"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 7,
-      "Game": 3,
-      "HashtagType": 5,
-      "Hashtag": "Hashtag_25"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 8,
-      "Game": 3,
-      "HashtagType": 5,
-      "Hashtag": "Hashtag_18"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 9,
-      "Game": 3,
-      "HashtagType": 6,
-      "Hashtag": "Hashtag_7"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 10,
-      "Game": 3,
-      "HashtagType": 6,
-      "Hashtag": "Hashtag_18"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 11,
-      "Game": 3,
-      "HashtagType": 7,
-      "Hashtag": "Hashtag_8"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 12,
-      "Game": 3,
-      "HashtagType": 8,
-      "Hashtag": "Hashtag_9"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 13,
-      "Game": 3,
-      "HashtagType": 9,
-      "Hashtag": "Hashtag_12"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 14,
-      "Game": 3,
-      "HashtagType": 10,
-      "Hashtag": "Hashtag_26"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 15,
-      "Game": 3,
-      "HashtagType": 10,
-      "Hashtag": "Hashtag_18"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 16,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_1"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 17,
-      "Game": 3,
-      "HashtagType": 13,
-      "Hashtag": "HashTag_2"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 18,
-      "Game": 3,
-      "HashtagType": 13,
-      "Hashtag": "Hashtag_3"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 19,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_4"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 20,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_5"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 21,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_6"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 22,
-      "Game": 3,
-      "HashtagType": 15,
-      "Hashtag": "Hashtag_7"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 23,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_8"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 24,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_9"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 25,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_10"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 26,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_12"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 27,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_13"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 28,
-      "Game": 3,
-      "HashtagType": 14,
-      "Hashtag": "Hashtag_14"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 29,
-      "Game": 3,
-      "HashtagType": 14,
-      "Hashtag": "Hashtag_15"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 30,
-      "Game": 3,
-      "HashtagType": 14,
-      "Hashtag": "Hashtag_16"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 31,
-      "Game": 3,
-      "HashtagType": 14,
-      "Hashtag": "Hashtag_17"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 32,
-      "Game": 3,
-      "HashtagType": 15,
-      "Hashtag": "Hashtag_18"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 33,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_19"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 34,
-      "Game": 3,
-      "HashtagType": 13,
-      "Hashtag": "Hashtag_20"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 35,
-      "Game": 3,
-      "HashtagType": 13,
-      "Hashtag": "Hashtag_21"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 36,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_22"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 37,
-      "Game": 3,
-      "HashtagType": 11,
-      "Hashtag": "Hashtag_23"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 38,
-      "Game": 3,
-      "HashtagType": 12,
-      "Hashtag": "Hashtag_24"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 1001,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC1001_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 1002,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC1002_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 1003,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC1003_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 2001,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC2001_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 2002,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC2002_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3001,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3001_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 1004,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC1004_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 1005,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC1005_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3002,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3002_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3003,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3003_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3004,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3004_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3005,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3005_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 3006,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC3006_name"
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 2003,
-      "Game": 1,
-      "HashtagType": 1,
-      "Hashtag": "NPC2003_name"
-    },
-    {
       "ServiceType": "DEV",
       "Key": 39,
       "Game": 3,
@@ -400,7 +36,7 @@
       "Hashtag": "Hashtag_43"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 44,
       "Game": 3,
       "HashtagType": 14,
@@ -1326,28 +962,28 @@
     {
       "ServiceType": "DEV",
       "Key": 176,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 15,
       "Hashtag": "Hashtag_176"
     },
     {
       "ServiceType": "DEV",
       "Key": 177,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 15,
       "Hashtag": "Hashtag_177"
     },
     {
       "ServiceType": "DEV",
       "Key": 178,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 15,
       "Hashtag": "Hashtag_178"
     },
     {
       "ServiceType": "DEV",
       "Key": 179,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 15,
       "Hashtag": "Hashtag_179"
     },
@@ -1375,21 +1011,21 @@
     {
       "ServiceType": "DEV",
       "Key": 183,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 2,
       "Hashtag": "Hashtag_183"
     },
     {
       "ServiceType": "DEV",
       "Key": 184,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 2,
       "Hashtag": "Hashtag_184"
     },
     {
       "ServiceType": "DEV",
       "Key": 185,
-      "Game": 3,
+      "Game": 1,
       "HashtagType": 2,
       "Hashtag": "Hashtag_185"
     },

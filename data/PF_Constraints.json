@@ -345,13 +345,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Mine_AverageCnt",
-      "Game": 1,
-      "Value": 5,
-      "Context": "광산 아이템이 출력되는 개수"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "Char_Capture_Recording_Time",
       "Game": 3,
       "Value": 15,
@@ -604,13 +597,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Request_Refresh_CoolTime",
-      "Game": 3,
-      "Value": 600,
-      "Context": "아르바이트) 갱신까지 남은 대기 시간"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "Request_Price_Min_Ratio",
       "Game": 3,
       "Value": 1,
@@ -703,8 +689,8 @@
     {
       "ServiceType": "DEV",
       "Name": "CouponWebPageURL",
-      "Game": 1,
-      "Value": "https://coupon.cocosanrio.skywalkgames.com/cocomine_coupon",
+      "Game": 2,
+      "Value": "https://coupon.cocomine.skywalkgames.com/cocomine_coupon",
       "Context": "쿠폰 등록 페이지 주소 Arg0 = 암호화된 accidx"
     },
     {
@@ -783,13 +769,6 @@
       "Game": 3,
       "Value": 20,
       "Context": "프로그레스 바에서 도달해야하는 목표치 "
-    },
-    {
-      "ServiceType": "DEV",
-      "Name": "Daily_Reset_Time",
-      "Game": 1,
-      "Value": 20,
-      "Context": "조이샵 데일리 리셋 타임 UTC (PS)"
     },
     {
       "ServiceType": "DEV",
@@ -940,20 +919,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Tutorial_Start",
-      "Game": 1,
-      "Value": 100,
-      "Context": "튜토리얼 시작 퀘스트 ID"
-    },
-    {
-      "ServiceType": "DEV",
-      "Name": "Tutorial_Rental_CarID",
-      "Game": 1,
-      "Value": 10500355,
-      "Context": "튜토리얼 전용 임시 자동차ID"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "GreenFarm_NoHouse_BGM",
       "Game": 3,
       "Value": "BGM_Sanrio",
@@ -972,6 +937,27 @@
       "Game": 3,
       "Value": 7,
       "Context": "하우스로 입장 가능해지는 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Village_Buff_Activate_Time",
+      "Game": 2,
+      "Value": 1440,
+      "Context": "(m) 버프 활성화 시 선물 받기 버튼 만료 시간(분)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Start",
+      "Game": 2,
+      "Value": 1000,
+      "Context": "튜토리얼 시작 퀘스트 ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Rental_CarID",
+      "Game": 2,
+      "Value": 100390,
+      "Context": "튜토리얼 전용 임시 자동차ID"
     },
     {
       "ServiceType": "DEV",
@@ -996,10 +982,31 @@
     },
     {
       "ServiceType": "DEV",
+      "Name": "Daily_Reset_Time",
+      "Game": 2,
+      "Value": 4,
+      "Context": "조이샵 데일리 리셋 타임 UTC (CC)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mine_AverageCnt",
+      "Game": 2,
+      "Value": 10,
+      "Context": "광산 아이템이 출력되는 개수"
+    },
+    {
+      "ServiceType": "DEV",
       "Name": "KuromiShop_RandomGoods_Num",
       "Game": 3,
       "Value": 5,
       "Context": "(개), 쿠로미샵에서 판매될 랜덤 타입 상품 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Refresh_CoolTime",
+      "Game": 2,
+      "Value": 1800,
+      "Context": "아르바이트) 갱신까지 남은 대기 시간"
     }
   ]
 }

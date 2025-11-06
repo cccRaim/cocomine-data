@@ -135,18 +135,18 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
-      "EyeColor": 149,
+      "EyeColor": 152,
       "IsTutorial": true,
-      "EyeColorName": "Color_149",
+      "EyeColorName": "Color_152",
       "BuyPriceType": 4,
       "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 150,
       "IsTutorial": true,
@@ -157,7 +157,7 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 151,
       "IsTutorial": true,
@@ -168,18 +168,18 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
-      "EyeColor": 152,
+      "EyeColor": 149,
       "IsTutorial": true,
-      "EyeColorName": "Color_152",
+      "EyeColorName": "Color_149",
       "BuyPriceType": 4,
       "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 153,
       "IsTutorial": true,
@@ -190,7 +190,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 154,
       "IsTutorial": true,
@@ -201,7 +201,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 189,
       "IsTutorial": true,
@@ -212,7 +212,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 190,
       "IsTutorial": true,
@@ -223,7 +223,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 191,
       "IsTutorial": true,
@@ -234,7 +234,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 192,
       "IsTutorial": true,
@@ -245,18 +245,18 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
-      "EyeColor": 149,
+      "EyeColor": 152,
       "IsTutorial": true,
-      "EyeColorName": "Color_149",
+      "EyeColorName": "Color_152",
       "BuyPriceType": 4,
       "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 150,
       "IsTutorial": true,
@@ -267,7 +267,7 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 151,
       "IsTutorial": true,
@@ -278,18 +278,18 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
-      "EyeColor": 152,
+      "EyeColor": 149,
       "IsTutorial": true,
-      "EyeColorName": "Color_152",
+      "EyeColorName": "Color_149",
       "BuyPriceType": 4,
       "BuyPriceValue": 200
     },
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 153,
       "IsTutorial": true,
@@ -300,7 +300,7 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 154,
       "IsTutorial": true,
@@ -311,7 +311,7 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 189,
       "IsTutorial": true,
@@ -322,7 +322,7 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 190,
       "IsTutorial": true,
@@ -333,7 +333,7 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 191,
       "IsTutorial": true,
@@ -344,7 +344,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 192,
       "IsTutorial": true,
@@ -355,7 +355,7 @@
     {
       "ServiceType": "DEV",
       "Key": 21,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 56,
       "IsTutorial": false,
@@ -366,7 +366,7 @@
     {
       "ServiceType": "DEV",
       "Key": 22,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 172,
       "IsTutorial": false,
@@ -377,18 +377,18 @@
     {
       "ServiceType": "DEV",
       "Key": 23,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 88,
       "IsTutorial": false,
       "EyeColorName": "Color_88",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 500
     },
     {
       "ServiceType": "DEV",
       "Key": 24,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 82,
       "IsTutorial": false,
@@ -399,7 +399,7 @@
     {
       "ServiceType": "DEV",
       "Key": 25,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "EyeColor": 229,
       "IsTutorial": false,
@@ -410,7 +410,7 @@
     {
       "ServiceType": "DEV",
       "Key": 26,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 56,
       "IsTutorial": false,
@@ -421,7 +421,7 @@
     {
       "ServiceType": "DEV",
       "Key": 27,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 172,
       "IsTutorial": false,
@@ -432,18 +432,18 @@
     {
       "ServiceType": "DEV",
       "Key": 28,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 88,
       "IsTutorial": false,
       "EyeColorName": "Color_88",
       "BuyPriceType": 4,
-      "BuyPriceValue": 300
+      "BuyPriceValue": 500
     },
     {
       "ServiceType": "DEV",
       "Key": 29,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 82,
       "IsTutorial": false,
@@ -454,7 +454,7 @@
     {
       "ServiceType": "DEV",
       "Key": 30,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "EyeColor": 229,
       "IsTutorial": false,
@@ -909,15 +909,15 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
-      "HairColor": 116
+      "HairColor": 157
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 158
@@ -925,15 +925,15 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
-      "HairColor": 157
+      "HairColor": 116
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 155
@@ -941,7 +941,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 159
@@ -949,7 +949,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 184
@@ -957,7 +957,7 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 185
@@ -965,7 +965,7 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 186
@@ -973,7 +973,7 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 187
@@ -981,7 +981,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 1,
+      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 188
@@ -989,15 +989,15 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
-      "HairColor": 116
+      "HairColor": 157
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 158
@@ -1005,15 +1005,15 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
-      "HairColor": 157
+      "HairColor": 116
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 155
@@ -1021,7 +1021,7 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 159
@@ -1029,7 +1029,7 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 184
@@ -1037,7 +1037,7 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 185
@@ -1045,7 +1045,7 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 186
@@ -1053,7 +1053,7 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 187
@@ -1061,7 +1061,7 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 1,
+      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 188
@@ -1779,8 +1779,8 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 357,
-      "Game": 3,
+      "Key": 649,
+      "Game": 2,
       "ItemValue": 3
     }
   ],

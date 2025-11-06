@@ -1088,6 +1088,11 @@
       "Key": 207,
       "Value": "touch01",
       "Desc": "터치 시 나오는 애니메이션"
+    },
+    {
+      "Key": 208,
+      "Value": "sitcloud01",
+      "Desc": "구름에 앉는 애니메이션"
     }
   ],
   "EAnimTabType": [
@@ -1651,6 +1656,11 @@
       "Key": 3,
       "Value": "LandMarkCrafting",
       "Desc": "광장"
+    },
+    {
+      "Key": 4,
+      "Value": "Kuromi",
+      "Desc": "쿠로미"
     }
   ],
   "ECraftingType": [

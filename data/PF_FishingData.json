@@ -282,17 +282,17 @@
   "FishingRod": [
     {
       "ServiceType": "DEV",
-      "Key": 357,
-      "Game": 1,
-      "FishingType": 1,
-      "AnimSkin": "fishingstick_01"
-    },
-    {
-      "ServiceType": "DEV",
       "Key": 358,
       "Game": 3,
       "FishingType": 2,
       "AnimSkin": "fishingstick_01_s"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 649,
+      "Game": 2,
+      "FishingType": 1,
+      "AnimSkin": "fishingstick_01"
     }
   ]
 }

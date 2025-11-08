@@ -1093,6 +1093,11 @@
       "Key": 208,
       "Value": "sitcloud01",
       "Desc": "구름에 앉는 애니메이션"
+    },
+    {
+      "Key": 209,
+      "Value": "constructing01",
+      "Desc": "공사하는 애니메이션"
     }
   ],
   "EAnimTabType": [
@@ -2854,6 +2859,24 @@
       "Value": "Schinese",
       "Desc": "중국어 간체",
       "CultureName": "zh-CN"
+    },
+    {
+      "Key": 6,
+      "Value": "German",
+      "Desc": "독일어",
+      "CultureName": "de-GE"
+    },
+    {
+      "Key": 7,
+      "Value": "Spanish",
+      "Desc": "스페인어",
+      "CultureName": "es_SP"
+    },
+    {
+      "Key": 8,
+      "Value": "French",
+      "Desc": "불어",
+      "CultureName": "fr_FR"
     }
   ],
   "ELocationType": [

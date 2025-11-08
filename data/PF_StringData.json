@@ -54987,17 +54987,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_KOR": "계정과 연동하는 중 문제가 발생했어요.\n다른 계정으로 시도해 주세요."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_KOR": "기존 게스트 계정이 구글 계정으로 안전하게 전환되었어요.\n이제 데이터를 잃을 걱정 없이 계속 플레이할 수 있어요!"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_KOR": "기존 게스트 계정이 애플 계정으로 안전하게 전환되었어요.\n이제 데이터를 잃을 걱정 없이 계속 플레이할 수 있어요!"
     },
     {
@@ -98024,6 +98024,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_KOR": "그게... 굳이 연구까지 해야 알 수 있는 사실이야...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_KOR": "계정과 연동하는 중 문제가 발생했어요.<br>이미 사용된 계정입니다."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_KOR": "연동을 취소하였습니다."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_KOR": "{NICK}님~! 저 왔어요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_KOR": "뭐 하고 계셨어요?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_KOR": "{NICK}님의 하우스는 언제 봐도 참 예쁘네요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_KOR": "어머! 시간이 벌써 이렇게…!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_KOR": "내일 또 올게요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_KOR": "저는 이브예요."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_KOR": "요리는 해도 해도 정말 어려워요…"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_KOR": "오늘은 날씨가 정말 좋네요! ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_KOR": "모두에게 행복한 일만 가득하길…♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_KOR": "저는 신선한 과일을 정말 좋아해요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_KOR": "파밍은 정말 재미있지 않나요?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_KOR": "집이 더 예뻐졌네요! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_KOR": "{NICK}님은 인테리어 감각도 참 좋으시네요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_KOR": "와~ 이 가구는 정말 멋져요! 직접 만드신 건가요?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_KOR": "마침 다리가 조금 아프던 참인데, 어떻게 아셨나요?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_KOR": "의자가 정말 편하네요~"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_KOR": "{NICK}님도 옆에 앉으세요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_KOR": "흠냐… 이대로 잠들 것 같아요…"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_KOR": "낮잠을 조금 자야겠어요… 쿨…"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_KOR": "언젠가는 꼭 맛있는 요리를 만들어 드릴게요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_KOR": "같이 소풍 갈까요?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_KOR": "{NICK}님~ 깜짝 놀랐잖아요~! 히힛 ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_KOR": "땀 흘려 기른 작물들이 자라는 모습을 보면 정말 뿌듯해요!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_KOR": "{NICK}님의 작물들은 더 잘 자라는 것 같아요. 비결이 뭐죠?"
     }
   ],
   "JPN_StringTable": [
@@ -153014,17 +153144,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_JPN": "アカウント連動が失敗しました。<br>ほかのアカウントで改めて連動を行ってください。"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_JPN": "ゲストアカウントがGoogleアカウントに連動されました。<br>もうデータ消失の心配なくプレイできます！"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_JPN": "ゲストアカウントがAppleアカウントに連動されました。<br>もうデータ消失の心配なくプレイできます！"
     },
     {
@@ -186525,7 +186655,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_JPN": "イブのサンドイッチ屋台"
+      "StringName_JPN": "イブのサンドイッチカート"
     },
     {
       "ServiceType": "DEV",
@@ -196051,6 +196181,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_JPN": "それって... わざわざ研究しないと分からない事実なの...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_JPN": "アカウント連携中に問題が発生しました。<br>すでに使用されているアカウントです。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_JPN": "連携をキャンセルしました。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_JPN": "{NICK}さん～！来ましたよ！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_JPN": "何をされていたんですか？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_JPN": "{NICK}さんのお家は、いつ見ても本当に素敵ですね！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_JPN": "あら！もうこんな時間！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_JPN": "また明日来ますね！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_JPN": "私はイブです。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_JPN": "料理はいくらやっても本当に難しいです..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_JPN": "今日は本当にお天気がいいですね！♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_JPN": "みんなに幸せなことだけがありますように...♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_JPN": "私は新鮮なフルーツが本当に大好きなんです！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_JPN": "ファーミングって本当に楽しいですよね？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_JPN": "お家がもっと素敵になりましたね！♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_JPN": "{NICK}さんはインテリアのセンスも本当にお上手ですね！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_JPN": "わあ～この家具は本当に素敵です！ご自分で作られたんですか？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_JPN": "ちょうど足が少し痛かったんですが、どうして分かったんですか?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_JPN": "椅子が本当に楽ですね～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_JPN": "{NICK}さんも隣に座ってください！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_JPN": "うーん... このまま寝てしまいそうです..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_JPN": "少しお昼寝をしますね... スヤァ..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_JPN": "いつか必ず美味しい料理をご馳走しますね！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_JPN": "一緒にピクニックに行きませんか?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_JPN": "{NICK}さん～びっくりしたじゃないですか～！ひひっ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_JPN": "汗水流して育てた作物が育つのを見ると、本当に嬉しいです！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_JPN": "{NICK}さんの作物はもっとよく育っている気がします。秘訣は何ですか？"
     }
   ],
   "TRC_StringTable": [
@@ -251041,17 +251301,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_TRC": "與帳號連動時發生問題。\n請嘗試使用其他帳號。"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_TRC": "原本的訪客帳號已成功安全轉換為 Google 帳號。\n現在可以放心繼續遊玩，不用擔心資料遺失了！"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_TRC": "原本的訪客帳號已成功安全轉換為 Apple 帳號。\n現在可以放心繼續遊玩，不用擔心資料遺失了！"
     },
     {
@@ -284552,7 +284812,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_TRC": "伊芙的三明治馬車"
+      "StringName_TRC": "伊芙的三明治推車"
     },
     {
       "ServiceType": "DEV",
@@ -294078,6 +294338,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_TRC": "那個... 這難道是非得研究才能知道的事實嗎...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_TRC": "帳號連動時發生問題。<br>此帳號已被使用。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_TRC": "已取消連動。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_TRC": "{NICK}～！我來了！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_TRC": "您在做什麼呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_TRC": "{NICK}的房子無論什麼時候看都非常漂亮呢！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_TRC": "哎呀！時間已經這麼晚了...！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_TRC": "我明天再來喔！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_TRC": "我是伊芙。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_TRC": "料理不管做幾次都真的好難喔..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_TRC": "今天天氣真的很好呢！♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_TRC": "願所有人都充滿著幸福...♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_TRC": "我真的很喜歡新鮮的水果！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_TRC": "農作真的很有趣，不是嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_TRC": "房子變得更漂亮了呢！♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_TRC": "{NICK}的室內裝潢品味真的很好呢！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_TRC": "哇～這個家具真的好棒！是您親手做的嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_TRC": "剛好腳有點痠痛，您怎麼知道的?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_TRC": "椅子真的好舒服喔～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_TRC": "{NICK}也坐過來旁邊吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_TRC": "唔... 感覺就這樣睡著了..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_TRC": "我要睡一下午覺了... 呼..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_TRC": "總有一天一定會做美味的料理給您吃的！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_TRC": "要不要一起去野餐呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_TRC": "{NICK}～您嚇到我了啦～！嘻嘻♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_TRC": "看到辛苦耕種的農作物成長的樣子，真的覺得很欣慰！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_TRC": "感覺 {NICK}的農作物長得更好。請問有什麼秘訣嗎？"
     }
   ],
   "TRS_StringTable": [
@@ -349068,17 +349458,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_TRS": "与帐号连动时发生问题。\n请尝试使用其他帐号。"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_TRS": "原本的访客帐号已成功安全转换为 Google 帐号。\n现在可以放心继续游玩，不用担心资料遗失了！"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_TRS": "原本的访客帐号已成功安全转换为 Apple 帐号。\n现在可以放心继续游玩，不用担心资料遗失了！"
     },
     {
@@ -382579,7 +382969,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_TRS": "伊芙的三明治马车"
+      "StringName_TRS": "伊芙的三明治推车"
     },
     {
       "ServiceType": "DEV",
@@ -392105,6 +392495,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_TRS": "那个... 这难道是非得研究才能知道的事实吗...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_TRS": "账号关联时出现问题。<br>该账号已被使用。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_TRS": "已取消关联。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_TRS": "{NICK}～！我来了！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_TRS": "您在做什么呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_TRS": "{NICK}的房子无论什么时候看都非常漂亮呢！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_TRS": "哎呀！时间已经这么晚了...！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_TRS": "我明天再来喔！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_TRS": "我是伊芙。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_TRS": "料理不管做几次都真的好难喔..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_TRS": "今天天气真的很好呢！♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_TRS": "愿所有人都充满着幸福...♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_TRS": "我真的很喜欢新鲜的水果！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_TRS": "农作真的很有趣，不是吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_TRS": "房子变得更漂亮了呢！♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_TRS": "{NICK}的室内装潢品味真的很好呢！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_TRS": "哇～这个家具真的好棒！是您亲手做的吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_TRS": "刚好脚有点酸痛，您怎么知道的?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_TRS": "椅子真的好舒服喔～"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_TRS": "{NICK}也坐过来旁边吧！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_TRS": "唔... 感觉就这样睡着了..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_TRS": "我要睡一下午觉了... 呼..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_TRS": "总有一天一定会做美味的料理给您吃的！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_TRS": "要不要一起去野餐呢？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_TRS": "{NICK}～您吓到我了啦～！嘻嘻♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_TRS": "看到辛苦耕种的农作物成长的样子，真的觉得很欣慰！"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_TRS": "感觉 {NICK}的农作物长得更好。请问有什么秘诀吗？"
     }
   ],
   "ENG_StringTable": [
@@ -447095,17 +447615,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_ENG": "There was a problem linking your account.\nPlease try a different account."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_ENG": "Your guest account has been successfully linked to your Google account.\nYou can now keep playing without worrying about losing your data!"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_ENG": "Your guest account has been successfully linked to your Apple account.\nYou can now keep playing without worrying about losing your data!"
     },
     {
@@ -490132,6 +490652,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_ENG": "Is that something that really requires research to figure out...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_ENG": "There was a problem linking your account.<br>This account has already been used.  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_ENG": "The linking process has been canceled."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_ENG": "{NICK}, I'm here!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_ENG": "What were you doing?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_ENG": "Your house is so lovely every time I see it!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_ENG": "Oh my! Look at the time...!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_ENG": "I'll come again tomorrow!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_ENG": "I am Eve."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_ENG": "Cooking is so difficult, no matter how many times I do it..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_ENG": "The weather is really nice today! ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_ENG": "I hope only happy things happen to everyone...♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_ENG": "I really love fresh fruit!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_ENG": "Farming is really fun, don't you think?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_ENG": "Your house got even prettier! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_ENG": "{NICK} has a great sense for interior design!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_ENG": "Wow, this furniture is truly amazing! Did you make it yourself?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_ENG": "My legs were hurting just now; how did you know?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_ENG": "This chair is so comfortable!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_ENG": "Please sit next to me, {NICK}!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_ENG": "Hmm... I think I might fall asleep like this..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_ENG": "I need to take a quick nap... Zzz..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_ENG": "I promise I'll make you a delicious meal someday!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_ENG": "Shall we go on a picnic together?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_ENG": "{NICK}! You totally startled me! Hehe ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_ENG": "I feel so proud when I see the crops I sweated over growing!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_ENG": "I feel like {NICK}'s crops grow even better. What's your secret?"
     }
   ],
   "DE_StringTable": [
@@ -545122,17 +545772,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_ENG": "Beim Verknüpfen mit dem Konto ist ein Problem aufgetreten.\nBitte versuchen Sie es mit einem anderen Konto."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_ENG": "Dein bisheriges Gastkonto wurde sicher in ein Google-Konto umgewandelt.\nJetzt kannst du ohne Sorge um Datenverlust weiterspielen!"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_ENG": "Das bestehende Gastkonto wurde sicher auf ein Apple-Konto umgestellt.\nJetzt kannst du ohne Sorge um Datenverlust weiterspielen!"
     },
     {
@@ -578633,7 +579283,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "Eves Sandwichwagen"
+      "StringName_ENG": "Eves Sandwich-Wagen"
     },
     {
       "ServiceType": "DEV",
@@ -588159,6 +588809,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_ENG": "Ist das wirklich eine Tatsache, die man nur durch Forschung herausfinden kann...?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_ENG": "Beim Verknüpfen deines Kontos ist ein Problem aufgetreten。<br>Dieses Konto wurde bereits verwendet。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_ENG": "Die Verknüpfung wurde abgebrochen。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_ENG": "{NICK}, ich bin da!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_ENG": "Was haben Sie gemacht?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_ENG": "Ihr Haus, {NICK}, ist jedes Mal wunderschon!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_ENG": "Ach! Schon so spat...!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_ENG": "Ich komme morgen wieder!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_ENG": "Ich bin Eve."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_ENG": "Kochen ist wirklich schwer, egal wie oft man es macht..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_ENG": "Das Wetter ist heute wirklich schon! ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_ENG": "Mogen alle nur Gluckliches erleben...♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_ENG": "Ich liebe frisches Obst wirklich sehr!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_ENG": "Farming macht wirklich Spaß, oder?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_ENG": "Das Haus ist noch schoner geworden! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_ENG": "{NICK} hat auch einen tollen Sinn fur Interieur-Design!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_ENG": "Wow, dieses Mobelstuck ist wirklich toll! Haben Sie es selbst gemacht?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_ENG": "Meine Beine haben gerade etwas wehgetan, woher wussten Sie das?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_ENG": "Der Stuhl ist wirklich bequem!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_ENG": "{NICK}, setzen Sie sich doch daneben!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_ENG": "Hm... Ich glaube, ich schlafe gleich ein..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_ENG": "Ich werde ein kleines Nickerchen machen... Schlaf..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_ENG": "Ich werde Ihnen ganz bestimmt irgendwann ein leckeres Essen kochen!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_ENG": "Wollen wir zusammen ein Picknick machen?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_ENG": "{NICK}! Sie haben mich erschreckt! Hihi ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_ENG": "Ich bin wirklich stolz, wenn ich sehe, wie die Fruchte wachsen, fur die ich geschwitzt habe!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_ENG": "Ich habe das Gefuhl, {NICK}s Fruchte wachsen noch besser. Was ist Ihr Geheimnis?"
     }
   ],
   "ES_StringTable": [
@@ -643149,17 +643929,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_ENG": "Se ha producido un problema al vincular la cuenta.\nPrueba con otra cuenta."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_ENG": "Tu cuenta de invitado existente se ha convertido de forma segura en una cuenta de Google.\nAhora puedes seguir jugando sin preocuparte por perder datos."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_ENG": "Tu cuenta de invitado existente se ha convertido de forma segura en una cuenta de Apple.\nAhora puedes seguir jugando sin preocuparte por perder datos."
     },
     {
@@ -686186,6 +686966,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_ENG": "¿Es algo que realmente se necesita investigar para saber?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_ENG": "Se produjo un problema al vincular la cuenta。<br>Esta cuenta ya ha sido utilizada。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_ENG": "La vinculación se ha cancelado。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_ENG": "¡{NICK}, ya estoy aquí!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_ENG": "¿Qué estaba haciendo?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_ENG": "¡La casa de {NICK} es muy bonita, la vea cuando la vea!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_ENG": "¡Oh! ¡Ya es tan tarde...!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_ENG": "¡Vendré de nuevo mañana!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_ENG": "Yo soy Eve."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_ENG": "Cocinar es muy difícil, no importa cuántas veces lo haga..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_ENG": "¡El clima es muy agradable hoy! ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_ENG": "¡Ojalá solo cosas felices les sucedan a todos...! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_ENG": "¡De verdad me encanta la fruta fresca!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_ENG": "¡La agricultura es muy divertida, ¿verdad?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_ENG": "¡Tu casa se ha puesto aún más bonita! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_ENG": "¡{NICK} también tiene muy buen gusto para el diseño de interiores!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_ENG": "¡Guau, este mueble es increíble! ¿Lo hizo usted mismo?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_ENG": "Me estaban doliendo un poco las piernas, ¿cómo lo supo?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_ENG": "¡La silla es muy cómoda!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_ENG": "¡Siéntese a mi lado, {NICK}!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_ENG": "Mmm... Siento que me voy a quedar dormida así..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_ENG": "Voy a tomar una siesta... Zzz..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_ENG": "¡Prometo que algún día le prepararé una comida deliciosa!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_ENG": "¿Vamos de picnic juntos?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_ENG": "¡{NICK}! ¡Me asustaste! Jeje ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_ENG": "¡Me siento muy orgullosa al ver crecer los cultivos que sembré con esfuerzo!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_ENG": "¡Siento que los cultivos de {NICK} crecen aún mejor! ¿Cuál es su secreto?"
     }
   ],
   "FR_StringTable": [
@@ -741176,17 +742086,17 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Fail",
+      "Key": "Guest_Login_Convert_Fail",
       "StringName_ENG": "Un problème est survenu lors de l’association du compte.\nVeuillez essayer avec un autre compte."
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Google",
+      "Key": "Guest_Login_Convert_Google",
       "StringName_ENG": "Votre compte invité existant a été converti en toute sécurité en compte Google.\nVous pouvez désormais continuer à jouer sans craindre de perdre vos données !"
     },
     {
       "ServiceType": "DEV",
-      "Key": "Guest_Login_Covert_Apple",
+      "Key": "Guest_Login_Convert_Apple",
       "StringName_ENG": "Votre compte invité existant a été converti en toute sécurité en compte Apple.\nVous pouvez désormais continuer à jouer sans craindre de perdre des données !"
     },
     {
@@ -774687,7 +775597,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "La charrette de sandwichs d’Ève"
+      "StringName_ENG": "Le chariot à sandwichs d'Ève"
     },
     {
       "ServiceType": "DEV",
@@ -784213,6 +785123,136 @@
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1011901",
       "StringName_ENG": "Est-ce vraiment un fait qui nécessite d'être recherché pour être su ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Duplicated",
+      "StringName_ENG": "Un problème est survenu lors de la liaison du compte。<br>Ce compte a déjà été utilisé。  "
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Guest_Login_Convert_Canceled",
+      "StringName_ENG": "La liaison a été annulée。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_1",
+      "StringName_ENG": "{NICK}, je suis là !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_2",
+      "StringName_ENG": "Que faisiez-vous ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_3",
+      "StringName_ENG": "La maison de {NICK} est très jolie, on dirait !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_4",
+      "StringName_ENG": "Oh ! Il est déjà si tard !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_5",
+      "StringName_ENG": "Je reviendrai demain !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_6",
+      "StringName_ENG": "Je suis Ève."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_7",
+      "StringName_ENG": "Cuisiner est vraiment difficile, peu importe le nombre de fois où j'essaie..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_8",
+      "StringName_ENG": "Le temps est vraiment agréable aujourd'hui ! ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_9",
+      "StringName_ENG": "J'espère que seules de belles choses arriveront à tout le monde... ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_10",
+      "StringName_ENG": "J'adore vraiment les fruits frais !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_11",
+      "StringName_ENG": "Le farming est vraiment amusant, n'est-ce pas ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_12",
+      "StringName_ENG": "Ta maison est encore plus jolie ! ♡"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_13",
+      "StringName_ENG": "{NICK} a un très bon sens de la décoration intérieure !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_14",
+      "StringName_ENG": "Waouh, ce meuble est vraiment magnifique ! Vous l'avez fait vous-même ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_15",
+      "StringName_ENG": "J'avais justement un peu mal aux jambes, comment saviez-vous cela ?!"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_16",
+      "StringName_ENG": "Cette chaise est vraiment confortable !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_17",
+      "StringName_ENG": "Asseyez-vous à côté de moi, {NICK} !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_18",
+      "StringName_ENG": "Hum... J'ai l'impression que je vais m'endormir comme ça..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_19",
+      "StringName_ENG": "Je vais faire une petite sieste... Zzz..."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_20",
+      "StringName_ENG": "Je vous ferai un délicieux repas un de ces jours, promis !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_21",
+      "StringName_ENG": "Allons-nous pique-niquer ensemble ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_22",
+      "StringName_ENG": "{NICK} ! Vous m'avez surprise ! Hi hi ♪"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_23",
+      "StringName_ENG": "Je suis si fière de voir les récoltes que j'ai cultivées avec tant d'effort !"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "NPC_1_Summon_24",
+      "StringName_ENG": "J'ai l'impression que les récoltes de {NICK} poussent encore mieux. Quel est votre secret ?"
     }
   ]
 }

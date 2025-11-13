@@ -1,5 +1,5 @@
 import path from "node:path";
-export const version = '1.1.7';
+export const version = '1.0.6';
 
 export const keyHex = '190664efcf5930d02952ba0cef01f5498cdd94d2904ad11485026c822588b51d';
 export const ivHex = '14d21c887878504275ddb1d79039e036';

@@ -73913,7 +73913,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_KOR": "패션으로 시간 단축 {0}회 사용하기"
+      "StringName_KOR": "패션으로 {0}회 시간 단축하기"
     },
     {
       "ServiceType": "DEV",
@@ -78788,7 +78788,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_KOR": "패션으로 시간 단축 {0}회 사용하기"
+      "StringName_KOR": "패션으로 {0}회 시간 단축하기"
     },
     {
       "ServiceType": "DEV",
@@ -88493,12 +88493,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_KOR": "조이의 클로버 금고"
+      "StringName_KOR": "조이의 클로버 금고 초대 가구"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_KOR": "이브의 샌드위치 마차"
+      "StringName_KOR": "이브의 샌드위치 마차 초대 가구"
     },
     {
       "ServiceType": "DEV",
@@ -94153,7 +94153,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_KOR": "리아의 헤어살롱"
+      "StringName_KOR": "리아 & 미아의 헤어살롱"
     },
     {
       "ServiceType": "DEV",
@@ -95948,7 +95948,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_KOR": "외출할 때도 트렌디한 아이템들은 빼놓을 수 없다구~!"
+      "StringName_KOR": "외출할 때에도 트렌디해야 진짜 멋쟁이지!"
     },
     {
       "ServiceType": "DEV",
@@ -95998,7 +95998,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_KOR": "상큼 발랄 토리와 아주 찰떡이지 않아? ★"
+      "StringName_KOR": "상큼 발랄 토리랑 아주 찰떡이지 않아? ★"
     },
     {
       "ServiceType": "DEV",
@@ -98154,6 +98154,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_KOR": "{NICK}님의 작물들은 더 잘 자라는 것 같아요. 비결이 뭐죠?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_KOR": "마법소녀 하트 화장대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_KOR": "마법소녀 별 쿠션 의자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_KOR": "마법소녀 마법진 카펫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_KOR": "마법소녀 변신 신발"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_KOR": "마법소녀 하트 팡팡 포스터"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_KOR": "마법소녀 사인 벽걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_KOR": "마법소녀 폭신 구름 테이블"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_KOR": "마법소녀 폭신 토끼인형"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_KOR": "마법소녀 하트 침대"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_KOR": "마법소녀 하트 창문"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_KOR": "마법소녀 별 바닥"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_KOR": "마법소녀 변신 화장품"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_KOR": "마법소녀 꽃잎 양초"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_KOR": "마법소녀 투명 오너먼트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_KOR": "마법소녀 리본 프릴 창문"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_KOR": "마법소녀 달 벽걸이"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_KOR": "마법소녀 보석 소파"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_KOR": "마법소녀 하트 바닥"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_KOR": "마법소녀 마법진 테이블"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_KOR": "마법소녀 클로버 카펫"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_KOR": "마법소녀 하트 리본 컴팩트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_KOR": "마법소녀 변신 컴팩트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_KOR": "마법소녀 별 장식 마법봉"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_KOR": "마법소녀 옷장"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_KOR": "마법소녀 스탠드 라이트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_KOR": "마법소녀 심플 핑크 벽지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_KOR": "마법소녀 핑크 바닥"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_KOR": "마법소녀 그라데이션 벽지"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_KOR": "마법소녀 핑크 체크 바닥"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_KOR": "터치하면 음악이 나오는 멜로디함이에요! 하우스에만 배치할 수 있어요."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_KOR": "마이멜로디와 쿠로미의 선물동상 초대 가구"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_KOR": "쿠로미 장터"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_KOR": "반짝이는 포차코 분수대 초대 가구"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_KOR": "마이멜로디의 파스텔 구름 미끄럼틀"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_KOR": "블링블링 핑크목마 마차"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_KOR": "쿠로미 캐리어"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_KOR": "포차코 백팩"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_KOR": "마음대로 고르는 재료 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_KOR": "깜짝 재료 상자"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_KOR": "러블리스타 마법소녀 변신룸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_KOR": "러블리스타 마법소녀 침실"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_KOR": "러블리스타 마법소녀 세트"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_KOR": "하루의 전투를 마치고 편안히 쉴 수 있는 아늑한 침실과, 비밀스러운 변신 마법이 펼쳐지는 초★화려한 변신 룸!\n러블리스타 마법소녀가 되어 정의의 이름으로 세계를 지켜보세요! ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_KOR": "파스텔 구름 미끄럼틀"
     }
   ],
   "JPN_StringTable": [
@@ -98440,7 +98660,7 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_JPN": "ファッション"
+      "StringName_JPN": "パッション"
     },
     {
       "ServiceType": "DEV",
@@ -105285,7 +105505,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_JPN": "ファッションを<color=#FF0000>{0}</color>個使ってクラフト時間を<color=#FF0000>{1}</color>秒短縮します。"
+      "StringName_JPN": "パッションを<color=#FF0000>{0}</color>個使用して<color=#FF0000>{1}</color>秒短縮します。"
     },
     {
       "ServiceType": "DEV",
@@ -172070,7 +172290,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_JPN": "ファッションで時間短縮を{0}回使う"
+      "StringName_JPN": "パッションで時間を{0}回短縮する"
     },
     {
       "ServiceType": "DEV",
@@ -176945,7 +177165,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_JPN": "ファッションで時間短縮を{0}回使う"
+      "StringName_JPN": "パッションで時間を{0}回短縮する"
     },
     {
       "ServiceType": "DEV",
@@ -186650,12 +186870,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_JPN": "ジョイのクローバー金庫"
+      "StringName_JPN": "ジョイのクローバー金庫招待家具"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_JPN": "イブのサンドイッチカート"
+      "StringName_JPN": "イブのサンドイッチカート招待家具"
     },
     {
       "ServiceType": "DEV",
@@ -190065,12 +190285,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500389",
-      "StringName_JPN": "クロミのベッドルーム壁紙"
+      "StringName_JPN": "クロミのベッドルームの壁紙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500390",
-      "StringName_JPN": "クロミのベッドルーム床"
+      "StringName_JPN": "クロミのベッドルームの床"
     },
     {
       "ServiceType": "DEV",
@@ -190090,7 +190310,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500394",
-      "StringName_JPN": "クロミの大型窓"
+      "StringName_JPN": "クロミの大きな窓"
     },
     {
       "ServiceType": "DEV",
@@ -190215,7 +190435,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500419",
-      "StringName_JPN": "クロミの大型ぬいぐるみ"
+      "StringName_JPN": "クロミの大きなぬいぐるみ"
     },
     {
       "ServiceType": "DEV",
@@ -190880,7 +191100,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500430",
-      "StringName_JPN": "クロミ ビームプロジェクター"
+      "StringName_JPN": "クロミのビームプロジェクター"
     },
     {
       "ServiceType": "DEV",
@@ -192095,12 +192315,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500442",
-      "StringName_JPN": "クロミのきらきら惑星 ムードライト"
+      "StringName_JPN": "クロミのきらきら惑星ムードライト"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500443",
-      "StringName_JPN": "リボン姫 クロミ 額縁"
+      "StringName_JPN": "リボン姫クロミの額縁"
     },
     {
       "ServiceType": "DEV",
@@ -192175,47 +192395,47 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022844",
-      "StringName_JPN": "金色の秋のアップルテールヘア"
+      "StringName_JPN": "金光の秋のアップルテールヘア"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022845",
-      "StringName_JPN": "金色の秋のアップルダンディカット"
+      "StringName_JPN": "金光の秋のアップルダンディカット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022846",
-      "StringName_JPN": "ティータイム チェック ロングワンピース"
+      "StringName_JPN": "ティータイムチェックロングワンピース"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022847",
-      "StringName_JPN": "ブラウン リボン飾り ショートブーツ"
+      "StringName_JPN": "ブラウンリボン飾りショートブーツ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022848",
-      "StringName_JPN": "クリーム リボン飾り ショートブーツ"
+      "StringName_JPN": "クリームリボン飾りショートブーツ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022849",
-      "StringName_JPN": "ティータイム チェック ダンディジャケット"
+      "StringName_JPN": "ティータイムチェックダンディジャケット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022850",
-      "StringName_JPN": "ティータイム アップル チェックパンツ"
+      "StringName_JPN": "ティータイムアップルチェックパンツ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022851",
-      "StringName_JPN": "ブラウン ゴールドボタン ローファー"
+      "StringName_JPN": "ブラウンゴールドボタンローファー"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022852",
-      "StringName_JPN": "レッド ゴールドボタン ローファー"
+      "StringName_JPN": "レッドゴールドボタンローファー"
     },
     {
       "ServiceType": "DEV",
@@ -192235,7 +192455,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022856",
-      "StringName_JPN": "ハローキティ デイドリーミング"
+      "StringName_JPN": "ハローキティのデイドリーミング"
     },
     {
       "ServiceType": "DEV",
@@ -192245,17 +192465,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022858",
-      "StringName_JPN": "ハローキティ パフェ"
+      "StringName_JPN": "ハローキティのパフェ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022859",
-      "StringName_JPN": "ハローキティ ヘアピン ピンク"
+      "StringName_JPN": "ハローキティのヘアピンピンク"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022860",
-      "StringName_JPN": "ハローキティ ヘアピン イエロー"
+      "StringName_JPN": "ハローキティのヘアピンイエロー"
     },
     {
       "ServiceType": "DEV",
@@ -192310,7 +192530,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_JPN": "リアのヘアサロン"
+      "StringName_JPN": "リア＆ミアのヘアサロン"
     },
     {
       "ServiceType": "DEV",
@@ -192320,152 +192540,152 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500445",
-      "StringName_JPN": "クロミ 秘密作戦室 壁紙"
+      "StringName_JPN": "クロミの秘密作戦室の壁紙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500446",
-      "StringName_JPN": "クロミ 秘密作戦室 床"
+      "StringName_JPN": "クロミの秘密作戦室の床"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500447",
-      "StringName_JPN": "クロミ グッズキオスク"
+      "StringName_JPN": "クロミのグッズキオスク"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500448",
-      "StringName_JPN": "クロミ ネオンサイン"
+      "StringName_JPN": "クロミのネオンサイン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500449",
-      "StringName_JPN": "クロミ 作業用スツール"
+      "StringName_JPN": "クロミの作業用スツール"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500450",
-      "StringName_JPN": "クロミ 作業用スツール (後ろ)"
+      "StringName_JPN": "クロミの作業用スツール (後ろ)"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500451",
-      "StringName_JPN": "クロミ プレス機械"
+      "StringName_JPN": "クロミのプレス機械"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500452",
-      "StringName_JPN": "クロミ グッズ陳列棚"
+      "StringName_JPN": "クロミのグッズ陳列棚"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500453",
-      "StringName_JPN": "クロミ 山積みのダンボール"
+      "StringName_JPN": "クロミの山積みのダギフトボックス"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500454",
-      "StringName_JPN": "クロミ 移動式パネル"
+      "StringName_JPN": "クロミの移動式パネル"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500455",
-      "StringName_JPN": "クロミ ミシンテーブル"
+      "StringName_JPN": "クロミのミシンテーブル"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500456",
-      "StringName_JPN": "クロミ 素材保管用収納棚"
+      "StringName_JPN": "クロミの素材保管用収納棚"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500457",
-      "StringName_JPN": "クロミ ハンガー"
+      "StringName_JPN": "クロミのハンガー"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500458",
-      "StringName_JPN": "クロミ メタルキャビネット"
+      "StringName_JPN": "クロミのメタルキャビネット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500459",
-      "StringName_JPN": "クロミ ウォールランプ"
+      "StringName_JPN": "クロミのウォールランプ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500460",
-      "StringName_JPN": "クロミ デスクランプ"
+      "StringName_JPN": "クロミのデスクランプ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500461",
-      "StringName_JPN": "クロミ 壁掛け時計"
+      "StringName_JPN": "クロミの壁掛け時計"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500462",
-      "StringName_JPN": "クロミ ホワイトボード"
+      "StringName_JPN": "クロミのホワイトボード"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500463",
-      "StringName_JPN": "クロミ ローリングカート"
+      "StringName_JPN": "クロミのローリングカート"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500464",
-      "StringName_JPN": "クロミ 壁掛け棚"
+      "StringName_JPN": "クロミの壁掛け棚"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500465",
-      "StringName_JPN": "クロミ フォトウォール"
+      "StringName_JPN": "クロミのフォトウォール"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500466",
-      "StringName_JPN": "クロミ リボンエントランス"
+      "StringName_JPN": "クロミのリボンエントランス"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500467",
-      "StringName_JPN": "クロミ フリルソファー"
+      "StringName_JPN": "クロミのフリルソファー"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500468",
-      "StringName_JPN": "クロミ インフォデスク"
+      "StringName_JPN": "クロミのインフォデスク"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500469",
-      "StringName_JPN": "クロミ 壁掛けバナー"
+      "StringName_JPN": "クロミの壁掛けバナー"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500470",
-      "StringName_JPN": "クロミ 低いパーティション"
+      "StringName_JPN": "クロミの低いパーティション"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500471",
-      "StringName_JPN": "クロミ スタンディング全身鏡"
+      "StringName_JPN": "クロミのスタンディング全身鏡"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500472",
-      "StringName_JPN": "クロミ 専用ゲート"
+      "StringName_JPN": "クロミの専用ゲート"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500473",
-      "StringName_JPN": "クロミ コーヒーマシン"
+      "StringName_JPN": "クロミのコーヒーマシン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500474",
-      "StringName_JPN": "クロミ フォトフレーム"
+      "StringName_JPN": "クロミのフォトフレーム"
     },
     {
       "ServiceType": "DEV",
@@ -192475,37 +192695,37 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500476",
-      "StringName_JPN": "クロミ ゴミ箱"
+      "StringName_JPN": "クロミのゴミ箱"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500477",
-      "StringName_JPN": "クロミ パターンマット"
+      "StringName_JPN": "クロミのパターンマット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500478",
-      "StringName_JPN": "クロミ 作業用テーブル パーツ1"
+      "StringName_JPN": "クロミの作業用テーブル パーツ1"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500479",
-      "StringName_JPN": "クロミ 作業用テーブル パーツ2"
+      "StringName_JPN": "クロミの作業用テーブル パーツ2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500480",
-      "StringName_JPN": "クロミ 作業用テーブル パーツ3"
+      "StringName_JPN": "クロミの作業用テーブル パーツ3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500481",
-      "StringName_JPN": "クロミ 作業用テーブル パーツ4"
+      "StringName_JPN": "クロミの作業用テーブル パーツ4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500482",
-      "StringName_JPN": "クロミ 作業用テーブル"
+      "StringName_JPN": "クロミの作業用テーブル"
     },
     {
       "ServiceType": "DEV",
@@ -193240,7 +193460,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500483",
-      "StringName_JPN": "クロミのティールーム壁紙"
+      "StringName_JPN": "クロミのティールームの壁紙"
     },
     {
       "ServiceType": "DEV",
@@ -193255,12 +193475,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500486",
-      "StringName_JPN": "クロミのティールーム カフェチェア"
+      "StringName_JPN": "クロミのティールームカフェチェア"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500487",
-      "StringName_JPN": "クロミのティールーム カフェチェア(後ろ)"
+      "StringName_JPN": "クロミのティールームカフェチェア(後ろ)"
     },
     {
       "ServiceType": "DEV",
@@ -193270,7 +193490,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500489",
-      "StringName_JPN": "クロミのティールーム 暖炉"
+      "StringName_JPN": "クロミのティールーム壁付暖炉"
     },
     {
       "ServiceType": "DEV",
@@ -193280,17 +193500,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500491",
-      "StringName_JPN": "クロミのティールーム 花瓶"
+      "StringName_JPN": "クロミのティールーム花瓶"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500492",
-      "StringName_JPN": "クロミのティールーム 壁ランプ"
+      "StringName_JPN": "クロミのティールーム壁ランプ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500493",
-      "StringName_JPN": "クロミのティールーム テラス"
+      "StringName_JPN": "クロミのティールームテラス"
     },
     {
       "ServiceType": "DEV",
@@ -193300,22 +193520,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500495",
-      "StringName_JPN": "クロミ 2段ケーキ"
+      "StringName_JPN": "クロミの2段ケーキ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500496",
-      "StringName_JPN": "クロミのゴシック 円形額縁"
+      "StringName_JPN": "クロミのゴシック円形額縁"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500497",
-      "StringName_JPN": "クロミのティールーム ラグ"
+      "StringName_JPN": "クロミのティールームラグ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500498",
-      "StringName_JPN": "秘密ノート デスク"
+      "StringName_JPN": "秘密ノートデスク"
     },
     {
       "ServiceType": "DEV",
@@ -193325,32 +193545,32 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500500",
-      "StringName_JPN": "クロミの作戦装備 テスト機械"
+      "StringName_JPN": "クロミの作戦装備テスト機械"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500501",
-      "StringName_JPN": "クロミのキーパッド キャビネット"
+      "StringName_JPN": "クロミのキーパッドキャビネット"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500502",
-      "StringName_JPN": "クロミのシークレット ネオンサイン"
+      "StringName_JPN": "クロミのシークレットネオンサイン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500503",
-      "StringName_JPN": "クロミ クッションチェア"
+      "StringName_JPN": "クロミのクッションチェア"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500504",
-      "StringName_JPN": "クロミのシークレットルーム ラグ"
+      "StringName_JPN": "クロミのシークレットルームラグ"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500505",
-      "StringName_JPN": "クロミのシークレット フィギュア陳列棚"
+      "StringName_JPN": "クロミのシークレットフィギュア陳列棚"
     },
     {
       "ServiceType": "DEV",
@@ -193360,27 +193580,27 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500507",
-      "StringName_JPN": "クロミの通信機器 装備"
+      "StringName_JPN": "クロミの通信機器装備"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500508",
-      "StringName_JPN": "クロミのシークレット ポスター"
+      "StringName_JPN": "クロミのシークレットポスター"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500509",
-      "StringName_JPN": "クロミの隠れドア 本棚"
+      "StringName_JPN": "クロミの隠れドア本棚"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500510",
-      "StringName_JPN": "クロミの目隠し リボンカーテン"
+      "StringName_JPN": "クロミの仕切りリボンカーテン"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_10500511",
-      "StringName_JPN": "クロミデスクバー チェア"
+      "StringName_JPN": "クロミデスクバーチェア"
     },
     {
       "ServiceType": "DEV",
@@ -194105,7 +194325,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_JPN": "外出する時もトレンディなアイテムは欠かせないんだよ~!"
+      "StringName_JPN": "外出する時もトレンディでこそ、本当のおしゃれさんだよね！"
     },
     {
       "ServiceType": "DEV",
@@ -196205,7 +196425,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_3",
-      "StringName_JPN": "{NICK}さんのお家は、いつ見ても本当に素敵ですね！"
+      "StringName_JPN": "{NICK}さんのハウスは、いつ見ても本当に素敵ですね！"
     },
     {
       "ServiceType": "DEV",
@@ -196225,22 +196445,22 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_7",
-      "StringName_JPN": "料理はいくらやっても本当に難しいです..."
+      "StringName_JPN": "料理はいくらやっても難しいです..."
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_8",
-      "StringName_JPN": "今日は本当にお天気がいいですね！♪"
+      "StringName_JPN": "今日はお天気がとてもいいですね！♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_9",
-      "StringName_JPN": "みんなに幸せなことだけがありますように...♡"
+      "StringName_JPN": "みんなに幸せがたくさん訪れますように...♡"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_10",
-      "StringName_JPN": "私は新鮮なフルーツが本当に大好きなんです！"
+      "StringName_JPN": "私は新鮮なフルーツが大好きなんです！"
     },
     {
       "ServiceType": "DEV",
@@ -196250,22 +196470,22 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_12",
-      "StringName_JPN": "お家がもっと素敵になりましたね！♡"
+      "StringName_JPN": "ハウスがもっと素敵になりましたね！♡"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_13",
-      "StringName_JPN": "{NICK}さんはインテリアのセンスも本当にお上手ですね！"
+      "StringName_JPN": "{NICK}さんはインテリアのセンスも抜群ですね！"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_14",
-      "StringName_JPN": "わあ～この家具は本当に素敵です！ご自分で作られたんですか？"
+      "StringName_JPN": "わあ～この家具も本当に素敵です！これも手作りなんですか？"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_15",
-      "StringName_JPN": "ちょうど足が少し痛かったんですが、どうして分かったんですか?!"
+      "StringName_JPN": "ちょうど足が痛かったんです…どうして分かったんですか?!"
     },
     {
       "ServiceType": "DEV",
@@ -196310,7 +196530,227 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
-      "StringName_JPN": "{NICK}さんの作物はもっとよく育っている気がします。秘訣は何ですか？"
+      "StringName_JPN": "{NICK}さんの作物は特によく育つ気がします。秘訣は何ですか？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_JPN": "魔法少女ハートドレッサー"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_JPN": "魔法少女星クッションチェア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_JPN": "魔法少女魔法陣カーペット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_JPN": "魔法少女変身シューズ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_JPN": "魔法少女ハートいっぱいポスター"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_JPN": "魔法少女サインウォールデコ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_JPN": "魔法少女ふわふわ雲テーブル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_JPN": "魔法少女ふわふわうさぎぬいぐるみ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_JPN": "魔法少女ハートベッド"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_JPN": "魔法少女ハートウィンドウ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_JPN": "魔法少女星フロア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_JPN": "魔法少女変身コスメ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_JPN": "魔法少女花びらキャンドル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_JPN": "魔法少女クリアオーナメント"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_JPN": "魔法少女リボンフリルウィンドウ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_JPN": "魔法少女ムーンウォールデコ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_JPN": "魔法少女宝石ソファ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_JPN": "魔法少女ハートフロア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_JPN": "魔法少女魔法陣テーブル"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_JPN": "魔法少女クローバーカーペット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_JPN": "魔法少女ハートリボンコンパクト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_JPN": "魔法少女変身コンパクト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_JPN": "魔法少女星飾りマジカルステッキ"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_JPN": "魔法少女クローゼット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_JPN": "魔法少女スタンドライト"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_JPN": "魔法少女シンプルピンク壁紙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_JPN": "魔法少女ピンクフロア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_JPN": "魔法少女グラデーション壁紙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_JPN": "魔法少女ピンクチェックフロア"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_JPN": "タッチすると音楽が流れるメロディボックスです！ハウスにのみ配置できます。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_JPN": "マイメロディとクロミのギフト像招待家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_JPN": "クロミのマーケット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_JPN": "キラキラポチャッコの噴水招待家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_JPN": "マイメロディのパステル雲のすべり台"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_JPN": "キラキラ輝くピンク木馬馬車"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_JPN": "クロミのキャリーケース"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_JPN": "ポチャッコのバックパック"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_JPN": "選択可能な材料ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_JPN": "サプライズ材料ボックス"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_JPN": "ラブリースター魔法少女変身ルーム"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_JPN": "ラブリースター魔法少女寝室"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_JPN": "ラブリースター魔法少女セット"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_JPN": "一日の戦いを終えて安らかに休めるアットホームな寝室と、秘密の変身魔法が繰り広げられる超★豪華な変身ルーム！\nラブリースター魔法少女になって、正義の名のもとに世界を守りましょう！ ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_JPN": "パステル雲のすべり台"
     }
   ],
   "TRC_StringTable": [
@@ -196597,7 +197037,7 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_TRC": "時尚"
+      "StringName_TRC": "熱情"
     },
     {
       "ServiceType": "DEV",
@@ -198247,7 +198687,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC11_Name",
-      "StringName_TRC": "莉亞"
+      "StringName_TRC": "莉婭"
     },
     {
       "ServiceType": "DEV",
@@ -198312,12 +198752,12 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC10_Desc",
-      "StringName_TRC": "米亞和姐姐莉亞一起在同一美容院大樓的一樓工作。與專注於精緻色彩和風格的姐姐不同，性格自由奔放的米亞在自己的美容院研究各種各樣的風格。<br>她對自己的時尚感到自豪，喜歡為其他居民找到合適的風格並推薦給他們。雖然還無法完全理解姐姐的風格價值觀，但她仍然是一個總是掛念姐姐的好妹妹。"
+      "StringName_TRC": "米婭和姐姐莉婭一起在同一美容院大樓的一樓工作。與專注於精緻色彩和風格的姐姐不同，性格自由奔放的米婭在自己的美容院研究各種各樣的風格。<br>她對自己的時尚感到自豪，喜歡為其他居民找到合適的風格並推薦給他們。雖然還無法完全理解姐姐的風格價值觀，但她仍然是一個總是掛念姐姐的好妹妹。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC11_Desc",
-      "StringName_TRC": "莉亞和妹妹米亞在同一美容院大樓的一樓工作。與對各種風格有廣泛興趣的妹妹不同，性格細膩敏感的米亞則在自己的美容院研究精選的高級風格。<br>莉亞擁有自己的世界，並在其中默默進行風格研究。她在任何事情上都保持冷靜和細膩，總是優先照顧妹妹，是個善良的姐姐。"
+      "StringName_TRC": "莉婭和妹妹米婭在同一美容院大樓的一樓工作。與對各種風格有廣泛興趣的妹妹不同，性格細膩敏感的米婭則在自己的美容院研究精選的高級風格。<br>莉婭擁有自己的世界，並在其中默默進行風格研究。她在任何事情上都保持冷靜和細膩，總是優先照顧妹妹，是個善良的姐姐。"
     },
     {
       "ServiceType": "DEV",
@@ -201302,7 +201742,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_110",
-      "StringName_TRC": "(臨時) 米亞的家"
+      "StringName_TRC": "(臨時) 米婭的家"
     },
     {
       "ServiceType": "DEV",
@@ -203442,7 +203882,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_TRC": "使用<color=#FF0000>{0}</color>個時尚，縮短<color=#FF0000>{1}</color>秒。"
+      "StringName_TRC": "使用熱情 <color=#FF0000>{0}</color>個，可縮短<color=#FF0000>{1}</color>秒。"
     },
     {
       "ServiceType": "DEV",
@@ -206597,7 +207037,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_47",
-      "StringName_TRC": "이에솔羅村"
+      "StringName_TRC": "伊艾索洛村"
     },
     {
       "ServiceType": "DEV",
@@ -215737,7 +216177,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Interaction_NPCChat_101",
-      "StringName_TRC": "新的新品系列要推出了！魯比莉亞系列！"
+      "StringName_TRC": "新的新品系列要推出了！魯比莉婭系列！"
     },
     {
       "ServiceType": "DEV",
@@ -218602,7 +219042,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC11_Desc_2",
-      "StringName_TRC": "擁有像棉花糖般柔軟毛髮的美容師莉亞。深夜，如果美容院二樓透出光來，那就是莉亞還醒著的證據！"
+      "StringName_TRC": "擁有像棉花糖般柔軟毛髮的美容師莉婭。深夜，如果美容院二樓透出光來，那就是莉婭還醒著的證據！"
     },
     {
       "ServiceType": "DEV",
@@ -218802,7 +219242,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_32",
-      "StringName_TRC": "米亞那傢伙真吵。"
+      "StringName_TRC": "米婭那傢伙真吵。"
     },
     {
       "ServiceType": "DEV",
@@ -218922,7 +219362,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_56",
-      "StringName_TRC": "莉亞的造型似乎非常合你的心意！"
+      "StringName_TRC": "莉婭的造型似乎非常合你的心意！"
     },
     {
       "ServiceType": "DEV",
@@ -218977,7 +219417,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_67",
-      "StringName_TRC": "名稱為~ 米亞米亞死亡藥水！"
+      "StringName_TRC": "名稱為~ 米婭米婭染髮藥水！"
     },
     {
       "ServiceType": "DEV",
@@ -270227,7 +270667,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_TRC": "使用時尚加速 {0} 次"
+      "StringName_TRC": "以熱情減少時間 {0} 次"
     },
     {
       "ServiceType": "DEV",
@@ -273002,7 +273442,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Tutorial_Chat_1086",
-      "StringName_TRC": "我…我是…莉亞…"
+      "StringName_TRC": "我…我是…莉婭…"
     },
     {
       "ServiceType": "DEV",
@@ -274192,7 +274632,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Achievement119_Name",
-      "StringName_TRC": "我最喜歡莉亞"
+      "StringName_TRC": "我最喜歡莉婭"
     },
     {
       "ServiceType": "DEV",
@@ -274332,7 +274772,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Achievement147_Name",
-      "StringName_TRC": "莉亞的跑腿助手"
+      "StringName_TRC": "莉婭的跑腿助手"
     },
     {
       "ServiceType": "DEV",
@@ -274402,7 +274842,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Achievement161_Name",
-      "StringName_TRC": "莉亞的朋友"
+      "StringName_TRC": "莉婭的朋友"
     },
     {
       "ServiceType": "DEV",
@@ -274472,7 +274912,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Achievement175_Name",
-      "StringName_TRC": "莉亞喜好大師"
+      "StringName_TRC": "莉婭喜好大師"
     },
     {
       "ServiceType": "DEV",
@@ -274592,7 +275032,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Loading_45",
-      "StringName_TRC": "莉亞正在安靜地整理色彩樣本......"
+      "StringName_TRC": "莉婭正在安靜地整理色彩樣本......"
     },
     {
       "ServiceType": "DEV",
@@ -275102,7 +275542,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_TRC": "使用時尚加速 {0} 次"
+      "StringName_TRC": "以熱情減少時間 {0} 次"
     },
     {
       "ServiceType": "DEV",
@@ -276232,7 +276672,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500384",
-      "StringName_TRC": "慵懶早晨的蛋黃哥定食 邀請家具"
+      "StringName_TRC": "慵懶早晨的蛋黃哥定食邀請家具"
     },
     {
       "ServiceType": "DEV",
@@ -278747,7 +279187,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10073_Title",
-      "StringName_TRC": "雙胞胎姊妹莉亞和米婭"
+      "StringName_TRC": "雙胞胎姊妹莉婭和米婭"
     },
     {
       "ServiceType": "DEV",
@@ -278972,7 +279412,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_NPCChat_10016006",
-      "StringName_TRC": "我...是莉亞..."
+      "StringName_TRC": "我...是莉婭..."
     },
     {
       "ServiceType": "DEV",
@@ -278992,7 +279432,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1002601",
-      "StringName_TRC": "(紫色是米婭，薄荷色是莉亞嗎…？)"
+      "StringName_TRC": "(紫色是米婭，薄荷色是莉婭嗎…？)"
     },
     {
       "ServiceType": "DEV",
@@ -283347,7 +283787,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_NPCChat_10046002",
-      "StringName_TRC": "嗯，莉亞姊姊現在正埋首於造型研究呢。"
+      "StringName_TRC": "嗯，莉婭姊姊現在正埋首於造型研究呢。"
     },
     {
       "ServiceType": "DEV",
@@ -283422,7 +283862,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_UserChat_1007702",
-      "StringName_TRC": "莉亞呢？"
+      "StringName_TRC": "莉婭呢？"
     },
     {
       "ServiceType": "DEV",
@@ -284807,12 +285247,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_TRC": "喬伊的幸運草金庫"
+      "StringName_TRC": "喬伊的幸運草金庫邀請家具"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_TRC": "伊芙的三明治推車"
+      "StringName_TRC": "伊芙的三明治推車邀請家具"
     },
     {
       "ServiceType": "DEV",
@@ -286482,17 +286922,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100591",
-      "StringName_TRC": "莉亞&米婭的茶室壁紙"
+      "StringName_TRC": "莉婭&米婭的茶室壁紙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100592",
-      "StringName_TRC": "莉亞&米婭的磁磚地板"
+      "StringName_TRC": "莉婭&米婭的磁磚地板"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100593",
-      "StringName_TRC": "莉亞的薰衣草壁紙"
+      "StringName_TRC": "莉婭的薰衣草壁紙"
     },
     {
       "ServiceType": "DEV",
@@ -286502,17 +286942,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100595",
-      "StringName_TRC": "莉亞&米婭的雪紡荷葉邊床"
+      "StringName_TRC": "莉婭&米婭的雪紡荷葉邊床"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100596",
-      "StringName_TRC": "莉亞&米婭的木製衣櫃"
+      "StringName_TRC": "莉婭&米婭的木製衣櫃"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100597",
-      "StringName_TRC": "莉亞的薰衣草靠墊沙發"
+      "StringName_TRC": "莉婭的薰衣草靠墊沙發"
     },
     {
       "ServiceType": "DEV",
@@ -286522,22 +286962,22 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100599",
-      "StringName_TRC": "莉亞&米婭的雪紡圓形桌"
+      "StringName_TRC": "莉婭&米婭的雪紡圓形桌"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100600",
-      "StringName_TRC": "莉亞&米婭的雪紡長窗"
+      "StringName_TRC": "莉婭&米婭的雪紡長窗"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100601",
-      "StringName_TRC": "莉亞&米婭的雪紡窗簾窗戶"
+      "StringName_TRC": "莉婭&米婭的雪紡窗簾窗戶"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100602",
-      "StringName_TRC": "莉亞絨毛玩偶"
+      "StringName_TRC": "莉婭絨毛玩偶"
     },
     {
       "ServiceType": "DEV",
@@ -286697,77 +287137,77 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100634",
-      "StringName_TRC": "莉亞的變髮椅"
+      "StringName_TRC": "莉婭的變髮椅"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100635",
-      "StringName_TRC": "莉亞的剪髮椅與造型鏡"
+      "StringName_TRC": "莉婭的剪髮椅與造型鏡"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100636",
-      "StringName_TRC": "莉亞的護髮用品架"
+      "StringName_TRC": "莉婭的護髮用品架"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100637",
-      "StringName_TRC": "莉亞的美髮沙龍櫃"
+      "StringName_TRC": "莉婭的美髮沙龍櫃"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100638",
-      "StringName_TRC": "莉亞的髮廊窗戶"
+      "StringName_TRC": "莉婭的髮廊窗戶"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100639",
-      "StringName_TRC": "莉亞的美髮沙龍桌墊"
+      "StringName_TRC": "莉婭的美髮沙龍桌墊"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100640",
-      "StringName_TRC": "莉亞的美髮沙龍隔板"
+      "StringName_TRC": "莉婭的美髮沙龍隔板"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100641",
-      "StringName_TRC": "莉亞的髮廊落地燈"
+      "StringName_TRC": "莉婭的髮廊落地燈"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100642",
-      "StringName_TRC": "莉亞的美髮沙龍推車"
+      "StringName_TRC": "莉婭的美髮沙龍推車"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100643",
-      "StringName_TRC": "莉亞的美髮沙龍雜誌架"
+      "StringName_TRC": "莉婭的美髮沙龍雜誌架"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100644",
-      "StringName_TRC": "莉亞的美髮沙龍迷你桌"
+      "StringName_TRC": "莉婭的美髮沙龍迷你桌"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100645",
-      "StringName_TRC": "莉亞的美髮沙龍凳子"
+      "StringName_TRC": "莉婭的美髮沙龍凳子"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100646",
-      "StringName_TRC": "莉亞的美髮沙龍壁燈"
+      "StringName_TRC": "莉婭的美髮沙龍壁燈"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100647",
-      "StringName_TRC": "莉亞的髮廊壁紙"
+      "StringName_TRC": "莉婭的髮廊壁紙"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100648",
-      "StringName_TRC": "莉亞的髮廊地板"
+      "StringName_TRC": "莉婭的髮廊地板"
     },
     {
       "ServiceType": "DEV",
@@ -288442,7 +288882,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100679",
-      "StringName_TRC": "莉亞的相框"
+      "StringName_TRC": "莉婭的相框"
     },
     {
       "ServiceType": "DEV",
@@ -290467,7 +290907,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_TRC": "莉亞的美髮沙龍"
+      "StringName_TRC": "莉婭＆米婭的美髮沙龍"
     },
     {
       "ServiceType": "DEV",
@@ -291042,7 +291482,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mia_HairShop_Touch_5",
-      "StringName_TRC": "啊，莉亞也會很開心你來。她在樓上！"
+      "StringName_TRC": "啊，莉婭也會很開心你來。她在樓上！"
     },
     {
       "ServiceType": "DEV",
@@ -291062,7 +291502,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mia_HairShop_Exit_4",
-      "StringName_TRC": "下次也把莉亞一起叫來討論一下配色吧～"
+      "StringName_TRC": "下次也把莉婭一起叫來討論一下配色吧～"
     },
     {
       "ServiceType": "DEV",
@@ -291077,7 +291517,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mia_HairShop_Random_2",
-      "StringName_TRC": "最近莉亞在進行新的色彩實驗。超神奇！"
+      "StringName_TRC": "最近莉婭在進行新的色彩實驗。超神奇！"
     },
     {
       "ServiceType": "DEV",
@@ -291092,7 +291532,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Mia_HairShop_Random_5",
-      "StringName_TRC": "雖然有時候和莉亞的意見不同，但結果兩個人都很棒～"
+      "StringName_TRC": "雖然有時候和莉婭的意見不同，但結果兩個人都很棒～"
     },
     {
       "ServiceType": "DEV",
@@ -292162,227 +292602,227 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "清爽活潑的萊姆核心！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里追趕最新潮流 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "獻給帕克兒子的生日派對"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Title",
-      "StringName_TRC": ""
+      "StringName_TRC": "協助派對準備 7"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "你聽說過萊姆核心嗎？！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里想換牆紙和地板！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里也打算佈置萊姆色的碗櫃！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "托里也想看到窗外的風景！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "是因為四葉草嗎... 感覺托里擺上這個會更幸運！★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "外出時也要夠時尚才算是真正的潮人啊！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "飲料也有流行趨勢喔！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "{NICK} 你好。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "我兒子有很多朋友。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "照片能讓回憶更長久！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "對了！派對不能沒有氣球！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "我選了這個當作禮物..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "我也要準備派對的食物。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "不知道這些點心夠不夠呢？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Request_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "如果沒有水果，我兒子會... 徹底不高興的。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "這跟活潑的托里不就完美搭配嗎？★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "哇，氣氛完全不一樣了！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "又多了收納空間，又裝飾了空空的牆壁，一石二鳥呢！嘻嘻。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "溫暖的陽光灑滿了整個房間！★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "我也想要托里的公仔... 要請 {NICK} 幫我做一個嗎..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "坐在墊子上看書... 托里的知性魅力也會更顯眼吧？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "裝在透明的隨行杯裡喝，看起來會超時尚！♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "我要為他舉辦一場永生難忘的生日派對！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "不知道他像誰呢，哈哈！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "還是感覺有點空虛..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "太棒了！派對氣氛一下子就活絡起來了！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "聽說現在的小朋友都喜歡這樣的禮物...?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "嗯～聞起來好香！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "小朋友們會喜歡的吧？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Clear_Desc",
-      "StringName_TRC": ""
+      "StringName_TRC": "這樣就完美了！謝謝你。"
     },
     {
       "ServiceType": "DEV",
@@ -294468,6 +294908,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_TRC": "感覺 {NICK}的農作物長得更好。請問有什麼秘訣嗎？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_TRC": "魔法少女愛心化妝台"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_TRC": "魔法少女星星坐墊椅"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_TRC": "魔法少女魔法陣地毯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_TRC": "魔法少女變身鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_TRC": "魔法少女愛心砰砰海報"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_TRC": "魔法少女簽名壁飾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_TRC": "魔法少女軟綿綿雲朵桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_TRC": "魔法少女軟綿綿兔子玩偶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_TRC": "魔法少女愛心床"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_TRC": "魔法少女愛心窗戶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_TRC": "魔法少女星星地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_TRC": "魔法少女變身化妝品"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_TRC": "魔法少女花瓣蠟燭"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_TRC": "魔法少女透明裝飾品"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_TRC": "魔法少女蝴蝶結荷葉邊窗戶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_TRC": "魔法少女月亮壁飾"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_TRC": "魔法少女寶石沙發"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_TRC": "魔法少女愛心地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_TRC": "魔法少女魔法陣桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_TRC": "魔法少女三葉草地毯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_TRC": "魔法少女愛心蝴蝶結粉餅盒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_TRC": "魔法少女變身粉餅盒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_TRC": "魔法少女星星裝飾魔法棒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_TRC": "魔法少女衣櫃"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_TRC": "魔法少女立燈"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_TRC": "魔法少女簡約粉色壁紙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_TRC": "魔法少女粉色地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_TRC": "魔法少女漸層壁紙"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_TRC": "魔法少女粉色格紋地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_TRC": "這是觸摸後會播放音樂的音樂盒！只能佈置在房屋裡。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_TRC": "美樂蒂和酷洛米的禮物雕像邀請家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_TRC": "酷洛米的市集"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_TRC": "閃閃發光的帕恰狗噴水池邀請家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_TRC": "美樂蒂的粉彩雲朵溜滑梯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_TRC": "閃閃發光的粉紅搖馬馬車"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_TRC": "酷洛米行李箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_TRC": "帕恰狗後背包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_TRC": "可選材料箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_TRC": "驚喜材料箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_TRC": "Lovely Star魔法少女變身房"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_TRC": "Lovely Star魔法少女臥室"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_TRC": "Lovely Star魔法少女套組"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_TRC": "在結束一天的戰鬥後，可以安心休息的舒適臥室和展開秘密變身魔法的超★華麗變身房！\n成為 Lovely Star 魔法少女，以正義之名守護世界吧！ ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_TRC": "粉彩雲朵溜滑梯"
     }
   ],
   "TRS_StringTable": [
@@ -294754,7 +295414,7 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_TRS": "时尚"
+      "StringName_TRS": "热情"
     },
     {
       "ServiceType": "DEV",
@@ -296469,12 +297129,12 @@
     {
       "ServiceType": "DEV",
       "Key": "NPC10_Desc",
-      "StringName_TRS": "米亚和姐姐莉亚一起在同一美容院大楼的一楼工作。与专注于精致色彩和风格的姐姐不同，性格自由奔放的米亚在自己的美容院研究各种各样的风格。 <br>她对自己的时尚感到自豪，喜欢为其他居民找到合适的风格并推荐给他们。虽然还无法完全理解姐姐的风格价值观，但她仍然是一个总是挂念姐姐的好妹妹。"
+      "StringName_TRS": "米娅和姐姐莉亚一起在同一美容院大楼的一楼工作。与专注于精致色彩和风格的姐姐不同，性格自由奔放的米娅在自己的美容院研究各种各样的风格。 <br>她对自己的时尚感到自豪，喜欢为其他居民找到合适的风格并推荐给他们。虽然还无法完全理解姐姐的风格价值观，但她仍然是一个总是挂念姐姐的好妹妹。"
     },
     {
       "ServiceType": "DEV",
       "Key": "NPC11_Desc",
-      "StringName_TRS": "莉亚和妹妹米亚在同一美容院大楼的一楼工作。与对各种风格有广泛兴趣的妹妹不同，性格细腻敏感的米亚则在自己的美容院研究精选的高级风格。 <br>莉亚拥有自己的世界，并在其中默默进行风格研究。她在任何事情上都保持冷静和细腻，总是优先照顾妹妹，是个善良的姐姐。"
+      "StringName_TRS": "莉亚和妹妹米娅在同一美容院大楼的一楼工作。与对各种风格有广泛兴趣的妹妹不同，性格细腻敏感的米娅则在自己的美容院研究精选的高级风格。 <br>莉亚拥有自己的世界，并在其中默默进行风格研究。她在任何事情上都保持冷静和细腻，总是优先照顾妹妹，是个善良的姐姐。"
     },
     {
       "ServiceType": "DEV",
@@ -299459,7 +300119,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NPCHouse_110",
-      "StringName_TRS": "(临时) 米亚的家"
+      "StringName_TRS": "(临时) 米娅的家"
     },
     {
       "ServiceType": "DEV",
@@ -301599,7 +302259,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_TRS": "使用<color=#FF0000>{0}</color>个时尚，缩短<color=#FF0000>{1}</color>秒。"
+      "StringName_TRS": "使用热情 <color=#FF0000>{0}</color>个，可缩短<color=#FF0000>{1}</color>秒。"
     },
     {
       "ServiceType": "DEV",
@@ -304754,7 +305414,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Village_47",
-      "StringName_TRS": "이에솔罗村"
+      "StringName_TRS": "伊艾索洛村"
     },
     {
       "ServiceType": "DEV",
@@ -316959,7 +317619,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_32",
-      "StringName_TRS": "米亚那家伙真吵。"
+      "StringName_TRS": "米娅那家伙真吵。"
     },
     {
       "ServiceType": "DEV",
@@ -317134,7 +317794,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_67",
-      "StringName_TRS": "名称为~ 米亚米亚死亡药水！"
+      "StringName_TRS": "名称为~ 米娅米娅染发药水！"
     },
     {
       "ServiceType": "DEV",
@@ -368384,7 +369044,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_TRS": "使用时尚加速 {0} 次"
+      "StringName_TRS": "以热情减少时间 {0} 次"
     },
     {
       "ServiceType": "DEV",
@@ -373259,12 +373919,12 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_TRS": "使用时尚加速{0}次"
+      "StringName_TRS": "以热情减少时间 {0} 次"
     },
     {
       "ServiceType": "DEV",
       "Key": "OpenType_99_CC",
-      "StringName_TRS": "向村庄捐赠和平{0}次"
+      "StringName_TRS": "向村庄捐赠和平 {0} 次"
     },
     {
       "ServiceType": "DEV",
@@ -374389,7 +375049,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_10500384",
-      "StringName_TRS": "慵懒早晨的蛋黄哥定食 邀请家具"
+      "StringName_TRS": "慵懒早晨的蛋黄哥定食邀请家具"
     },
     {
       "ServiceType": "DEV",
@@ -382964,12 +383624,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_TRS": "乔伊的三叶草保险箱"
+      "StringName_TRS": "乔伊的三叶草保险箱邀请家具"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_TRS": "伊芙的三明治推车"
+      "StringName_TRS": "伊芙的三明治推车邀请家具"
     },
     {
       "ServiceType": "DEV",
@@ -388624,7 +389284,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_TRS": "莉亚的美发沙龙"
+      "StringName_TRS": "莉亚＆米娅的美发沙龙"
     },
     {
       "ServiceType": "DEV",
@@ -390319,227 +390979,227 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "清爽活泼的莱姆核心！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里追赶最新潮流 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "献给帕克儿子的生日派对"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Title",
-      "StringName_TRS": ""
+      "StringName_TRS": "协助派对准备 7"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "你听说过莱姆核心吗？！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里想换墙纸和地板！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里也打算布置莱姆色的碗柜！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "托里也想看到窗外的风景！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "是因为四叶草吗... 感觉托里摆上这个会更幸运！★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "外出时也要够时尚才算是真正的潮人啊！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "饮料也有流行趋势喔！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "{NICK} 你好。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "我儿子有很多朋友。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "照片能让回忆更长久！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "对了！派对不能没有气球！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "我选了这个当作礼物..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "我也要准备派对的食物。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "不知道这些点心够不够呢？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Request_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "如果没有水果，我儿子会... 彻底不高兴的。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "这跟活泼的托里不就完美搭配吗？★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "哇，气氛完全不一样了！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "又多了收纳空间，又装饰了空空的墙壁，一石二鸟呢！嘻嘻。"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "温暖的阳光洒满了整个房间！★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "我也想要托里的公仔... 要请 {NICK} 帮我做一个吗..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "坐在垫子上看书... 托里的知性魅力也会更显眼吧？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "装在透明的随行杯里喝，看起来会超时尚！♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "我要为他举办一场永生难忘的生日派对！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "不知道他像谁呢，哈哈！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "还是感觉有点空虚..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "太棒了！派对气氛一下子就活络起来了！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "听说现在的小朋友都喜欢这样的礼物...?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "嗯～闻起来好香！"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "小朋友会喜欢的吧？"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Clear_Desc",
-      "StringName_TRS": ""
+      "StringName_TRS": "这样就完美了！谢谢你。"
     },
     {
       "ServiceType": "DEV",
@@ -392625,6 +393285,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_TRS": "感觉 {NICK}的农作物长得更好。请问有什么秘诀吗？"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_TRS": "魔法少女爱心化妆台"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_TRS": "魔法少女星星坐垫椅"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_TRS": "魔法少女魔法阵地毯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_TRS": "魔法少女变身鞋"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_TRS": "魔法少女爱心砰砰海报"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_TRS": "魔法少女签名壁饰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_TRS": "魔法少女软绵绵云朵桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_TRS": "魔法少女软绵绵兔子玩偶"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_TRS": "魔法少女爱心床"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_TRS": "魔法少女爱心窗户"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_TRS": "魔法少女星星地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_TRS": "魔法少女变身化妆品"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_TRS": "魔法少女花瓣蜡烛"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_TRS": "魔法少女透明装饰品"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_TRS": "魔法少女蝴蝶结荷叶边窗户"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_TRS": "魔法少女月亮壁饰"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_TRS": "魔法少女宝石沙发"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_TRS": "魔法少女爱心地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_TRS": "魔法少女魔法阵桌"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_TRS": "魔法少女三叶草地毯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_TRS": "魔法少女爱心蝴蝶结粉饼盒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_TRS": "魔法少女变身粉饼盒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_TRS": "魔法少女星星装饰魔法棒"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_TRS": "魔法少女衣柜"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_TRS": "魔法少女立灯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_TRS": "魔法少女简约粉色壁纸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_TRS": "魔法少女粉色地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_TRS": "魔法少女渐变壁纸"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_TRS": "魔法少女粉色格纹地板"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_TRS": "这是触摸后会播放音乐的音乐盒！只能布置在房屋里。"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_TRS": "美乐蒂和酷洛米的礼物雕像邀请家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_TRS": "酷洛米的市集"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_TRS": "闪闪发光的帕恰狗喷水池邀请家具"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_TRS": "美乐蒂的粉彩云朵溜滑梯"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_TRS": "闪闪发光的粉红摇马马车"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_TRS": "酷洛米行李箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_TRS": "帕恰狗后背包"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_TRS": "可选材料箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_TRS": "惊喜材料箱"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_TRS": "Lovely Star魔法少女变身房"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_TRS": "Lovely Star魔法少女卧室"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_TRS": "Lovely Star魔法少女套组"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_TRS": "在结束一天的战斗后，可以安心休息的舒适卧室和展开秘密变身魔法的超★华丽变身房！\n成为 Lovely Star 魔法少女，以正义之名守护世界吧！ ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_TRS": "粉彩云朵溜滑梯"
     }
   ],
   "ENG_StringTable": [
@@ -392911,7 +393791,7 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_ENG": "Fashion"
+      "StringName_ENG": "Passion"
     },
     {
       "ServiceType": "DEV",
@@ -399756,7 +400636,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_ENG": "Use <color=#FF0000>{0}</color> fashion items to reduce time by <color=#FF0000>{1}</color> seconds."
+      "StringName_ENG": "Use <color=#FF0000>{0}</color> Passion to reduce time by <color=#FF0000>{1}</color> seconds."
     },
     {
       "ServiceType": "DEV",
@@ -400891,7 +401771,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_WelcomeBox",
-      "StringName_ENG": "Come Visit! Box"
+      "StringName_ENG": "Invitation Furniture"
     },
     {
       "ServiceType": "DEV",
@@ -415561,7 +416441,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_121",
-      "StringName_ENG": "She’s *too* good at it, you know? It kind of makes me feel guilty…  "
+      "StringName_ENG": "She’s TOO good at it, you know? It kind of makes me feel guilty…  "
     },
     {
       "ServiceType": "DEV",
@@ -415576,7 +416456,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_124",
-      "StringName_ENG": "Ah, I see… you did that… huh."
+      "StringName_ENG": "Ah, I see… huh."
     },
     {
       "ServiceType": "DEV",
@@ -445266,17 +446146,17 @@
     {
       "ServiceType": "DEV",
       "Key": "Floor_Desc",
-      "StringName_ENG": "A basic floor that can be placed in both the House and My Garden!"
+      "StringName_ENG": "A basic floor funiture that can be placed in both the House and My Garden!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Floor_House_Desc",
-      "StringName_ENG": "A basic floor that can only be placed in the House!"
+      "StringName_ENG": "A basic floor furniture that can only be placed in the House!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Floor_Garden_Desc",
-      "StringName_ENG": "A basic floor that can only be placed in My Garden!"
+      "StringName_ENG": "A basic floor furniture that can only be placed in My Garden!"
     },
     {
       "ServiceType": "DEV",
@@ -466541,12 +467421,12 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_ENG": "Use fashion time boost {0} times"
+      "StringName_ENG": "Reduce Time with Passion {0} Times"
     },
     {
       "ServiceType": "DEV",
       "Key": "OpenType_99",
-      "StringName_ENG": "Donate peace to the village {0} times"
+      "StringName_ENG": "Donate Peace to the village {0} times"
     },
     {
       "ServiceType": "DEV",
@@ -471416,12 +472296,12 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_ENG": "Use fashion time boost {0} times."
+      "StringName_ENG": "Reduce Time with Passion {0} Times"
     },
     {
       "ServiceType": "DEV",
       "Key": "OpenType_99_CC",
-      "StringName_ENG": "Donate peace to the village {0} times."
+      "StringName_ENG": "Donate Peace to the village {0} times."
     },
     {
       "ServiceType": "DEV",
@@ -481121,12 +482001,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_ENG": "Joy’s Clover Safe  "
+      "StringName_ENG": "Joy’s Clover Safe Invitation Furniture"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "Eve’s Sandwich Cart  "
+      "StringName_ENG": "Eve’s Sandwich Cart Invitation Furniture"
     },
     {
       "ServiceType": "DEV",
@@ -484506,7 +485386,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022842",
-      "StringName_ENG": "My Melody Carrier"
+      "StringName_ENG": "My Melody Suitcase"
     },
     {
       "ServiceType": "DEV",
@@ -486781,7 +487661,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_ENG": "Lia's Hair Salon"
+      "StringName_ENG": "Lia & Mia's Hair Salon"
     },
     {
       "ServiceType": "DEV",
@@ -488576,7 +489456,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_ENG": "I can't leave out trendy items even when I go out!"
+      "StringName_ENG": "You’re only a true fashionista if you’re trendy even when you go out!"
     },
     {
       "ServiceType": "DEV",
@@ -488626,7 +489506,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_ENG": "Doesn't this perfectly suit fresh and lively Tori? ★"
+      "StringName_ENG": "Doesn't this perfectly suit bubbly Tori? ★"
     },
     {
       "ServiceType": "DEV",
@@ -490782,6 +491662,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_ENG": "I feel like {NICK}'s crops grow even better. What's your secret?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_ENG": "Magical Girl Heart Vanity"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_ENG": "Magical Girl Star Cushion Chair"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_ENG": "Magical Girl Magic Circle Carpet"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_ENG": "Magical Girl Transformation Shoes"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_ENG": "Magical Girl Heart Pop Poster"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_ENG": "Magical Girl Signature Wall Decor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_ENG": "Magical Girl Fluffy Cloud Table"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_ENG": "Magical Girl Fluffy Bunny Doll"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_ENG": "Magical Girl Heart Bed"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_ENG": "Magical Girl Heart Window"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_ENG": "Magical Girl Star Floor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_ENG": "Magical Girl Transformation Cosmetics"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_ENG": "Magical Girl Petal Candle"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_ENG": "Magical Girl Clear Ornament"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_ENG": "Magical Girl Ribbon Frill Window"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_ENG": "Magical Girl Moon Wall Decor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_ENG": "Magical Girl Jewel Sofa"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_ENG": "Magical Girl Heart Floor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_ENG": "Magical Girl Magic Circle Table"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_ENG": "Magical Girl Clover Carpet"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_ENG": "Magical Girl Heart Ribbon Compact"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_ENG": "Magical Girl Transformation Compact"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_ENG": "Magical Girl Star Decor Magic Wand"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_ENG": "Magical Girl Wardrobe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_ENG": "Magical Girl Stand Light"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_ENG": "Magical Girl Simple Pink Wallpaper"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_ENG": "Magical Girl Pink Floor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_ENG": "Magical Girl Gradient Wallpaper"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_ENG": "Magical Girl Pink Check Floor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_ENG": "Tap the melody box to play music! It can only be placed in your House."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_ENG": "My Melody and Kuromi's Gift Statue Invitation Furniture"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_ENG": "Kuromi's Marketplace"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_ENG": "Sparkling Pochacco Fountain Invitation Furniture"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_ENG": "My Melody's Pastel Cloud Slide"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_ENG": "Bling Bling Pink Rocking Horse Carriage"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_ENG": "Kuromi Suitcase"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_ENG": "Pochacco Backpack"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_ENG": "Pick-Your-Own Material Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_ENG": "Mystery Material Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_ENG": "Lovely Star Magical Girl Transformation Room"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_ENG": "Lovely Star Magical Girl Bedroom"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_ENG": "Lovely Star Magical Girl Set"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_ENG": "A cozy bedroom for a comfortable rest after a day's battle, and a super★cute transformation room where secret change magic unfolds!\nBecome a Lovely Star Magical Girl and protect the world in the name of justice! ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_ENG": "Pastel Cloud Slide"
     }
   ],
   "DE_StringTable": [
@@ -491068,7 +492168,7 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_ENG": "Mode"
+      "StringName_ENG": "Passion"
     },
     {
       "ServiceType": "DEV",
@@ -497913,7 +499013,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_ENG": "Durch die Verwendung von <color=#FF0000>{0}</color> Modegegenständen wird die Zeit um <color=#FF0000>{1}</color> Sekunden verkürzt."
+      "StringName_ENG": "Verbraucht <color=#FF0000>{0}</color> Passion und verkürzt die Zeit um <color=#FF0000>{1}</color> Sekunden."
     },
     {
       "ServiceType": "DEV",
@@ -513448,7 +514548,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_67",
-      "StringName_ENG": "Genannt: MiaMia Dying Potion!"
+      "StringName_ENG": "Genannt: MiaMia Färbetrank!"
     },
     {
       "ServiceType": "DEV",
@@ -564698,7 +565798,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_ENG": "Zeitverkürzung mit Mode {0}-mal anwenden"
+      "StringName_ENG": "Zeit durch Passion {0} Mal verkürzen"
     },
     {
       "ServiceType": "DEV",
@@ -569573,7 +570673,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_ENG": "Zeitverkürzung mit Mode {0}-mal verwenden"
+      "StringName_ENG": "Zeit durch Passion {0} Mal verkürzen"
     },
     {
       "ServiceType": "DEV",
@@ -579278,12 +580378,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_ENG": "Joys Klee-Tresor"
+      "StringName_ENG": "Joys Kleeblatt-Safe Einladungs-Möbel"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "Eves Sandwich-Wagen"
+      "StringName_ENG": "Eves Sandwich-Wagen Einladungs-Möbel"
     },
     {
       "ServiceType": "DEV",
@@ -582663,7 +583763,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022842",
-      "StringName_ENG": "My Melody Koffer"
+      "StringName_ENG": "My Melody Reisekoffer"
     },
     {
       "ServiceType": "DEV",
@@ -584938,7 +586038,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_ENG": "Rias Friseursalon"
+      "StringName_ENG": "Lia & Mias Friseursalon"
     },
     {
       "ServiceType": "DEV",
@@ -586633,227 +587733,227 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Frisch und lebhaft: Limecore!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Trendbewusste Tori holt den neuesten Trend ein 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Eine Geburtstagsparty für Parkers Sohn"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hilfe bei den Party-Vorbereitungen 7"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hast du überhaupt schon mal von Limecore gehört?!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori will die Tapete und den Fußboden wechseln!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori wird auch einen limettenfarbenen Schrank aufstellen!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori will auch die Aussicht nach draußen sehen!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Liegt es am Kleeblatt...? Ich habe das Gefühl, Tori hat mehr Glück, wenn sie das hier aufstellt! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Man ist nur ein wahrer Modekenner, wenn man auch beim Ausgehen trendy ist!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Auch bei Getränken gibt es Trends!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hallo {NICK}."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Mein Sohn hat sehr viele Freunde."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Fotos lassen Erinnerungen länger leben!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Stimmt! Eine Party darf nicht ohne Ballons sein!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ich habe das hier als Geschenk ausgewählt..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ich muss auch Party-Essen zubereiten."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ob das wohl genug für die Snacks ist?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Wenn es kein Obst gibt, wird mein Sohn... total sauer."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Passt das nicht perfekt zur lebhaften Tori? ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Wow, die Atmosphäre hat sich komplett verändert!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Wir haben mehr Stauraum und die kahle Wand dekoriert — zwei Fliegen mit einer Klappe! Hehe."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Die warme Sonne füllt den Raum! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ich will auch eine Tori-Figur... Soll ich {NICK} fragen, ob er mir eine macht?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ein Buch auf der Matte lesen... das betont Toris intellektuellen Charme, oder?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Wenn wir es in einem durchsichtigen Becher trinken, sieht es so trendy aus! ♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ich werde ihm eine Geburtstagsparty veranstalten, an die er sich für immer erinnern wird!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ich frage mich, von wem er das hat, haha!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Es fühlt sich aber immer noch etwas leer an..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Perfekt! Das bringt die Party-Atmosphäre so richtig zum Leben!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Kinder mögen solche Geschenke heutezutage, oder...?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Mmm, das riecht lecker!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Die Kinder werden es lieben, oder?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Das ist perfekt! Vielen Dank."
     },
     {
       "ServiceType": "DEV",
@@ -588939,6 +590039,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_ENG": "Ich habe das Gefuhl, {NICK}s Fruchte wachsen noch besser. Was ist Ihr Geheimnis?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_ENG": "Magical Girl Herz-Kommode"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_ENG": "Magical Girl Stern-Kissenstuhl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_ENG": "Magical Girl Zauber-Kreis-Teppich"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_ENG": "Magical Girl Verwandlungs-Schuhe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_ENG": "Magical Girl Herz-Pop-Poster"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_ENG": "Magical Girl Signatur-Wanddekor"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_ENG": "Magical Girl Flausche-Wolken-Tisch"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_ENG": "Magical Girl Flausche-Kaninchen-Puppe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_ENG": "Magical Girl Herz-Bett"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_ENG": "Magical Girl Herz-Fenster"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_ENG": "Magical Girl Stern-Fußboden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_ENG": "Magical Girl Verwandlungs-Kosmetik"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_ENG": "Magical Girl Blütenblatt-Kerze"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_ENG": "Magical Girl Transparente Zierde"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_ENG": "Magical Girl Schleifen-Rüschen-Fenster"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_ENG": "Magical Girl Mond-Wanddeko"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_ENG": "Magical Girl Juwelen-Sofa"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_ENG": "Magical Girl Herz-Fußboden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_ENG": "Magical Girl Zauber-Kreis-Tisch"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_ENG": "Magical Girl Klee-Teppich"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_ENG": "Magical Girl Herz-Schleifen-Kompakt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_ENG": "Magical Girl Verwandlungs-Kompakt"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_ENG": "Magical Girl Stern-Deko-Zauberstab"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_ENG": "Magical Girl Kleiderschrank"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_ENG": "Magical Girl Stehlampe"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_ENG": "Magical Girl Einfache Rosa-Tapete"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_ENG": "Magical Girl Rosa-Fußboden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_ENG": "Magical Girl Gradienten-Tapete"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_ENG": "Magical Girl Rosa-Karo-Fußboden"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_ENG": "Tippen Sie auf die Melodiebox, um Musik abzuspielen! Sie kann nur im Haus platziert werden."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_ENG": "My Melody und Kuromis Geschenk-Statue Einladungs-Möbel"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_ENG": "Kuromis Marktplatz"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_ENG": "Funkelnder Pochacco-Brunnen Einladungs-Möbel"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_ENG": "My Melodys Pastell-Wolken-Rutsche"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_ENG": "Glitzerndes Rosa-Schaukelpferd-Kutsche"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_ENG": "Kuromis Reisekoffer"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_ENG": "Pochacco-Rucksack"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_ENG": "Wähle-dein-eigenes Material-Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_ENG": "Mysterium-Material-Box"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_ENG": "Lovely Star Magical Girl Verwandlungs-Zimmer"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_ENG": "Lovely Star Magical Girl Schlafzimmer"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_ENG": "Lovely Star Magical Girl Set"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_ENG": "Ein gemütliches Schlafzimmer für eine erholsame Pause nach dem Kampf und ein super★süßes Verwandlungs-Zimmer, in dem sich die geheime Verwandlungs-Magie entfaltet!\nWerden Sie zur Lovely Star Magical Girl und beschützen Sie die Welt im Namen der Gerechtigkeit! ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_ENG": "Pastell-Wolken-Rutsche"
     }
   ],
   "ES_StringTable": [
@@ -589205,37 +590525,37 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_1",
-      "StringName_ENG": "oro"
+      "StringName_ENG": "Oro"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_2",
-      "StringName_ENG": "joya"
+      "StringName_ENG": "Joya"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_4",
-      "StringName_ENG": "corazón"
+      "StringName_ENG": "Corazón"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_5",
-      "StringName_ENG": "deseo"
+      "StringName_ENG": "Deseo"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_ENG": "moda"
+      "StringName_ENG": "Passion"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_7",
-      "StringName_ENG": "paz"
+      "StringName_ENG": "Paz"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_8",
-      "StringName_ENG": "dar"
+      "StringName_ENG": "Dar"
     },
     {
       "ServiceType": "DEV",
@@ -596070,7 +597390,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_ENG": "Al usar <color=#FF0000>{0}</color> unidades de Moda, se reduce en <color=#FF0000>{1}</color> segundos."
+      "StringName_ENG": "Usa <color=#FF0000>{0}</color> Passion para acortar <color=#FF0000>{1}</color> segundos."
     },
     {
       "ServiceType": "DEV",
@@ -597120,7 +598440,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_All",
-      "StringName_ENG": "totalidad"
+      "StringName_ENG": "Totalidad"
     },
     {
       "ServiceType": "DEV",
@@ -597130,52 +598450,52 @@
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Floor",
-      "StringName_ENG": "muebles básicos"
+      "StringName_ENG": "Muebles básicos"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Prop",
-      "StringName_ENG": "accesorio"
+      "StringName_ENG": "Accesorios"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Chair",
-      "StringName_ENG": "silla"
+      "StringName_ENG": "Silla"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Table",
-      "StringName_ENG": "mesa"
+      "StringName_ENG": "Mesa"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Wall",
-      "StringName_ENG": "decoración de pared"
+      "StringName_ENG": "Decoración de pared"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Carpet",
-      "StringName_ENG": "alfombra"
+      "StringName_ENG": "Alfombra"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_SkinWall",
-      "StringName_ENG": "papel pintado"
+      "StringName_ENG": "Papel pintado"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_SkinFloor",
-      "StringName_ENG": "pavimento"
+      "StringName_ENG": "Pavimento"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_FlooringTile",
-      "StringName_ENG": "suelo exterior"
+      "StringName_ENG": "Suelo exterior"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Stair",
-      "StringName_ENG": "escalera"
+      "StringName_ENG": "Escalera"
     },
     {
       "ServiceType": "DEV",
@@ -597185,52 +598505,52 @@
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Fence",
-      "StringName_ENG": "valla"
+      "StringName_ENG": "Valla"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Floating",
-      "StringName_ENG": "muebles premiados"
+      "StringName_ENG": "Muebles premiados"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_MusicBox",
-      "StringName_ENG": "caja de música"
+      "StringName_ENG": "Caja de música"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_MagicBox",
-      "StringName_ENG": "caja mágica"
+      "StringName_ENG": "Caja mágica"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_WelcomeBox",
-      "StringName_ENG": "muebles de invitación"
+      "StringName_ENG": "Muebles de invitación"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Food",
-      "StringName_ENG": "comida"
+      "StringName_ENG": "Comida"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Ample",
-      "StringName_ENG": "ampolla"
+      "StringName_ENG": "Ampolla"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_RewardBox",
-      "StringName_ENG": "caja"
+      "StringName_ENG": "Caja"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_SecretBook",
-      "StringName_ENG": "manual secreto"
+      "StringName_ENG": "Manual secreto"
     },
     {
       "ServiceType": "DEV",
       "Key": "Inven_Category_Ticket",
-      "StringName_ENG": "boleto"
+      "StringName_ENG": "Boleto"
     },
     {
       "ServiceType": "DEV",
@@ -611605,7 +612925,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_67",
-      "StringName_ENG": "¡La Cole poción mortal MiaMia!"
+      "StringName_ENG": "¡La Cole poción de tinte MiaMia!"
     },
     {
       "ServiceType": "DEV",
@@ -662855,7 +664175,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_ENG": "Usar la reducción de tiempo con moda {0} veces"
+      "StringName_ENG": "Acortar el tiempo con Passion {0} veces"
     },
     {
       "ServiceType": "DEV",
@@ -667730,7 +669050,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_ENG": "Usa {0} veces la reducción de tiempo con la moda"
+      "StringName_ENG": "Acortar el tiempo con Passion {0} veces"
     },
     {
       "ServiceType": "DEV",
@@ -677435,12 +678755,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_ENG": "La caja fuerte Clover de Joy"
+      "StringName_ENG": "El mueble de invitación de la caja fuerte de trébol de Joy"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "El carrito de sándwiches de Eva"
+      "StringName_ENG": "El mueble de invitación del carrito de sándwiches de Eva"
     },
     {
       "ServiceType": "DEV",
@@ -680820,12 +682140,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022842",
-      "StringName_ENG": "maleta de My Melody"
+      "StringName_ENG": "Maleta de My Melody"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022843",
-      "StringName_ENG": "mochila de Cinnamoroll"
+      "StringName_ENG": "Mochila de Cinnamoroll"
     },
     {
       "ServiceType": "DEV",
@@ -683095,7 +684415,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_ENG": "La peluquería de Lia"
+      "StringName_ENG": "Salón de Belleza de Lia & Mia"
     },
     {
       "ServiceType": "DEV",
@@ -684790,227 +686110,227 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Fresco y vivo: Limecore!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, experta en tendencias, se pone al día 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Una fiesta de cumpleaños para el hijo de Parker"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Ayudando con los preparativos de la fiesta 7"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡¿Has oído hablar alguna vez de Limecore?!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori quiere cambiar el papel pintado y el suelo!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori también va a poner un armario de color lima!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori también quiere ver el paisaje exterior!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¿Será por el trébol de cuatro hojas...? Siento que Tori tendrá más suerte si pongo esto aquí! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Solo eres un verdadero elegante si estás a la moda incluso al salir!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡También hay tendencias en las bebidas!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Hola, {NICK}."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Mi hijo tiene muchísimos amigos."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Las fotos hacen que los recuerdos perduren más!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Es verdad! ¡Una fiesta no puede estar completa sin globos!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Elegí esto para el regalo..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "También necesito preparar comida para la fiesta."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Me pregunto si esto será suficiente para los bocadillos."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Si no hay fruta, mi hijo... ¡se enfadará muchísimo!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¿Verdad que esto le queda perfecto a Tori, tan vivaz? ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Guau, el ambiente ha cambiado por completo!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Conseguimos más espacio para guardar y decoramos la pared vacía, dos pájaros de un tiro! Jeje."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡El cálido sol está llenando el cuarto! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Yo también quiero una figura de Tori... ¿Le pido a {NICK} que me haga una?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Leer un libro en la alfombra... eso también resaltará el encanto intelectual de Tori, ¿verdad?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Si lo bebemos en un vaso transparente, ¡se verá súper a la moda! ♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Voy a organizarle una fiesta de cumpleaños que recordará para siempre!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡No sé a quién salió, ja ja!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aunque todavía se siente un poco vacío..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Perfecto! ¡Esto de verdad anima el ambiente de la fiesta!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "A los niños de hoy en día les gustan los regalos como este, ¿verdad...?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Mmm, qué olor tan delicioso!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "A los niños les encantará, ¿verdad?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "¡Esto es perfecto! Muchas gracias."
     },
     {
       "ServiceType": "DEV",
@@ -687096,6 +688416,226 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_ENG": "¡Siento que los cultivos de {NICK} crecen aún mejor! ¿Cuál es su secreto?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_ENG": "El tocador de corazón de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_ENG": "La silla de cojín de estrella de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_ENG": "La alfombra de círculo mágico de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_ENG": "Los zapatos de transformación de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_ENG": "El póster de corazón \"pop\" de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_ENG": "El colgante de pared de la firma de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_ENG": "La mesa de nube suave de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_ENG": "El conejito de peluche suave de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_ENG": "La cama de corazón de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_ENG": "La ventana de corazón de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_ENG": "El suelo de estrellas de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_ENG": "Los cosméticos de transformación de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_ENG": "La vela de pétalos de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_ENG": "El adorno transparente de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_ENG": "La ventana de lazos y volantes de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_ENG": "El colgante de pared de luna de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_ENG": "El sofá joya de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_ENG": "El suelo de corazón de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_ENG": "La mesa de círculo mágico de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_ENG": "La alfombra de trébol de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_ENG": "La polvera de lazo y corazón de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_ENG": "La polvera de transformación de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_ENG": "La varita mágica con decoración de estrella de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_ENG": "El armario de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_ENG": "La lámpara de pie de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_ENG": "El papel pintado rosa simple de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_ENG": "El suelo rosa de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_ENG": "El papel pintado degradado de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_ENG": "El suelo de cuadros rosas de la chica mágica"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_ENG": "¡Toca la caja musical para reproducir música! Solo se puede colocar en la casa."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_ENG": "El mueble de invitación de la estatua de regalo de My Melody y Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_ENG": "El mercado de Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_ENG": "El mueble de invitación de la fuente brillante de Pochacco"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_ENG": "El tobogán de nube pastel de My Melody"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_ENG": "El carruaje de caballito mecedor rosa brillante"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_ENG": "Maleta de My Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_ENG": "Mochila de Pochacco"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_ENG": "Caja de materiales para elegir"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_ENG": "Caja de materiales misteriosa"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_ENG": "Sala de transformación de la Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_ENG": "Dormitorio de la Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_ENG": "Conjunto de la Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_ENG": "Un acogedor dormitorio para descansar cómodamente después de la batalla del día, ¡y una súper★linda sala de transformación donde se desarrolla la magia secreta de la transformación!\n¡Conviértete en una Magical Girl Lovely Star y protege el mundo en el nombre de la justicia! ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_ENG": "El tobogán de nube pastel"
     }
   ],
   "FR_StringTable": [
@@ -687362,37 +688902,37 @@
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_1",
-      "StringName_ENG": "or"
+      "StringName_ENG": "Or"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_2",
-      "StringName_ENG": "bijou"
+      "StringName_ENG": "Bijou"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_4",
-      "StringName_ENG": "cœur"
+      "StringName_ENG": "Cœur"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_5",
-      "StringName_ENG": "souhait"
+      "StringName_ENG": "Souhait"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_6",
-      "StringName_ENG": "mode"
+      "StringName_ENG": "Passion"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_7",
-      "StringName_ENG": "paix"
+      "StringName_ENG": "Paix"
     },
     {
       "ServiceType": "DEV",
       "Key": "MoneyItem_8",
-      "StringName_ENG": "don"
+      "StringName_ENG": "Don"
     },
     {
       "ServiceType": "DEV",
@@ -694227,7 +695767,7 @@
     {
       "ServiceType": "DEV",
       "Key": "Time_Reduction_Guide",
-      "StringName_ENG": "Réduit le temps de <color=#FF0000>{1}</color> secondes en utilisant <color=#FF0000>{0}</color> éléments de mode."
+      "StringName_ENG": "Utilise <color=#FF0000>{0}</color> Passion pour réduire le temps de <color=#FF0000>{1}</color> secondes."
     },
     {
       "ServiceType": "DEV",
@@ -709762,7 +711302,7 @@
     {
       "ServiceType": "DEV",
       "Key": "NEW_Interaction_NPCChat_67",
-      "StringName_ENG": "Ainsi nommée ~ la potion mortelle Mia-Mia !"
+      "StringName_ENG": "Ainsi nommée ~ la potion de teinture Mia-Mia !"
     },
     {
       "ServiceType": "DEV",
@@ -761012,7 +762552,7 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98",
-      "StringName_ENG": "Utiliser la réduction du temps avec la mode {0} fois"
+      "StringName_ENG": "Réduire le temps grâce à Passion {0} fois"
     },
     {
       "ServiceType": "DEV",
@@ -765887,12 +767427,12 @@
     {
       "ServiceType": "DEV",
       "Key": "OpenType_98_CC",
-      "StringName_ENG": "Utiliser {0} fois la réduction du temps grâce à la mode"
+      "StringName_ENG": "Réduire le temps grâce à Passion {0} fois"
     },
     {
       "ServiceType": "DEV",
       "Key": "OpenType_99_CC",
-      "StringName_ENG": "Faire un don de pièces au village (0} fois)"
+      "StringName_ENG": "Faire un don de pièces au village (0} fois"
     },
     {
       "ServiceType": "DEV",
@@ -775592,12 +777132,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100521",
-      "StringName_ENG": "Le coffre-fort Clover de Joy"
+      "StringName_ENG": "Le meuble d'invitation du coffre-fort Clover de Joy"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100522",
-      "StringName_ENG": "Le chariot à sandwichs d'Ève"
+      "StringName_ENG": "Le meuble d'invitation du chariot à sandwichs d'Ève"
     },
     {
       "ServiceType": "DEV",
@@ -778977,12 +780517,12 @@
     {
       "ServiceType": "DEV",
       "Key": "Item_100022842",
-      "StringName_ENG": "valise My Melody"
+      "StringName_ENG": "Valise de My Melody"
     },
     {
       "ServiceType": "DEV",
       "Key": "Item_100022843",
-      "StringName_ENG": "sac à dos Cinnamoroll"
+      "StringName_ENG": "Sac à dos Cinnamoroll"
     },
     {
       "ServiceType": "DEV",
@@ -781252,7 +782792,7 @@
     {
       "ServiceType": "DEV",
       "Key": "FashionInteriorSet_14",
-      "StringName_ENG": "Salon de coiffure de Ria"
+      "StringName_ENG": "Salon de Coiffure de Lia & Mia"
     },
     {
       "ServiceType": "DEV",
@@ -782947,227 +784487,227 @@
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Frais et vivant : Limecore !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori, l'experte en tendances, se met à jour 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Une fête d'anniversaire pour le fils de Parker"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 2"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 3"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 4"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 5"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 6"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Title",
-      "StringName_ENG": ""
+      "StringName_ENG": "Aider aux préparatifs de la fête 7"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "As-tu déjà entendu parler de Limecore ?!"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori veut changer le papier peint et le sol !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori va aussi installer un placard couleur lime !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Tori veut aussi voir le paysage extérieur !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Est-ce à cause du trèfle à quatre feuilles...? J'ai l'impression que Tori sera plus chanceuse si je mets ça ici ! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "On n'est un vrai pro de la mode que si on est tendance même en sortant !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Il y a aussi des tendances en matière de boissons !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Salut, {NICK}."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Mon fils a beaucoup d'amis."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Les photos permettent de mieux se souvenir des moments !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "C'est vrai ! Une fête ne peut pas être complète sans ballons !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "J'ai choisi ça pour le cadeau..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Je dois aussi préparer de la nourriture pour la fête."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Je me demande si c'est suffisant pour les collations?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Request_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "S'il n'y a pas de fruits, mon fils va... être totalement contrarié."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10451_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "N'est-ce pas que ça va parfaitement à Tori, si pétillante ? ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10452_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Waouh, l'ambiance a complètement changé !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10453_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "On a gagné de l'espace de rangement et décoré le mur vide, deux pierres d'un coup ! Hé hé."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10454_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Le soleil chaleureux inonde la pièce ! ★"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10455_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Je veux aussi une figurine de Tori... Je devrais demander à {NICK} de m'en faire une ?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10456_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Lire un livre sur le tapis... ça mettra en valeur le charme intellectuel de Tori, n'est-ce pas ?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10457_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Si on boit ça dans un gobelet transparent, ça aura l'air très tendance ! ♪"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10458_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Je vais lui organiser une fête d'anniversaire inoubliable !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10459_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Je me demande de qui il tient ça, ha ha !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10460_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "C'est encore un peu vide cependant..."
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10461_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Parfait ! Ça met vraiment l'ambiance de fête !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10462_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Les enfants d'aujourd'hui aiment ce genre de cadeaux, n'est-ce pas...?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10463_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Mmm, ça sent bon !"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10464_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "Les enfants vont adorer, n'est-ce pas ?"
     },
     {
       "ServiceType": "DEV",
       "Key": "Quest_10465_Clear_Desc",
-      "StringName_ENG": ""
+      "StringName_ENG": "C'est parfait ! Merci beaucoup."
     },
     {
       "ServiceType": "DEV",
@@ -785253,6 +786793,354 @@
       "ServiceType": "DEV",
       "Key": "NPC_1_Summon_24",
       "StringName_ENG": "J'ai l'impression que les récoltes de {NICK} poussent encore mieux. Quel est votre secret ?"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500520",
+      "StringName_ENG": "La coiffeuse cœur de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500521",
+      "StringName_ENG": "La chaise coussin étoile de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500522",
+      "StringName_ENG": "Le tapis de cercle magique de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500523",
+      "StringName_ENG": "Les chaussures de transformation de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500524",
+      "StringName_ENG": "L'affiche cœur \"pop\" de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500525",
+      "StringName_ENG": "La décoration murale signature de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500526",
+      "StringName_ENG": "La table nuage moelleuse de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500527",
+      "StringName_ENG": "La poupée lapin moelleuse de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500528",
+      "StringName_ENG": "Le lit cœur de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500529",
+      "StringName_ENG": "La fenêtre cœur de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500530",
+      "StringName_ENG": "Le sol étoile de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500531",
+      "StringName_ENG": "Les cosmétiques de transformation de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500532",
+      "StringName_ENG": "La bougie pétale de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500533",
+      "StringName_ENG": "L'ornement transparent de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500534",
+      "StringName_ENG": "La fenêtre à ruban et volant de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500535",
+      "StringName_ENG": "La décoration murale Lune de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500536",
+      "StringName_ENG": "Le canapé bijou de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500537",
+      "StringName_ENG": "Le sol cœur de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500538",
+      "StringName_ENG": "La table cercle magique de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500539",
+      "StringName_ENG": "Le tapis trèfle de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500540",
+      "StringName_ENG": "Le compact à ruban cœur de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500541",
+      "StringName_ENG": "Le compact de transformation de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500542",
+      "StringName_ENG": "La baguette magique étoile de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500543",
+      "StringName_ENG": "L'armoire de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500544",
+      "StringName_ENG": "La lampe sur pied de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500545",
+      "StringName_ENG": "Le papier peint rose simple de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500546",
+      "StringName_ENG": "Le sol rose de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500547",
+      "StringName_ENG": "Le papier peint dégradé de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500548",
+      "StringName_ENG": "Le sol à carreaux roses de la magical girl"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "MelodyBox_House_Desc",
+      "StringName_ENG": "Touchez la boîte à musique pour jouer la mélodie ! Elle peut uniquement être placée dans la maison."
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500549",
+      "StringName_ENG": "Le meuble d'invitation de la statue cadeau de My Melody et Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500550",
+      "StringName_ENG": "La place du marché de Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500551",
+      "StringName_ENG": "Le meuble d'invitation de la fontaine étincelante de Pochacco"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500552",
+      "StringName_ENG": "Le toboggan nuage pastel de My Melody"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_10500553",
+      "StringName_ENG": "Le carrosse cheval à bascule rose étincelant"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022895",
+      "StringName_ENG": "Valise de Kuromi"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100022896",
+      "StringName_ENG": "Sac à dos Pochacco"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_663",
+      "StringName_ENG": "Boite de materiaux a choisir"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_664",
+      "StringName_ENG": "Boite de materiaux mystere"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Gacha_40",
+      "StringName_ENG": "Salle de transformation de la Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Interior_Set_23",
+      "StringName_ENG": "Chambre de la Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326",
+      "StringName_ENG": "Ensemble Magical Girl Lovely Star"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Collection_2326_Desc",
+      "StringName_ENG": "Une chambre confortable pour se reposer tranquillement après une journée de bataille, et une salle de transformation super★mignonne où la magie secrète opère !\nDevenez une Magical Girl Lovely Star et protégez le monde au nom de la justice ! ★"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "Item_100736",
+      "StringName_ENG": "Le toboggan nuage pastel"
+    }
+  ],
+  "StringFormat": [
+    {
+      "ServiceType": "DEV",
+      "Key": "{NICK}",
+      "Value1": "",
+      "Value2": "",
+      "FormatType": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{UN}",
+      "Value1": "은",
+      "Value2": "는",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{IG}",
+      "Value1": "이",
+      "Value2": "가",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{UR}",
+      "Value1": "을",
+      "Value2": "를",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{WG}",
+      "Value1": "과",
+      "Value2": "와",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{RU}",
+      "Value1": "으로",
+      "Value2": "로",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{RI}",
+      "Value1": "이랑",
+      "Value2": "랑",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{AY}",
+      "Value1": "아",
+      "Value2": "야",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{ER}",
+      "Value1": "이라",
+      "Value2": "라",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{EM}",
+      "Value1": "이만",
+      "Value2": "만",
+      "FormatType": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{SUB}",
+      "Value1": "He",
+      "Value2": "She",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{sub}",
+      "Value1": "he",
+      "Value2": "she",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{OBJ}",
+      "Value1": "Him",
+      "Value2": "Her",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{obj}",
+      "Value1": "him",
+      "Value2": "her",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{POS}",
+      "Value1": "His",
+      "Value2": "Hers",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{pos}",
+      "Value1": "his",
+      "Value2": "hers",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{ADJ}",
+      "Value1": "His",
+      "Value2": "Her",
+      "FormatType": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "{adj}",
+      "Value1": "his",
+      "Value2": "her",
+      "FormatType": 3
     }
   ]
 }

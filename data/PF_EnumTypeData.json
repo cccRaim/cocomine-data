@@ -2864,19 +2864,19 @@
       "Key": 6,
       "Value": "German",
       "Desc": "독일어",
-      "CultureName": "de-GE"
+      "CultureName": "de-DE"
     },
     {
       "Key": 7,
       "Value": "Spanish",
       "Desc": "스페인어",
-      "CultureName": "es_SP"
+      "CultureName": "es-ES"
     },
     {
       "Key": 8,
       "Value": "French",
       "Desc": "불어",
-      "CultureName": "fr_FR"
+      "CultureName": "fr-FR"
     }
   ],
   "ELocationType": [
@@ -4854,6 +4854,23 @@
       "Key": 2,
       "Value": "Avenume",
       "Desc": "에비뉴"
+    }
+  ],
+  "EStringFormatType": [
+    {
+      "Key": 1,
+      "Value": "NickName",
+      "Desc": "유저 닉네임 치환"
+    },
+    {
+      "Key": 2,
+      "Value": "FinalConsonant",
+      "Desc": "한글 종성 구분"
+    },
+    {
+      "Key": 3,
+      "Value": "Gender",
+      "Desc": "영어 성별 구분"
     }
   ],
   "ETransType": [

@@ -1098,6 +1098,11 @@
       "Key": 209,
       "Value": "constructing01",
       "Desc": "공사하는 애니메이션"
+    },
+    {
+      "Key": 210,
+      "Value": "tower01",
+      "Desc": "타워 올라가는 애니메이션"
     }
   ],
   "EAnimTabType": [
@@ -4427,6 +4432,11 @@
       "Key": 91,
       "Value": "UserEventPopup",
       "Desc": "유저 이벤트 팝업창"
+    },
+    {
+      "Key": 92,
+      "Value": "WorldMap",
+      "Desc": "월드맵"
     }
   ],
   "ERankType": [

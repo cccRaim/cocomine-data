@@ -27,7 +27,7 @@ fs.writeFileSync(getFormatPath('quest.json'), JSON.stringify(json.QuestInfo.map(
             if ([60, 36].includes(o.OpenConditionType)) {
                 return `${getI18n(o.QuestStepDesc).
                 replace(/\{1}/, o.param1).
-                replace(/\{0}/, getI18n(`NPC${o.param2}_name`)).
+                replace(/\{0}/, getI18n(`NPC${`${o.param2}`.padStart(2, '0')}_Name`)).
                 replace(/\{3}/, o.param3)}`;
             }
             if ([27].includes(o.OpenConditionType)) {

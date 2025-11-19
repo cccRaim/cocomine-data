@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@types/node": "^22.15.29"
+    "@types/node": "^22.19.1"
   },
   "dependencies": {
     "dayjs": "^1.11.13"

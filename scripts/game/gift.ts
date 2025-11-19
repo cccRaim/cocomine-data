@@ -10,7 +10,7 @@ console.log(Object.keys(json))
 fs.writeFileSync(getFormatPath('gift.json'), JSON.stringify(json.NPCItemGift.reduce((o, item) => {
     if (!o[item.NPCID]) {
         o[item.NPCID] = {
-            name: getI18n(`NPC${item.NPCID}_name`),
+            name: getI18n(`NPC${`${item.NPCID}`.padStart(2, '0')}_Name`),
             items: []
         };
     }

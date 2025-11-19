@@ -30,11 +30,35 @@ fs.writeFileSync(getFormatPath('quest.json'), JSON.stringify(json.QuestInfo.map(
                 replace(/\{0}/, getI18n(`NPC${`${o.param2}`.padStart(2, '0')}_Name`)).
                 replace(/\{3}/, o.param3)}`;
             }
+            if ([67].includes(o.OpenConditionType)) {
+                return `${getI18n(o.QuestStepDesc).
+                replace(/\{1}/, o.param1).
+                replace(/\{0}/, getI18n(`NPC${`${o.param2}`.padStart(2, '0')}_Name`)).
+                replace(/\{2}/, getI18n(`Item_${o.param3}`))}`;
+            }
             if ([27].includes(o.OpenConditionType)) {
                 return `${getI18n(o.QuestStepDesc).
                 replace(/\{1}/, o.param1).
                 replace(/\{0}/, getI18n(`field_${o.param2}`)).
                 replace(/\{3}/, o.param3)}`;
+            }
+            if ([40,34].includes(o.OpenConditionType)) {
+              return `${getI18n(o.QuestStepDesc)?.
+              replace(/\{0}/, o.param1).
+              replace(/\{1}/, getI18n(`Item_${o.param2}`)).
+              replace(/\{3}/, o.param3)}`;
+            }
+            if ([68].includes(o.OpenConditionType)) {
+              return `${getI18n(o.QuestStepDesc)?.
+              replace(/\{0}/, getI18n(`CraftingTool_${`${o.param2}`.padStart(2, '0')}`)).
+              replace(/\{1}/, o.param1).
+              replace(/\{3}/, o.param3)}`;
+            }
+            if ([101].includes(o.OpenConditionType)) {
+              return `${getI18n(o.QuestStepDesc)?.
+              replace(/\{0}/, o.param1).
+              replace(/\{1}/, o.param1).
+              replace(/\{3}/, o.param3)}`;
             }
             return `${getI18n(o.QuestStepDesc)?.
             replace(/\{1}/, o.param1).

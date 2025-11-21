@@ -6421,7 +6421,7 @@
       "IsSquare": false,
       "IsInfiniteArrange": false,
       "ResID": "10500169_obj",
-      "ItemUILinkType": 0,
+      "ItemUILinkType": 10,
       "TouchIcon": "",
       "EffectPrefabName": "",
       "IsMove": true,

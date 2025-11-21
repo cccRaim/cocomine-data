@@ -2893,6 +2893,20 @@
       "RndMaxTime": 0,
       "NextAnim": "stand01",
       "EffectSkin": ""
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": "tower01",
+      "Game": 3,
+      "IsLoop": false,
+      "AnimGroupID": 0,
+      "IsNPCAnim": false,
+      "ExistFrontAnim": true,
+      "ExistBackAnim": false,
+      "RndMinTime": 0,
+      "RndMaxTime": 0,
+      "NextAnim": "stand01",
+      "EffectSkin": ""
     }
   ],
   "EmotionAnim": [

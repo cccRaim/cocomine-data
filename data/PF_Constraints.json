@@ -1007,6 +1007,13 @@
       "Game": 2,
       "Value": 1800,
       "Context": "아르바이트) 갱신까지 남은 대기 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Timingbar_Reduce_Time",
+      "Game": 3,
+      "Value": 1,
+      "Context": "타이밍바 성공 시 감소되는 초"
     }
   ]
 }

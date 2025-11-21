@@ -1936,7 +1936,7 @@
       "CollectionFillValue": 1,
       "RwdType": 1,
       "RewardID": 0,
-      "RewardCount": 3000
+      "RewardCount": 1000
     },
     {
       "ServiceType": "DEV",
@@ -1946,7 +1946,7 @@
       "CollectionFillValue": 17,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 100
+      "RewardCount": 50
     },
     {
       "ServiceType": "DEV",
@@ -1956,7 +1956,7 @@
       "CollectionFillValue": 33,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 300
+      "RewardCount": 150
     },
     {
       "ServiceType": "DEV",
@@ -1966,7 +1966,7 @@
       "CollectionFillValue": 1,
       "RwdType": 1,
       "RewardID": 0,
-      "RewardCount": 3000
+      "RewardCount": 1000
     },
     {
       "ServiceType": "DEV",
@@ -1976,7 +1976,7 @@
       "CollectionFillValue": 19,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 100
+      "RewardCount": 50
     },
     {
       "ServiceType": "DEV",
@@ -1986,7 +1986,7 @@
       "CollectionFillValue": 38,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 300
+      "RewardCount": 150
     },
     {
       "ServiceType": "DEV",
@@ -2026,7 +2026,7 @@
       "CollectionFillValue": 1,
       "RwdType": 1,
       "RewardID": 0,
-      "RewardCount": 3000
+      "RewardCount": 1000
     },
     {
       "ServiceType": "DEV",
@@ -2036,7 +2036,7 @@
       "CollectionFillValue": 14,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 100
+      "RewardCount": 50
     },
     {
       "ServiceType": "DEV",
@@ -2046,7 +2046,67 @@
       "CollectionFillValue": 28,
       "RwdType": 2,
       "RewardID": 0,
-      "RewardCount": 300
+      "RewardCount": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 210,
+      "Game": 3,
+      "RwdGroupID": 2317,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 0,
+      "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 211,
+      "Game": 3,
+      "RwdGroupID": 2317,
+      "CollectionFillValue": 9,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 212,
+      "Game": 3,
+      "RwdGroupID": 2317,
+      "CollectionFillValue": 18,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 213,
+      "Game": 3,
+      "RwdGroupID": 2318,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 0,
+      "RewardCount": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 214,
+      "Game": 3,
+      "RwdGroupID": 2318,
+      "CollectionFillValue": 15,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 215,
+      "Game": 3,
+      "RwdGroupID": 2318,
+      "CollectionFillValue": 29,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 150
     }
   ],
   "PlazaGachaRwd": [

@@ -10,9 +10,9 @@
       "RewardType": 20,
       "DonationItemID": 540,
       "DonatinPoints": 1,
-      "DonationGoalCnt": 1000,
+      "DonationGoalCnt": 300,
       "BuffGroupID": 42,
-      "BuffTime": 360
+      "BuffTime": 720
     },
     {
       "ServiceType": "DEV",
@@ -24,9 +24,9 @@
       "RewardType": 20,
       "DonationItemID": 541,
       "DonatinPoints": 1,
-      "DonationGoalCnt": 1000,
+      "DonationGoalCnt": 200,
       "BuffGroupID": 43,
-      "BuffTime": 360
+      "BuffTime": 720
     },
     {
       "ServiceType": "DEV",
@@ -38,9 +38,9 @@
       "RewardType": 20,
       "DonationItemID": 542,
       "DonatinPoints": 1,
-      "DonationGoalCnt": 1000,
+      "DonationGoalCnt": 100,
       "BuffGroupID": 44,
-      "BuffTime": 360
+      "BuffTime": 720
     },
     {
       "ServiceType": "DEV",
@@ -52,9 +52,9 @@
       "RewardType": 20,
       "DonationItemID": 543,
       "DonatinPoints": 1,
-      "DonationGoalCnt": 1000,
+      "DonationGoalCnt": 300,
       "BuffGroupID": 45,
-      "BuffTime": 360
+      "BuffTime": 720
     },
     {
       "ServiceType": "DEV",
@@ -66,9 +66,9 @@
       "RewardType": 20,
       "DonationItemID": 544,
       "DonatinPoints": 1,
-      "DonationGoalCnt": 1000,
+      "DonationGoalCnt": 200,
       "BuffGroupID": 46,
-      "BuffTime": 360
+      "BuffTime": 720
     },
     {
       "ServiceType": "DEV",
@@ -82,7 +82,7 @@
       "DonatinPoints": 1,
       "DonationGoalCnt": 1000,
       "BuffGroupID": 47,
-      "BuffTime": 360
+      "BuffTime": 720
     }
   ],
   "Donation_Ranking": [

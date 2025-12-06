@@ -3653,8 +3653,18 @@
     },
     {
       "Key": 102,
-      "Value": "ItemRegister",
-      "Desc": "오픈타입 30으로 대체"
+      "Value": "PlazaChatCount",
+      "Desc": "광장에서 {0}번 채팅하기"
+    },
+    {
+      "Key": 103,
+      "Value": "FishCount",
+      "Desc": "낚시 {0}회 성공하기"
+    },
+    {
+      "Key": 104,
+      "Value": "RecycleCount",
+      "Desc": "리사이클링 존에서 {0}개 교환하기"
     }
   ],
   "EPassRwdType": [

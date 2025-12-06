@@ -788,7 +788,7 @@
       "ServiceType": "DEV",
       "Name": "Fishing_Max_Sec",
       "Game": 3,
-      "Value": 25,
+      "Value": 15,
       "Context": "물고기 등장 시간(초) 최대 시간"
     },
     {

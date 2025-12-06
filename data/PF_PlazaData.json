@@ -888,8 +888,8 @@
       "IsFriIn": false,
       "IsSatIn": false,
       "IsSunIn": false,
-      "XCoord": 2,
-      "YCoord": 22,
+      "XCoord": -23,
+      "YCoord": -14,
       "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"

@@ -1165,7 +1165,7 @@
       "UILinkType": 71,
       "NPCID": 8,
       "NPCText": "Expand_Popup_PF_2",
-      "AnimName": "happy02"
+      "AnimName": "constructing01"
     },
     {
       "ServiceType": "DEV",
@@ -1185,7 +1185,167 @@
       "UILinkType": 71,
       "NPCID": 8,
       "NPCText": "Expand_Popup_PF_4",
+      "AnimName": "constructing01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 71,
+      "Game": 2,
+      "GroupID": 25,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Face_1",
       "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 72,
+      "Game": 2,
+      "GroupID": 25,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Face_2",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 73,
+      "Game": 2,
+      "GroupID": 25,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Face_3",
+      "AnimName": "excited02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 74,
+      "Game": 2,
+      "GroupID": 25,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Face_4",
+      "AnimName": "talk01"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "Game": 2,
+      "GroupID": 26,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Jaw_1",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "Game": 2,
+      "GroupID": 26,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Jaw_2",
+      "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "Game": 2,
+      "GroupID": 26,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Jaw_3",
+      "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "Game": 2,
+      "GroupID": 26,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Jaw_4",
+      "AnimName": "shock02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "Game": 2,
+      "GroupID": 27,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Eye_1",
+      "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "Game": 2,
+      "GroupID": 27,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Eye_2",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "Game": 2,
+      "GroupID": 27,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Eye_3",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "Game": 2,
+      "GroupID": 27,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Eye_4",
+      "AnimName": "cheerup02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "Game": 2,
+      "GroupID": 28,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Skin_1",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "Game": 2,
+      "GroupID": 28,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Skin_2",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "Game": 2,
+      "GroupID": 28,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Skin_3",
+      "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "Game": 2,
+      "GroupID": 28,
+      "UILinkType": 86,
+      "NPCID": 2,
+      "NPCText": "PF_Clinic_Skin_4",
+      "AnimName": "love02"
     }
   ],
   "GFLevel": [

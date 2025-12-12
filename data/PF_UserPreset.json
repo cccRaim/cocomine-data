@@ -3,119 +3,26 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "FaceType": 1,
-      "IconID": "faceicon_1",
-      "IsTutorial": true,
-      "JawName": "FaceType_1",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "IconID": "faceicon_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "FaceType": 2,
-      "IconID": "faceicon_2",
-      "IsTutorial": true,
-      "JawName": "FaceType_2",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "IconID": "faceicon_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "FaceType": 3,
-      "IconID": "faceicon_3",
-      "IsTutorial": true,
-      "JawName": "FaceType_3",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 4,
-      "Game": 3,
-      "FaceType": 4,
-      "IconID": "faceicon_4",
-      "IsTutorial": false,
-      "JawName": "Item_1000551",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 5,
-      "Game": 3,
-      "FaceType": 5,
-      "IconID": "faceicon_5",
-      "IsTutorial": false,
-      "JawName": "Item_1000552",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 6,
-      "Game": 3,
-      "FaceType": 6,
-      "IconID": "faceicon_6",
-      "IsTutorial": false,
-      "JawName": "Item_1000553",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "Game": 3,
-      "FaceType": 7,
-      "IconID": "faceicon_7",
-      "IsTutorial": false,
-      "JawName": "Item_1000554",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "Game": 3,
-      "FaceType": 8,
-      "IconID": "faceicon_8",
-      "IsTutorial": false,
-      "JawName": "Item_1000555",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "Game": 3,
-      "FaceType": 9,
-      "IconID": "faceicon_9",
-      "IsTutorial": false,
-      "JawName": "Item_1000556",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10,
-      "Game": 3,
-      "FaceType": 10,
-      "IconID": "faceicon_10",
-      "IsTutorial": false,
-      "JawName": "Item_1000557",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "IconID": "faceicon_2"
     }
   ],
   "CharacterPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "SexType": 1,
       "TopSkinName": "Underclothes_2",
       "BottomSkinName": "Underclothes_3",
@@ -124,7 +31,6 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "SexType": 2,
       "TopSkinName": "",
       "BottomSkinName": "Underclothes_1",
@@ -135,789 +41,377 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 152,
-      "IsTutorial": true,
-      "EyeColorName": "Color_152",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 149
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 150,
-      "IsTutorial": true,
-      "EyeColorName": "Color_150",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 150
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 151,
-      "IsTutorial": true,
-      "EyeColorName": "Color_151",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 151
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 149,
-      "IsTutorial": true,
-      "EyeColorName": "Color_149",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 152
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 153,
-      "IsTutorial": true,
-      "EyeColorName": "Color_153",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 153
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 154,
-      "IsTutorial": true,
-      "EyeColorName": "Color_154",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 154
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 189,
-      "IsTutorial": true,
-      "EyeColorName": "Color_189",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 189
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 190,
-      "IsTutorial": true,
-      "EyeColorName": "Color_190",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 190
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 191,
-      "IsTutorial": true,
-      "EyeColorName": "Color_191",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 191
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 2,
       "SexType": 1,
-      "EyeColor": 192,
-      "IsTutorial": true,
-      "EyeColorName": "Color_192",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 192
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 152,
-      "IsTutorial": true,
-      "EyeColorName": "Color_152",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 149
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 150,
-      "IsTutorial": true,
-      "EyeColorName": "Color_150",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 150
     },
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 151,
-      "IsTutorial": true,
-      "EyeColorName": "Color_151",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 151
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 149,
-      "IsTutorial": true,
-      "EyeColorName": "Color_149",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 152
     },
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 153,
-      "IsTutorial": true,
-      "EyeColorName": "Color_153",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 153
     },
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 154,
-      "IsTutorial": true,
-      "EyeColorName": "Color_154",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 154
     },
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 189,
-      "IsTutorial": true,
-      "EyeColorName": "Color_189",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 189
     },
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 190,
-      "IsTutorial": true,
-      "EyeColorName": "Color_190",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 190
     },
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 191,
-      "IsTutorial": true,
-      "EyeColorName": "Color_191",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
+      "EyeColor": 191
     },
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 2,
       "SexType": 2,
-      "EyeColor": 192,
-      "IsTutorial": true,
-      "EyeColorName": "Color_192",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 200
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 21,
-      "Game": 2,
-      "SexType": 1,
-      "EyeColor": 56,
-      "IsTutorial": false,
-      "EyeColorName": "Color_56",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 22,
-      "Game": 2,
-      "SexType": 1,
-      "EyeColor": 172,
-      "IsTutorial": false,
-      "EyeColorName": "Color_172",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 23,
-      "Game": 2,
-      "SexType": 1,
-      "EyeColor": 88,
-      "IsTutorial": false,
-      "EyeColorName": "Color_88",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 500
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 24,
-      "Game": 2,
-      "SexType": 1,
-      "EyeColor": 82,
-      "IsTutorial": false,
-      "EyeColorName": "Color_82",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 25,
-      "Game": 2,
-      "SexType": 1,
-      "EyeColor": 229,
-      "IsTutorial": false,
-      "EyeColorName": "Color_229",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 26,
-      "Game": 2,
-      "SexType": 2,
-      "EyeColor": 56,
-      "IsTutorial": false,
-      "EyeColorName": "Color_56",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 27,
-      "Game": 2,
-      "SexType": 2,
-      "EyeColor": 172,
-      "IsTutorial": false,
-      "EyeColorName": "Color_172",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 28,
-      "Game": 2,
-      "SexType": 2,
-      "EyeColor": 88,
-      "IsTutorial": false,
-      "EyeColorName": "Color_88",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 500
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 29,
-      "Game": 2,
-      "SexType": 2,
-      "EyeColor": 82,
-      "IsTutorial": false,
-      "EyeColorName": "Color_82",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 300
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30,
-      "Game": 2,
-      "SexType": 2,
-      "EyeColor": 229,
-      "IsTutorial": false,
-      "EyeColorName": "Color_229",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 500
+      "EyeColor": 192
     }
   ],
   "SkinColorPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 13,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_13",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 13
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 6,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_6",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 15,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_15",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 15
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 25,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_25",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 25
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 16,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_16",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 16
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 26,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_26",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 26
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 10,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_10",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 17
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 18,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_18",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 18
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 19,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_19",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 19
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 20,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_20",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 20
     },
     {
       "ServiceType": "NONE",
       "Key": 11,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 15,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_15",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 15
     },
     {
       "ServiceType": "NONE",
       "Key": 12,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 16,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_16",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 16
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 13,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 17,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_17",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 17
     },
     {
       "ServiceType": "NONE",
       "Key": 14,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 18,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_18",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 18
     },
     {
       "ServiceType": "NONE",
       "Key": 15,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 19,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_19",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 19
     },
     {
       "ServiceType": "NONE",
       "Key": 16,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 20,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_20",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 17,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 21,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_21",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 21
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 18,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 22,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_22",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 22
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 19,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 23,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_23",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 23
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 20,
-      "Game": 3,
       "SexType": 1,
-      "SkinColorID": 24,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_24",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 24
     },
     {
       "ServiceType": "DEV",
       "Key": 21,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 13,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_13",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 13
     },
     {
       "ServiceType": "DEV",
       "Key": 22,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 6,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_6",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 23,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 15,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_15",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 15
     },
     {
       "ServiceType": "DEV",
       "Key": 24,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 25,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_25",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 25
     },
     {
       "ServiceType": "DEV",
       "Key": 25,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 16,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_16",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 16
     },
     {
       "ServiceType": "DEV",
       "Key": 26,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 26,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_26",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 26
     },
     {
       "ServiceType": "DEV",
       "Key": 27,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 10,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_10",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 17
     },
     {
       "ServiceType": "DEV",
       "Key": 28,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 18,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_18",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 18
     },
     {
       "ServiceType": "DEV",
       "Key": 29,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 19,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_19",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 19
     },
     {
       "ServiceType": "DEV",
       "Key": 30,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 20,
-      "IsTutorial": true,
-      "SkinColorName": "SkinColor_20",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 20
     },
     {
       "ServiceType": "NONE",
       "Key": 31,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 15,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_15",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 15
     },
     {
       "ServiceType": "NONE",
       "Key": 32,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 16,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_16",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
+      "SkinColorID": 16
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 33,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 17,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_17",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 17
     },
     {
       "ServiceType": "NONE",
       "Key": 34,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 18,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_18",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 18
     },
     {
       "ServiceType": "NONE",
       "Key": 35,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 19,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_19",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 19
     },
     {
       "ServiceType": "NONE",
       "Key": 36,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 20,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_20",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 37,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 21,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_21",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 21
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 38,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 22,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_22",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 22
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 39,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 23,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_23",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 23
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 40,
-      "Game": 3,
       "SexType": 2,
-      "SkinColorID": 24,
-      "IsTutorial": false,
-      "SkinColorName": "SkinColor_24",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1500
+      "SkinColorID": 24
     }
   ],
   "HairPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
-      "HairColor": 157
+      "HairColor": 116
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 158
@@ -925,15 +419,13 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
-      "HairColor": 116
+      "HairColor": 157
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 155
@@ -941,7 +433,6 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 159
@@ -949,7 +440,6 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 184
@@ -957,7 +447,6 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 185
@@ -965,7 +454,6 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 186
@@ -973,7 +461,6 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 187
@@ -981,7 +468,6 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 2,
       "SexType": 1,
       "SkinName": "hair_1042",
       "HairColor": 188
@@ -989,15 +475,13 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
-      "HairColor": 157
+      "HairColor": 116
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 158
@@ -1005,15 +489,13 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
-      "HairColor": 116
+      "HairColor": 157
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 155
@@ -1021,7 +503,6 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 159
@@ -1029,7 +510,6 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 184
@@ -1037,7 +517,6 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 185
@@ -1045,7 +524,6 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 186
@@ -1053,7 +531,6 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 187
@@ -1061,7 +538,6 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 2,
       "SexType": 2,
       "SkinName": "hair_1043",
       "HairColor": 188
@@ -1071,671 +547,242 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1044",
-      "IconID": "1000049_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000049",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000049_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1045",
-      "IconID": "1000050_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000050",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000050_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1045",
-      "IconID": "1000050_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000050",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000050_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1044",
-      "IconID": "1000049_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000049",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000049_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1103",
-      "IconID": "1000079_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000079",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000079_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1104",
-      "IconID": "1000080_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000080",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000080_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1105",
-      "IconID": "1000081_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000081",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000081_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1106",
-      "IconID": "1000082_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000082",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000082_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1107",
-      "IconID": "1000083_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000083",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000083_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1108",
-      "IconID": "1000084_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000084",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000084_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1109",
-      "IconID": "1000085_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000085",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000085_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "SexType": 1,
       "SkinName": "makeup_1110",
-      "IconID": "1000086_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000086",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000086_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1103",
-      "IconID": "1000079_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000079",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000079_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1104",
-      "IconID": "1000080_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000080",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000080_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1105",
-      "IconID": "1000081_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000081",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000081_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1106",
-      "IconID": "1000082_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000082",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000082_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1107",
-      "IconID": "1000083_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000083",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000083_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1108",
-      "IconID": "1000084_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000084",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000084_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1109",
-      "IconID": "1000085_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000085",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
+      "IconID": "1000085_icon"
     },
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 3,
       "SexType": 2,
       "SkinName": "makeup_1110",
-      "IconID": "1000086_icon",
-      "IsTutorial": true,
-      "MakeupName": "Item_1000086",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 700
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 21,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1296",
-      "IconID": "1000435_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000435",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 22,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1297",
-      "IconID": "1000436_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000436",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 23,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1298",
-      "IconID": "1000437_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000437",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 24,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1299",
-      "IconID": "1000438_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000438",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 25,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1300",
-      "IconID": "1000439_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000439",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 26,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1301",
-      "IconID": "1000440_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000440",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 27,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1302",
-      "IconID": "1000441_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000441",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 28,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1303",
-      "IconID": "1000442_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000442",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 29,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1304",
-      "IconID": "1000443_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000443",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 30,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1016",
-      "IconID": "1000016_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000016",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 31,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1020",
-      "IconID": "1000020_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000020",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 32,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1021",
-      "IconID": "1000021_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000021",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1200
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 33,
-      "Game": 3,
-      "SexType": 1,
-      "SkinName": "makeup_1064",
-      "IconID": "1000061_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000061",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1200
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 34,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1296",
-      "IconID": "1000435_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000435",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 35,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1297",
-      "IconID": "1000436_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000436",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 36,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1298",
-      "IconID": "1000437_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000437",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 37,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1299",
-      "IconID": "1000438_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000438",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 38,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1300",
-      "IconID": "1000439_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000439",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 39,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1301",
-      "IconID": "1000440_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000440",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 40,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1302",
-      "IconID": "1000441_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000441",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 41,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1303",
-      "IconID": "1000442_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000442",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 42,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1304",
-      "IconID": "1000443_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000443",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1000
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 43,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1016",
-      "IconID": "1000016_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000016",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "NONE",
-      "Key": 44,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1020",
-      "IconID": "1000020_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000020",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 900
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 45,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1021",
-      "IconID": "1000021_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000021",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1200
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 46,
-      "Game": 3,
-      "SexType": 2,
-      "SkinName": "makeup_1064",
-      "IconID": "1000061_icon",
-      "IsTutorial": false,
-      "MakeupName": "Item_1000061",
-      "BuyPriceType": 4,
-      "BuyPriceValue": 1200
+      "IconID": "1000086_icon"
     }
   ],
   "HouseItemPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "HouseItemID": 164
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "HouseItemID": 115
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "HouseItemID": 147
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "HouseItemID": 169
     }
   ],
   "CarItemPreset": [
     {
       "ServiceType": "DEV",
-      "Key": 1000142,
-      "Game": 3
+      "Key": 1000142
     }
   ],
   "GameAssetPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "RewardType": 1,
       "MoneyValue": 50000
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "RewardType": 2,
       "MoneyValue": 501
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "RewardType": 3,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "RewardType": 4,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "RewardType": 5,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "RewardType": 6,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "RewardType": 7,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "RewardType": 8,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "RewardType": 25,
       "MoneyValue": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "RewardType": 28,
       "MoneyValue": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "RewardType": 31,
       "MoneyValue": 2
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "RewardType": 9,
       "MoneyValue": 6
     }
@@ -1744,43 +791,56 @@
     {
       "ServiceType": "DEV",
       "Key": 137,
-      "Game": 3,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100099,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 201,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 203,
+      "ItemValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100100,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 1000122,
-      "Game": 3,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 1000123,
-      "Game": 3,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 1000124,
-      "Game": 3,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 1000125,
-      "Game": 3,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 1000126,
-      "Game": 3,
       "ItemValue": 1
     },
     {
       "ServiceType": "DEV",
-      "Key": 649,
-      "Game": 2,
+      "Key": 357,
       "ItemValue": 3
     }
   ],
@@ -1788,137 +848,85 @@
     {
       "ServiceType": "NONE",
       "Key": 144,
-      "Game": 3,
       "ItemValue": 1
-    }
-  ],
-  "TypeSelect": [
-    {
-      "ServiceType": "DEV",
-      "Key": 1,
-      "Game": 3,
-      "PresetChange": 0,
-      "PresetName": "Makeup",
-      "AnimID": "change_eye01",
-      "NPCPopupTextGroupID": 25
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "Game": 3,
-      "PresetChange": 1,
-      "PresetName": "Face_Type",
-      "AnimID": "change_eye01",
-      "NPCPopupTextGroupID": 26
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 3,
-      "Game": 3,
-      "PresetChange": 2,
-      "PresetName": "Lens",
-      "AnimID": "change_eye01",
-      "NPCPopupTextGroupID": 27
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 4,
-      "Game": 3,
-      "PresetChange": 3,
-      "PresetName": "SkinColor",
-      "AnimID": "change_cloth02",
-      "NPCPopupTextGroupID": 28
     }
   ],
   "IDThemePreset": [
     {
       "ServiceType": "DEV",
-      "Key": 10000,
-      "Game": 3
+      "Key": 10000
     }
   ],
   "FriendScriptPreset": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "CharActionType": 1,
       "FriendScript": "FriendScript_Type1_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "CharActionType": 1,
       "FriendScript": "FriendScript_Type1_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "CharActionType": 1,
       "FriendScript": "FriendScript_Type1_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "CharActionType": 2,
       "FriendScript": "FriendScript_Type2_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "CharActionType": 2,
       "FriendScript": "FriendScript_Type2_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "CharActionType": 2,
       "FriendScript": "FriendScript_Type2_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "CharActionType": 3,
       "FriendScript": "FriendScript_Type3_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "CharActionType": 3,
       "FriendScript": "FriendScript_Type3_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "CharActionType": 3,
       "FriendScript": "FriendScript_Type3_3"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "CharActionType": 4,
       "FriendScript": "FriendScript_Type4_1"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "CharActionType": 4,
       "FriendScript": "FriendScript_Type4_2"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "CharActionType": 4,
       "FriendScript": "FriendScript_Type4_3"
     }
@@ -1927,7 +935,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "HouseName": "Default_HouseName"
     }
   ],
@@ -1935,7 +942,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "HouseName": ""
     }
   ],
@@ -1943,7 +949,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "ImageType": 1,
       "ImageID": "VisitorBook_1"
     }

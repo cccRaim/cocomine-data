@@ -1,52 +1,84 @@
 {
   "Plaza": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
-      "Game": 2,
       "FieldName": "Zone_104",
       "FieldID": 108,
       "PlazaType": 4,
       "PlazaAddress": 1,
       "FieldDesc": "Zone_104_Desc",
       "IsPlazaPopup": false,
-      "PlazaImage": "Plaza01_image",
+      "PlazaImage": "Plaza1_image",
       "Sortindex": 1
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
-      "Game": 2,
       "FieldName": "Field_106",
       "FieldID": 106,
       "PlazaType": 4,
       "PlazaAddress": 2,
       "FieldDesc": "Field_106_Desc",
       "IsPlazaPopup": false,
-      "PlazaImage": "Plaza02_image",
+      "PlazaImage": "Plaza2_image",
       "Sortindex": 2
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 3,
-      "Game": 2,
       "FieldName": "Field_105",
       "FieldID": 105,
       "PlazaType": 3,
       "PlazaAddress": 3,
       "FieldDesc": "Field105_Desc",
       "IsPlazaPopup": false,
-      "PlazaImage": "Plaza03_image",
+      "PlazaImage": "Plaza3_image",
       "Sortindex": 3
     },
     {
       "ServiceType": "DEV",
-      "Key": 10,
-      "Game": 2,
-      "FieldName": "Field_113",
-      "FieldID": 113,
-      "PlazaType": 11,
-      "PlazaAddress": 10,
+      "Key": 4,
+      "FieldName": "field_2001",
+      "FieldID": 2001,
+      "PlazaType": 5,
+      "PlazaAddress": 1,
+      "FieldDesc": "Field_2001_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza4_image",
+      "Sortindex": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 5,
+      "FieldName": "Field_2003",
+      "FieldID": 2003,
+      "PlazaType": 4,
+      "PlazaAddress": 5,
+      "FieldDesc": "Field_2003_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza5_image",
+      "Sortindex": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "FieldName": "Field_2005",
+      "FieldID": 2005,
+      "PlazaType": 4,
+      "PlazaAddress": 6,
+      "FieldDesc": "Field_2005_Desc",
+      "IsPlazaPopup": true,
+      "PlazaImage": "Plaza5_image",
+      "Sortindex": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "FieldName": "Field_2006",
+      "FieldID": 2006,
+      "PlazaType": 4,
+      "PlazaAddress": 6,
       "FieldDesc": "Field_2003_Desc",
       "IsPlazaPopup": false,
       "PlazaImage": "Plaza5_image",
@@ -57,7 +89,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 1,
@@ -78,14 +109,12 @@
       "IsSunIn": false,
       "XCoord": 0,
       "YCoord": 0,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 2,
@@ -106,14 +135,12 @@
       "IsSunIn": false,
       "XCoord": 0,
       "YCoord": 0,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 3,
@@ -134,14 +161,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": 27,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 4,
@@ -162,14 +187,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": 3,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 5,
@@ -190,14 +213,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": -20,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 6,
@@ -218,14 +239,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": -32,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 7,
@@ -246,17 +265,15 @@
       "IsSunIn": false,
       "XCoord": 4,
       "YCoord": -46,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
-      "NPCID": 0,
+      "NPCID": 8,
       "BGName": "villagebg_1",
       "IsMonOut": false,
       "IsTueOut": false,
@@ -274,14 +291,12 @@
       "IsSunIn": false,
       "XCoord": 17,
       "YCoord": -46,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 9,
@@ -302,14 +317,12 @@
       "IsSunIn": false,
       "XCoord": 18,
       "YCoord": -31,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 10,
@@ -330,14 +343,12 @@
       "IsSunIn": false,
       "XCoord": 4,
       "YCoord": -31,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 11,
@@ -358,14 +369,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 12,
@@ -386,14 +395,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 13,
@@ -414,14 +421,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 14,
@@ -442,14 +447,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 15,
@@ -470,14 +473,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 16,
@@ -498,14 +499,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 3,
       "PlazaID": 1,
       "PlazaType": 3,
       "NPCID": 17,
@@ -526,14 +525,12 @@
       "IsSunIn": false,
       "XCoord": -5,
       "YCoord": -5,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 3,
       "PlazaID": 4,
       "PlazaType": 5,
       "NPCID": 2001,
@@ -554,14 +551,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": -32,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 3,
       "PlazaID": 4,
       "PlazaType": 5,
       "NPCID": 2002,
@@ -582,14 +577,12 @@
       "IsSunIn": false,
       "XCoord": 4,
       "YCoord": -46,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3001,
@@ -610,14 +603,12 @@
       "IsSunIn": false,
       "XCoord": 59,
       "YCoord": 77,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 21,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3002,
@@ -638,14 +629,12 @@
       "IsSunIn": false,
       "XCoord": 13,
       "YCoord": 27,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 22,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3005,
@@ -666,14 +655,12 @@
       "IsSunIn": false,
       "XCoord": 26,
       "YCoord": 59,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 23,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3006,
@@ -694,14 +681,12 @@
       "IsSunIn": false,
       "XCoord": -32,
       "YCoord": 3,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 24,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3003,
@@ -722,14 +707,12 @@
       "IsSunIn": false,
       "XCoord": 29,
       "YCoord": 9,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 25,
-      "Game": 3,
       "PlazaID": 6,
       "PlazaType": 7,
       "NPCID": 3004,
@@ -750,14 +733,12 @@
       "IsSunIn": false,
       "XCoord": 64,
       "YCoord": 23,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 26,
-      "Game": 3,
       "PlazaID": 5,
       "PlazaType": 6,
       "NPCID": 1002,
@@ -778,71 +759,13 @@
       "IsSunIn": false,
       "XCoord": 2,
       "YCoord": 22,
-      "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 27,
-      "Game": 3,
       "PlazaID": 5,
-      "PlazaType": 9,
-      "NPCID": 1002,
-      "BGName": "BG_NPC1002",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -20,
-      "YCoord": 56,
-      "IsLocationFix": true,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 28,
-      "Game": 3,
-      "PlazaID": 5,
-      "PlazaType": 10,
-      "NPCID": 1002,
-      "BGName": "BG_NPC1002",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -18,
-      "YCoord": 55,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 29,
-      "Game": 3,
-      "PlazaID": 9,
       "PlazaType": 8,
       "NPCID": 1002,
       "BGName": "BG_NPC1002",
@@ -860,131 +783,16 @@
       "IsFriIn": false,
       "IsSatIn": false,
       "IsSunIn": false,
-      "XCoord": -19,
-      "YCoord": 56,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30,
-      "Game": 3,
-      "PlazaID": 12,
-      "PlazaType": 12,
-      "NPCID": 2001,
-      "BGName": "BG_NPC4001",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -23,
-      "YCoord": -14,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 31,
-      "Game": 3,
-      "PlazaID": 13,
-      "PlazaType": 13,
-      "NPCID": 2001,
-      "BGName": "BG_NPC4001",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -20,
-      "YCoord": 56,
-      "IsLocationFix": true,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 32,
-      "Game": 3,
-      "PlazaID": 14,
-      "PlazaType": 14,
-      "NPCID": 2001,
-      "BGName": "BG_NPC4001",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -18,
-      "YCoord": 55,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 33,
-      "Game": 3,
-      "PlazaID": 15,
-      "PlazaType": 15,
-      "NPCID": 2001,
-      "BGName": "BG_NPC4001",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -19,
-      "YCoord": 56,
-      "IsLocationFix": false,
+      "XCoord": 2,
+      "YCoord": 22,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
     }
   ],
-  "CafeSeat": [],
   "Central_CraftingToolSkin": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "PlazaKey": 3,
       "SpawnPointID": 126,
       "SpawnCraftingToolGroup": 3,
@@ -995,1816 +803,1576 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 21,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 22,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 23,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 24,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 25,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 26,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 27,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 28,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 29,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 30,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 31,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 32,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 33,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 34,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 35,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 36,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 37,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 38,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 39,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 40,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 41,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 42,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 43,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 44,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 45,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 46,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 47,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 48,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 49,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 50,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 51,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 52,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 53,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 54,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 55,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 56,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 57,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 58,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 59,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 60,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 61,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 62,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 63,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 64,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 65,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 66,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 67,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 68,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 69,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 70,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 71,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 72,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 73,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 74,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 75,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 76,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 77,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 78,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 79,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 80,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 81,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 82,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 83,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 84,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 85,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 86,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 87,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 88,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 89,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 90,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 91,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 92,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 93,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 94,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 95,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 96,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 97,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 98,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 99,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 100,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 101,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 102,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 104,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 105,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 106,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 107,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 108,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 109,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 110,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 111,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 112,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 113,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 114,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 115,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 116,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 117,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 118,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 119,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 120,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 121,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 122,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 123,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 124,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 125,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 126,
-      "Game": 3,
       "FieldID": 105,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 127,
-      "Game": 3,
       "FieldID": 108,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 128,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 129,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 130,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 131,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 141,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 142,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 143,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 144,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 145,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 146,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 147,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 148,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 149,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 150,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 151,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 152,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 153,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 154,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 155,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 156,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 157,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 158,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 159,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 160,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 161,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 162,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 163,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 164,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 165,
-      "Game": 3,
       "FieldID": 109,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 166,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 167,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 168,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 169,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 170,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 171,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 172,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 173,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 174,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 175,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 176,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 177,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 178,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 179,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 180,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 181,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 182,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 183,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 184,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 185,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 186,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 187,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 188,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 189,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 190,
-      "Game": 3,
       "FieldID": 112,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 191,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 192,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 193,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 194,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 195,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 196,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 197,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 198,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 199,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 200,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 201,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 202,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 203,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 204,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 205,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 206,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 207,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 208,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 209,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 210,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 211,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 212,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 213,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 214,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 215,
-      "Game": 3,
       "FieldID": 111,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 216,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 217,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 218,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 219,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 220,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 221,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 222,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 223,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 224,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 225,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 226,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 227,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 228,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 229,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 230,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 231,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 232,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 233,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 234,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 235,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 236,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 237,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 238,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 239,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 240,
-      "Game": 3,
       "FieldID": 110,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 241,
-      "Game": 3,
       "FieldID": 100,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 242,
-      "Game": 3,
       "FieldID": 101,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 243,
-      "Game": 3,
       "FieldID": 102,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 244,
-      "Game": 3,
       "FieldID": 103,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 245,
-      "Game": 3,
       "FieldID": 104,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 246,
-      "Game": 3,
       "FieldID": 108,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 247,
-      "Game": 3,
       "FieldID": 108,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 248,
-      "Game": 3,
       "FieldID": 108,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20011,
-      "Game": 3,
       "FieldID": 2001,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20012,
-      "Game": 3,
       "FieldID": 2001,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20013,
-      "Game": 3,
       "FieldID": 2001,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20014,
-      "Game": 3,
       "FieldID": 2001,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20061,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20015,
-      "Game": 3,
       "FieldID": 2005,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20062,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20063,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20064,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": true
     },
     {
       "ServiceType": "DEV",
       "Key": 20065,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20066,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20067,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20068,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20069,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20070,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20071,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20072,
-      "Game": 3,
       "FieldID": 2006,
       "IsReverse": false
     },
     {
       "ServiceType": "DEV",
       "Key": 20073,
-      "Game": 3,
       "FieldID": 2006,
-      "IsReverse": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20074,
-      "Game": 3,
-      "FieldID": 106,
       "IsReverse": false
     }
   ],
-  "NPCSquare": [],
+  "NPCSquare": [
+    {
+      "ServiceType": "NONE",
+      "Key": 1,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "hi01",
+      "ChatID": "NPCSquare_1"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 2,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "happy01",
+      "ChatID": "NPCSquare_2"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 3,
+      "FieldID": 2003,
+      "NPCID": 1002,
+      "AnimID": "signature01",
+      "ChatID": "NPCSquare_3"
+    }
+  ],
   "Plaza_ExchangeItem": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 2,
       "FieldID": 108,
       "SpawnPointID": 127,
       "ItemID": 100082
@@ -2812,39 +2380,34 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 2,
       "FieldID": 109,
       "SpawnPointID": 128,
-      "ItemID": 1050043
+      "ItemID": 100081
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 2,
       "FieldID": 110,
       "SpawnPointID": 131,
-      "ItemID": 1050043
+      "ItemID": 100081
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 2,
       "FieldID": 111,
       "SpawnPointID": 130,
-      "ItemID": 1050043
+      "ItemID": 100081
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 2,
       "FieldID": 112,
       "SpawnPointID": 129,
-      "ItemID": 1050043
+      "ItemID": 100081
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 2,
       "FieldID": 108,
       "SpawnPointID": 246,
       "ItemID": 90000000
@@ -2852,7 +2415,6 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 2,
       "FieldID": 108,
       "SpawnPointID": 247,
       "ItemID": 90000001
@@ -2860,7 +2422,6 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 2,
       "FieldID": 108,
       "SpawnPointID": 248,
       "ItemID": 90000002
@@ -2868,30 +2429,128 @@
     {
       "ServiceType": "DEV",
       "Key": 20011,
-      "Game": 3,
       "FieldID": 2001,
       "SpawnPointID": 20011,
       "ItemID": 100082
     },
     {
       "ServiceType": "DEV",
-      "Key": 20029,
-      "Game": 2,
-      "FieldID": 106,
-      "SpawnPointID": 20074,
-      "ItemID": 100664
-    }
-  ],
-  "PetPlaza": [
+      "Key": 20012,
+      "FieldID": 2001,
+      "SpawnPointID": 20012,
+      "ItemID": 90000000
+    },
     {
       "ServiceType": "DEV",
-      "Key": 1,
-      "Game": 3,
+      "Key": 20013,
+      "FieldID": 2001,
+      "SpawnPointID": 20013,
+      "ItemID": 90000001
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20014,
+      "FieldID": 2001,
+      "SpawnPointID": 20014,
+      "ItemID": 90000002
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20015,
       "FieldID": 2005,
-      "IsPetTaming": true,
-      "PetTamingAnim": "pet_lights",
-      "SpawnCount": 10,
-      "GrowthTime": 5400
+      "SpawnPointID": 20015,
+      "ItemID": 10500043
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20016,
+      "FieldID": 2006,
+      "SpawnPointID": 20061,
+      "ItemID": 10500137
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20017,
+      "FieldID": 2006,
+      "SpawnPointID": 20062,
+      "ItemID": 10500140
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20018,
+      "FieldID": 2006,
+      "SpawnPointID": 20063,
+      "ItemID": 10500141
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20019,
+      "FieldID": 2006,
+      "SpawnPointID": 20064,
+      "ItemID": 10500142
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20020,
+      "FieldID": 2006,
+      "SpawnPointID": 20065,
+      "ItemID": 10500143
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20021,
+      "FieldID": 2006,
+      "SpawnPointID": 20066,
+      "ItemID": 10500144
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20022,
+      "FieldID": 2006,
+      "SpawnPointID": 20067,
+      "ItemID": 10500147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20023,
+      "FieldID": 2006,
+      "SpawnPointID": 20068,
+      "ItemID": 10500148
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20024,
+      "FieldID": 2006,
+      "SpawnPointID": 20069,
+      "ItemID": 10500149
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20025,
+      "FieldID": 2006,
+      "SpawnPointID": 20070,
+      "ItemID": 10500150
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20026,
+      "FieldID": 2006,
+      "SpawnPointID": 20071,
+      "ItemID": 10500138
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20027,
+      "FieldID": 2006,
+      "SpawnPointID": 20072,
+      "ItemID": 10500147
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20028,
+      "FieldID": 2006,
+      "SpawnPointID": 20073,
+      "ItemID": 10500139
     }
   ]
 }

@@ -3,13 +3,10 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 2,
-      "ItemKey": 100527,
-      "PotSpine": 100527,
+      "ItemKey": 100197,
+      "PotSpine": 100197,
       "PotRwdGroupID": 8,
       "PotFriendRwdGroupID": 8,
-      "PotReceiveRwdGroupID": 27,
-      "MailBoxStringKey": 19,
       "Charging": 240
     }
   ],
@@ -17,7 +14,6 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
-      "Game": 3,
       "X_start": -21,
       "X_end": -20,
       "Y_start": -19,
@@ -26,7 +22,6 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
-      "Game": 3,
       "X_start": 0,
       "X_end": 1,
       "Y_start": 1,
@@ -35,7 +30,6 @@
     {
       "ServiceType": "DEV",
       "Key": 103,
-      "Game": 3,
       "X_start": 26,
       "X_end": 27,
       "Y_start": 28,
@@ -44,7 +38,6 @@
     {
       "ServiceType": "DEV",
       "Key": 100,
-      "Game": 3,
       "X_start": -21,
       "X_end": -14,
       "Y_start": -20,

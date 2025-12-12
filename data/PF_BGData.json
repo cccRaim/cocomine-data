@@ -3,7 +3,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "ImageType": 1,
       "ImageID": "VisitorBook_1",
       "BuyPriceType": 4,

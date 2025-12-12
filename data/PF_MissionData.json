@@ -3,7 +3,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 1,
       "NPCPopupID": 12,
@@ -15,7 +14,6 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 3,
       "NPCPopupID": 12,
@@ -27,7 +25,6 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 4,
       "NPCPopupID": 12,
@@ -39,7 +36,6 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 5,
       "NPCPopupID": 12,
@@ -51,7 +47,6 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 6,
       "NPCPopupID": 12,
@@ -63,7 +58,6 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 7,
       "NPCPopupID": 12,
@@ -75,7 +69,6 @@
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 8,
       "NPCPopupID": 12,
@@ -87,7 +80,6 @@
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 9,
       "NPCPopupID": 12,
@@ -99,7 +91,6 @@
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 10,
       "NPCPopupID": 12,
@@ -111,7 +102,6 @@
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 11,
       "NPCPopupID": 12,
@@ -123,7 +113,6 @@
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 1,
       "NPCPopupID": 12,
@@ -135,7 +124,6 @@
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 3,
       "NPCPopupID": 12,
@@ -147,7 +135,6 @@
     {
       "ServiceType": "DEV",
       "Key": 13,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 4,
       "NPCPopupID": 12,
@@ -159,7 +146,6 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 5,
       "NPCPopupID": 12,
@@ -171,7 +157,6 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 6,
       "NPCPopupID": 12,
@@ -183,7 +168,6 @@
     {
       "ServiceType": "DEV",
       "Key": 16,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 7,
       "NPCPopupID": 12,
@@ -195,7 +179,6 @@
     {
       "ServiceType": "DEV",
       "Key": 17,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 8,
       "NPCPopupID": 12,
@@ -207,7 +190,6 @@
     {
       "ServiceType": "DEV",
       "Key": 18,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 9,
       "NPCPopupID": 12,
@@ -219,7 +201,6 @@
     {
       "ServiceType": "DEV",
       "Key": 19,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 10,
       "NPCPopupID": 12,
@@ -231,7 +212,6 @@
     {
       "ServiceType": "DEV",
       "Key": 20,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_1",
       "NPCID": 11,
       "NPCPopupID": 12,
@@ -245,7 +225,6 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_2",
       "NPCID": 17,
       "NPCPopupID": 12,
@@ -260,7 +239,6 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_2",
       "NPCID": 17,
       "NPCPopupID": 12,
@@ -275,7 +253,6 @@
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_2",
       "NPCID": 17,
       "NPCPopupID": 12,
@@ -290,7 +267,6 @@
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_2",
       "NPCID": 17,
       "NPCPopupID": 12,
@@ -305,7 +281,6 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 3,
       "MissionHouseName": "MissionHouse_2",
       "NPCID": 16,
       "NPCPopupID": 12,

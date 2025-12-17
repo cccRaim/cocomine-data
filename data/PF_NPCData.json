@@ -2058,6 +2058,206 @@
       "AnimID": "signature01",
       "NPCChatText": "NPC_3006_Summon_20",
       "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 75,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 1,
+      "AnimID": "hi01",
+      "NPCChatText": "NPC_1003_Summon_1",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 76,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 1,
+      "AnimID": "hi01",
+      "NPCChatText": "NPC_1003_Summon_2",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 77,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 2,
+      "AnimID": "sigh01",
+      "NPCChatText": "NPC_1003_Summon_3",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 78,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 2,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_4",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 79,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 0,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_5",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 80,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 0,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_6",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 81,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 0,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_7",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 82,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 0,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_8",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 83,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 0,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_9",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 84,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 3,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_10",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 85,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 3,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_11",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 86,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 5,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_12",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 87,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 5,
+      "AnimID": "hi01",
+      "NPCChatText": "NPC_1003_Summon_13",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 88,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 6,
+      "AnimID": "hi01",
+      "NPCChatText": "NPC_1003_Summon_14",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 89,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 6,
+      "AnimID": "sigh01",
+      "NPCChatText": "NPC_1003_Summon_15",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 90,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 7,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_16",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 91,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 7,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_17",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 92,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 7,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_18",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 93,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 8,
+      "AnimID": "signature01",
+      "NPCChatText": "NPC_1003_Summon_19",
+      "ChatTime": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 94,
+      "NPCID": 1003,
+      "GroupID": 5,
+      "UserActionType": 9,
+      "AnimID": "happy01",
+      "NPCChatText": "NPC_1003_Summon_20",
+      "ChatTime": 3
     }
   ],
   "NPCSpawnInfo": [

@@ -1,10 +1,10 @@
 {
   "TimingBar": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
       "Game": 3,
-      "BarLength": 30,
+      "BarLength": 35,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 4,
@@ -16,10 +16,10 @@
       "EndTime": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
       "Game": 3,
-      "BarLength": 25,
+      "BarLength": 30,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 4,
@@ -31,10 +31,10 @@
       "EndTime": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 3,
       "Game": 3,
-      "BarLength": 15,
+      "BarLength": 25,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 4,
@@ -46,10 +46,10 @@
       "EndTime": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 4,
       "Game": 3,
-      "BarLength": 10,
+      "BarLength": 20,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 4,
@@ -61,10 +61,10 @@
       "EndTime": 20
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
       "Game": 3,
-      "BarLength": 30,
+      "BarLength": 35,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 1,
@@ -76,10 +76,10 @@
       "EndTime": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 6,
       "Game": 3,
-      "BarLength": 25,
+      "BarLength": 30,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 1,
@@ -91,10 +91,10 @@
       "EndTime": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 7,
       "Game": 3,
-      "BarLength": 15,
+      "BarLength": 25,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 1,
@@ -106,10 +106,10 @@
       "EndTime": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
       "Game": 3,
-      "BarLength": 10,
+      "BarLength": 20,
       "IsFixed": false,
       "FixedPos": 0,
       "BarType": 1,
@@ -124,16 +124,31 @@
       "ServiceType": "NONE",
       "Key": 9,
       "Game": 3,
+      "BarLength": 15,
+      "IsFixed": false,
+      "FixedPos": 0,
+      "BarType": 4,
+      "IsRunOnce": true,
+      "TimeRd": 0,
+      "ShowTimeRd": false,
+      "ShowTimeRm": true,
+      "SpeedUnit": 0.9,
+      "EndTime": 20
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10,
+      "Game": 3,
       "BarLength": 10,
-      "IsFixed": true,
-      "FixedPos": 70,
-      "BarType": 1,
-      "IsRunOnce": false,
-      "TimeRd": 1,
-      "ShowTimeRd": true,
-      "ShowTimeRm": false,
-      "SpeedUnit": 0.5,
-      "EndTime": 0
+      "IsFixed": false,
+      "FixedPos": 0,
+      "BarType": 4,
+      "IsRunOnce": true,
+      "TimeRd": 0,
+      "ShowTimeRd": false,
+      "ShowTimeRm": true,
+      "SpeedUnit": 0.9,
+      "EndTime": 20
     }
   ]
 }

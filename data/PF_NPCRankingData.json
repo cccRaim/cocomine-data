@@ -1,160 +1,284 @@
 {
-  "MonthTerm": [
+  "InteractionReward": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Nation": 15,
-      "RankingStringkey": "January_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500269,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": true,
+      "Timer": 10,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Nation": 15,
-      "RankingStringkey": "Februrary_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500268,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Nation": 15,
-      "RankingStringkey": "March_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500271,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Nation": 15,
-      "RankingStringkey": "April_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500272,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Nation": 15,
-      "RankingStringkey": "May_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500273,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 3.33,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Nation": 15,
-      "RankingStringkey": "June_Ranking"
+      "FieldID": 2003,
+      "ItemID": 10500266,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Nation": 15,
-      "RankingStringkey": "July_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100378,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Nation": 15,
-      "RankingStringkey": "August_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100379,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 9,
-      "Nation": 15,
-      "RankingStringkey": "September_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100380,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 10,
-      "Nation": 15,
-      "RankingStringkey": "October_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100381,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 11,
-      "Nation": 15,
-      "RankingStringkey": "November_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100382,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
     },
     {
       "ServiceType": "DEV",
       "Key": 12,
-      "Nation": 15,
-      "RankingStringkey": "December_Ranking"
+      "FieldID": 2003,
+      "ItemID": 100383,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 13,
+      "FieldID": 2003,
+      "ItemID": 100384,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 14,
+      "FieldID": 2003,
+      "ItemID": 100385,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 15,
+      "FieldID": 2003,
+      "ItemID": 100386,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 16,
+      "FieldID": 2003,
+      "ItemID": 100387,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 17,
+      "FieldID": 2010,
+      "ItemID": 10500515,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 18,
+      "FieldID": 2010,
+      "ItemID": 10500499,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 19,
+      "FieldID": 2010,
+      "ItemID": 10500500,
+      "Reward_Limit": 1000000000,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 20,
+      "FieldID": 2010,
+      "ItemID": 10500421,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 21,
+      "FieldID": 2010,
+      "ItemID": 10500422,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 22,
+      "FieldID": 2010,
+      "ItemID": 10500423,
+      "Reward_Limit": 1000000000,
+      "Point": 2,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 23,
+      "FieldID": 2010,
+      "ItemID": 10500424,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 24,
+      "FieldID": 2010,
+      "ItemID": 10500425,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 25,
+      "FieldID": 2010,
+      "ItemID": 10500426,
+      "Reward_Limit": 1,
+      "Point": 1,
+      "IsShowTimer": false,
+      "Timer": 0,
+      "IconName": "icon_rankpoint2"
     }
   ],
-  "RankingTerm": [
-    {
-      "ServiceType": "DEV",
-      "Key": 1,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_1"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_2"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 3,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_3"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 4,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_4"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 5,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_5"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 6,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_6"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_7"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_8"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_9"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10,
-      "FieldID": 2003,
-      "RankingStringkey": "Cinnamoroll_Ranking_10"
-    }
-  ],
-  "Fountain": [
-    {
-      "ServiceType": "DEV",
-      "Key": 1,
-      "FieldID": 2003,
-      "ItemID": 373,
-      "RwdType": 20,
-      "RwdItemID": 454,
-      "RwdItemQnty": 1,
-      "Point": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "FieldID": 2003,
-      "ItemID": 374,
-      "RwdType": 20,
-      "RwdItemID": 453,
-      "RwdItemQnty": 1,
-      "Point": 5
-    }
-  ]
+  "MonthTerm": [],
+  "RankingTerm": [],
+  "RankingNPC": [],
+  "Fountain": [],
+  "FountainAnim": []
 }

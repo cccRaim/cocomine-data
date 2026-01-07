@@ -3,6 +3,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10001,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
       "ProductName": "ColorGroup_1003_Name",
@@ -17,9 +18,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10002,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10001",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 1,
       "IconColor": 1,
@@ -31,9 +33,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10003,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10002",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 2,
       "IconColor": 18,
@@ -45,9 +48,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10004,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10003",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 3,
       "IconColor": 29,
@@ -59,9 +63,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10005,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10004",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 4,
       "IconColor": 43,
@@ -73,9 +78,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10006,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10005",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 5,
       "IconColor": 53,
@@ -87,9 +93,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10007,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10006",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 6,
       "IconColor": 68,
@@ -101,9 +108,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10008,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10007",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 7,
       "IconColor": 78,
@@ -115,9 +123,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10009,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10008",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 8,
       "IconColor": 90,
@@ -129,9 +138,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10010,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10009",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 9,
       "IconColor": 106,
@@ -143,9 +153,10 @@
     {
       "ServiceType": "DEV",
       "Key": 10011,
+      "Game": 3,
       "HairShopType": 1,
       "HairShopTabType": 2,
-      "ProductName": "Color_Group_ID_10010",
+      "ProductName": "",
       "ColorID": 0,
       "ColorGroupID": 10,
       "IconColor": 116,
@@ -157,6 +168,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10012,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_2",
@@ -171,6 +183,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10013,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_118",
@@ -185,6 +198,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10014,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_119",
@@ -199,6 +213,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10015,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_120",
@@ -213,6 +228,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10016,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_121",
@@ -227,6 +243,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10017,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_122",
@@ -241,6 +258,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10018,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_123",
@@ -255,6 +273,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10019,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 3,
       "ProductName": "Color_124",
@@ -269,6 +288,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10020,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_155",
@@ -283,6 +303,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10021,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_156",
@@ -297,6 +318,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10022,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_157",
@@ -311,6 +333,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10023,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_158",
@@ -325,6 +348,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10024,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_159",
@@ -339,6 +363,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10025,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_160",
@@ -353,6 +378,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10026,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_162",
@@ -367,6 +393,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10027,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_164",
@@ -381,6 +408,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10028,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_165",
@@ -395,6 +423,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10029,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_168",
@@ -409,6 +438,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10030,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_169",
@@ -423,6 +453,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10031,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_172",
@@ -437,6 +468,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10032,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_176",
@@ -451,6 +483,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10033,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_177",
@@ -465,6 +498,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10034,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_179",
@@ -479,6 +513,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10035,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1001",
@@ -493,6 +528,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10036,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1002",
@@ -507,6 +543,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10037,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1003",
@@ -521,6 +558,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10038,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1004",
@@ -535,6 +573,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10039,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1005",
@@ -549,6 +588,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10040,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1006",
@@ -563,6 +603,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10041,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1007",
@@ -577,6 +618,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10042,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1008",
@@ -591,6 +633,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10043,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1009",
@@ -605,6 +648,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10044,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1010",
@@ -619,6 +663,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10045,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1011",
@@ -633,6 +678,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10046,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1012",
@@ -647,6 +693,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10047,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1013",
@@ -661,6 +708,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10048,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1014",
@@ -675,6 +723,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10049,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1015",
@@ -689,6 +738,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10050,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1016",
@@ -703,6 +753,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10051,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "color_1017",
@@ -717,6 +768,7 @@
     {
       "ServiceType": "DEV",
       "Key": 10052,
+      "Game": 3,
       "HairShopType": 2,
       "HairShopTabType": 2,
       "ProductName": "Color_1018",

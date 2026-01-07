@@ -1,196 +1,164 @@
 {
   "TownMap": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
-      "IsEdit": false,
-      "PlazaID": 5,
-      "TownSpawnNPCGroupID": 2,
+      "Game": 2,
+      "IsEdit": true,
+      "PlazaAddressID": 2,
+      "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
-      "IsNPCSquare": true,
-      "IsLock": true,
-      "OpenLevel": 0
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
+      "Game": 2,
       "IsEdit": true,
-      "PlazaID": 0,
+      "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": false,
-      "OpenLevel": 0
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 3,
+      "Game": 2,
       "IsEdit": true,
-      "PlazaID": 0,
+      "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": false,
-      "OpenLevel": 0
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 4,
+      "Game": 2,
       "IsEdit": true,
-      "PlazaID": 0,
+      "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": false,
-      "OpenLevel": 0
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
+      "Game": 2,
       "IsEdit": true,
-      "PlazaID": 0,
+      "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": false,
-      "OpenLevel": 0
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 6,
+      "Game": 2,
       "IsEdit": false,
-      "PlazaID": 4,
-      "TownSpawnNPCGroupID": 3,
+      "PlazaAddressID": 1,
+      "TownSpawnNPCGroupID": 100,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": true,
-      "OpenLevel": 5
+      "OpenLevel": 1,
+      "TutorialID": 1013
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 7,
+      "Game": 2,
       "IsEdit": false,
-      "PlazaID": 6,
-      "TownSpawnNPCGroupID": 1,
+      "PlazaAddressID": 0,
+      "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
-      "IsLock": true,
-      "OpenLevel": 6
+      "IsLock": false,
+      "OpenLevel": 0,
+      "TutorialID": 0
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
-      "IsEdit": true,
-      "PlazaID": 0,
-      "TownSpawnNPCGroupID": 0,
-      "IsMainHouse": false,
-      "IsNPCSquare": false,
-      "IsLock": false,
-      "OpenLevel": 0
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "IsEdit": true,
-      "PlazaID": 0,
-      "TownSpawnNPCGroupID": 0,
-      "IsMainHouse": false,
-      "IsNPCSquare": false,
-      "IsLock": false,
-      "OpenLevel": 0
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10,
-      "IsEdit": true,
-      "PlazaID": 0,
-      "TownSpawnNPCGroupID": 0,
-      "IsMainHouse": false,
-      "IsNPCSquare": false,
-      "IsLock": false,
-      "OpenLevel": 0
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 11,
+      "Game": 2,
       "IsEdit": false,
-      "PlazaID": 0,
+      "PlazaAddressID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0,
+      "TutorialID": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 9,
+      "Game": 2,
+      "IsEdit": true,
+      "PlazaAddressID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0,
+      "TutorialID": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 10,
+      "Game": 2,
+      "IsEdit": true,
+      "PlazaAddressID": 0,
+      "TownSpawnNPCGroupID": 0,
+      "IsMainHouse": false,
+      "IsNPCSquare": false,
+      "IsLock": false,
+      "OpenLevel": 0,
+      "TutorialID": 0
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 11,
+      "Game": 2,
+      "IsEdit": false,
+      "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": true,
       "IsNPCSquare": false,
       "IsLock": false,
-      "OpenLevel": 0
+      "OpenLevel": 0,
+      "TutorialID": 0
     }
   ],
   "TownSpawnNPC": [
     {
       "ServiceType": "DEV",
-      "Key": 10000,
-      "GroupID": 1,
-      "NPCID": 3001,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10001,
-      "GroupID": 1,
-      "NPCID": 3002,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10002,
-      "GroupID": 1,
-      "NPCID": 3003,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10003,
-      "GroupID": 1,
-      "NPCID": 3004,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10004,
-      "GroupID": 1,
-      "NPCID": 3005,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10005,
-      "GroupID": 1,
-      "NPCID": 3006,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10006,
-      "GroupID": 2,
-      "NPCID": 1002,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10007,
-      "GroupID": 3,
-      "NPCID": 2001,
-      "AnimID": "signature01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10008,
-      "GroupID": 3,
-      "NPCID": 2002,
-      "AnimID": "signature01"
+      "Key": 1,
+      "Game": 2,
+      "GroupID": 100,
+      "NPCID": 9,
+      "AnimID": "brag02"
     }
   ],
   "TownMapPlace": [
     {
       "ServiceType": "DEV",
       "Key": 4,
+      "Game": 3,
       "PrefabName": "",
       "IsNPCSquare": false,
       "NPCID": 0,
@@ -200,6 +168,7 @@
     {
       "ServiceType": "DEV",
       "Key": 5,
+      "Game": 3,
       "PrefabName": "",
       "IsNPCSquare": true,
       "NPCID": 1002,
@@ -209,6 +178,7 @@
     {
       "ServiceType": "DEV",
       "Key": 6,
+      "Game": 3,
       "PrefabName": "",
       "IsNPCSquare": false,
       "NPCID": 0,
@@ -220,30 +190,35 @@
     {
       "ServiceType": "DEV",
       "Key": 1000,
+      "Game": 3,
       "TownTitleID": "TownTitle_1000",
       "FriendsAdd": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 1001,
+      "Game": 3,
       "TownTitleID": "TownTItle_1001",
       "FriendsAdd": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 1002,
+      "Game": 3,
       "TownTitleID": "TownTitle_1002",
       "FriendsAdd": 6
     },
     {
       "ServiceType": "DEV",
       "Key": 1003,
+      "Game": 3,
       "TownTitleID": "TownTitle_1003",
       "FriendsAdd": 11
     },
     {
       "ServiceType": "DEV",
       "Key": 1004,
+      "Game": 3,
       "TownTitleID": "TownTitle_1004",
       "FriendsAdd": 21
     }

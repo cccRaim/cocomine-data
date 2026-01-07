@@ -968,6 +968,141 @@
       "Key": 183,
       "Value": "b_shoulder_shrug",
       "Desc": "어깨 들썩이기"
+    },
+    {
+      "Key": 184,
+      "Value": "slide01",
+      "Desc": "미끄럼틀 타기"
+    },
+    {
+      "Key": 185,
+      "Value": "paddle01",
+      "Desc": "물장구 치기"
+    },
+    {
+      "Key": 186,
+      "Value": "serving01",
+      "Desc": "서빙하기"
+    },
+    {
+      "Key": 187,
+      "Value": "siteat01",
+      "Desc": "앉아서 먹기"
+    },
+    {
+      "Key": 188,
+      "Value": "siteat02",
+      "Desc": "앉아서 먹기"
+    },
+    {
+      "Key": 189,
+      "Value": "jump02",
+      "Desc": "트램폴린에서 뛰기"
+    },
+    {
+      "Key": 190,
+      "Value": "mini_car01",
+      "Desc": "범퍼카 타기"
+    },
+    {
+      "Key": 191,
+      "Value": "happy02",
+      "Desc": null
+    },
+    {
+      "Key": 192,
+      "Value": "cry02",
+      "Desc": null
+    },
+    {
+      "Key": 193,
+      "Value": "sad02",
+      "Desc": null
+    },
+    {
+      "Key": 194,
+      "Value": "excited02",
+      "Desc": null
+    },
+    {
+      "Key": 195,
+      "Value": "scared02",
+      "Desc": null
+    },
+    {
+      "Key": 196,
+      "Value": "brag02",
+      "Desc": null
+    },
+    {
+      "Key": 197,
+      "Value": "mad02",
+      "Desc": null
+    },
+    {
+      "Key": 198,
+      "Value": "love02",
+      "Desc": null
+    },
+    {
+      "Key": 199,
+      "Value": "cheerup02",
+      "Desc": null
+    },
+    {
+      "Key": 200,
+      "Value": "sigh02",
+      "Desc": null
+    },
+    {
+      "Key": 201,
+      "Value": "shy02",
+      "Desc": null
+    },
+    {
+      "Key": 202,
+      "Value": "question02",
+      "Desc": null
+    },
+    {
+      "Key": 203,
+      "Value": "piano01",
+      "Desc": "피아노하기"
+    },
+    {
+      "Key": 204,
+      "Value": "sitwrite01",
+      "Desc": "글쓰기"
+    },
+    {
+      "Key": 205,
+      "Value": "sitexcited01",
+      "Desc": "앉아서 신나하기"
+    },
+    {
+      "Key": 206,
+      "Value": "sitexcited02",
+      "Desc": "앉아서 신나하기 뒷모습"
+    },
+    {
+      "Key": 207,
+      "Value": "touch01",
+      "Desc": "터치 시 나오는 애니메이션"
+    },
+    {
+      "Key": 208,
+      "Value": "sitcloud01",
+      "Desc": "구름에 앉는 애니메이션"
+    },
+    {
+      "Key": 209,
+      "Value": "constructing01",
+      "Desc": "공사하는 애니메이션"
+    },
+    {
+      "Key": 210,
+      "Value": "tower01",
+      "Desc": "타워 올라가는 애니메이션"
     }
   ],
   "EAnimTabType": [
@@ -1104,6 +1239,11 @@
       "Key": 4,
       "Value": "LivingBuff",
       "Desc": "생활"
+    },
+    {
+      "Key": 5,
+      "Value": "CharBuff",
+      "Desc": "캐릭터"
     }
   ],
   "EBuffType": [
@@ -1216,6 +1356,11 @@
       "Key": 22,
       "Value": "CraftingTouchTime",
       "Desc": "크래프팅 터치 시 단축 시간 증가"
+    },
+    {
+      "Key": 23,
+      "Value": "CharEffect",
+      "Desc": "캐릭터에 이펙트 적용"
     }
   ],
   "EBuffValueType": [
@@ -1415,6 +1560,31 @@
       "Key": 15,
       "Value": "CollectionTabType_15",
       "Desc": "쿠로미"
+    },
+    {
+      "Key": 16,
+      "Value": "CollectionTabType_18",
+      "Desc": "일반 가구"
+    },
+    {
+      "Key": 17,
+      "Value": "CollectionTabType_19",
+      "Desc": "턱시도샘"
+    },
+    {
+      "Key": 18,
+      "Value": "CollectionTabType_20",
+      "Desc": "부티크 쇼룸"
+    },
+    {
+      "Key": 19,
+      "Value": "CollectionTabType_21",
+      "Desc": "산리오캐릭터즈"
+    },
+    {
+      "Key": 20,
+      "Value": "CollectionTabType_22",
+      "Desc": "마이스윗피아노"
     }
   ],
   "ECollectionType": [
@@ -1496,6 +1666,11 @@
       "Key": 3,
       "Value": "LandMarkCrafting",
       "Desc": "광장"
+    },
+    {
+      "Key": 4,
+      "Value": "Kuromi",
+      "Desc": "쿠로미"
     }
   ],
   "ECraftingType": [
@@ -1538,6 +1713,11 @@
       "Key": 8,
       "Value": "LandMarkCrafting_Crafting",
       "Desc": "광장"
+    },
+    {
+      "Key": 9,
+      "Value": "Kuromi_Crafting",
+      "Desc": "쿠로미"
     }
   ],
   "EDailyMissionType": [
@@ -1560,6 +1740,13 @@
       "Key": 4,
       "Value": "Mission_Living",
       "Desc": "생활"
+    }
+  ],
+  "EDonationType": [
+    {
+      "Key": 1,
+      "Value": "Village_Donate",
+      "Desc": "빌리지 기부함"
     }
   ],
   "EDrillType": [
@@ -1797,6 +1984,45 @@
       "Desc": "의류 수거함"
     }
   ],
+  "EEventTabType": [
+    {
+      "Key": 1,
+      "Value": "Event_Tab_Name_4",
+      "Desc": "레벨"
+    },
+    {
+      "Key": 2,
+      "Value": "Event_Tab_Name_5",
+      "Desc": "출석"
+    },
+    {
+      "Key": 3,
+      "Value": "Event_Tab_Name_6",
+      "Desc": "미션"
+    }
+  ],
+  "EEventType": [
+    {
+      "Key": 1,
+      "Value": "Event_All",
+      "Desc": "전체"
+    },
+    {
+      "Key": 2,
+      "Value": "Event_New",
+      "Desc": "신규"
+    },
+    {
+      "Key": 3,
+      "Value": "Event_Return",
+      "Desc": "복귀"
+    },
+    {
+      "Key": 4,
+      "Value": "Event_Active",
+      "Desc": "기존"
+    }
+  ],
   "EFaceType": [
     {
       "Key": 1,
@@ -1815,6 +2041,48 @@
       "Value": "IdolFace",
       "Desc": "갸름",
       "SkinName": "ChinType3"
+    },
+    {
+      "Key": 4,
+      "Value": "RoundedFace",
+      "Desc": "라운디드",
+      "SkinName": "ChinType4"
+    },
+    {
+      "Key": 5,
+      "Value": "BabyFace",
+      "Desc": "베이비",
+      "SkinName": "ChinType5"
+    },
+    {
+      "Key": 6,
+      "Value": "BoyishFace",
+      "Desc": "보이쉬",
+      "SkinName": "ChinType6"
+    },
+    {
+      "Key": 7,
+      "Value": "SquareFace",
+      "Desc": "스퀘어",
+      "SkinName": "ChinType7"
+    },
+    {
+      "Key": 8,
+      "Value": "ShortFace",
+      "Desc": "숏",
+      "SkinName": "ChinType8"
+    },
+    {
+      "Key": 9,
+      "Value": "RobustFace",
+      "Desc": "마초 ",
+      "SkinName": "ChinType9"
+    },
+    {
+      "Key": 10,
+      "Value": "SharpFace",
+      "Desc": "샤프",
+      "SkinName": "ChinType10"
     }
   ],
   "EFarmType": [
@@ -1894,6 +2162,46 @@
       "Key": 10,
       "Value": "Elegant",
       "Desc": "우아"
+    },
+    {
+      "Key": 11,
+      "Value": "Gentle",
+      "Desc": "온화"
+    },
+    {
+      "Key": 12,
+      "Value": "Natural",
+      "Desc": "내추럴"
+    },
+    {
+      "Key": 13,
+      "Value": "Chic",
+      "Desc": "세련"
+    },
+    {
+      "Key": 14,
+      "Value": "Dreamy",
+      "Desc": "몽환"
+    },
+    {
+      "Key": 15,
+      "Value": "Vintage",
+      "Desc": "빈티지"
+    },
+    {
+      "Key": 16,
+      "Value": "Mysterious",
+      "Desc": "신비"
+    },
+    {
+      "Key": 17,
+      "Value": "Modern",
+      "Desc": "모던"
+    },
+    {
+      "Key": 18,
+      "Value": "Fresh",
+      "Desc": "상큼"
     }
   ],
   "EFishingGrade": [
@@ -1943,6 +2251,18 @@
       "Key": 2,
       "Value": "SpecialFishingRod",
       "Desc": "스페셜 낚싯대"
+    }
+  ],
+  "EFruitType": [
+    {
+      "Key": 1,
+      "Value": "Basket",
+      "Desc": "바구니"
+    },
+    {
+      "Key": 2,
+      "Value": "Ax",
+      "Desc": "도끼"
     }
   ],
   "EGachaGradeType": [
@@ -2302,118 +2622,194 @@
       "Desc": "음악"
     }
   ],
-  "EFruitType": [
-    {
-      "Key": 1,
-      "Value": "Basket",
-      "Desc": "바구니"
-    },
-    {
-      "Key": 2,
-      "Value": "Ax",
-      "Desc": "도끼"
-    }
-  ],
   "EItemUILinkType": [
     {
       "Key": 0,
       "Value": "None_Link",
-      "Desc": "없음"
+      "Desc": "없음",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 1,
       "Value": "MailBox",
-      "Desc": "우체통"
+      "Desc": "우체통",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 2,
       "Value": "Closet",
-      "Desc": "옷장"
+      "Desc": "옷장",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 3,
       "Value": "MusicBox",
-      "Desc": "뮤직박스"
+      "Desc": "뮤직박스",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 4,
       "Value": "EffectBox",
-      "Desc": "이펙트박스"
+      "Desc": "이펙트박스",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 5,
       "Value": "Vehicle",
-      "Desc": "이동수단"
+      "Desc": "이동수단",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 6,
       "Value": "Phone",
-      "Desc": "전화기"
+      "Desc": "전화기",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 7,
       "Value": "Summon",
-      "Desc": "소환박스"
+      "Desc": "소환박스",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 8,
       "Value": "Pot",
-      "Desc": "화분"
+      "Desc": "화분",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 9,
       "Value": "Desk",
-      "Desc": "책상"
+      "Desc": "책상",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 10,
       "Value": "FleaMarket",
-      "Desc": "플리 마켓"
+      "Desc": "플리 마켓",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 11,
       "Value": "House_Crafting",
-      "Desc": "일반 크래프팅 팝업창"
+      "Desc": "일반 크래프팅 팝업창",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 12,
       "Value": "House_Cook",
-      "Desc": "요리 크래프팅 팝업창"
+      "Desc": "요리 크래프팅 팝업창",
+      "IsPrivateField": true,
+      "IsPublicField": false
     },
     {
       "Key": 13,
       "Value": "LandMark_Crafting",
-      "Desc": "광장 크래프팅 팝업창"
+      "Desc": "광장 크래프팅 팝업창",
+      "IsPrivateField": false,
+      "IsPublicField": true
     },
     {
       "Key": 14,
       "Value": "HairShop",
-      "Desc": "헤어샵"
+      "Desc": "헤어샵",
+      "IsPrivateField": true,
+      "IsPublicField": true
     },
     {
       "Key": 15,
       "Value": "FashionSquare_Shop",
-      "Desc": "패션스퀘어용 상점"
+      "Desc": "패션스퀘어용 상점",
+      "IsPrivateField": true,
+      "IsPublicField": true
     },
     {
       "Key": 16,
       "Value": "FashionSquare_Gacha",
-      "Desc": "패션스퀘어용 가챠"
+      "Desc": "패션스퀘어용 가챠",
+      "IsPrivateField": true,
+      "IsPublicField": true
     },
     {
       "Key": 17,
       "Value": "Cinnamoroll_Shop",
-      "Desc": "시나모롤 빌리지 상점"
+      "Desc": "시나모롤 빌리지 상점",
+      "IsPrivateField": true,
+      "IsPublicField": true
     },
     {
       "Key": 18,
       "Value": "Cinnamoroll_Gacha",
-      "Desc": "시나모롤 빌리지 가챠"
+      "Desc": "시나모롤 빌리지 가챠",
+      "IsPrivateField": true,
+      "IsPublicField": true
     },
     {
       "Key": 19,
       "Value": "Color",
-      "Desc": "컬러제 팝업창"
+      "Desc": "컬러제 팝업창",
+      "IsPrivateField": true,
+      "IsPublicField": false
+    },
+    {
+      "Key": 20,
+      "Value": "Kiosk",
+      "Desc": "키오스크",
+      "IsPrivateField": false,
+      "IsPublicField": true
+    },
+    {
+      "Key": 21,
+      "Value": "BeautyClinic",
+      "Desc": "뷰티 클리닉 팝업창",
+      "IsPrivateField": false,
+      "IsPublicField": true
+    },
+    {
+      "Key": 22,
+      "Value": "Donation",
+      "Desc": "기부함 팝업창",
+      "IsPrivateField": false,
+      "IsPublicField": true
+    },
+    {
+      "Key": 23,
+      "Value": "PremiumHairShop",
+      "Desc": "프리미엄 헤어샵",
+      "IsPrivateField": true,
+      "IsPublicField": true
+    }
+  ],
+  "EKioskType": [
+    {
+      "Key": 1,
+      "Value": "Bakery",
+      "Desc": "베이커리",
+      "FieldID": 2007
+    },
+    {
+      "Key": 2,
+      "Value": "Drink",
+      "Desc": "음료",
+      "FieldID": 2007
+    },
+    {
+      "Key": 3,
+      "Value": "Goods",
+      "Desc": "굿즈",
+      "FieldID": 2013
     }
   ],
   "ELandType": [
@@ -2468,6 +2864,24 @@
       "Value": "Schinese",
       "Desc": "중국어 간체",
       "CultureName": "zh-CN"
+    },
+    {
+      "Key": 6,
+      "Value": "German",
+      "Desc": "독일어",
+      "CultureName": "de-DE"
+    },
+    {
+      "Key": 7,
+      "Value": "Spanish",
+      "Desc": "스페인어",
+      "CultureName": "es-ES"
+    },
+    {
+      "Key": 8,
+      "Value": "French",
+      "Desc": "불어",
+      "CultureName": "fr-FR"
     }
   ],
   "ELocationType": [
@@ -2561,6 +2975,12 @@
       "Key": 9,
       "Value": "Weed",
       "Desc": "잡초",
+      "IsFarmRareItem": true
+    },
+    {
+      "Key": 10,
+      "Value": "VillageWeed",
+      "Desc": "빌리지 잡초",
       "IsFarmRareItem": true
     }
   ],
@@ -2874,7 +3294,7 @@
     {
       "Key": 30,
       "Value": "TransactionCount",
-      "Desc": "장터에서 {0}번 판매"
+      "Desc": "장터에 아이템 {0}개 등록하기"
     },
     {
       "Key": 31,
@@ -3205,6 +3625,46 @@
       "Key": 96,
       "Value": "Item_Sell",
       "Desc": "장터 {0}회 구매하기"
+    },
+    {
+      "Key": 97,
+      "Value": "Friendship_Receive",
+      "Desc": "친구들한테 우정 {0}회 받기"
+    },
+    {
+      "Key": 98,
+      "Value": "Use_Passion_Time",
+      "Desc": "패션으로 시간 단축 {0}회 사용하기"
+    },
+    {
+      "Key": 99,
+      "Value": "Use_Peace_Village",
+      "Desc": "빌리지에 피스 기부 (0}회 하기"
+    },
+    {
+      "Key": 100,
+      "Value": "UseBomb",
+      "Desc": "특정 폭탄{0} {1}개 사용"
+    },
+    {
+      "Key": 101,
+      "Value": "RequestCount",
+      "Desc": "아르바이트 {0}번 완료"
+    },
+    {
+      "Key": 102,
+      "Value": "PlazaChatCount",
+      "Desc": "광장에서 {0}번 채팅하기"
+    },
+    {
+      "Key": 103,
+      "Value": "FishCount",
+      "Desc": "낚시 {0}회 성공하기"
+    },
+    {
+      "Key": 104,
+      "Value": "RecycleCount",
+      "Desc": "리사이클링 존에서 {0}개 교환하기"
     }
   ],
   "EPassRwdType": [
@@ -3436,6 +3896,41 @@
       "Key": 8,
       "Value": "CinnamorollHouse",
       "Desc": "시나모롤 하우스"
+    },
+    {
+      "Key": 9,
+      "Value": "CinnamorollCafe",
+      "Desc": "시나모롤 카페"
+    },
+    {
+      "Key": 10,
+      "Value": "CinnamorollPlayGround",
+      "Desc": "시나모롤 놀이터"
+    },
+    {
+      "Key": 11,
+      "Value": "IanHouse",
+      "Desc": "이안하우스"
+    },
+    {
+      "Key": 12,
+      "Value": "KuromiVillage",
+      "Desc": "쿠로미 빌리지"
+    },
+    {
+      "Key": 13,
+      "Value": "KuromiHouse",
+      "Desc": "쿠로미 하우스"
+    },
+    {
+      "Key": 14,
+      "Value": "KuromiSecretRoom",
+      "Desc": "쿠로미 시크릿룸"
+    },
+    {
+      "Key": 15,
+      "Value": "KuromiMissionRoom",
+      "Desc": "쿠로미 비밀 작전실"
     }
   ],
   "EPosType": [
@@ -3468,6 +3963,28 @@
       "Key": 5,
       "Value": "OnetoOne",
       "Desc": "일대일 구도"
+    }
+  ],
+  "EPresetChange": [
+    {
+      "Key": 0,
+      "Value": "MakeupChange",
+      "Desc": "얼굴 수정"
+    },
+    {
+      "Key": 1,
+      "Value": "JawChange",
+      "Desc": "턱 수정"
+    },
+    {
+      "Key": 2,
+      "Value": "EyeColorChange",
+      "Desc": "눈색 수정"
+    },
+    {
+      "Key": 3,
+      "Value": "SkinColorChange",
+      "Desc": "피부색 수정"
     }
   ],
   "EPreStepType": [
@@ -3869,49 +4386,67 @@
     {
       "Key": 80,
       "Value": "FarmingObjectItemPopup",
-      "Desc": "보유 시 UI_InventoryItemInfoPopup / 미보유 시 그리너리샵 (JoyShopPopup)"
-    }
-  ],
-  "ESellPlaceType": [
-    {
-      "Key": 0,
-      "Value": "NormalShop",
-      "Desc": "일반 상점"
+      "Desc": "파밍 오브젝트 아이템 배치"
     },
     {
-      "Key": 1,
-      "Value": "Field_104_Sell",
-      "Desc": "패션 스트릿"
+      "Key": 81,
+      "Value": "Cinnamoroll_Kiosk",
+      "Desc": "시나모롤 키오스크 팝업창"
     },
     {
-      "Key": 2,
-      "Value": "Field_106_Sell",
+      "Key": 82,
+      "Value": "BeautyShopTutorial",
+      "Desc": "뷰티샵 튜토리얼 팝업창"
+    },
+    {
+      "Key": 83,
+      "Value": "ClothesShopTutorial",
+      "Desc": "의상샵 튜토리얼 팝업창"
+    },
+    {
+      "Key": 84,
+      "Value": "AccessoriessShopTutorial",
+      "Desc": "액세서리샵 튜토리얼 팝업창"
+    },
+    {
+      "Key": 85,
+      "Value": "YardOpenPopup",
+      "Desc": "마당 오픈 팝업창"
+    },
+    {
+      "Key": 86,
+      "Value": "BeautyClinicPopup",
+      "Desc": "뷰티클리닉 팝업창"
+    },
+    {
+      "Key": 87,
+      "Value": "AddressLastPopup",
+      "Desc": "주소 유지 기간 팝업창"
+    },
+    {
+      "Key": 88,
+      "Value": "AddressRegisterPopup",
+      "Desc": "주소 등록 팝업창"
+    },
+    {
+      "Key": 89,
+      "Value": "AdventureForest",
       "Desc": "어드벤처 포레스트"
     },
     {
-      "Key": 3,
-      "Value": "Field_105_Sell",
-      "Desc": "센트럴 타운"
+      "Key": 90,
+      "Value": "UserHouse",
+      "Desc": "유저 하우스"
     },
     {
-      "Key": 4,
-      "Value": "Field_2001_Sell",
-      "Desc": "패션 스퀘어"
+      "Key": 91,
+      "Value": "UserEventPopup",
+      "Desc": "유저 이벤트 팝업창"
     },
     {
-      "Key": 5,
-      "Value": "Field_2003_Sell",
-      "Desc": "시나모롤 스퀘어"
-    },
-    {
-      "Key": 6,
-      "Value": "Field_2005_Sell",
-      "Desc": "플레이 스퀘어"
-    },
-    {
-      "Key": 7,
-      "Value": "Field_2006_Sell",
-      "Desc": "시나모롤 하우스"
+      "Key": 92,
+      "Value": "WorldMap",
+      "Desc": "월드맵"
     }
   ],
   "ERankType": [
@@ -4159,6 +4694,75 @@
       "Desc": "Miss"
     }
   ],
+  "ESellPlaceType": [
+    {
+      "Key": 0,
+      "Value": "NormalShop",
+      "Desc": "일반 상점"
+    },
+    {
+      "Key": 1,
+      "Value": "Field_104_Sell",
+      "Desc": "패션 스트릿"
+    },
+    {
+      "Key": 2,
+      "Value": "Field_106_Sell",
+      "Desc": "어드벤처 포레스트"
+    },
+    {
+      "Key": 3,
+      "Value": "Field_105_Sell",
+      "Desc": "센트럴 타운"
+    },
+    {
+      "Key": 4,
+      "Value": "Field_2001_Sell",
+      "Desc": "패션 스퀘어"
+    },
+    {
+      "Key": 5,
+      "Value": "Field_2003_Sell",
+      "Desc": "시나모롤 스퀘어"
+    },
+    {
+      "Key": 6,
+      "Value": "Field_2005_Sell",
+      "Desc": "플레이 스퀘어"
+    },
+    {
+      "Key": 7,
+      "Value": "Field_2006_Sell",
+      "Desc": "시나모롤 하우스"
+    },
+    {
+      "Key": 8,
+      "Value": "Field_2007_Sell",
+      "Desc": "쿠로미 빌리지"
+    }
+  ],
+  "EShopType": [
+    {
+      "Key": 0,
+      "Value": "JoyShop",
+      "Desc": "조이샵"
+    },
+    {
+      "Key": 1,
+      "Value": "PlayShop",
+      "Desc": "플레이샵"
+    },
+    {
+      "Key": 2,
+      "Value": "CinnamorollShop",
+      "Desc": "시나모롤샵"
+    },
+    {
+      "Key": 3,
+      "Value": "KuromiShop",
+      "Desc": "쿠로미샵"
+    }
+  ],
   "ESexType": [
     {
       "Key": 1,
@@ -4253,6 +4857,11 @@
       "Key": 10,
       "Value": "PriceType",
       "Desc": "재화 타입"
+    },
+    {
+      "Key": 11,
+      "Value": "CraftingType",
+      "Desc": "크래프팅 타입"
     }
   ],
   "EStreetType": [
@@ -4265,6 +4874,45 @@
       "Key": 2,
       "Value": "Avenume",
       "Desc": "에비뉴"
+    }
+  ],
+  "EStringFormatType": [
+    {
+      "Key": 1,
+      "Value": "NickName",
+      "Desc": "유저 닉네임 치환"
+    },
+    {
+      "Key": 2,
+      "Value": "FinalConsonant",
+      "Desc": "한글 종성 구분"
+    },
+    {
+      "Key": 3,
+      "Value": "Gender",
+      "Desc": "영어 성별 구분"
+    }
+  ],
+  "ETimingBarType": [
+    {
+      "Key": 1,
+      "Value": "HorFixed",
+      "Desc": "가로형-위치 고정"
+    },
+    {
+      "Key": 2,
+      "Value": "HorOnUser",
+      "Desc": "가로형-캐릭터 머리 위"
+    },
+    {
+      "Key": 3,
+      "Value": "VerFixed",
+      "Desc": "세로형-위치 고정"
+    },
+    {
+      "Key": 4,
+      "Value": "VerNextUser",
+      "Desc": "세로형-캐릭터 옆"
     }
   ],
   "ETransType": [
@@ -4310,22 +4958,32 @@
     {
       "Key": 1,
       "Value": "ItemUseBuff",
-      "Desc": "생산 경험치 증가"
+      "Desc": "아이템 사용"
     },
     {
       "Key": 2,
       "Value": "HouseMileageBuff",
-      "Desc": "제작 경험치 증가"
+      "Desc": "하우스 마일리지 버프"
     },
     {
       "Key": 3,
       "Value": "NPCGFBuff",
-      "Desc": "생산량 증가"
+      "Desc": "NPC 버프"
     },
     {
       "Key": 4,
       "Value": "EventBuff",
-      "Desc": "최대 제작 가능 개수 증가"
+      "Desc": "이벤트 버프"
+    },
+    {
+      "Key": 5,
+      "Value": "CharBuff",
+      "Desc": "캐릭터 이펙트 버프"
+    },
+    {
+      "Key": 6,
+      "Value": "VillageBuff",
+      "Desc": "빌리지 버프"
     }
   ],
   "EUserActionType": [

@@ -3,30 +3,35 @@
     {
       "ServiceType": "DEV",
       "Key": 15,
+      "Game": 3,
       "CraftingID": 1001,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 119,
+      "Game": 3,
       "CraftingID": 1002,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 120,
+      "Game": 3,
       "CraftingID": 1003,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 121,
+      "Game": 3,
       "CraftingID": 1004,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     },
     {
       "ServiceType": "DEV",
       "Key": 122,
+      "Game": 3,
       "CraftingID": 1005,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     }
@@ -35,6 +40,7 @@
     {
       "ServiceType": "DEV",
       "Key": 14,
+      "Game": 3,
       "GroupID": 1,
       "IsRandom": false,
       "ColorID": 3,
@@ -44,6 +50,7 @@
     {
       "ServiceType": "DEV",
       "Key": 140,
+      "Game": 3,
       "GroupID": 1,
       "IsRandom": false,
       "ColorID": 52,
@@ -53,6 +60,7 @@
     {
       "ServiceType": "DEV",
       "Key": 152,
+      "Game": 3,
       "GroupID": 1,
       "IsRandom": false,
       "ColorID": 7,
@@ -62,6 +70,7 @@
     {
       "ServiceType": "DEV",
       "Key": 153,
+      "Game": 3,
       "GroupID": 1,
       "IsRandom": false,
       "ColorID": 82,
@@ -71,6 +80,7 @@
     {
       "ServiceType": "DEV",
       "Key": 154,
+      "Game": 3,
       "GroupID": 1,
       "IsRandom": false,
       "ColorID": 89,
@@ -80,6 +90,7 @@
     {
       "ServiceType": "DEV",
       "Key": 141,
+      "Game": 3,
       "GroupID": 2,
       "IsRandom": true,
       "ColorID": 0,
@@ -89,6 +100,7 @@
     {
       "ServiceType": "DEV",
       "Key": 142,
+      "Game": 3,
       "GroupID": 2,
       "IsRandom": true,
       "ColorID": 0,
@@ -100,6 +112,7 @@
     {
       "ServiceType": "DEV",
       "Key": 117,
+      "Game": 3,
       "SkinColorID": 1,
       "SortIndex": 1,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
@@ -107,6 +120,7 @@
     {
       "ServiceType": "DEV",
       "Key": 150,
+      "Game": 3,
       "SkinColorID": 2,
       "SortIndex": 2,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
@@ -114,6 +128,7 @@
     {
       "ServiceType": "DEV",
       "Key": 151,
+      "Game": 3,
       "SkinColorID": 3,
       "SortIndex": 3,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
@@ -121,6 +136,7 @@
     {
       "ServiceType": "DEV",
       "Key": 155,
+      "Game": 3,
       "SkinColorID": 4,
       "SortIndex": 4,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
@@ -130,18 +146,124 @@
     {
       "ServiceType": "DEV",
       "Key": 135,
+      "Game": 3,
       "ColorID": 10,
       "PaintPriceType": 1,
       "PaintPriceValue": 1000,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     }
   ],
-  "SyrupItem": [
+  "BuffItem": [
     {
       "ServiceType": "DEV",
-      "Key": 13,
-      "BuffGroupID": 10,
-      "ProgressTime": 1,
+      "Key": 100378,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100379,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100380,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100381,
+      "Game": 3,
+      "BuffGroupID": 41,
+      "ProgressTime": 90,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100382,
+      "Game": 3,
+      "BuffGroupID": 40,
+      "ProgressTime": 90,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100383,
+      "Game": 3,
+      "BuffGroupID": 38,
+      "ProgressTime": 180,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100384,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100385,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100386,
+      "Game": 3,
+      "BuffGroupID": 39,
+      "ProgressTime": 180,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100387,
+      "Game": 3,
+      "BuffGroupID": 0,
+      "ProgressTime": 0,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 538,
+      "Game": 3,
+      "BuffGroupID": 42,
+      "ProgressTime": 10,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500421,
+      "Game": 3,
+      "BuffGroupID": 48,
+      "ProgressTime": 180,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500422,
+      "Game": 3,
+      "BuffGroupID": 49,
+      "ProgressTime": 180,
+      "OpenTime": "2023-03-02T05:50:10 +09:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10500423,
+      "Game": 3,
+      "BuffGroupID": 50,
+      "ProgressTime": 180,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
     }
   ]

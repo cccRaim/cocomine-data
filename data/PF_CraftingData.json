@@ -13469,7 +13469,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1443,
       "Game": 3,
       "Nation": 15,
@@ -13490,7 +13490,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1446,
       "Game": 2,
       "Nation": 15,
@@ -13511,7 +13511,7 @@
       "EndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1447,
       "Game": 2,
       "Nation": 15,

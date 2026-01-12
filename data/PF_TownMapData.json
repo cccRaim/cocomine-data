@@ -1,10 +1,10 @@
 {
   "TownMap": [
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1,
       "Game": 2,
-      "IsEdit": true,
+      "IsEdit": false,
       "PlazaAddressID": 2,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
@@ -14,7 +14,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 2,
       "Game": 2,
       "IsEdit": true,
@@ -27,7 +27,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 3,
       "Game": 2,
       "IsEdit": true,
@@ -40,7 +40,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 4,
       "Game": 2,
       "IsEdit": true,
@@ -53,7 +53,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 5,
       "Game": 2,
       "IsEdit": true,
@@ -66,7 +66,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 6,
       "Game": 2,
       "IsEdit": false,
@@ -79,7 +79,7 @@
       "TutorialID": 1013
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 7,
       "Game": 2,
       "IsEdit": false,
@@ -87,15 +87,15 @@
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
       "IsNPCSquare": false,
-      "IsLock": false,
-      "OpenLevel": 0,
-      "TutorialID": 0
+      "IsLock": true,
+      "OpenLevel": 99,
+      "TutorialID": 33
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 8,
       "Game": 2,
-      "IsEdit": false,
+      "IsEdit": true,
       "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": false,
@@ -105,7 +105,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 9,
       "Game": 2,
       "IsEdit": true,
@@ -118,7 +118,7 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 10,
       "Game": 2,
       "IsEdit": true,
@@ -131,10 +131,10 @@
       "TutorialID": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 11,
       "Game": 2,
-      "IsEdit": false,
+      "IsEdit": true,
       "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": true,
@@ -152,6 +152,14 @@
       "GroupID": 100,
       "NPCID": 9,
       "AnimID": "brag02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2,
+      "Game": 2,
+      "GroupID": 101,
+      "NPCID": 5,
+      "AnimID": "happy02"
     }
   ],
   "TownMapPlace": [

@@ -13261,7 +13261,7 @@
       "RewardCnt": 8
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1019,
       "Game": 2,
       "Nation": 15,
@@ -14669,6 +14669,51 @@
       "RewardType": 24,
       "RewardItemID": 483,
       "RewardCnt": 8
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1114,
+      "Game": 2,
+      "Nation": 15,
+      "ExchangeItemID": 100664,
+      "ExchangeType": 1,
+      "ItemID": 688,
+      "ExchangeItemCnt": 1,
+      "PriceType": 1,
+      "PriceValue": 1000,
+      "RewardType": 20,
+      "RewardItemID": 664,
+      "RewardCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1115,
+      "Game": 2,
+      "Nation": 15,
+      "ExchangeItemID": 100664,
+      "ExchangeType": 1,
+      "ItemID": 689,
+      "ExchangeItemCnt": 1,
+      "PriceType": 1,
+      "PriceValue": 1000,
+      "RewardType": 20,
+      "RewardItemID": 664,
+      "RewardCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1116,
+      "Game": 2,
+      "Nation": 15,
+      "ExchangeItemID": 100664,
+      "ExchangeType": 1,
+      "ItemID": 690,
+      "ExchangeItemCnt": 1,
+      "PriceType": 1,
+      "PriceValue": 1000,
+      "RewardType": 20,
+      "RewardItemID": 664,
+      "RewardCnt": 1
     }
   ],
   "ExchangeTypeIcon": [

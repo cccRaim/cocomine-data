@@ -4976,8 +4976,8 @@
       "UpColorG": 89,
       "UpColorB": 89,
       "DownColorR": 255,
-      "DownColorG": 105,
-      "DownColorB": 255
+      "DownColorG": 216,
+      "DownColorB": 105
     },
     {
       "ServiceType": "DEV",

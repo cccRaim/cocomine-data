@@ -17353,6 +17353,25 @@
     },
     {
       "ServiceType": "DEV",
+      "Key": 6,
+      "Game": 3,
+      "FieldID": 2005,
+      "PlazaType": 7,
+      "CityID": 1,
+      "TownID": 16,
+      "VillageID": [
+        1510,
+        1509,
+        1519,
+        1520
+      ],
+      "IsSpecial": false,
+      "BlockColor": "#CCECFF",
+      "IconID": "icon_PlaySquare",
+      "ImageID": "icon_PlaySquare"
+    },
+    {
+      "ServiceType": "DEV",
       "Key": 10,
       "Game": 2,
       "FieldID": 113,

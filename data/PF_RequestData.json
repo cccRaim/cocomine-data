@@ -3827,7 +3827,7 @@
       "BalanceRwdGroupID": 1
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 529,
       "Game": 2,
       "Nation": 15,

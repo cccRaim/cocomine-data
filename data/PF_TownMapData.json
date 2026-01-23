@@ -83,13 +83,13 @@
       "Key": 7,
       "Game": 2,
       "IsEdit": false,
-      "PlazaAddressID": 0,
-      "TownSpawnNPCGroupID": 0,
+      "PlazaAddressID": 6,
+      "TownSpawnNPCGroupID": 101,
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": true,
-      "OpenLevel": 99,
-      "TutorialID": 33
+      "OpenLevel": 6,
+      "TutorialID": 0
     },
     {
       "ServiceType": "DEV",
@@ -134,7 +134,7 @@
       "ServiceType": "DEV",
       "Key": 11,
       "Game": 2,
-      "IsEdit": true,
+      "IsEdit": false,
       "PlazaAddressID": 0,
       "TownSpawnNPCGroupID": 0,
       "IsMainHouse": true,

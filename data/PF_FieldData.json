@@ -2950,14 +2950,14 @@
       "OpenTime": "1999-01-01T00:00:00 +09:00"
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 2005,
       "Game": 2,
       "FieldName": "Field_2005",
       "IconID": "",
       "FieldImage": "",
       "Displaysymbol": "",
-      "IsSquare": false,
+      "IsSquare": true,
       "IsHouse": false,
       "BGMPrefabName": "BGM_PlaySquare",
       "NightBGMPrefabName": "BGM_PlaySquare",

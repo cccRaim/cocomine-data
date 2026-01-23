@@ -53,7 +53,7 @@
       "Sortindex": 1
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 6,
       "Game": 2,
       "FieldName": "Field_2005",
@@ -68,7 +68,7 @@
   ],
   "Central_NPCSpawn": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
       "Game": 3,
       "PlazaID": 1,
@@ -96,7 +96,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
       "Game": 3,
       "PlazaID": 1,
@@ -124,7 +124,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 3,
       "Game": 3,
       "PlazaID": 1,
@@ -152,7 +152,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 4,
       "Game": 3,
       "PlazaID": 1,
@@ -180,7 +180,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
       "Game": 3,
       "PlazaID": 1,
@@ -208,7 +208,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 6,
       "Game": 3,
       "PlazaID": 1,
@@ -236,7 +236,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 7,
       "Game": 3,
       "PlazaID": 1,
@@ -264,7 +264,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
       "Game": 3,
       "PlazaID": 1,
@@ -292,7 +292,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 9,
       "Game": 3,
       "PlazaID": 1,
@@ -320,7 +320,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 10,
       "Game": 3,
       "PlazaID": 1,
@@ -348,7 +348,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 11,
       "Game": 3,
       "PlazaID": 1,
@@ -376,7 +376,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 12,
       "Game": 3,
       "PlazaID": 1,
@@ -404,7 +404,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 13,
       "Game": 3,
       "PlazaID": 1,
@@ -432,7 +432,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 14,
       "Game": 3,
       "PlazaID": 1,
@@ -460,7 +460,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 15,
       "Game": 3,
       "PlazaID": 1,
@@ -488,7 +488,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 16,
       "Game": 3,
       "PlazaID": 1,
@@ -516,7 +516,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 17,
       "Game": 3,
       "PlazaID": 1,

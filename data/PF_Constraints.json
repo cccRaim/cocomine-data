@@ -886,7 +886,7 @@
       "ServiceType": "DEV",
       "Name": "Play_FreeBallot_Max",
       "Game": 3,
-      "Value": 2,
+      "Value": 5,
       "Context": "(개), 플레이 티켓 무료 티켓 일일 무료 충전 개수"
     },
     {
@@ -935,7 +935,7 @@
       "ServiceType": "DEV",
       "Name": "HouseOpenLevel",
       "Game": 3,
-      "Value": 7,
+      "Value": 5,
       "Context": "하우스로 입장 가능해지는 레벨"
     },
     {
@@ -1021,6 +1021,34 @@
       "Game": 3,
       "Value": 5,
       "Context": "하우스 혹은 가든에서 화면이 n(s) 이상 멈춰있을 경우, 숏컷 팝업창 출력 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_First_LP",
+      "Game": 3,
+      "Value": 100,
+      "Context": "펫 획득 시 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_LP_Reduce_Per_Day",
+      "Game": 3,
+      "Value": 1,
+      "Context": "하루에 감소되는 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_Pat_LP",
+      "Game": 3,
+      "Value": 1,
+      "Context": "쓰다듬기 시 증가되는 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_Pat_LP_Cool_Time",
+      "Game": 3,
+      "Value": 1440,
+      "Context": "(min)분 후에 쓰다듬기 가능"
     }
   ]
 }

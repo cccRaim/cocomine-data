@@ -2781,7 +2781,7 @@
       "TutorialStartKey": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1111,
       "Game": 2,
       "TutorialType": 3,
@@ -2795,7 +2795,7 @@
       "TutorialStartKey": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1112,
       "Game": 2,
       "TutorialType": 1,
@@ -2809,7 +2809,7 @@
       "TutorialStartKey": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1113,
       "Game": 2,
       "TutorialType": 3,
@@ -2823,7 +2823,7 @@
       "TutorialStartKey": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1114,
       "Game": 2,
       "TutorialType": 1,
@@ -2837,7 +2837,7 @@
       "TutorialStartKey": 0
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 1115,
       "Game": 2,
       "TutorialType": 3,
@@ -6360,7 +6360,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 420,
       "Game": 2,
       "TutorialID": 1111,
@@ -6373,7 +6373,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 421,
       "Game": 2,
       "TutorialID": 1111,
@@ -6386,7 +6386,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 422,
       "Game": 2,
       "TutorialID": 1111,
@@ -6399,7 +6399,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 423,
       "Game": 2,
       "TutorialID": 1111,
@@ -6412,7 +6412,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 424,
       "Game": 2,
       "TutorialID": 1111,
@@ -6425,7 +6425,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 425,
       "Game": 2,
       "TutorialID": 1111,
@@ -6438,7 +6438,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 426,
       "Game": 2,
       "TutorialID": 1111,
@@ -6451,7 +6451,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 427,
       "Game": 2,
       "TutorialID": 1112,
@@ -6464,7 +6464,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 428,
       "Game": 2,
       "TutorialID": 1113,
@@ -6477,7 +6477,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 429,
       "Game": 2,
       "TutorialID": 1113,
@@ -6490,7 +6490,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 430,
       "Game": 2,
       "TutorialID": 1114,
@@ -6503,7 +6503,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 431,
       "Game": 2,
       "TutorialID": 1115,
@@ -6516,7 +6516,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 432,
       "Game": 2,
       "TutorialID": 1115,
@@ -6529,7 +6529,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 433,
       "Game": 2,
       "TutorialID": 1115,
@@ -6542,7 +6542,7 @@
       "IsAnimFieldMode": false
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 434,
       "Game": 2,
       "TutorialID": 1115,

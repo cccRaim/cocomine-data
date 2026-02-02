@@ -1346,6 +1346,46 @@
       "NPCID": 2,
       "NPCText": "PF_Clinic_Skin_4",
       "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 34,
+      "Game": 2,
+      "GroupID": 15,
+      "UILinkType": 66,
+      "NPCID": 5,
+      "NPCText": "PlayShop_Popup_1",
+      "AnimName": "love02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 41,
+      "Game": 2,
+      "GroupID": 19,
+      "UILinkType": 66,
+      "NPCID": 5,
+      "NPCText": "PlayShop_Popup_2",
+      "AnimName": "excited02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 42,
+      "Game": 2,
+      "GroupID": 19,
+      "UILinkType": 66,
+      "NPCID": 5,
+      "NPCText": "PlayShop_Popup_3",
+      "AnimName": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 43,
+      "Game": 2,
+      "GroupID": 19,
+      "UILinkType": 66,
+      "NPCID": 5,
+      "NPCText": "PlayShop_Popup_4",
+      "AnimName": "cheerup02"
     }
   ],
   "GFLevel": [

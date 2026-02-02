@@ -1,795 +1,217 @@
 {
-  "PetData": [
+  "PetInfo": [],
+  "PetBuff_Follow": [
+    {
+      "ServiceType": "DEV",
+      "Key": 10000,
+      "GroupID": 1,
+      "IsRandom": true,
+      "Level": 1,
+      "ItemID": 0,
+      "ItemCnt": 0,
+      "ItemTime": 0,
+      "CoolTime": 0
+    },
     {
       "ServiceType": "DEV",
       "Key": 10001,
-      "Game": 3,
-      "PetSkinId": "10001_pet",
-      "PetName": "Pet_10001",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 1,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "GroupID": 1,
+      "IsRandom": true,
+      "Level": 2,
+      "ItemID": 0,
+      "ItemCnt": 0,
+      "ItemTime": 0,
+      "CoolTime": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 10002,
-      "Game": 3,
-      "PetSkinId": "10002_pet",
-      "PetName": "Pet_10002",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "GroupID": 1,
+      "IsRandom": true,
+      "Level": 3,
+      "ItemID": 0,
+      "ItemCnt": 0,
+      "ItemTime": 0,
+      "CoolTime": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 10003,
-      "Game": 3,
-      "PetSkinId": "10003_pet",
-      "PetName": "Pet_10003",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 3,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "GroupID": 1,
+      "IsRandom": true,
+      "Level": 4,
+      "ItemID": 0,
+      "ItemCnt": 0,
+      "ItemTime": 0,
+      "CoolTime": 0
     },
     {
       "ServiceType": "DEV",
       "Key": 10004,
-      "Game": 3,
-      "PetSkinId": "10004_pet",
-      "PetName": "Pet_10004",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 4,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10005,
-      "Game": 3,
-      "PetSkinId": "10005_pet",
-      "PetName": "Pet_10005",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 5,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10006,
-      "Game": 3,
-      "PetSkinId": "10006_pet",
-      "PetName": "Pet_10006",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 6,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10007,
-      "Game": 3,
-      "PetSkinId": "10007_pet",
-      "PetName": "Pet_10007",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 7,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10008,
-      "Game": 3,
-      "PetSkinId": "10008_pet",
-      "PetName": "Pet_10008",
-      "EPetindividual": 1,
-      "PetGrade": 1,
-      "EPetCharacter": 8,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20001,
-      "Game": 3,
-      "PetSkinId": "20001_pet",
-      "PetName": "Pet_20001",
-      "EPetindividual": 2,
-      "PetGrade": 2,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20002,
-      "Game": 3,
-      "PetSkinId": "20002_pet",
-      "PetName": "Pet_20002",
-      "EPetindividual": 3,
-      "PetGrade": 2,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20003,
-      "Game": 3,
-      "PetSkinId": "20003_pet",
-      "PetName": "Pet_20003",
-      "EPetindividual": 4,
-      "PetGrade": 2,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30001,
-      "Game": 3,
-      "PetSkinId": "30001_pet",
-      "PetName": "Pet_30001",
-      "EPetindividual": 2,
-      "PetGrade": 3,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30002,
-      "Game": 3,
-      "PetSkinId": "30002_pet",
-      "PetName": "Pet_30002",
-      "EPetindividual": 3,
-      "PetGrade": 3,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30003,
-      "Game": 3,
-      "PetSkinId": "30003_pet",
-      "PetName": "Pet_30003",
-      "EPetindividual": 4,
-      "PetGrade": 3,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 40001,
-      "Game": 3,
-      "PetSkinId": "40001_pet",
-      "PetName": "Pet_40001",
-      "EPetindividual": 2,
-      "PetGrade": 4,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 40002,
-      "Game": 3,
-      "PetSkinId": "40002_pet",
-      "PetName": "Pet_40002",
-      "EPetindividual": 3,
-      "PetGrade": 4,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 40003,
-      "Game": 3,
-      "PetSkinId": "40003_pet",
-      "PetName": "Pet_40003",
-      "EPetindividual": 4,
-      "PetGrade": 4,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 50001,
-      "Game": 3,
-      "PetSkinId": "50001_pet",
-      "PetName": "Pet_50001",
-      "EPetindividual": 2,
-      "PetGrade": 5,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 50002,
-      "Game": 3,
-      "PetSkinId": "50002_pet",
-      "PetName": "Pet_50002",
-      "EPetindividual": 3,
-      "PetGrade": 5,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 50003,
-      "Game": 3,
-      "PetSkinId": "50003_pet",
-      "PetName": "Pet_50003",
-      "EPetindividual": 4,
-      "PetGrade": 5,
-      "EPetCharacter": 2,
-      "IsPetMating": true,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": -1,
-      "SendingPet": 10000,
-      "PetEffect": 0,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 60001,
-      "Game": 3,
-      "PetSkinId": "60001_pet",
-      "PetName": "Pet_60001",
-      "EPetindividual": 5,
-      "PetGrade": 6,
-      "EPetCharacter": 2,
-      "IsPetMating": false,
-      "IsFree": false,
-      "IsPetCharged": false,
-      "PetBringDecide": 10000,
-      "SendingPet": 10000,
-      "PetEffect": 1,
-      "OpenTime": "2023-03-02T05:50:10 +09:00"
+      "GroupID": 1,
+      "IsRandom": true,
+      "Level": 5,
+      "ItemID": 0,
+      "ItemCnt": 0,
+      "ItemTime": 0,
+      "CoolTime": 0
     }
   ],
-  "PetBuffInfo": [
+  "PetBuff_Ride": [
     {
-      "Key": 10000,
-      "PetBuffType": 1,
-      "PetBuffGrade": 1,
-      "PetBuffEv1": 100001,
-      "PetBuffEv2": 100002,
-      "PetBuffEv3": 100003,
-      "PetBuffEv4": 100004,
-      "PetBuffEv5": 100005,
-      "PetRandomBuff": true
-    }
-  ],
-  "PetBuffPreset": [
-    {
-      "Key": 100001,
-      "PetBuffItem1": 26,
-      "PetBuffValue1": 3,
-      "PetBuffItem2": 51,
-      "PetBuffValue2": 5,
-      "PetBuffItem3": 0,
-      "PetBuffValue3": 0,
-      "PetBuffItem4": 0,
-      "PetBuffValue4": 0,
-      "PetBuffItem5": 0,
-      "PetBuffValue5": 0,
-      "GetItemTime": 3600
-    },
-    {
-      "Key": 100002,
-      "PetBuffItem1": 27,
-      "PetBuffValue1": 3,
-      "PetBuffItem2": 0,
-      "PetBuffValue2": 0,
-      "PetBuffItem3": 0,
-      "PetBuffValue3": 0,
-      "PetBuffItem4": 0,
-      "PetBuffValue4": 0,
-      "PetBuffItem5": 0,
-      "PetBuffValue5": 0,
-      "GetItemTime": 3600
-    },
-    {
-      "Key": 100003,
-      "PetBuffItem1": 29,
-      "PetBuffValue1": 3,
-      "PetBuffItem2": 0,
-      "PetBuffValue2": 0,
-      "PetBuffItem3": 0,
-      "PetBuffValue3": 0,
-      "PetBuffItem4": 0,
-      "PetBuffValue4": 0,
-      "PetBuffItem5": 0,
-      "PetBuffValue5": 0,
-      "GetItemTime": 3600
-    },
-    {
-      "Key": 100004,
-      "PetBuffItem1": 32,
-      "PetBuffValue1": 3,
-      "PetBuffItem2": 0,
-      "PetBuffValue2": 0,
-      "PetBuffItem3": 0,
-      "PetBuffValue3": 0,
-      "PetBuffItem4": 0,
-      "PetBuffValue4": 0,
-      "PetBuffItem5": 0,
-      "PetBuffValue5": 0,
-      "GetItemTime": 3600
-    },
-    {
-      "Key": 100005,
-      "PetBuffItem1": 39,
-      "PetBuffValue1": 3,
-      "PetBuffItem2": 0,
-      "PetBuffValue2": 0,
-      "PetBuffItem3": 0,
-      "PetBuffValue3": 0,
-      "PetBuffItem4": 0,
-      "PetBuffValue4": 0,
-      "PetBuffItem5": 0,
-      "PetBuffValue5": 0,
-      "GetItemTime": 3600
-    }
-  ],
-  "PetRewardInfo": [
-    {
-      "Key": 10000,
-      "PetRewItem1": 487,
-      "PetRewValue1": 1,
-      "PetRewItem2": 0,
-      "PetRewValue2": 0,
-      "PetRewItem3": 0,
-      "PetRewValue3": 0,
-      "PetRewItem4": 0,
-      "PetRewValue4": 0,
-      "PetRewItem5": 0,
-      "PetRewValue5": 0
-    }
-  ],
-  "PetMatingRate": [
-    {
-      "Key": 1,
-      "PetGrade": 1,
-      "PetMateGrade": 1,
-      "PetMateRate": 7500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 2,
-      "PetGrade": 1,
-      "PetMateGrade": 2,
-      "PetMateRate": 2500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 3,
-      "PetGrade": 2,
-      "PetMateGrade": 1,
-      "PetMateRate": 5000,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 4,
-      "PetGrade": 2,
-      "PetMateGrade": 2,
-      "PetMateRate": 3500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 5,
-      "PetGrade": 2,
-      "PetMateGrade": 3,
-      "PetMateRate": 1500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 6,
-      "PetGrade": 3,
-      "PetMateGrade": 1,
-      "PetMateRate": 4000,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 7,
-      "PetGrade": 3,
-      "PetMateGrade": 2,
-      "PetMateRate": 3150,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 8,
-      "PetGrade": 3,
-      "PetMateGrade": 3,
-      "PetMateRate": 2050,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 9,
-      "PetGrade": 3,
-      "PetMateGrade": 4,
-      "PetMateRate": 800,
-      "IsPetCharged": false
-    },
-    {
+      "ServiceType": "DEV",
       "Key": 10,
-      "PetGrade": 4,
-      "PetMateGrade": 1,
-      "PetMateRate": 3500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 11,
-      "PetGrade": 4,
-      "PetMateGrade": 2,
-      "PetMateRate": 2500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 12,
-      "PetGrade": 4,
-      "PetMateGrade": 3,
-      "PetMateRate": 2000,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 13,
-      "PetGrade": 4,
-      "PetMateGrade": 4,
-      "PetMateRate": 1500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 14,
-      "PetGrade": 4,
-      "PetMateGrade": 5,
-      "PetMateRate": 500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 15,
-      "PetGrade": 5,
-      "PetMateGrade": 1,
-      "PetMateRate": 3500,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 16,
-      "PetGrade": 5,
-      "PetMateGrade": 2,
-      "PetMateRate": 2100,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 17,
-      "PetGrade": 5,
-      "PetMateGrade": 3,
-      "PetMateRate": 1700,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 18,
-      "PetGrade": 5,
-      "PetMateGrade": 4,
-      "PetMateRate": 1300,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 19,
-      "PetGrade": 5,
-      "PetMateGrade": 5,
-      "PetMateRate": 1100,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 20,
-      "PetGrade": 5,
-      "PetMateGrade": 6,
-      "PetMateRate": 300,
-      "IsPetCharged": false
-    },
-    {
-      "Key": 21,
-      "PetGrade": 3,
-      "PetMateGrade": 3,
-      "PetMateRate": 8500,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 22,
-      "PetGrade": 3,
-      "PetMateGrade": 4,
-      "PetMateRate": 1500,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 23,
-      "PetGrade": 4,
-      "PetMateGrade": 3,
-      "PetMateRate": 7000,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 24,
-      "PetGrade": 4,
-      "PetMateGrade": 4,
-      "PetMateRate": 2000,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 25,
-      "PetGrade": 4,
-      "PetMateGrade": 5,
-      "PetMateRate": 1000,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 26,
-      "PetGrade": 5,
-      "PetMateGrade": 3,
-      "PetMateRate": 5000,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 27,
-      "PetGrade": 5,
-      "PetMateGrade": 4,
-      "PetMateRate": 3300,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 28,
-      "PetGrade": 5,
-      "PetMateGrade": 5,
-      "PetMateRate": 1200,
-      "IsPetCharged": true
-    },
-    {
-      "Key": 29,
-      "PetGrade": 5,
-      "PetMateGrade": 6,
-      "PetMateRate": 500,
-      "IsPetCharged": true
+      "PetBuffGroup1": 100001,
+      "PetBuffGroup2": 100002,
+      "PetBuffGroup3": 100003,
+      "PetBuffGroup4": 100004,
+      "PetBuffGroup5": 100005
     }
   ],
-  "PetLevelLimit": [
+  "PetLevel": [
     {
-      "PetGrade": 1,
-      "PetLevelLimit": 10
+      "ServiceType": "DEV",
+      "Key": 101,
+      "GroupID": 10,
+      "Level": 1,
+      "UserExp": 0,
+      "PetFoodGroupID": 1
     },
     {
-      "PetGrade": 2,
-      "PetLevelLimit": 15
+      "ServiceType": "DEV",
+      "Key": 102,
+      "GroupID": 10,
+      "Level": 2,
+      "UserExp": 90,
+      "PetFoodGroupID": 2
     },
     {
-      "PetGrade": 3,
-      "PetLevelLimit": 20
+      "ServiceType": "DEV",
+      "Key": 103,
+      "GroupID": 10,
+      "Level": 3,
+      "UserExp": 180,
+      "PetFoodGroupID": 3
     },
     {
-      "PetGrade": 4,
-      "PetLevelLimit": 25
+      "ServiceType": "DEV",
+      "Key": 104,
+      "GroupID": 10,
+      "Level": 4,
+      "UserExp": 240,
+      "PetFoodGroupID": 4
     },
     {
-      "PetGrade": 5,
-      "PetLevelLimit": 30
+      "ServiceType": "DEV",
+      "Key": 105,
+      "GroupID": 10,
+      "Level": 5,
+      "UserExp": 300,
+      "PetFoodGroupID": 5
     }
   ],
-  "PetCondition": [
+  "PetLP": [
     {
+      "ServiceType": "DEV",
+      "Key": 1001,
+      "GroupID": 100,
+      "LPMin": 0,
+      "LPMax": 49,
+      "AnimGroupID": 100,
+      "IsBuff": 0,
+      "LPIcon": "mad01_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1002,
+      "GroupID": 100,
+      "LPMin": 50,
+      "LPMax": 99,
+      "AnimGroupID": 101,
+      "IsBuff": 0,
+      "LPIcon": "cry01_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1003,
+      "GroupID": 100,
+      "LPMin": 100,
+      "LPMax": 150,
+      "AnimGroupID": 102,
+      "IsBuff": 1,
+      "LPIcon": "happy01_icon"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1004,
+      "GroupID": 100,
+      "LPMin": 151,
+      "LPMax": 200,
+      "AnimGroupID": 103,
+      "IsBuff": 1,
+      "LPIcon": "best01_icon"
+    }
+  ],
+  "PetFood": [
+    {
+      "ServiceType": "DEV",
+      "Key": 0,
+      "GroupID": 20,
+      "CoolTime": 0,
+      "LPAdd": 1,
+      "ExpAdd": 1,
+      "PetSubType": 0
+    }
+  ],
+  "PetTypeInventory": [],
+  "PetNickName": [
+    {
+      "ServiceType": "DEV",
       "Key": 1,
-      "EPetCondition": 1,
-      "PetConditionName": "매우 나쁨",
-      "PetConditonMixValue": -3000,
-      "PetConditonMaxValue": -2000
+      "Game": 3,
+      "NickName": "NickName_1"
     },
     {
+      "ServiceType": "DEV",
       "Key": 2,
-      "EPetCondition": 1,
-      "PetConditionName": "나쁨",
-      "PetConditonMixValue": -1999,
-      "PetConditonMaxValue": -1000
+      "Game": 3,
+      "NickName": "NickName_2"
     },
     {
+      "ServiceType": "DEV",
       "Key": 3,
-      "EPetCondition": 1,
-      "PetConditionName": "보통",
-      "PetConditonMixValue": -999,
-      "PetConditonMaxValue": 1000
+      "Game": 3,
+      "NickName": "NickName_3"
     },
     {
+      "ServiceType": "DEV",
       "Key": 4,
-      "EPetCondition": 1,
-      "PetConditionName": "좋음",
-      "PetConditonMixValue": 1001,
-      "PetConditonMaxValue": 2000
+      "Game": 3,
+      "NickName": "NickName_4"
     },
     {
+      "ServiceType": "DEV",
       "Key": 5,
-      "EPetCondition": 1,
-      "PetConditionName": "매우 좋음",
-      "PetConditonMixValue": 2001,
-      "PetConditonMaxValue": 3000
+      "Game": 3,
+      "NickName": "NickName_5"
     },
     {
+      "ServiceType": "DEV",
       "Key": 6,
-      "EPetCondition": 2,
-      "PetConditionName": "매우 나쁨",
-      "PetConditonMixValue": -3000,
-      "PetConditonMaxValue": -2000
+      "Game": 3,
+      "NickName": "NickName_6"
     },
     {
+      "ServiceType": "DEV",
       "Key": 7,
-      "EPetCondition": 2,
-      "PetConditionName": "나쁨",
-      "PetConditonMixValue": -1999,
-      "PetConditonMaxValue": -1000
+      "Game": 3,
+      "NickName": "NickName_7"
     },
     {
+      "ServiceType": "DEV",
       "Key": 8,
-      "EPetCondition": 2,
-      "PetConditionName": "보통",
-      "PetConditonMixValue": -999,
-      "PetConditonMaxValue": 1000
-    },
-    {
-      "Key": 9,
-      "EPetCondition": 2,
-      "PetConditionName": "친함",
-      "PetConditonMixValue": 1001,
-      "PetConditonMaxValue": 2000
-    },
-    {
-      "Key": 10,
-      "EPetCondition": 2,
-      "PetConditionName": "매우 친함",
-      "PetConditonMixValue": 2001,
-      "PetConditonMaxValue": 3000
-    },
-    {
-      "Key": 11,
-      "EPetCondition": 3,
-      "PetConditionName": "매우 더러움",
-      "PetConditonMixValue": -3000,
-      "PetConditonMaxValue": -2000
-    },
-    {
-      "Key": 12,
-      "EPetCondition": 3,
-      "PetConditionName": "더러움",
-      "PetConditonMixValue": -1999,
-      "PetConditonMaxValue": -1000
-    },
-    {
-      "Key": 13,
-      "EPetCondition": 3,
-      "PetConditionName": "보통",
-      "PetConditonMixValue": -999,
-      "PetConditonMaxValue": 1000
-    },
-    {
-      "Key": 14,
-      "EPetCondition": 3,
-      "PetConditionName": "깨끗함",
-      "PetConditonMixValue": 1001,
-      "PetConditonMaxValue": 2000
-    },
-    {
-      "Key": 15,
-      "EPetCondition": 3,
-      "PetConditionName": "매우 깨끗함",
-      "PetConditonMixValue": 2001,
-      "PetConditonMaxValue": 3000
+      "Game": 3,
+      "NickName": "NickName_8"
     }
   ]
 }

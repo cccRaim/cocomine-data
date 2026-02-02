@@ -13199,6 +13199,102 @@
       "ConsumeMatGroupID": 510,
       "MatItemID": 236,
       "MatItemCnt": 10
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1764,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100124,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1765,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100715,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1766,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100117,
+      "MatItemCnt": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1767,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100096,
+      "MatItemCnt": 40
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1768,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100524,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1769,
+      "Game": 3,
+      "ConsumeMatGroupID": 511,
+      "MatItemID": 100523,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1770,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100713,
+      "MatItemCnt": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1771,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100128,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1772,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100097,
+      "MatItemCnt": 40
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1773,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100141,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1774,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100525,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1775,
+      "Game": 3,
+      "ConsumeMatGroupID": 512,
+      "MatItemID": 100526,
+      "MatItemCnt": 20
     }
   ]
 }

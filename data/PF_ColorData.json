@@ -2843,9 +2843,9 @@
       "UpColorR": 199,
       "UpColorG": 213,
       "UpColorB": 241,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 199,
+      "DownColorG": 213,
+      "DownColorB": 241
     },
     {
       "ServiceType": "DEV",
@@ -2869,9 +2869,9 @@
       "UpColorR": 141,
       "UpColorG": 184,
       "UpColorB": 190,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 141,
+      "DownColorG": 184,
+      "DownColorB": 190
     },
     {
       "ServiceType": "DEV",
@@ -2882,9 +2882,9 @@
       "UpColorR": 245,
       "UpColorG": 239,
       "UpColorB": 166,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 245,
+      "DownColorG": 239,
+      "DownColorB": 166
     },
     {
       "ServiceType": "DEV",
@@ -2895,9 +2895,9 @@
       "UpColorR": 118,
       "UpColorG": 166,
       "UpColorB": 180,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 118,
+      "DownColorG": 166,
+      "DownColorB": 180
     },
     {
       "ServiceType": "DEV",
@@ -2908,9 +2908,9 @@
       "UpColorR": 255,
       "UpColorG": 218,
       "UpColorB": 218,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 218,
+      "DownColorB": 218
     },
     {
       "ServiceType": "DEV",
@@ -3012,9 +3012,9 @@
       "UpColorR": 255,
       "UpColorG": 229,
       "UpColorB": 203,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 229,
+      "DownColorB": 203
     },
     {
       "ServiceType": "DEV",
@@ -3025,9 +3025,9 @@
       "UpColorR": 133,
       "UpColorG": 233,
       "UpColorB": 149,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 133,
+      "DownColorG": 233,
+      "DownColorB": 149
     },
     {
       "ServiceType": "DEV",
@@ -3038,9 +3038,9 @@
       "UpColorR": 255,
       "UpColorG": 240,
       "UpColorB": 146,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 240,
+      "DownColorB": 146
     },
     {
       "ServiceType": "DEV",
@@ -3051,9 +3051,9 @@
       "UpColorR": 157,
       "UpColorG": 206,
       "UpColorB": 253,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 157,
+      "DownColorG": 206,
+      "DownColorB": 253
     },
     {
       "ServiceType": "DEV",
@@ -3064,9 +3064,9 @@
       "UpColorR": 118,
       "UpColorG": 163,
       "UpColorB": 217,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 118,
+      "DownColorG": 163,
+      "DownColorB": 217
     },
     {
       "ServiceType": "DEV",
@@ -3077,9 +3077,9 @@
       "UpColorR": 186,
       "UpColorG": 223,
       "UpColorB": 244,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 186,
+      "DownColorG": 223,
+      "DownColorB": 244
     },
     {
       "ServiceType": "DEV",
@@ -3090,9 +3090,9 @@
       "UpColorR": 232,
       "UpColorG": 254,
       "UpColorB": 255,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 232,
+      "DownColorG": 254,
+      "DownColorB": 255
     },
     {
       "ServiceType": "DEV",
@@ -3103,9 +3103,9 @@
       "UpColorR": 171,
       "UpColorG": 230,
       "UpColorB": 239,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 171,
+      "DownColorG": 230,
+      "DownColorB": 239
     },
     {
       "ServiceType": "DEV",
@@ -3116,9 +3116,9 @@
       "UpColorR": 127,
       "UpColorG": 195,
       "UpColorB": 219,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 127,
+      "DownColorG": 195,
+      "DownColorB": 219
     },
     {
       "ServiceType": "DEV",
@@ -3129,9 +3129,9 @@
       "UpColorR": 255,
       "UpColorG": 194,
       "UpColorB": 217,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 194,
+      "DownColorB": 217
     },
     {
       "ServiceType": "DEV",
@@ -3142,9 +3142,9 @@
       "UpColorR": 252,
       "UpColorG": 234,
       "UpColorB": 221,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 252,
+      "DownColorG": 234,
+      "DownColorB": 221
     },
     {
       "ServiceType": "DEV",
@@ -3155,9 +3155,9 @@
       "UpColorR": 166,
       "UpColorG": 147,
       "UpColorB": 134,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 166,
+      "DownColorG": 147,
+      "DownColorB": 134
     },
     {
       "ServiceType": "DEV",
@@ -3168,9 +3168,9 @@
       "UpColorR": 119,
       "UpColorG": 107,
       "UpColorB": 125,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 119,
+      "DownColorG": 107,
+      "DownColorB": 125
     },
     {
       "ServiceType": "DEV",
@@ -3181,9 +3181,9 @@
       "UpColorR": 222,
       "UpColorG": 198,
       "UpColorB": 248,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 222,
+      "DownColorG": 198,
+      "DownColorB": 248
     },
     {
       "ServiceType": "DEV",
@@ -3194,9 +3194,9 @@
       "UpColorR": 161,
       "UpColorG": 124,
       "UpColorB": 112,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 161,
+      "DownColorG": 124,
+      "DownColorB": 112
     },
     {
       "ServiceType": "DEV",
@@ -3207,9 +3207,9 @@
       "UpColorR": 255,
       "UpColorG": 195,
       "UpColorB": 185,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 195,
+      "DownColorB": 185
     },
     {
       "ServiceType": "DEV",
@@ -3220,9 +3220,9 @@
       "UpColorR": 132,
       "UpColorG": 227,
       "UpColorB": 204,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 132,
+      "DownColorG": 227,
+      "DownColorB": 204
     },
     {
       "ServiceType": "DEV",
@@ -3233,9 +3233,9 @@
       "UpColorR": 74,
       "UpColorG": 198,
       "UpColorB": 198,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 74,
+      "DownColorG": 198,
+      "DownColorB": 198
     },
     {
       "ServiceType": "DEV",
@@ -3246,9 +3246,9 @@
       "UpColorR": 73,
       "UpColorG": 102,
       "UpColorB": 123,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 73,
+      "DownColorG": 102,
+      "DownColorB": 123
     },
     {
       "ServiceType": "DEV",
@@ -3259,9 +3259,9 @@
       "UpColorR": 230,
       "UpColorG": 255,
       "UpColorB": 250,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 230,
+      "DownColorG": 255,
+      "DownColorB": 250
     },
     {
       "ServiceType": "DEV",
@@ -3272,9 +3272,9 @@
       "UpColorR": 200,
       "UpColorG": 236,
       "UpColorB": 182,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 200,
+      "DownColorG": 236,
+      "DownColorB": 182
     },
     {
       "ServiceType": "DEV",
@@ -3285,9 +3285,9 @@
       "UpColorR": 255,
       "UpColorG": 181,
       "UpColorB": 194,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 181,
+      "DownColorB": 194
     },
     {
       "ServiceType": "DEV",
@@ -3298,9 +3298,9 @@
       "UpColorR": 210,
       "UpColorG": 176,
       "UpColorB": 150,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 210,
+      "DownColorG": 176,
+      "DownColorB": 150
     },
     {
       "ServiceType": "DEV",
@@ -3311,9 +3311,9 @@
       "UpColorR": 37,
       "UpColorG": 132,
       "UpColorB": 109,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 37,
+      "DownColorG": 132,
+      "DownColorB": 109
     },
     {
       "ServiceType": "DEV",
@@ -3324,9 +3324,9 @@
       "UpColorR": 129,
       "UpColorG": 198,
       "UpColorB": 255,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 129,
+      "DownColorG": 198,
+      "DownColorB": 255
     },
     {
       "ServiceType": "DEV",
@@ -3415,9 +3415,9 @@
       "UpColorR": 251,
       "UpColorG": 233,
       "UpColorB": 175,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 251,
+      "DownColorG": 233,
+      "DownColorB": 175
     },
     {
       "ServiceType": "DEV",
@@ -3428,9 +3428,9 @@
       "UpColorR": 250,
       "UpColorG": 204,
       "UpColorB": 105,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 250,
+      "DownColorG": 204,
+      "DownColorB": 105
     },
     {
       "ServiceType": "DEV",
@@ -3441,9 +3441,9 @@
       "UpColorR": 32,
       "UpColorG": 173,
       "UpColorB": 229,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 32,
+      "DownColorG": 173,
+      "DownColorB": 229
     },
     {
       "ServiceType": "DEV",
@@ -3454,9 +3454,9 @@
       "UpColorR": 166,
       "UpColorG": 120,
       "UpColorB": 85,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 166,
+      "DownColorG": 120,
+      "DownColorB": 85
     },
     {
       "ServiceType": "DEV",
@@ -3467,9 +3467,9 @@
       "UpColorR": 156,
       "UpColorG": 70,
       "UpColorB": 94,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 156,
+      "DownColorG": 70,
+      "DownColorB": 94
     },
     {
       "ServiceType": "DEV",
@@ -3935,9 +3935,9 @@
       "UpColorR": 255,
       "UpColorG": 52,
       "UpColorB": 52,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 52,
+      "DownColorB": 52
     },
     {
       "ServiceType": "DEV",
@@ -3948,9 +3948,9 @@
       "UpColorR": 255,
       "UpColorG": 99,
       "UpColorB": 99,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 99,
+      "DownColorB": 99
     },
     {
       "ServiceType": "DEV",
@@ -3961,9 +3961,9 @@
       "UpColorR": 226,
       "UpColorG": 121,
       "UpColorB": 94,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 226,
+      "DownColorG": 121,
+      "DownColorB": 94
     },
     {
       "ServiceType": "DEV",
@@ -3974,9 +3974,9 @@
       "UpColorR": 240,
       "UpColorG": 179,
       "UpColorB": 188,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 240,
+      "DownColorG": 179,
+      "DownColorB": 188
     },
     {
       "ServiceType": "DEV",
@@ -3987,9 +3987,9 @@
       "UpColorR": 162,
       "UpColorG": 113,
       "UpColorB": 96,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 162,
+      "DownColorG": 113,
+      "DownColorB": 96
     },
     {
       "ServiceType": "DEV",
@@ -4000,9 +4000,9 @@
       "UpColorR": 128,
       "UpColorG": 73,
       "UpColorB": 37,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 128,
+      "DownColorG": 73,
+      "DownColorB": 37
     },
     {
       "ServiceType": "DEV",
@@ -4013,9 +4013,9 @@
       "UpColorR": 255,
       "UpColorG": 84,
       "UpColorB": 21,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 84,
+      "DownColorB": 21
     },
     {
       "ServiceType": "DEV",
@@ -4026,9 +4026,9 @@
       "UpColorR": 244,
       "UpColorG": 126,
       "UpColorB": 83,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 244,
+      "DownColorG": 126,
+      "DownColorB": 83
     },
     {
       "ServiceType": "DEV",
@@ -4039,9 +4039,9 @@
       "UpColorR": 230,
       "UpColorG": 165,
       "UpColorB": 93,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 230,
+      "DownColorG": 165,
+      "DownColorB": 93
     },
     {
       "ServiceType": "DEV",
@@ -4052,9 +4052,9 @@
       "UpColorR": 231,
       "UpColorG": 176,
       "UpColorB": 151,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 231,
+      "DownColorG": 176,
+      "DownColorB": 151
     },
     {
       "ServiceType": "DEV",
@@ -4065,9 +4065,9 @@
       "UpColorR": 226,
       "UpColorG": 166,
       "UpColorB": 150,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 226,
+      "DownColorG": 166,
+      "DownColorB": 150
     },
     {
       "ServiceType": "DEV",
@@ -4078,8 +4078,8 @@
       "UpColorR": 189,
       "UpColorG": 48,
       "UpColorB": 0,
-      "DownColorR": 0,
-      "DownColorG": 0,
+      "DownColorR": 189,
+      "DownColorG": 48,
       "DownColorB": 0
     },
     {
@@ -4091,9 +4091,9 @@
       "UpColorR": 245,
       "UpColorG": 211,
       "UpColorB": 50,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 245,
+      "DownColorG": 211,
+      "DownColorB": 50
     },
     {
       "ServiceType": "DEV",
@@ -4104,9 +4104,9 @@
       "UpColorR": 255,
       "UpColorG": 173,
       "UpColorB": 76,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 173,
+      "DownColorB": 76
     },
     {
       "ServiceType": "DEV",
@@ -4117,9 +4117,9 @@
       "UpColorR": 248,
       "UpColorG": 215,
       "UpColorB": 138,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 248,
+      "DownColorG": 215,
+      "DownColorB": 138
     },
     {
       "ServiceType": "DEV",
@@ -4130,9 +4130,9 @@
       "UpColorR": 205,
       "UpColorG": 168,
       "UpColorB": 163,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 205,
+      "DownColorG": 168,
+      "DownColorB": 163
     },
     {
       "ServiceType": "DEV",
@@ -4143,9 +4143,9 @@
       "UpColorR": 212,
       "UpColorG": 143,
       "UpColorB": 23,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 212,
+      "DownColorG": 143,
+      "DownColorB": 23
     },
     {
       "ServiceType": "DEV",
@@ -4156,9 +4156,9 @@
       "UpColorR": 255,
       "UpColorG": 229,
       "UpColorB": 109,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 229,
+      "DownColorB": 109
     },
     {
       "ServiceType": "DEV",
@@ -4169,9 +4169,9 @@
       "UpColorR": 213,
       "UpColorG": 185,
       "UpColorB": 55,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 213,
+      "DownColorG": 185,
+      "DownColorB": 55
     },
     {
       "ServiceType": "DEV",
@@ -4182,9 +4182,9 @@
       "UpColorR": 209,
       "UpColorG": 207,
       "UpColorB": 103,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 209,
+      "DownColorG": 207,
+      "DownColorB": 103
     },
     {
       "ServiceType": "DEV",
@@ -4195,9 +4195,9 @@
       "UpColorR": 187,
       "UpColorG": 164,
       "UpColorB": 103,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 187,
+      "DownColorG": 164,
+      "DownColorB": 103
     },
     {
       "ServiceType": "DEV",
@@ -4208,8 +4208,8 @@
       "UpColorR": 66,
       "UpColorG": 80,
       "UpColorB": 0,
-      "DownColorR": 0,
-      "DownColorG": 0,
+      "DownColorR": 66,
+      "DownColorG": 80,
       "DownColorB": 0
     },
     {
@@ -4221,9 +4221,9 @@
       "UpColorR": 235,
       "UpColorG": 233,
       "UpColorB": 168,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 235,
+      "DownColorG": 233,
+      "DownColorB": 168
     },
     {
       "ServiceType": "DEV",
@@ -4234,9 +4234,9 @@
       "UpColorR": 156,
       "UpColorG": 189,
       "UpColorB": 57,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 156,
+      "DownColorG": 189,
+      "DownColorB": 57
     },
     {
       "ServiceType": "DEV",
@@ -4247,9 +4247,9 @@
       "UpColorR": 124,
       "UpColorG": 164,
       "UpColorB": 105,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 124,
+      "DownColorG": 164,
+      "DownColorB": 105
     },
     {
       "ServiceType": "DEV",
@@ -4260,9 +4260,9 @@
       "UpColorR": 118,
       "UpColorG": 106,
       "UpColorB": 84,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 118,
+      "DownColorG": 106,
+      "DownColorB": 84
     },
     {
       "ServiceType": "DEV",
@@ -4273,9 +4273,9 @@
       "UpColorR": 93,
       "UpColorG": 42,
       "UpColorB": 135,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 93,
+      "DownColorG": 42,
+      "DownColorB": 135
     },
     {
       "ServiceType": "DEV",
@@ -4286,9 +4286,9 @@
       "UpColorR": 197,
       "UpColorG": 231,
       "UpColorB": 138,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 197,
+      "DownColorG": 231,
+      "DownColorB": 138
     },
     {
       "ServiceType": "DEV",
@@ -4299,9 +4299,9 @@
       "UpColorR": 148,
       "UpColorG": 158,
       "UpColorB": 47,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 148,
+      "DownColorG": 158,
+      "DownColorB": 47
     },
     {
       "ServiceType": "DEV",
@@ -4312,9 +4312,9 @@
       "UpColorR": 140,
       "UpColorG": 138,
       "UpColorB": 68,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 140,
+      "DownColorG": 138,
+      "DownColorB": 68
     },
     {
       "ServiceType": "DEV",
@@ -4325,9 +4325,9 @@
       "UpColorR": 159,
       "UpColorG": 137,
       "UpColorB": 92,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 159,
+      "DownColorG": 137,
+      "DownColorB": 92
     },
     {
       "ServiceType": "DEV",
@@ -4338,9 +4338,9 @@
       "UpColorR": 194,
       "UpColorG": 255,
       "UpColorB": 160,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 194,
+      "DownColorG": 255,
+      "DownColorB": 160
     },
     {
       "ServiceType": "DEV",
@@ -4351,9 +4351,9 @@
       "UpColorR": 64,
       "UpColorG": 152,
       "UpColorB": 62,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 64,
+      "DownColorG": 152,
+      "DownColorB": 62
     },
     {
       "ServiceType": "DEV",
@@ -4364,9 +4364,9 @@
       "UpColorR": 150,
       "UpColorG": 203,
       "UpColorB": 166,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 150,
+      "DownColorG": 203,
+      "DownColorB": 166
     },
     {
       "ServiceType": "DEV",
@@ -4377,9 +4377,9 @@
       "UpColorR": 170,
       "UpColorG": 147,
       "UpColorB": 135,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 170,
+      "DownColorG": 147,
+      "DownColorB": 135
     },
     {
       "ServiceType": "DEV",
@@ -4390,9 +4390,9 @@
       "UpColorR": 137,
       "UpColorG": 232,
       "UpColorB": 194,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 137,
+      "DownColorG": 232,
+      "DownColorB": 194
     },
     {
       "ServiceType": "DEV",
@@ -4403,9 +4403,9 @@
       "UpColorR": 42,
       "UpColorG": 150,
       "UpColorB": 158,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 42,
+      "DownColorG": 150,
+      "DownColorB": 158
     },
     {
       "ServiceType": "DEV",
@@ -4416,9 +4416,9 @@
       "UpColorR": 89,
       "UpColorG": 144,
       "UpColorB": 152,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 89,
+      "DownColorG": 144,
+      "DownColorB": 152
     },
     {
       "ServiceType": "DEV",
@@ -4429,9 +4429,9 @@
       "UpColorR": 55,
       "UpColorG": 76,
       "UpColorB": 77,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 55,
+      "DownColorG": 76,
+      "DownColorB": 77
     },
     {
       "ServiceType": "DEV",
@@ -4442,9 +4442,9 @@
       "UpColorR": 91,
       "UpColorG": 187,
       "UpColorB": 215,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 91,
+      "DownColorG": 187,
+      "DownColorB": 215
     },
     {
       "ServiceType": "DEV",
@@ -4455,9 +4455,9 @@
       "UpColorR": 171,
       "UpColorG": 172,
       "UpColorB": 250,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 171,
+      "DownColorG": 172,
+      "DownColorB": 250
     },
     {
       "ServiceType": "DEV",
@@ -4468,9 +4468,9 @@
       "UpColorR": 97,
       "UpColorG": 113,
       "UpColorB": 165,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 97,
+      "DownColorG": 113,
+      "DownColorB": 165
     },
     {
       "ServiceType": "DEV",
@@ -4481,9 +4481,9 @@
       "UpColorR": 153,
       "UpColorG": 116,
       "UpColorB": 215,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 153,
+      "DownColorG": 116,
+      "DownColorB": 215
     },
     {
       "ServiceType": "DEV",
@@ -4494,9 +4494,9 @@
       "UpColorR": 149,
       "UpColorG": 189,
       "UpColorB": 255,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 149,
+      "DownColorG": 189,
+      "DownColorB": 255
     },
     {
       "ServiceType": "DEV",
@@ -4507,9 +4507,9 @@
       "UpColorR": 200,
       "UpColorG": 174,
       "UpColorB": 228,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 200,
+      "DownColorG": 174,
+      "DownColorB": 228
     },
     {
       "ServiceType": "DEV",
@@ -4520,9 +4520,9 @@
       "UpColorR": 172,
       "UpColorG": 145,
       "UpColorB": 202,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 172,
+      "DownColorG": 145,
+      "DownColorB": 202
     },
     {
       "ServiceType": "DEV",
@@ -4533,9 +4533,9 @@
       "UpColorR": 175,
       "UpColorG": 171,
       "UpColorB": 174,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 175,
+      "DownColorG": 171,
+      "DownColorB": 174
     },
     {
       "ServiceType": "DEV",
@@ -4546,9 +4546,9 @@
       "UpColorR": 198,
       "UpColorG": 225,
       "UpColorB": 255,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 198,
+      "DownColorG": 225,
+      "DownColorB": 255
     },
     {
       "ServiceType": "DEV",
@@ -4559,9 +4559,9 @@
       "UpColorR": 227,
       "UpColorG": 101,
       "UpColorB": 142,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 227,
+      "DownColorG": 101,
+      "DownColorB": 142
     },
     {
       "ServiceType": "DEV",
@@ -4572,9 +4572,9 @@
       "UpColorR": 200,
       "UpColorG": 136,
       "UpColorB": 170,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 200,
+      "DownColorG": 136,
+      "DownColorB": 170
     },
     {
       "ServiceType": "DEV",
@@ -4585,9 +4585,9 @@
       "UpColorR": 233,
       "UpColorG": 206,
       "UpColorB": 192,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 233,
+      "DownColorG": 206,
+      "DownColorB": 192
     },
     {
       "ServiceType": "DEV",
@@ -4598,9 +4598,9 @@
       "UpColorR": 177,
       "UpColorG": 183,
       "UpColorB": 233,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 177,
+      "DownColorG": 183,
+      "DownColorB": 233
     },
     {
       "ServiceType": "DEV",
@@ -4611,9 +4611,9 @@
       "UpColorR": 120,
       "UpColorG": 118,
       "UpColorB": 183,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 120,
+      "DownColorG": 118,
+      "DownColorB": 183
     },
     {
       "ServiceType": "DEV",
@@ -4624,9 +4624,9 @@
       "UpColorR": 254,
       "UpColorG": 115,
       "UpColorB": 138,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 254,
+      "DownColorG": 115,
+      "DownColorB": 138
     },
     {
       "ServiceType": "DEV",
@@ -4637,9 +4637,9 @@
       "UpColorR": 209,
       "UpColorG": 158,
       "UpColorB": 253,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 209,
+      "DownColorG": 158,
+      "DownColorB": 253
     },
     {
       "ServiceType": "DEV",
@@ -4650,9 +4650,9 @@
       "UpColorR": 147,
       "UpColorG": 102,
       "UpColorB": 80,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 147,
+      "DownColorG": 102,
+      "DownColorB": 80
     },
     {
       "ServiceType": "DEV",
@@ -4663,9 +4663,9 @@
       "UpColorR": 255,
       "UpColorG": 219,
       "UpColorB": 136,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 219,
+      "DownColorB": 136
     },
     {
       "ServiceType": "DEV",
@@ -4676,9 +4676,9 @@
       "UpColorR": 255,
       "UpColorG": 195,
       "UpColorB": 235,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 195,
+      "DownColorB": 235
     },
     {
       "ServiceType": "DEV",
@@ -4689,9 +4689,9 @@
       "UpColorR": 150,
       "UpColorG": 95,
       "UpColorB": 180,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 150,
+      "DownColorG": 95,
+      "DownColorB": 180
     },
     {
       "ServiceType": "DEV",
@@ -4715,9 +4715,9 @@
       "UpColorR": 50,
       "UpColorG": 46,
       "UpColorB": 55,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 50,
+      "DownColorG": 46,
+      "DownColorB": 55
     },
     {
       "ServiceType": "DEV",
@@ -4728,9 +4728,9 @@
       "UpColorR": 163,
       "UpColorG": 121,
       "UpColorB": 236,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 163,
+      "DownColorG": 121,
+      "DownColorB": 236
     },
     {
       "ServiceType": "DEV",
@@ -4741,9 +4741,9 @@
       "UpColorR": 171,
       "UpColorG": 94,
       "UpColorB": 96,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 171,
+      "DownColorG": 94,
+      "DownColorB": 96
     },
     {
       "ServiceType": "DEV",
@@ -4767,9 +4767,9 @@
       "UpColorR": 140,
       "UpColorG": 20,
       "UpColorB": 24,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 140,
+      "DownColorG": 20,
+      "DownColorB": 24
     },
     {
       "ServiceType": "DEV",
@@ -4780,9 +4780,9 @@
       "UpColorR": 39,
       "UpColorG": 36,
       "UpColorB": 39,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 39,
+      "DownColorG": 36,
+      "DownColorB": 39
     },
     {
       "ServiceType": "DEV",
@@ -4793,9 +4793,9 @@
       "UpColorR": 255,
       "UpColorG": 220,
       "UpColorB": 190,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 220,
+      "DownColorB": 190
     },
     {
       "ServiceType": "DEV",
@@ -4806,9 +4806,9 @@
       "UpColorR": 127,
       "UpColorG": 176,
       "UpColorB": 29,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 127,
+      "DownColorG": 176,
+      "DownColorB": 29
     },
     {
       "ServiceType": "DEV",
@@ -4819,9 +4819,9 @@
       "UpColorR": 87,
       "UpColorG": 132,
       "UpColorB": 4,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 87,
+      "DownColorG": 132,
+      "DownColorB": 4
     },
     {
       "ServiceType": "DEV",
@@ -4832,9 +4832,9 @@
       "UpColorR": 255,
       "UpColorG": 249,
       "UpColorB": 235,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 249,
+      "DownColorB": 235
     },
     {
       "ServiceType": "DEV",
@@ -4845,9 +4845,9 @@
       "UpColorR": 255,
       "UpColorG": 143,
       "UpColorB": 163,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 143,
+      "DownColorB": 163
     },
     {
       "ServiceType": "DEV",
@@ -4858,9 +4858,9 @@
       "UpColorR": 197,
       "UpColorG": 160,
       "UpColorB": 146,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 197,
+      "DownColorG": 160,
+      "DownColorB": 146
     },
     {
       "ServiceType": "DEV",
@@ -4871,9 +4871,9 @@
       "UpColorR": 239,
       "UpColorG": 216,
       "UpColorB": 211,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 239,
+      "DownColorG": 216,
+      "DownColorB": 211
     },
     {
       "ServiceType": "DEV",
@@ -4897,9 +4897,9 @@
       "UpColorR": 170,
       "UpColorG": 192,
       "UpColorB": 255,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 170,
+      "DownColorG": 192,
+      "DownColorB": 255
     },
     {
       "ServiceType": "DEV",
@@ -4910,9 +4910,9 @@
       "UpColorR": 88,
       "UpColorG": 86,
       "UpColorB": 164,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 88,
+      "DownColorG": 86,
+      "DownColorB": 164
     },
     {
       "ServiceType": "DEV",
@@ -4923,9 +4923,9 @@
       "UpColorR": 166,
       "UpColorG": 187,
       "UpColorB": 129,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 166,
+      "DownColorG": 187,
+      "DownColorB": 129
     },
     {
       "ServiceType": "DEV",
@@ -4936,9 +4936,9 @@
       "UpColorR": 255,
       "UpColorG": 179,
       "UpColorB": 191,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 179,
+      "DownColorB": 191
     },
     {
       "ServiceType": "DEV",
@@ -4949,9 +4949,9 @@
       "UpColorR": 255,
       "UpColorG": 136,
       "UpColorB": 185,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 255,
+      "DownColorG": 136,
+      "DownColorB": 185
     },
     {
       "ServiceType": "DEV",
@@ -4962,9 +4962,9 @@
       "UpColorR": 245,
       "UpColorG": 94,
       "UpColorB": 160,
-      "DownColorR": 0,
-      "DownColorG": 0,
-      "DownColorB": 0
+      "DownColorR": 245,
+      "DownColorG": 94,
+      "DownColorB": 160
     },
     {
       "ServiceType": "DEV",
@@ -5699,6 +5699,55 @@
       "Game": 3,
       "ColorID": 108,
       "ColorGroupID": 11
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100,
+      "Game": 3,
+      "ColorID": 194,
+      "ColorGroupID": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 102,
+      "Game": 3,
+      "ColorID": 154,
+      "ColorGroupID": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 103,
+      "Game": 3,
+      "ColorID": 174,
+      "ColorGroupID": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 104,
+      "Game": 3,
+      "ColorID": 199,
+      "ColorGroupID": 7
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 105,
+      "Game": 3,
+      "ColorID": 219,
+      "ColorGroupID": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 106,
+      "Game": 3,
+      "ColorID": 239,
+      "ColorGroupID": 6
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 107,
+      "Game": 3,
+      "ColorID": 251,
+      "ColorGroupID": 8
     }
   ],
   "SkinColor": [

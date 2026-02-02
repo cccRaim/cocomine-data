@@ -374,15 +374,15 @@
       "Game": 3,
       "RwdType": 2,
       "RewardItemID": 2,
-      "RewardValue": 5
+      "RewardValue": 15
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
       "Game": 3,
-      "RwdType": 2,
-      "RewardItemID": 2,
-      "RewardValue": 10
+      "RwdType": 20,
+      "RewardItemID": 100315,
+      "RewardValue": 1
     }
   ],
   "QuestRwd": [
@@ -513,6 +513,38 @@
       "QuestRewardType": 20,
       "RewardID": 100099,
       "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000123,
+      "Game": 2,
+      "QuestRewardType": 28,
+      "RewardID": 0,
+      "RewardValue": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000124,
+      "Game": 2,
+      "QuestRewardType": 28,
+      "RewardID": 0,
+      "RewardValue": 4
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000125,
+      "Game": 2,
+      "QuestRewardType": 20,
+      "RewardID": 649,
+      "RewardValue": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1000126,
+      "Game": 2,
+      "QuestRewardType": 20,
+      "RewardID": 649,
+      "RewardValue": 3
     }
   ],
   "CollectionRwd": [
@@ -2175,6 +2207,76 @@
       "RwdType": 2,
       "RewardID": 0,
       "RewardCount": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 222,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 5,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 223,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 6,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 224,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 7,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 225,
+      "Game": 3,
+      "RwdGroupID": 3007,
+      "CollectionFillValue": 8,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 70
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 226,
+      "Game": 3,
+      "RwdGroupID": 15,
+      "CollectionFillValue": 1,
+      "RwdType": 1,
+      "RewardID": 0,
+      "RewardCount": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 227,
+      "Game": 3,
+      "RwdGroupID": 15,
+      "CollectionFillValue": 10,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 100
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 228,
+      "Game": 3,
+      "RwdGroupID": 15,
+      "CollectionFillValue": 20,
+      "RwdType": 2,
+      "RewardID": 0,
+      "RewardCount": 300
     }
   ],
   "PlazaGachaRwd": [
@@ -3229,16 +3331,16 @@
       "MissionClearCount": 5,
       "RwdType": 2,
       "RewardID": 2,
-      "RewardCount": 3
+      "RewardCount": 8
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
       "Game": 3,
       "MissionClearCount": 9,
-      "RwdType": 2,
-      "RewardID": 2,
-      "RewardCount": 5
+      "RwdType": 20,
+      "RewardID": 100315,
+      "RewardCount": 1
     }
   ],
   "EventMissionRwd": [

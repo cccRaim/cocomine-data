@@ -88,7 +88,7 @@
       "IsMainHouse": false,
       "IsNPCSquare": false,
       "IsLock": true,
-      "OpenLevel": 6,
+      "OpenLevel": 1,
       "TutorialID": 0
     },
     {
@@ -159,6 +159,14 @@
       "Game": 2,
       "GroupID": 101,
       "NPCID": 5,
+      "AnimID": "happy02"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 3,
+      "Game": 2,
+      "GroupID": 101,
+      "NPCID": 4,
       "AnimID": "happy02"
     }
   ],

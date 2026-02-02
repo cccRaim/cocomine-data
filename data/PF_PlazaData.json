@@ -56,13 +56,13 @@
       "ServiceType": "DEV",
       "Key": 6,
       "Game": 2,
-      "FieldName": "Field_2005",
+      "FieldName": "Playland",
       "FieldID": 2005,
-      "PlazaType": 4,
+      "PlazaType": 7,
       "PlazaAddress": 6,
       "FieldDesc": "Field_2005_Desc_CC",
       "IsPlazaPopup": true,
-      "PlazaImage": "Plaza5_image",
+      "PlazaImage": "Plaza07_image",
       "Sortindex": 5
     }
   ],

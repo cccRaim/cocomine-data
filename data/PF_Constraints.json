@@ -354,7 +354,7 @@
       "ServiceType": "DEV",
       "Name": "JoyShop_RandomGoods_Num ",
       "Game": 3,
-      "Value": 10,
+      "Value": 3,
       "Context": "(개), 조이샵에서 판매될 랜덤 타입 상품 개수"
     },
     {
@@ -934,7 +934,7 @@
     {
       "ServiceType": "DEV",
       "Name": "HouseOpenLevel",
-      "Game": 3,
+      "Game": 2,
       "Value": 5,
       "Context": "하우스로 입장 가능해지는 레벨"
     },

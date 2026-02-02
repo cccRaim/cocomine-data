@@ -93,9 +93,9 @@
     {
       "ServiceType": "DEV",
       "Key": 28,
-      "Game": 3,
+      "Game": 2,
       "MoneyName": "MoneyItem_11",
-      "MoneyType": 5,
+      "MoneyType": 2,
       "IconID": "icon_play_ticket",
       "ItemCoolTime": 0,
       "OpenTime": "2023-03-02T05:50:10 +09:00"
@@ -2241,6 +2241,406 @@
       "LevelID": 50,
       "MoneyID": 9,
       "MaxCnt": 17
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 350,
+      "Game": 2,
+      "LevelID": 1,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 351,
+      "Game": 2,
+      "LevelID": 2,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 352,
+      "Game": 2,
+      "LevelID": 3,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 353,
+      "Game": 2,
+      "LevelID": 4,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 354,
+      "Game": 2,
+      "LevelID": 5,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 355,
+      "Game": 2,
+      "LevelID": 6,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 356,
+      "Game": 2,
+      "LevelID": 7,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 357,
+      "Game": 2,
+      "LevelID": 8,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 358,
+      "Game": 2,
+      "LevelID": 9,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 359,
+      "Game": 2,
+      "LevelID": 10,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 360,
+      "Game": 2,
+      "LevelID": 11,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 361,
+      "Game": 2,
+      "LevelID": 12,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 362,
+      "Game": 2,
+      "LevelID": 13,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 363,
+      "Game": 2,
+      "LevelID": 14,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 364,
+      "Game": 2,
+      "LevelID": 15,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 365,
+      "Game": 2,
+      "LevelID": 16,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 366,
+      "Game": 2,
+      "LevelID": 17,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 367,
+      "Game": 2,
+      "LevelID": 18,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 368,
+      "Game": 2,
+      "LevelID": 19,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 369,
+      "Game": 2,
+      "LevelID": 20,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 370,
+      "Game": 2,
+      "LevelID": 21,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 371,
+      "Game": 2,
+      "LevelID": 22,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 372,
+      "Game": 2,
+      "LevelID": 23,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 373,
+      "Game": 2,
+      "LevelID": 24,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 374,
+      "Game": 2,
+      "LevelID": 25,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 375,
+      "Game": 2,
+      "LevelID": 26,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 376,
+      "Game": 2,
+      "LevelID": 27,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 377,
+      "Game": 2,
+      "LevelID": 28,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 378,
+      "Game": 2,
+      "LevelID": 29,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 379,
+      "Game": 2,
+      "LevelID": 30,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 380,
+      "Game": 2,
+      "LevelID": 31,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 381,
+      "Game": 2,
+      "LevelID": 32,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 382,
+      "Game": 2,
+      "LevelID": 33,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 383,
+      "Game": 2,
+      "LevelID": 34,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 384,
+      "Game": 2,
+      "LevelID": 35,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 385,
+      "Game": 2,
+      "LevelID": 36,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 386,
+      "Game": 2,
+      "LevelID": 37,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 387,
+      "Game": 2,
+      "LevelID": 38,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 388,
+      "Game": 2,
+      "LevelID": 39,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 389,
+      "Game": 2,
+      "LevelID": 40,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 390,
+      "Game": 2,
+      "LevelID": 41,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 391,
+      "Game": 2,
+      "LevelID": 42,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 392,
+      "Game": 2,
+      "LevelID": 43,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 393,
+      "Game": 2,
+      "LevelID": 44,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 394,
+      "Game": 2,
+      "LevelID": 45,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 395,
+      "Game": 2,
+      "LevelID": 46,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 396,
+      "Game": 2,
+      "LevelID": 47,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 397,
+      "Game": 2,
+      "LevelID": 48,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 398,
+      "Game": 2,
+      "LevelID": 49,
+      "MoneyID": 28,
+      "MaxCnt": 5
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 399,
+      "Game": 2,
+      "LevelID": 50,
+      "MoneyID": 28,
+      "MaxCnt": 5
     }
   ],
   "MoneyColor": [

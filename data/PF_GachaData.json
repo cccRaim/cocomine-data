@@ -141,7 +141,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 54,
       "CharacterInfo2": 0,
-      "SortIndex": 10,
+      "SortIndex": 7,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -149,8 +149,8 @@
       "IsOnShopPopup": false,
       "IconTag": 0,
       "GachaDesc": "Gahca_Desc_CC",
-      "StartDate": "2026-02-08T15:00:00 ",
-      "EndDate": "2026-02-22T14:59:59 "
+      "StartDate": "2026-02-18T15:00:00 ",
+      "EndDate": "2026-03-04T14:59:59 "
     },
     {
       "ServiceType": "DEV",
@@ -255,7 +255,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 17,
       "CharacterInfo2": 18,
-      "SortIndex": 20,
+      "SortIndex": 11,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -263,8 +263,8 @@
       "IsOnShopPopup": false,
       "IconTag": 0,
       "GachaDesc": "Gahca_Desc_CC",
-      "StartDate": "2025-11-16T15:00:00 ",
-      "EndDate": "2025-11-30T14:59:59 "
+      "StartDate": "2026-02-02T15:00:00 ",
+      "EndDate": "2026-02-16T14:59:59 "
     },
     {
       "ServiceType": "DEV",
@@ -483,7 +483,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 29,
       "CharacterInfo2": 0,
-      "SortIndex": 12,
+      "SortIndex": 13,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -559,7 +559,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 31,
       "CharacterInfo2": 32,
-      "SortIndex": 11,
+      "SortIndex": 12,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -787,7 +787,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 48,
       "CharacterInfo2": 49,
-      "SortIndex": 15,
+      "SortIndex": 20,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -901,7 +901,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 0,
       "CharacterInfo2": 0,
-      "SortIndex": 14,
+      "SortIndex": 15,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -1205,7 +1205,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 81,
       "CharacterInfo2": 82,
-      "SortIndex": 7,
+      "SortIndex": 10,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -1213,8 +1213,8 @@
       "IsOnShopPopup": false,
       "IconTag": 1,
       "GachaDesc": "Gahca_Desc_CC",
-      "StartDate": "2026-02-18T15:00:00 ",
-      "EndDate": "2026-03-04T14:59:59 "
+      "StartDate": "2026-02-09T15:00:00 ",
+      "EndDate": "2026-02-23T14:59:59 "
     },
     {
       "ServiceType": "DEV",
@@ -1243,7 +1243,7 @@
       "FreeDrawCoolTime": 0,
       "CharacterInfo1": 83,
       "CharacterInfo2": 84,
-      "SortIndex": 13,
+      "SortIndex": 14,
       "IsTicketAvailable": true,
       "TicketType": 24,
       "TicketItemID": 483,
@@ -18529,7 +18529,7 @@
       "MakeupPreset": 1,
       "SkinColor": 13,
       "FaceType": 2,
-      "AnimType": 16,
+      "AnimType": 104,
       "EquipItems": [
         1000604,
         1000606,
@@ -18552,7 +18552,7 @@
       "MakeupPreset": 4,
       "SkinColor": 13,
       "FaceType": 2,
-      "AnimType": 20,
+      "AnimType": 14,
       "EquipItems": [
         1000605,
         1000610,

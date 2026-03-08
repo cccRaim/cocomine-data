@@ -1119,7 +1119,7 @@
       "CollectionName": "Gacha_31",
       "CollectionDesc": "Gacha_31_Desc",
       "IconTag": 0,
-      "SortIndex": 21,
+      "SortIndex": 22,
       "RwdGroupID": 8,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
@@ -1194,11 +1194,11 @@
       "CollectionName": "Gacha_10",
       "CollectionDesc": "Gacha_10_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 26,
       "RwdGroupID": 12,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-03-11T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1209,11 +1209,11 @@
       "CollectionName": "Gacha_13",
       "CollectionDesc": "Gacha_13_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 28,
       "RwdGroupID": 12,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-03-23T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1239,11 +1239,11 @@
       "CollectionName": "Gacha_16",
       "CollectionDesc": "Gacha_16_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 27,
       "RwdGroupID": 11,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-03-16T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1314,11 +1314,11 @@
       "CollectionName": "Gacha_22",
       "CollectionDesc": "Gacha_22_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 25,
       "RwdGroupID": 8,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-03-08T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1329,11 +1329,11 @@
       "CollectionName": "Gacha_23",
       "CollectionDesc": "Gacha_23_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 23,
       "RwdGroupID": 6,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-02-23T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1389,11 +1389,11 @@
       "CollectionName": "Gacha_38",
       "CollectionDesc": "Gacha_38_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 24,
       "RwdGroupID": 6,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-12-31T15:00:00"
+      "StartDate": "2026-03-02T15:00:00"
     },
     {
       "ServiceType": "DEV",
@@ -1719,7 +1719,7 @@
       "CollectionName": "Gacha_50_CC",
       "CollectionDesc": "Gacha_50_Desc",
       "IconTag": 0,
-      "SortIndex": 22,
+      "SortIndex": 21,
       "RwdGroupID": 8,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
@@ -10257,7 +10257,7 @@
       "Key": 896,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 1,
+      "UniqueNum": 9,
       "ItemID": 100498,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10267,7 +10267,7 @@
       "Key": 897,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 2,
+      "UniqueNum": 10,
       "ItemID": 100499,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10277,7 +10277,7 @@
       "Key": 898,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 3,
+      "UniqueNum": 2,
       "ItemID": 100500,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10287,7 +10287,7 @@
       "Key": 899,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 4,
+      "UniqueNum": 1,
       "ItemID": 100501,
       "ItemType": 20,
       "IsThumbnail": 1
@@ -10297,7 +10297,7 @@
       "Key": 900,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 5,
+      "UniqueNum": 7,
       "ItemID": 100502,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10307,7 +10307,7 @@
       "Key": 901,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 6,
+      "UniqueNum": 13,
       "ItemID": 100503,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10317,7 +10317,7 @@
       "Key": 902,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 7,
+      "UniqueNum": 11,
       "ItemID": 100504,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10327,7 +10327,7 @@
       "Key": 903,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 8,
+      "UniqueNum": 15,
       "ItemID": 100505,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10337,7 +10337,7 @@
       "Key": 904,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 9,
+      "UniqueNum": 3,
       "ItemID": 100506,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10347,7 +10347,7 @@
       "Key": 905,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 10,
+      "UniqueNum": 8,
       "ItemID": 100507,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10357,7 +10357,7 @@
       "Key": 906,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 11,
+      "UniqueNum": 4,
       "ItemID": 100508,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10367,7 +10367,7 @@
       "Key": 907,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 12,
+      "UniqueNum": 5,
       "ItemID": 100509,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10377,7 +10377,7 @@
       "Key": 908,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 13,
+      "UniqueNum": 6,
       "ItemID": 100510,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10387,7 +10387,7 @@
       "Key": 909,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 14,
+      "UniqueNum": 17,
       "ItemID": 100511,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10397,7 +10397,7 @@
       "Key": 910,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 15,
+      "UniqueNum": 18,
       "ItemID": 100512,
       "ItemType": 20,
       "IsThumbnail": 1
@@ -10407,7 +10407,7 @@
       "Key": 911,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 16,
+      "UniqueNum": 12,
       "ItemID": 100513,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10417,7 +10417,7 @@
       "Key": 912,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 17,
+      "UniqueNum": 16,
       "ItemID": 100514,
       "ItemType": 20,
       "IsThumbnail": 0
@@ -10427,7 +10427,7 @@
       "Key": 913,
       "Game": 3,
       "CollectionID": 2318,
-      "UniqueNum": 18,
+      "UniqueNum": 14,
       "ItemID": 100515,
       "ItemType": 20,
       "IsThumbnail": 0

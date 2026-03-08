@@ -8602,7 +8602,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 6,
+      "SortIndex": 8,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-02-15T15:00:00",
@@ -8704,11 +8704,11 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 10,
+      "SortIndex": 7,
       "IconTag": 0,
       "IsDate": true,
-      "StartDate": "2025-11-25T15:00:00",
-      "EndDate": "2026-01-06T14:59:59"
+      "StartDate": "2026-03-15T00:00:00",
+      "EndDate": "2026-04-26T14:59:59"
     },
     {
       "ServiceType": "DEV",
@@ -8874,7 +8874,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 9,
+      "SortIndex": 20,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2025-12-14T15:00:00",
@@ -8891,7 +8891,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 7,
+      "SortIndex": 9,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-01-25T15:00:00",
@@ -8908,7 +8908,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 8,
+      "SortIndex": 10,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-01-05T15:00:00",
@@ -13534,7 +13534,7 @@
       "BuyPriceValue": 273,
       "SaleRate": 0,
       "DiscountedValue": 273,
-      "SortIndex": 1
+      "SortIndex": 9
     },
     {
       "ServiceType": "DEV",
@@ -13549,7 +13549,7 @@
       "BuyPriceValue": 273,
       "SaleRate": 0,
       "DiscountedValue": 273,
-      "SortIndex": 2
+      "SortIndex": 10
     },
     {
       "ServiceType": "DEV",
@@ -13564,7 +13564,7 @@
       "BuyPriceValue": 454,
       "SaleRate": 0,
       "DiscountedValue": 454,
-      "SortIndex": 3
+      "SortIndex": 2
     },
     {
       "ServiceType": "DEV",
@@ -13579,7 +13579,7 @@
       "BuyPriceValue": 658,
       "SaleRate": 0,
       "DiscountedValue": 658,
-      "SortIndex": 4
+      "SortIndex": 1
     },
     {
       "ServiceType": "DEV",
@@ -13594,7 +13594,7 @@
       "BuyPriceValue": 356,
       "SaleRate": 0,
       "DiscountedValue": 356,
-      "SortIndex": 5
+      "SortIndex": 7
     },
     {
       "ServiceType": "DEV",
@@ -13609,7 +13609,7 @@
       "BuyPriceValue": 179,
       "SaleRate": 0,
       "DiscountedValue": 179,
-      "SortIndex": 6
+      "SortIndex": 13
     },
     {
       "ServiceType": "DEV",
@@ -13624,7 +13624,7 @@
       "BuyPriceValue": 288,
       "SaleRate": 0,
       "DiscountedValue": 288,
-      "SortIndex": 7
+      "SortIndex": 11
     },
     {
       "ServiceType": "DEV",
@@ -13639,7 +13639,7 @@
       "BuyPriceValue": 273,
       "SaleRate": 0,
       "DiscountedValue": 273,
-      "SortIndex": 8
+      "SortIndex": 15
     },
     {
       "ServiceType": "DEV",
@@ -13654,7 +13654,7 @@
       "BuyPriceValue": 317,
       "SaleRate": 0,
       "DiscountedValue": 317,
-      "SortIndex": 9
+      "SortIndex": 3
     },
     {
       "ServiceType": "DEV",
@@ -13669,7 +13669,7 @@
       "BuyPriceValue": 273,
       "SaleRate": 0,
       "DiscountedValue": 273,
-      "SortIndex": 10
+      "SortIndex": 8
     },
     {
       "ServiceType": "DEV",
@@ -13684,7 +13684,7 @@
       "BuyPriceValue": 464,
       "SaleRate": 0,
       "DiscountedValue": 464,
-      "SortIndex": 11
+      "SortIndex": 4
     },
     {
       "ServiceType": "DEV",
@@ -13699,7 +13699,7 @@
       "BuyPriceValue": 464,
       "SaleRate": 0,
       "DiscountedValue": 464,
-      "SortIndex": 12
+      "SortIndex": 5
     },
     {
       "ServiceType": "DEV",
@@ -13714,7 +13714,7 @@
       "BuyPriceValue": 510,
       "SaleRate": 0,
       "DiscountedValue": 510,
-      "SortIndex": 13
+      "SortIndex": 6
     },
     {
       "ServiceType": "DEV",
@@ -13729,7 +13729,7 @@
       "BuyPriceValue": 500,
       "SaleRate": 0,
       "DiscountedValue": 500,
-      "SortIndex": 14
+      "SortIndex": 17
     },
     {
       "ServiceType": "DEV",
@@ -13744,7 +13744,7 @@
       "BuyPriceValue": 500,
       "SaleRate": 0,
       "DiscountedValue": 500,
-      "SortIndex": 15
+      "SortIndex": 18
     },
     {
       "ServiceType": "DEV",
@@ -13759,7 +13759,7 @@
       "BuyPriceValue": 257,
       "SaleRate": 0,
       "DiscountedValue": 257,
-      "SortIndex": 16
+      "SortIndex": 12
     },
     {
       "ServiceType": "DEV",
@@ -13774,7 +13774,7 @@
       "BuyPriceValue": 179,
       "SaleRate": 0,
       "DiscountedValue": 179,
-      "SortIndex": 17
+      "SortIndex": 16
     },
     {
       "ServiceType": "DEV",
@@ -13789,7 +13789,7 @@
       "BuyPriceValue": 510,
       "SaleRate": 0,
       "DiscountedValue": 510,
-      "SortIndex": 18
+      "SortIndex": 14
     },
     {
       "ServiceType": "DEV",
@@ -15530,6 +15530,36 @@
       "SaleRate": 0,
       "DiscountedValue": 273,
       "SortIndex": 15
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10541,
+      "Game": 2,
+      "SetID": 18,
+      "ItemID": 100516,
+      "RewardType": 20,
+      "BuyPriceType": 4,
+      "PriceItemID": 0,
+      "ItemQnty": 1,
+      "BuyPriceValue": 500,
+      "SaleRate": 0,
+      "DiscountedValue": 500,
+      "SortIndex": 19
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10542,
+      "Game": 2,
+      "SetID": 18,
+      "ItemID": 100517,
+      "RewardType": 20,
+      "BuyPriceType": 4,
+      "PriceItemID": 0,
+      "ItemQnty": 1,
+      "BuyPriceValue": 500,
+      "SaleRate": 0,
+      "DiscountedValue": 500,
+      "SortIndex": 20
     }
   ],
   "Kiosk": [
@@ -15784,7 +15814,7 @@
       "EndDate": "2026-10-16T14:59:59"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
       "Game": 2,
       "Nation": 15,
@@ -47721,6 +47751,66 @@
       "MarketType": 1,
       "BuyPriceValue": 30000,
       "ProductID": "cc_furniture_18"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 495,
+      "Game": 2,
+      "PackageRwdGroupID": 167,
+      "GroupID": 241,
+      "MarketType": 0,
+      "BuyPriceValue": 5900,
+      "ProductID": "a_cc_playcoco_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 496,
+      "Game": 2,
+      "PackageRwdGroupID": 167,
+      "GroupID": 241,
+      "MarketType": 1,
+      "BuyPriceValue": 5900,
+      "ProductID": "cc_playcoco_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 497,
+      "Game": 2,
+      "PackageRwdGroupID": 168,
+      "GroupID": 242,
+      "MarketType": 0,
+      "BuyPriceValue": 9900,
+      "ProductID": "a_cc_playcoco_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 498,
+      "Game": 2,
+      "PackageRwdGroupID": 168,
+      "GroupID": 242,
+      "MarketType": 1,
+      "BuyPriceValue": 9900,
+      "ProductID": "cc_playcoco_2"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 499,
+      "Game": 2,
+      "PackageRwdGroupID": 20,
+      "GroupID": 105,
+      "MarketType": 0,
+      "BuyPriceValue": 30000,
+      "ProductID": "a_cc_table_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 500,
+      "Game": 2,
+      "PackageRwdGroupID": 20,
+      "GroupID": 105,
+      "MarketType": 1,
+      "BuyPriceValue": 30000,
+      "ProductID": "cc_table_1"
     }
   ],
   "PackageRwd": [

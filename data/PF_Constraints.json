@@ -1019,7 +1019,7 @@
       "ServiceType": "DEV",
       "Name": "Play_Freeze_Time",
       "Game": 3,
-      "Value": 5,
+      "Value": 3,
       "Context": "하우스 혹은 가든에서 화면이 n(s) 이상 멈춰있을 경우, 숏컷 팝업창 출력 "
     },
     {
@@ -1049,6 +1049,13 @@
       "Game": 3,
       "Value": 1440,
       "Context": "(min)분 후에 쓰다듬기 가능"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Shortcut_Level_Limit",
+      "Game": 3,
+      "Value": 10,
+      "Context": "숏컷 기능은 해당 레벨 이하까지만 출력한다."
     }
   ]
 }

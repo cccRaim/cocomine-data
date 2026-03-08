@@ -13295,6 +13295,198 @@
       "ConsumeMatGroupID": 512,
       "MatItemID": 100526,
       "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1776,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 463,
+      "MatItemCnt": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1777,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 736,
+      "MatItemCnt": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1778,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 100715,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1779,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 100714,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1780,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 100717,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1781,
+      "Game": 3,
+      "ConsumeMatGroupID": 513,
+      "MatItemID": 234,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1782,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 463,
+      "MatItemCnt": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1783,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 736,
+      "MatItemCnt": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1784,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 100101,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1785,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 100206,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1786,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 100125,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1787,
+      "Game": 3,
+      "ConsumeMatGroupID": 514,
+      "MatItemID": 238,
+      "MatItemCnt": 40
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1788,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 463,
+      "MatItemCnt": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1789,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 736,
+      "MatItemCnt": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1790,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 100713,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1791,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 100110,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1792,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 100105,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1793,
+      "Game": 3,
+      "ConsumeMatGroupID": 515,
+      "MatItemID": 235,
+      "MatItemCnt": 50
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1794,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 463,
+      "MatItemCnt": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1795,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 736,
+      "MatItemCnt": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1796,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 53,
+      "MatItemCnt": 99
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1797,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 100712,
+      "MatItemCnt": 30
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1798,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 100716,
+      "MatItemCnt": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1799,
+      "Game": 3,
+      "ConsumeMatGroupID": 516,
+      "MatItemID": 237,
+      "MatItemCnt": 60
     }
   ]
 }

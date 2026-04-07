@@ -398,7 +398,7 @@
       "Game": 3,
       "BoxID": 454,
       "RwdType": 20,
-      "ItemID": 0,
+      "ItemID": 442,
       "ItemCount": 1,
       "Rate": 250
     },
@@ -638,7 +638,7 @@
       "Game": 3,
       "BoxID": 453,
       "RwdType": 20,
-      "ItemID": 0,
+      "ItemID": 442,
       "ItemCount": 1,
       "Rate": 300
     },

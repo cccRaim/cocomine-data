@@ -1299,11 +1299,11 @@
       "CollectionName": "Gacha_21",
       "CollectionDesc": "Gacha_21_Desc",
       "IconTag": 0,
-      "SortIndex": 100,
+      "SortIndex": 29,
       "RwdGroupID": 6,
       "ThumbnailIcon": "",
       "CollectionVersion": 3,
-      "StartDate": "2030-10-29T15:00:00"
+      "StartDate": "2026-04-06T15:00:00"
     },
     {
       "ServiceType": "DEV",

@@ -739,7 +739,7 @@
       "ItemID": 24,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -751,7 +751,7 @@
       "ItemID": 27,
       "ItemValue": 5,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -763,7 +763,7 @@
       "ItemID": 40,
       "ItemValue": 5,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -775,7 +775,7 @@
       "ItemID": 62,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -787,7 +787,7 @@
       "ItemID": 32,
       "ItemValue": 5,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -799,7 +799,7 @@
       "ItemID": 211,
       "ItemValue": 5,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -811,7 +811,7 @@
       "ItemID": 213,
       "ItemValue": 5,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -823,7 +823,7 @@
       "ItemID": 81,
       "ItemValue": 5,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -835,7 +835,7 @@
       "ItemID": 212,
       "ItemValue": 5,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -847,7 +847,7 @@
       "ItemID": 37,
       "ItemValue": 5,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -859,7 +859,7 @@
       "ItemID": 31,
       "ItemValue": 5,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -871,7 +871,7 @@
       "ItemID": 48,
       "ItemValue": 5,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -883,7 +883,7 @@
       "ItemID": 53,
       "ItemValue": 5,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -895,7 +895,7 @@
       "ItemID": 68,
       "ItemValue": 5,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -907,7 +907,7 @@
       "ItemID": 218,
       "ItemValue": 5,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -919,7 +919,7 @@
       "ItemID": 102,
       "ItemValue": 5,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -931,7 +931,7 @@
       "ItemID": 34,
       "ItemValue": 5,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -943,7 +943,7 @@
       "ItemID": 91,
       "ItemValue": 5,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -955,7 +955,7 @@
       "ItemID": 219,
       "ItemValue": 5,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -967,7 +967,7 @@
       "ItemID": 100709,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -979,7 +979,7 @@
       "ItemID": 39,
       "ItemValue": 5,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -991,7 +991,7 @@
       "ItemID": 61,
       "ItemValue": 5,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1003,7 +1003,7 @@
       "ItemID": 74,
       "ItemValue": 5,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1015,7 +1015,7 @@
       "ItemID": 222,
       "ItemValue": 3,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1027,7 +1027,7 @@
       "ItemID": 63,
       "ItemValue": 3,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1039,7 +1039,7 @@
       "ItemID": 64,
       "ItemValue": 3,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1051,7 +1051,7 @@
       "ItemID": 54,
       "ItemValue": 3,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1063,7 +1063,7 @@
       "ItemID": 59,
       "ItemValue": 3,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1075,7 +1075,7 @@
       "ItemID": 71,
       "ItemValue": 3,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1087,7 +1087,7 @@
       "ItemID": 77,
       "ItemValue": 3,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1099,7 +1099,7 @@
       "ItemID": 80,
       "ItemValue": 3,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1111,7 +1111,7 @@
       "ItemID": 232,
       "ItemValue": 3,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1123,7 +1123,7 @@
       "ItemID": 82,
       "ItemValue": 3,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1135,7 +1135,7 @@
       "ItemID": 92,
       "ItemValue": 3,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1147,7 +1147,7 @@
       "ItemID": 88,
       "ItemValue": 3,
       "RequestMinLV": 38,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1159,7 +1159,7 @@
       "ItemID": 29,
       "ItemValue": 3,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1171,7 +1171,7 @@
       "ItemID": 36,
       "ItemValue": 3,
       "RequestMinLV": 7,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1183,7 +1183,7 @@
       "ItemID": 51,
       "ItemValue": 3,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1195,7 +1195,7 @@
       "ItemID": 46,
       "ItemValue": 3,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1207,7 +1207,7 @@
       "ItemID": 245,
       "ItemValue": 3,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1219,7 +1219,7 @@
       "ItemID": 246,
       "ItemValue": 3,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1231,7 +1231,7 @@
       "ItemID": 248,
       "ItemValue": 3,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1243,7 +1243,7 @@
       "ItemID": 100088,
       "ItemValue": 3,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1255,7 +1255,7 @@
       "ItemID": 100089,
       "ItemValue": 3,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1267,7 +1267,7 @@
       "ItemID": 100090,
       "ItemValue": 1,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1279,7 +1279,7 @@
       "ItemID": 100091,
       "ItemValue": 1,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1291,7 +1291,7 @@
       "ItemID": 100092,
       "ItemValue": 2,
       "RequestMinLV": 2,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1303,7 +1303,7 @@
       "ItemID": 100093,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1315,7 +1315,7 @@
       "ItemID": 100094,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1327,7 +1327,7 @@
       "ItemID": 100095,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1339,7 +1339,7 @@
       "ItemID": 100096,
       "ItemValue": 1,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1351,7 +1351,7 @@
       "ItemID": 100097,
       "ItemValue": 2,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1363,7 +1363,7 @@
       "ItemID": 100098,
       "ItemValue": 2,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1375,7 +1375,7 @@
       "ItemID": 100099,
       "ItemValue": 1,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1387,7 +1387,7 @@
       "ItemID": 100100,
       "ItemValue": 2,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1399,7 +1399,7 @@
       "ItemID": 100101,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1411,7 +1411,7 @@
       "ItemID": 100102,
       "ItemValue": 1,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1423,7 +1423,7 @@
       "ItemID": 100103,
       "ItemValue": 2,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1435,7 +1435,7 @@
       "ItemID": 100104,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1447,7 +1447,7 @@
       "ItemID": 100105,
       "ItemValue": 2,
       "RequestMinLV": 7,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1459,7 +1459,7 @@
       "ItemID": 100106,
       "ItemValue": 2,
       "RequestMinLV": 7,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1471,7 +1471,7 @@
       "ItemID": 100107,
       "ItemValue": 2,
       "RequestMinLV": 2,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1483,7 +1483,7 @@
       "ItemID": 100108,
       "ItemValue": 2,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1495,7 +1495,7 @@
       "ItemID": 100109,
       "ItemValue": 2,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1507,7 +1507,7 @@
       "ItemID": 100110,
       "ItemValue": 1,
       "RequestMinLV": 4,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1519,7 +1519,7 @@
       "ItemID": 100712,
       "ItemValue": 2,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1531,7 +1531,7 @@
       "ItemID": 100713,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1543,7 +1543,7 @@
       "ItemID": 100714,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1555,7 +1555,7 @@
       "ItemID": 100715,
       "ItemValue": 1,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1567,7 +1567,7 @@
       "ItemID": 100716,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1579,7 +1579,7 @@
       "ItemID": 100717,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1591,7 +1591,7 @@
       "ItemID": 100117,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1603,7 +1603,7 @@
       "ItemID": 100118,
       "ItemValue": 2,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1615,7 +1615,7 @@
       "ItemID": 100119,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1627,7 +1627,7 @@
       "ItemID": 100120,
       "ItemValue": 2,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1639,7 +1639,7 @@
       "ItemID": 100121,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1651,7 +1651,7 @@
       "ItemID": 100122,
       "ItemValue": 2,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1663,7 +1663,7 @@
       "ItemID": 100123,
       "ItemValue": 2,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1675,7 +1675,7 @@
       "ItemID": 100124,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1687,7 +1687,7 @@
       "ItemID": 100125,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1699,7 +1699,7 @@
       "ItemID": 100126,
       "ItemValue": 1,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1711,7 +1711,7 @@
       "ItemID": 100127,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1723,7 +1723,7 @@
       "ItemID": 100128,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1735,7 +1735,7 @@
       "ItemID": 100129,
       "ItemValue": 2,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1747,7 +1747,7 @@
       "ItemID": 100130,
       "ItemValue": 1,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1759,7 +1759,7 @@
       "ItemID": 100131,
       "ItemValue": 2,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1771,7 +1771,7 @@
       "ItemID": 100132,
       "ItemValue": 2,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1783,7 +1783,7 @@
       "ItemID": 100133,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1795,7 +1795,7 @@
       "ItemID": 100134,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1807,7 +1807,7 @@
       "ItemID": 100135,
       "ItemValue": 1,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1819,7 +1819,7 @@
       "ItemID": 100136,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1831,7 +1831,7 @@
       "ItemID": 100137,
       "ItemValue": 2,
       "RequestMinLV": 12,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1843,7 +1843,7 @@
       "ItemID": 100138,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1855,7 +1855,7 @@
       "ItemID": 100139,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1867,7 +1867,7 @@
       "ItemID": 100140,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1879,7 +1879,7 @@
       "ItemID": 100141,
       "ItemValue": 2,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1891,7 +1891,7 @@
       "ItemID": 100142,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1903,7 +1903,7 @@
       "ItemID": 100143,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1915,7 +1915,7 @@
       "ItemID": 100144,
       "ItemValue": 1,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1927,7 +1927,7 @@
       "ItemID": 100145,
       "ItemValue": 2,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1939,7 +1939,7 @@
       "ItemID": 100146,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1951,7 +1951,7 @@
       "ItemID": 100147,
       "ItemValue": 1,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1963,7 +1963,7 @@
       "ItemID": 100148,
       "ItemValue": 2,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1975,7 +1975,7 @@
       "ItemID": 100001,
       "ItemValue": 1,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1987,7 +1987,7 @@
       "ItemID": 100002,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -1999,7 +1999,7 @@
       "ItemID": 100003,
       "ItemValue": 1,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2011,7 +2011,7 @@
       "ItemID": 100004,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2023,7 +2023,7 @@
       "ItemID": 100005,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2035,7 +2035,7 @@
       "ItemID": 100006,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2047,7 +2047,7 @@
       "ItemID": 100008,
       "ItemValue": 1,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2059,7 +2059,7 @@
       "ItemID": 100009,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2071,7 +2071,7 @@
       "ItemID": 100010,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2083,7 +2083,7 @@
       "ItemID": 100718,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2095,7 +2095,7 @@
       "ItemID": 100719,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2107,7 +2107,7 @@
       "ItemID": 100013,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2119,7 +2119,7 @@
       "ItemID": 100014,
       "ItemValue": 1,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2131,7 +2131,7 @@
       "ItemID": 100015,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2143,7 +2143,7 @@
       "ItemID": 100016,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2155,7 +2155,7 @@
       "ItemID": 100017,
       "ItemValue": 1,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2167,7 +2167,7 @@
       "ItemID": 100018,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2179,7 +2179,7 @@
       "ItemID": 100720,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2191,7 +2191,7 @@
       "ItemID": 100020,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2203,7 +2203,7 @@
       "ItemID": 100722,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2215,7 +2215,7 @@
       "ItemID": 100022,
       "ItemValue": 1,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2227,7 +2227,7 @@
       "ItemID": 100722,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2239,7 +2239,7 @@
       "ItemID": 100723,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2251,7 +2251,7 @@
       "ItemID": 100724,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2263,7 +2263,7 @@
       "ItemID": 100725,
       "ItemValue": 2,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2275,7 +2275,7 @@
       "ItemID": 100027,
       "ItemValue": 1,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2287,7 +2287,7 @@
       "ItemID": 100028,
       "ItemValue": 2,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2299,7 +2299,7 @@
       "ItemID": 100029,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2311,7 +2311,7 @@
       "ItemID": 100030,
       "ItemValue": 2,
       "RequestMinLV": 18,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2323,7 +2323,7 @@
       "ItemID": 100149,
       "ItemValue": 1,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2335,7 +2335,7 @@
       "ItemID": 100150,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2347,7 +2347,7 @@
       "ItemID": 100151,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2359,7 +2359,7 @@
       "ItemID": 100152,
       "ItemValue": 1,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2371,7 +2371,7 @@
       "ItemID": 100153,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2383,7 +2383,7 @@
       "ItemID": 100154,
       "ItemValue": 1,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2395,7 +2395,7 @@
       "ItemID": 100155,
       "ItemValue": 2,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2407,7 +2407,7 @@
       "ItemID": 100156,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2419,7 +2419,7 @@
       "ItemID": 100157,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2431,7 +2431,7 @@
       "ItemID": 100158,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2443,7 +2443,7 @@
       "ItemID": 100159,
       "ItemValue": 2,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2455,7 +2455,7 @@
       "ItemID": 100160,
       "ItemValue": 1,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2467,7 +2467,7 @@
       "ItemID": 100161,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2479,7 +2479,7 @@
       "ItemID": 100162,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2491,7 +2491,7 @@
       "ItemID": 100163,
       "ItemValue": 2,
       "RequestMinLV": 25,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2503,7 +2503,7 @@
       "ItemID": 100164,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2515,7 +2515,7 @@
       "ItemID": 100165,
       "ItemValue": 2,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2527,7 +2527,7 @@
       "ItemID": 100166,
       "ItemValue": 1,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2539,7 +2539,7 @@
       "ItemID": 100167,
       "ItemValue": 2,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2551,7 +2551,7 @@
       "ItemID": 100168,
       "ItemValue": 1,
       "RequestMinLV": 26,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2563,7 +2563,7 @@
       "ItemID": 100169,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2575,7 +2575,7 @@
       "ItemID": 100170,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2587,7 +2587,7 @@
       "ItemID": 100171,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2599,7 +2599,7 @@
       "ItemID": 100172,
       "ItemValue": 1,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2611,7 +2611,7 @@
       "ItemID": 100173,
       "ItemValue": 2,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2623,7 +2623,7 @@
       "ItemID": 100174,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2635,7 +2635,7 @@
       "ItemID": 100175,
       "ItemValue": 2,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2647,7 +2647,7 @@
       "ItemID": 100176,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2659,7 +2659,7 @@
       "ItemID": 100177,
       "ItemValue": 1,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2671,7 +2671,7 @@
       "ItemID": 100178,
       "ItemValue": 2,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2683,7 +2683,7 @@
       "ItemID": 100041,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2695,7 +2695,7 @@
       "ItemID": 100042,
       "ItemValue": 1,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2707,7 +2707,7 @@
       "ItemID": 100043,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2719,7 +2719,7 @@
       "ItemID": 100044,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2731,7 +2731,7 @@
       "ItemID": 100045,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2743,7 +2743,7 @@
       "ItemID": 100046,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2755,7 +2755,7 @@
       "ItemID": 100047,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2767,7 +2767,7 @@
       "ItemID": 100048,
       "ItemValue": 1,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2779,7 +2779,7 @@
       "ItemID": 100049,
       "ItemValue": 1,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2791,7 +2791,7 @@
       "ItemID": 100050,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2803,7 +2803,7 @@
       "ItemID": 100726,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2815,7 +2815,7 @@
       "ItemID": 100052,
       "ItemValue": 1,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2827,7 +2827,7 @@
       "ItemID": 100053,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2839,7 +2839,7 @@
       "ItemID": 100054,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2851,7 +2851,7 @@
       "ItemID": 100055,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2863,7 +2863,7 @@
       "ItemID": 100727,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2875,7 +2875,7 @@
       "ItemID": 100057,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2887,7 +2887,7 @@
       "ItemID": 100058,
       "ItemValue": 1,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2899,7 +2899,7 @@
       "ItemID": 100059,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2911,7 +2911,7 @@
       "ItemID": 100728,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2923,7 +2923,7 @@
       "ItemID": 100729,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2935,7 +2935,7 @@
       "ItemID": 100730,
       "ItemValue": 1,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2947,7 +2947,7 @@
       "ItemID": 100731,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2959,7 +2959,7 @@
       "ItemID": 100064,
       "ItemValue": 1,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2971,7 +2971,7 @@
       "ItemID": 100065,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2983,7 +2983,7 @@
       "ItemID": 100066,
       "ItemValue": 1,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -2995,7 +2995,7 @@
       "ItemID": 100067,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3007,7 +3007,7 @@
       "ItemID": 301,
       "ItemValue": 4,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3019,7 +3019,7 @@
       "ItemID": 253,
       "ItemValue": 3,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3031,7 +3031,7 @@
       "ItemID": 307,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3043,7 +3043,7 @@
       "ItemID": 311,
       "ItemValue": 5,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3055,7 +3055,7 @@
       "ItemID": 321,
       "ItemValue": 5,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3067,7 +3067,7 @@
       "ItemID": 100201,
       "ItemValue": 5,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3079,7 +3079,7 @@
       "ItemID": 312,
       "ItemValue": 5,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3091,7 +3091,7 @@
       "ItemID": 266,
       "ItemValue": 5,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3103,7 +3103,7 @@
       "ItemID": 297,
       "ItemValue": 5,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3115,7 +3115,7 @@
       "ItemID": 100206,
       "ItemValue": 5,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3127,7 +3127,7 @@
       "ItemID": 274,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3139,7 +3139,7 @@
       "ItemID": 315,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3151,7 +3151,7 @@
       "ItemID": 313,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3163,7 +3163,7 @@
       "ItemID": 264,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3175,7 +3175,7 @@
       "ItemID": 304,
       "ItemValue": 5,
       "RequestMinLV": 10,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3187,7 +3187,7 @@
       "ItemID": 100202,
       "ItemValue": 5,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3199,7 +3199,7 @@
       "ItemID": 284,
       "ItemValue": 5,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3211,7 +3211,7 @@
       "ItemID": 283,
       "ItemValue": 5,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3223,7 +3223,7 @@
       "ItemID": 249,
       "ItemValue": 5,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3235,7 +3235,7 @@
       "ItemID": 325,
       "ItemValue": 5,
       "RequestMinLV": 15,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3247,7 +3247,7 @@
       "ItemID": 330,
       "ItemValue": 5,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3259,7 +3259,7 @@
       "ItemID": 100203,
       "ItemValue": 3,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3271,7 +3271,7 @@
       "ItemID": 327,
       "ItemValue": 3,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3283,7 +3283,7 @@
       "ItemID": 100204,
       "ItemValue": 3,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3295,7 +3295,7 @@
       "ItemID": 310,
       "ItemValue": 3,
       "RequestMinLV": 16,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3307,7 +3307,7 @@
       "ItemID": 100205,
       "ItemValue": 3,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3319,7 +3319,7 @@
       "ItemID": 328,
       "ItemValue": 3,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3331,7 +3331,7 @@
       "ItemID": 322,
       "ItemValue": 3,
       "RequestMinLV": 20,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3343,7 +3343,7 @@
       "ItemID": 265,
       "ItemValue": 3,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3355,7 +3355,7 @@
       "ItemID": 329,
       "ItemValue": 3,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3367,7 +3367,7 @@
       "ItemID": 100210,
       "ItemValue": 3,
       "RequestMinLV": 23,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3379,7 +3379,7 @@
       "ItemID": 260,
       "ItemValue": 3,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3391,7 +3391,7 @@
       "ItemID": 269,
       "ItemValue": 3,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3403,7 +3403,7 @@
       "ItemID": 339,
       "ItemValue": 3,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3415,7 +3415,7 @@
       "ItemID": 338,
       "ItemValue": 3,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3427,7 +3427,7 @@
       "ItemID": 318,
       "ItemValue": 3,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3439,7 +3439,7 @@
       "ItemID": 100213,
       "ItemValue": 3,
       "RequestMinLV": 27,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3451,7 +3451,7 @@
       "ItemID": 270,
       "ItemValue": 3,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3463,7 +3463,7 @@
       "ItemID": 254,
       "ItemValue": 3,
       "RequestMinLV": 28,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3475,7 +3475,7 @@
       "ItemID": 279,
       "ItemValue": 3,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3487,7 +3487,7 @@
       "ItemID": 273,
       "ItemValue": 3,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3499,7 +3499,7 @@
       "ItemID": 275,
       "ItemValue": 3,
       "RequestMinLV": 29,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3511,7 +3511,7 @@
       "ItemID": 100208,
       "ItemValue": 1,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3523,7 +3523,7 @@
       "ItemID": 263,
       "ItemValue": 1,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3535,7 +3535,7 @@
       "ItemID": 303,
       "ItemValue": 2,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3547,7 +3547,7 @@
       "ItemID": 100209,
       "ItemValue": 2,
       "RequestMinLV": 30,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3559,7 +3559,7 @@
       "ItemID": 320,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3571,7 +3571,7 @@
       "ItemID": 100207,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3583,7 +3583,7 @@
       "ItemID": 324,
       "ItemValue": 1,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3595,7 +3595,7 @@
       "ItemID": 251,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3607,7 +3607,7 @@
       "ItemID": 335,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3619,7 +3619,7 @@
       "ItemID": 258,
       "ItemValue": 1,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3631,7 +3631,7 @@
       "ItemID": 276,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3643,7 +3643,7 @@
       "ItemID": 295,
       "ItemValue": 2,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3655,7 +3655,7 @@
       "ItemID": 100214,
       "ItemValue": 1,
       "RequestMinLV": 32,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3667,7 +3667,7 @@
       "ItemID": 281,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3679,7 +3679,7 @@
       "ItemID": 319,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3691,7 +3691,7 @@
       "ItemID": 296,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3703,7 +3703,7 @@
       "ItemID": 282,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3715,7 +3715,7 @@
       "ItemID": 299,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3727,7 +3727,7 @@
       "ItemID": 280,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3739,7 +3739,7 @@
       "ItemID": 298,
       "ItemValue": 2,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3751,7 +3751,7 @@
       "ItemID": 261,
       "ItemValue": 1,
       "RequestMinLV": 33,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3763,7 +3763,7 @@
       "ItemID": 271,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3775,7 +3775,7 @@
       "ItemID": 272,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3787,7 +3787,7 @@
       "ItemID": 278,
       "ItemValue": 2,
       "RequestMinLV": 35,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3799,7 +3799,7 @@
       "ItemID": 252,
       "ItemValue": 1,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3811,7 +3811,7 @@
       "ItemID": 259,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3823,7 +3823,7 @@
       "ItemID": 267,
       "ItemValue": 2,
       "RequestMinLV": 36,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3835,7 +3835,7 @@
       "ItemID": 349,
       "ItemValue": 2,
       "RequestMinLV": 34,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3847,7 +3847,7 @@
       "ItemID": 463,
       "ItemValue": 2,
       "RequestMinLV": 17,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3859,7 +3859,7 @@
       "ItemID": 100242,
       "ItemValue": 2,
       "RequestMinLV": 24,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3871,7 +3871,7 @@
       "ItemID": 307,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3883,7 +3883,7 @@
       "ItemID": 311,
       "ItemValue": 5,
       "RequestMinLV": 3,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3895,7 +3895,7 @@
       "ItemID": 321,
       "ItemValue": 5,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3907,7 +3907,7 @@
       "ItemID": 100201,
       "ItemValue": 5,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3919,7 +3919,7 @@
       "ItemID": 312,
       "ItemValue": 5,
       "RequestMinLV": 6,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3931,7 +3931,7 @@
       "ItemID": 100098,
       "ItemValue": 2,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3943,7 +3943,7 @@
       "ItemID": 100102,
       "ItemValue": 1,
       "RequestMinLV": 9,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3955,7 +3955,7 @@
       "ItemID": 301,
       "ItemValue": 4,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3967,7 +3967,7 @@
       "ItemID": 253,
       "ItemValue": 3,
       "RequestMinLV": 5,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3979,7 +3979,7 @@
       "ItemID": 661,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -3991,7 +3991,7 @@
       "ItemID": 26,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -4003,7 +4003,7 @@
       "ItemID": 255,
       "ItemValue": 5,
       "RequestMinLV": 1,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -4015,7 +4015,7 @@
       "ItemID": 100206,
       "ItemValue": 5,
       "RequestMinLV": 8,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     },
     {
@@ -4027,7 +4027,7 @@
       "ItemID": 100124,
       "ItemValue": 2,
       "RequestMinLV": 13,
-      "RequestMaxLV": 40,
+      "RequestMaxLV": 50,
       "BalanceRwdGroupID": 1
     }
   ],

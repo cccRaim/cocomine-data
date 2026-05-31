@@ -2,138 +2,73 @@
   "Plaza": [
     {
       "ServiceType": "DEV",
-      "Key": 4,
-      "Game": 1,
-      "FieldName": "field_2001",
-      "FieldID": 2001,
-      "PlazaType": 5,
+      "Key": 1,
+      "Game": 2,
+      "FieldName": "Zone_104",
+      "FieldID": 108,
+      "PlazaType": 4,
       "PlazaAddress": 1,
-      "FieldDesc": "Field_2001_Desc",
-      "IsPlazaPopup": true,
-      "PlazaImage": "Plaza4_image",
+      "FieldDesc": "Zone_104_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza01_image",
       "Sortindex": 1
     },
     {
       "ServiceType": "DEV",
-      "Key": 5,
-      "Game": 1,
-      "FieldName": "Field_2003",
-      "FieldID": 2003,
+      "Key": 2,
+      "Game": 2,
+      "FieldName": "Field_106",
+      "FieldID": 106,
       "PlazaType": 4,
-      "PlazaAddress": 5,
+      "PlazaAddress": 2,
+      "FieldDesc": "Field_106_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza02_image",
+      "Sortindex": 2
+    },
+    {
+      "ServiceType": "NONE",
+      "Key": 3,
+      "Game": 2,
+      "FieldName": "Field_105",
+      "FieldID": 105,
+      "PlazaType": 3,
+      "PlazaAddress": 3,
+      "FieldDesc": "Field105_Desc",
+      "IsPlazaPopup": false,
+      "PlazaImage": "Plaza03_image",
+      "Sortindex": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 10,
+      "Game": 2,
+      "FieldName": "Field_113",
+      "FieldID": 113,
+      "PlazaType": 11,
+      "PlazaAddress": 10,
       "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": true,
+      "IsPlazaPopup": false,
       "PlazaImage": "Plaza5_image",
-      "Sortindex": 4
+      "Sortindex": 1
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 1,
-      "FieldName": "Field_2005",
+      "Game": 2,
+      "FieldName": "Playland",
       "FieldID": 2005,
-      "PlazaType": 4,
+      "PlazaType": 7,
       "PlazaAddress": 6,
-      "FieldDesc": "Field_2005_Desc",
+      "FieldDesc": "Field_2005_Desc_CC",
       "IsPlazaPopup": true,
-      "PlazaImage": "Plaza5_image",
+      "PlazaImage": "Plaza07_image",
       "Sortindex": 5
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "Game": 1,
-      "FieldName": "Field_2007",
-      "FieldID": 2007,
-      "PlazaType": 8,
-      "PlazaAddress": 7,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "Game": 1,
-      "FieldName": "Field_2008",
-      "FieldID": 2008,
-      "PlazaType": 8,
-      "PlazaAddress": 8,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 2
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "Game": 1,
-      "FieldName": "Field_2006",
-      "FieldID": 2006,
-      "PlazaType": 4,
-      "PlazaAddress": 9,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 12,
-      "Game": 1,
-      "FieldName": "Field_2010",
-      "FieldID": 2010,
-      "PlazaType": 4,
-      "PlazaAddress": 12,
-      "FieldDesc": "Field_2010_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 13,
-      "Game": 1,
-      "FieldName": "Field_2011",
-      "FieldID": 2011,
-      "PlazaType": 4,
-      "PlazaAddress": 13,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 14,
-      "Game": 1,
-      "FieldName": "Field_2012",
-      "FieldID": 2012,
-      "PlazaType": 8,
-      "PlazaAddress": 14,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 15,
-      "Game": 1,
-      "FieldName": "Field_2013",
-      "FieldID": 2013,
-      "PlazaType": 8,
-      "PlazaAddress": 15,
-      "FieldDesc": "Field_2003_Desc",
-      "IsPlazaPopup": false,
-      "PlazaImage": "Plaza5_image",
-      "Sortindex": 1
     }
   ],
   "Central_NPCSpawn": [
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 1,
       "Game": 3,
       "PlazaID": 1,
@@ -161,7 +96,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 2,
       "Game": 3,
       "PlazaID": 1,
@@ -189,7 +124,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 3,
       "Game": 3,
       "PlazaID": 1,
@@ -217,7 +152,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 4,
       "Game": 3,
       "PlazaID": 1,
@@ -245,7 +180,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 5,
       "Game": 3,
       "PlazaID": 1,
@@ -273,7 +208,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 6,
       "Game": 3,
       "PlazaID": 1,
@@ -301,7 +236,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 7,
       "Game": 3,
       "PlazaID": 1,
@@ -329,7 +264,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 8,
       "Game": 3,
       "PlazaID": 1,
@@ -357,7 +292,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 9,
       "Game": 3,
       "PlazaID": 1,
@@ -385,7 +320,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 10,
       "Game": 3,
       "PlazaID": 1,
@@ -413,7 +348,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 11,
       "Game": 3,
       "PlazaID": 1,
@@ -441,7 +376,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 12,
       "Game": 3,
       "PlazaID": 1,
@@ -469,7 +404,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 13,
       "Game": 3,
       "PlazaID": 1,
@@ -497,7 +432,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 14,
       "Game": 3,
       "PlazaID": 1,
@@ -525,7 +460,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 15,
       "Game": 3,
       "PlazaID": 1,
@@ -553,7 +488,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 16,
       "Game": 3,
       "PlazaID": 1,
@@ -581,7 +516,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     },
     {
-      "ServiceType": "DEV",
+      "ServiceType": "NONE",
       "Key": 17,
       "Game": 3,
       "PlazaID": 1,
@@ -660,174 +595,6 @@
       "IsSunIn": false,
       "XCoord": 4,
       "YCoord": -46,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3001,
-      "BGName": "BG_NPC3001",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": 59,
-      "YCoord": 77,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 21,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3002,
-      "BGName": "BG_NPC3002",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": 13,
-      "YCoord": 27,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 22,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3005,
-      "BGName": "BG_NPC3005",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": 26,
-      "YCoord": 59,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 23,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3006,
-      "BGName": "BG_NPC3005",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": -32,
-      "YCoord": 3,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 24,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3003,
-      "BGName": "BG_NPC3003",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": 29,
-      "YCoord": 9,
-      "IsLocationFix": false,
-      "EventStartTime": "0001-01-01T00:00:00",
-      "EventEndTime": "0001-01-01T00:00:00"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 25,
-      "Game": 3,
-      "PlazaID": 6,
-      "PlazaType": 7,
-      "NPCID": 3004,
-      "BGName": "BG_NPC3004",
-      "IsMonOut": true,
-      "IsTueOut": true,
-      "IsWedOut": true,
-      "IsThuOut": true,
-      "IsFriOut": true,
-      "IsSatOut": true,
-      "IsSunOut": true,
-      "IsMonIn": false,
-      "IsTueIn": false,
-      "IsWedIn": false,
-      "IsThuIn": false,
-      "IsFriIn": false,
-      "IsSatIn": false,
-      "IsSunIn": false,
-      "XCoord": 64,
-      "YCoord": 23,
       "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
@@ -951,7 +718,7 @@
       "PlazaID": 12,
       "PlazaType": 12,
       "NPCID": 2001,
-      "BGName": "BG_NPC1002",
+      "BGName": "BG_NPC4001",
       "IsMonOut": true,
       "IsTueOut": true,
       "IsWedOut": true,
@@ -966,8 +733,8 @@
       "IsFriIn": false,
       "IsSatIn": false,
       "IsSunIn": false,
-      "XCoord": 2,
-      "YCoord": 22,
+      "XCoord": -23,
+      "YCoord": -14,
       "IsLocationFix": false,
       "EventStartTime": "0001-01-01T00:00:00",
       "EventEndTime": "0001-01-01T00:00:00"
@@ -979,7 +746,7 @@
       "PlazaID": 13,
       "PlazaType": 13,
       "NPCID": 2001,
-      "BGName": "BG_NPC1002",
+      "BGName": "BG_NPC4001",
       "IsMonOut": true,
       "IsTueOut": true,
       "IsWedOut": true,
@@ -1007,7 +774,7 @@
       "PlazaID": 14,
       "PlazaType": 14,
       "NPCID": 2001,
-      "BGName": "BG_NPC1002",
+      "BGName": "BG_NPC4001",
       "IsMonOut": true,
       "IsTueOut": true,
       "IsWedOut": true,
@@ -1035,7 +802,7 @@
       "PlazaID": 15,
       "PlazaType": 15,
       "NPCID": 2001,
-      "BGName": "BG_NPC1002",
+      "BGName": "BG_NPC4001",
       "IsMonOut": true,
       "IsTueOut": true,
       "IsWedOut": true,
@@ -1057,512 +824,7 @@
       "EventEndTime": "0001-01-01T00:00:00"
     }
   ],
-  "CafeSeat": [
-    {
-      "ServiceType": "DEV",
-      "Key": 1,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 1,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 1,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 3,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 1,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 4,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 2,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 5,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 2,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 6,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 2,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 7,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 3,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 8,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 3,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 3,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 10,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 4,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 11,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 4,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 12,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 4,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 13,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 14,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 15,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 16,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 5,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 17,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 18,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 19,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 6,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 21,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 22,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 23,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 24,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 7,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 25,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 26,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 27,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 28,
-      "Game": 1,
-      "PlazaID": 7,
-      "GroupID": 8,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 29,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 1,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 30,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 1,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 31,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 1,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 32,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 2,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 33,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 2,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 34,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 2,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 35,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 3,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 36,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 3,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 37,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 3,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 38,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 4,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 39,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 4,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 40,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 4,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 41,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 42,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 43,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 5,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 44,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 5,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 45,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 46,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 47,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 6,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 48,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 6,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 49,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 50,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 51,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 7,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 52,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 7,
-      "ItemID": 10500254,
-      "IsChair": false
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 53,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 54,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 55,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 8,
-      "ItemID": 10500255,
-      "IsChair": true
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 56,
-      "Game": 1,
-      "PlazaID": 14,
-      "GroupID": 8,
-      "ItemID": 10500254,
-      "IsChair": false
-    }
-  ],
+  "CafeSeat": [],
   "Central_CraftingToolSkin": [
     {
       "ServiceType": "DEV",
@@ -3382,90 +2644,72 @@
       "IsReverse": false
     }
   ],
-  "NPCSquare": [
+  "NPCSquare": [],
+  "Plaza_ExchangeItem": [
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 1,
-      "FieldID": 2003,
-      "NPCID": 1002,
-      "AnimID": "hi01",
-      "ChatID": "NPCSquare_1"
+      "Game": 2,
+      "FieldID": 108,
+      "SpawnPointID": 127,
+      "ItemID": 100082
     },
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 1,
-      "FieldID": 2003,
-      "NPCID": 1002,
-      "AnimID": "happy01",
-      "ChatID": "NPCSquare_2"
+      "Game": 2,
+      "FieldID": 109,
+      "SpawnPointID": 128,
+      "ItemID": 1050043
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 1,
-      "FieldID": 2003,
-      "NPCID": 1002,
-      "AnimID": "signature01",
-      "ChatID": "NPCSquare_3"
+      "Game": 2,
+      "FieldID": 110,
+      "SpawnPointID": 131,
+      "ItemID": 1050043
     },
     {
       "ServiceType": "DEV",
       "Key": 4,
-      "Game": 1,
-      "FieldID": 2010,
-      "NPCID": 2001,
-      "AnimID": "hi01",
-      "ChatID": "Kuromi_Village_Greeting_1"
+      "Game": 2,
+      "FieldID": 111,
+      "SpawnPointID": 130,
+      "ItemID": 1050043
     },
     {
       "ServiceType": "DEV",
       "Key": 5,
-      "Game": 1,
-      "FieldID": 2010,
-      "NPCID": 2001,
-      "AnimID": "happy01",
-      "ChatID": "Kuromi_Village_Greeting_2"
+      "Game": 2,
+      "FieldID": 112,
+      "SpawnPointID": 129,
+      "ItemID": 1050043
     },
     {
       "ServiceType": "DEV",
       "Key": 6,
-      "Game": 1,
-      "FieldID": 2010,
-      "NPCID": 2001,
-      "AnimID": "signature01",
-      "ChatID": "Kuromi_Village_Greeting_3"
+      "Game": 2,
+      "FieldID": 108,
+      "SpawnPointID": 246,
+      "ItemID": 90000000
     },
     {
       "ServiceType": "DEV",
       "Key": 7,
-      "Game": 1,
-      "FieldID": 2010,
-      "NPCID": 2001,
-      "AnimID": "happy01",
-      "ChatID": "Kuromi_Village_Greeting_4"
+      "Game": 2,
+      "FieldID": 108,
+      "SpawnPointID": 247,
+      "ItemID": 90000001
     },
     {
       "ServiceType": "DEV",
       "Key": 8,
-      "Game": 1,
-      "FieldID": 2010,
-      "NPCID": 2001,
-      "AnimID": "signature01",
-      "ChatID": "Kuromi_Village_Greeting_5"
+      "Game": 2,
+      "FieldID": 108,
+      "SpawnPointID": 248,
+      "ItemID": 90000002
     },
-    {
-      "ServiceType": "DEV",
-      "Key": 9,
-      "Game": 1,
-      "FieldID": 2012,
-      "NPCID": 2001,
-      "AnimID": "happy01",
-      "ChatID": "Kuromi_Secret_Mission_1"
-    }
-  ],
-  "Plaza_ExchangeItem": [
     {
       "ServiceType": "DEV",
       "Key": 20011,
@@ -3476,139 +2720,11 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 20012,
-      "Game": 1,
-      "FieldID": 2001,
-      "SpawnPointID": 20012,
-      "ItemID": 90000000
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20013,
-      "Game": 1,
-      "FieldID": 2001,
-      "SpawnPointID": 20013,
-      "ItemID": 90000001
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20014,
-      "Game": 1,
-      "FieldID": 2001,
-      "SpawnPointID": 20014,
-      "ItemID": 90000002
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20015,
-      "Game": 1,
-      "FieldID": 2005,
-      "SpawnPointID": 20015,
-      "ItemID": 10500043
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20016,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20061,
-      "ItemID": 10500137
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20017,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20062,
-      "ItemID": 10500140
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20018,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20063,
-      "ItemID": 10500141
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20019,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20064,
-      "ItemID": 10500142
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20020,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20065,
-      "ItemID": 10500143
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20021,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20066,
-      "ItemID": 10500144
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20022,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20067,
-      "ItemID": 10500147
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20023,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20068,
-      "ItemID": 10500148
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20024,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20069,
-      "ItemID": 10500149
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20025,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20070,
-      "ItemID": 10500150
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20026,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20071,
-      "ItemID": 10500138
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20027,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20072,
-      "ItemID": 10500147
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 20028,
-      "Game": 1,
-      "FieldID": 2006,
-      "SpawnPointID": 20073,
-      "ItemID": 10500139
+      "Key": 20029,
+      "Game": 2,
+      "FieldID": 106,
+      "SpawnPointID": 20074,
+      "ItemID": 100664
     }
   ],
   "PetPlaza": [

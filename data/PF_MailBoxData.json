@@ -20,6 +20,15 @@
     },
     {
       "ServiceType": "DEV",
+      "Key": 3,
+      "Game": 2,
+      "NPCID": 6,
+      "Title": "Mail_Title_3",
+      "Desc": "Mail_Desc_3",
+      "ExpireDate": 10080
+    },
+    {
+      "ServiceType": "DEV",
       "Key": 4,
       "Game": 3,
       "NPCID": 1,
@@ -146,11 +155,11 @@
     },
     {
       "ServiceType": "DEV",
-      "Key": 18,
-      "Game": 1,
+      "Key": 19,
+      "Game": 2,
       "NPCID": 1,
-      "Title": "User_Gift_Pot_Heart_Title",
-      "Desc": "User_Gift_Pot_Heart_Desc",
+      "Title": "User_Gift_Pot_Heart_Title_CC",
+      "Desc": "User_Gift_Pot_Heart_Desc_CC",
       "ExpireDate": 10080
     }
   ]

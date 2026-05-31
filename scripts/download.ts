@@ -27,8 +27,8 @@ async function downloadFile(url: string, outputPath: string) {
 }
 
 export default async function (isAll = false) {
-    // await fetch(`https://d2f4hpqmmmr7fo.cloudfront.net/cdn/live/Android/catalog_${version}.json`)
-    await fetch(`https://d2cuqyywjt4vvm.cloudfront.net/cdn/live/Android/catalog_${version}.json`)
+    await fetch(`https://d2f4hpqmmmr7fo.cloudfront.net/cdn/live/Android/catalog_${version}.json`)
+    // await fetch(`https://d2cuqyywjt4vvm.cloudfront.net/cdn/live/Android/catalog_${version}.json`)
         .then(res => res.json())
         .then(async json => {
             const dataBundleCounts = json.m_InternalIds.filter(item => item.match(/gamedata/));

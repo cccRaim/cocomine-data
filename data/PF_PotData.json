@@ -3,37 +3,13 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 1,
-      "ItemKey": 100197,
-      "PotSpine": 100197,
-      "PotRwdGroupID": 8,
-      "PotFriendRwdGroupID": 8,
-      "PotReceiveRwdGroupID": 28,
-      "MailBoxStringKey": 18,
-      "Charging": 240
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 2,
-      "Game": 1,
+      "Game": 2,
       "ItemKey": 100527,
       "PotSpine": 100527,
       "PotRwdGroupID": 8,
       "PotFriendRwdGroupID": 8,
-      "PotReceiveRwdGroupID": 28,
-      "MailBoxStringKey": 18,
-      "Charging": 240
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 3,
-      "Game": 1,
-      "ItemKey": 10500170,
-      "PotSpine": 10500170,
-      "PotRwdGroupID": 8,
-      "PotFriendRwdGroupID": 8,
-      "PotReceiveRwdGroupID": 28,
-      "MailBoxStringKey": 18,
+      "PotReceiveRwdGroupID": 27,
+      "MailBoxStringKey": 19,
       "Charging": 240
     }
   ],

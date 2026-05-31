@@ -579,56 +579,11 @@
       "BuffName": "BuffName_05",
       "BuffCategoryType": 1,
       "IconName": "",
-      "BuffValue": 50,
+      "BuffValue": 30,
       "BuffValueType": 1,
       "BGEffect": "",
       "CEffectAttachBone": "",
       "CEffect": ""
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 139,
-      "Game": 1,
-      "BuffGroupID": 48,
-      "BuffType": 23,
-      "BuffName": "BuffName_25",
-      "BuffCategoryType": 4,
-      "IconName": "",
-      "BuffValue": 180,
-      "BuffValueType": 2,
-      "BGEffect": "ku_effect_phone",
-      "CEffectAttachBone": "shadow",
-      "CEffect": "ku_effect_phone_01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 140,
-      "Game": 1,
-      "BuffGroupID": 49,
-      "BuffType": 23,
-      "BuffName": "BuffName_25",
-      "BuffCategoryType": 4,
-      "IconName": "",
-      "BuffValue": 180,
-      "BuffValueType": 2,
-      "BGEffect": "ku_effect_compact",
-      "CEffectAttachBone": "shadow",
-      "CEffect": "ku_effect_compact_01"
-    },
-    {
-      "ServiceType": "DEV",
-      "Key": 141,
-      "Game": 1,
-      "BuffGroupID": 50,
-      "BuffType": 23,
-      "BuffName": "BuffName_25",
-      "BuffCategoryType": 4,
-      "IconName": "",
-      "BuffValue": 90,
-      "BuffValueType": 2,
-      "BGEffect": "ku_effect_sticker",
-      "CEffectAttachBone": "shadow",
-      "CEffect": "ku_effect_sticker_01"
     }
   ],
   "UseBuffType": [
@@ -654,6 +609,16 @@
     },
     {
       "ServiceType": "DEV",
+      "Key": 3,
+      "Game": 2,
+      "UseBuffType": 3,
+      "IconType": 1,
+      "StepIcon": "",
+      "StepValueIDType": 4,
+      "BuffColor": "#F5F087"
+    },
+    {
+      "ServiceType": "DEV",
       "Key": 4,
       "Game": 3,
       "UseBuffType": 4,
@@ -669,6 +634,16 @@
       "UseBuffType": 5,
       "IconType": 2,
       "StepIcon": "Event_Icon",
+      "StepValueIDType": 0,
+      "BuffColor": "#8983F9"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Game": 2,
+      "UseBuffType": 6,
+      "IconType": 2,
+      "StepIcon": "icon_town",
       "StepValueIDType": 0,
       "BuffColor": "#8983F9"
     }

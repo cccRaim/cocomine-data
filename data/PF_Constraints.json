@@ -345,13 +345,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Mine_AverageCnt",
-      "Game": 1,
-      "Value": 5,
-      "Context": "광산 아이템이 출력되는 개수"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "Char_Capture_Recording_Time",
       "Game": 3,
       "Value": 15,
@@ -361,7 +354,7 @@
       "ServiceType": "DEV",
       "Name": "JoyShop_RandomGoods_Num ",
       "Game": 3,
-      "Value": 10,
+      "Value": 3,
       "Context": "(개), 조이샵에서 판매될 랜덤 타입 상품 개수"
     },
     {
@@ -604,13 +597,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Request_Refresh_CoolTime",
-      "Game": 3,
-      "Value": 600,
-      "Context": "아르바이트) 갱신까지 남은 대기 시간"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "Request_Price_Min_Ratio",
       "Game": 3,
       "Value": 1,
@@ -703,8 +689,8 @@
     {
       "ServiceType": "DEV",
       "Name": "CouponWebPageURL",
-      "Game": 1,
-      "Value": "https://coupon.cocosanrio.skywalkgames.com/cocomine_coupon",
+      "Game": 2,
+      "Value": "https://coupon.cocomine.skywalkgames.com/cocomine_coupon",
       "Context": "쿠폰 등록 페이지 주소 Arg0 = 암호화된 accidx"
     },
     {
@@ -786,13 +772,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Daily_Reset_Time",
-      "Game": 1,
-      "Value": 20,
-      "Context": "조이샵 데일리 리셋 타임 UTC (PS)"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "Fashion_vote_Ballotcount",
       "Game": 3,
       "Value": 1,
@@ -809,7 +788,7 @@
       "ServiceType": "DEV",
       "Name": "Fishing_Max_Sec",
       "Game": 3,
-      "Value": 25,
+      "Value": 15,
       "Context": "물고기 등장 시간(초) 최대 시간"
     },
     {
@@ -907,7 +886,7 @@
       "ServiceType": "DEV",
       "Name": "Play_FreeBallot_Max",
       "Game": 3,
-      "Value": 2,
+      "Value": 5,
       "Context": "(개), 플레이 티켓 무료 티켓 일일 무료 충전 개수"
     },
     {
@@ -940,20 +919,6 @@
     },
     {
       "ServiceType": "DEV",
-      "Name": "Tutorial_Start",
-      "Game": 1,
-      "Value": 100,
-      "Context": "튜토리얼 시작 퀘스트 ID"
-    },
-    {
-      "ServiceType": "DEV",
-      "Name": "Tutorial_Rental_CarID",
-      "Game": 1,
-      "Value": 10500355,
-      "Context": "튜토리얼 전용 임시 자동차ID"
-    },
-    {
-      "ServiceType": "DEV",
       "Name": "GreenFarm_NoHouse_BGM",
       "Game": 3,
       "Value": "BGM_Sanrio",
@@ -969,9 +934,30 @@
     {
       "ServiceType": "DEV",
       "Name": "HouseOpenLevel",
-      "Game": 3,
-      "Value": 7,
+      "Game": 2,
+      "Value": 5,
       "Context": "하우스로 입장 가능해지는 레벨"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Village_Buff_Activate_Time",
+      "Game": 2,
+      "Value": 1440,
+      "Context": "(m) 버프 활성화 시 선물 받기 버튼 만료 시간(분)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Start",
+      "Game": 2,
+      "Value": 1000,
+      "Context": "튜토리얼 시작 퀘스트 ID"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Tutorial_Rental_CarID",
+      "Game": 2,
+      "Value": 100390,
+      "Context": "튜토리얼 전용 임시 자동차ID"
     },
     {
       "ServiceType": "DEV",
@@ -996,10 +982,80 @@
     },
     {
       "ServiceType": "DEV",
+      "Name": "Daily_Reset_Time",
+      "Game": 2,
+      "Value": 4,
+      "Context": "조이샵 데일리 리셋 타임 UTC (CC)"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Mine_AverageCnt",
+      "Game": 2,
+      "Value": 10,
+      "Context": "광산 아이템이 출력되는 개수"
+    },
+    {
+      "ServiceType": "DEV",
       "Name": "KuromiShop_RandomGoods_Num",
       "Game": 3,
       "Value": 5,
       "Context": "(개), 쿠로미샵에서 판매될 랜덤 타입 상품 개수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Request_Refresh_CoolTime",
+      "Game": 2,
+      "Value": 1800,
+      "Context": "아르바이트) 갱신까지 남은 대기 시간"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Crafting_Timingbar_Reduce_Time",
+      "Game": 3,
+      "Value": 1,
+      "Context": "타이밍바 성공 시 감소되는 초"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Play_Freeze_Time",
+      "Game": 3,
+      "Value": 3,
+      "Context": "하우스 혹은 가든에서 화면이 n(s) 이상 멈춰있을 경우, 숏컷 팝업창 출력 "
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_First_LP",
+      "Game": 3,
+      "Value": 100,
+      "Context": "펫 획득 시 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_LP_Reduce_Per_Day",
+      "Game": 3,
+      "Value": 1,
+      "Context": "하루에 감소되는 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_Pat_LP",
+      "Game": 3,
+      "Value": 1,
+      "Context": "쓰다듬기 시 증가되는 호감도 점수"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Pet_Pat_LP_Cool_Time",
+      "Game": 3,
+      "Value": 1440,
+      "Context": "(min)분 후에 쓰다듬기 가능"
+    },
+    {
+      "ServiceType": "DEV",
+      "Name": "Shortcut_Level_Limit",
+      "Game": 3,
+      "Value": 10,
+      "Context": "숏컷 기능은 해당 레벨 이하까지만 출력한다."
     }
   ]
 }

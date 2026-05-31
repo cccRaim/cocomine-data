@@ -321,7 +321,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 41,
       "Game": 3,
       "UserExp": 5938711,
@@ -329,7 +329,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 42,
       "Game": 3,
       "UserExp": 6414777,
@@ -337,7 +337,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 43,
       "Game": 3,
       "UserExp": 6916444,
@@ -345,7 +345,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 44,
       "Game": 3,
       "UserExp": 7444446,
@@ -353,7 +353,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 45,
       "Game": 3,
       "UserExp": 7999519,
@@ -361,7 +361,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 46,
       "Game": 3,
       "UserExp": 8582403,
@@ -369,7 +369,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 47,
       "Game": 3,
       "UserExp": 9193841,
@@ -377,7 +377,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 48,
       "Game": 3,
       "UserExp": 9834579,
@@ -385,7 +385,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 49,
       "Game": 3,
       "UserExp": 10505369,
@@ -393,7 +393,7 @@
       "RewJewelValue": 15
     },
     {
-      "ServiceType": "NONE",
+      "ServiceType": "DEV",
       "Key": 50,
       "Game": 3,
       "UserExp": 11206961,

@@ -188,7 +188,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 1,
-      "DropRate": 30
+      "DropRate": 30,
+      "TimingbarKey": 1000
     },
     {
       "ServiceType": "DEV",
@@ -196,7 +197,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 2,
-      "DropRate": 25
+      "DropRate": 25,
+      "TimingbarKey": 1001
     },
     {
       "ServiceType": "DEV",
@@ -204,7 +206,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 3,
-      "DropRate": 20
+      "DropRate": 20,
+      "TimingbarKey": 1002
     },
     {
       "ServiceType": "DEV",
@@ -212,7 +215,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 4,
-      "DropRate": 13
+      "DropRate": 13,
+      "TimingbarKey": 1003
     },
     {
       "ServiceType": "DEV",
@@ -220,7 +224,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 5,
-      "DropRate": 8
+      "DropRate": 8,
+      "TimingbarKey": 1004
     },
     {
       "ServiceType": "DEV",
@@ -228,7 +233,8 @@
       "Game": 3,
       "FishingType": 1,
       "FishingGrade": 6,
-      "DropRate": 4
+      "DropRate": 4,
+      "TimingbarKey": 1005
     },
     {
       "ServiceType": "DEV",
@@ -236,7 +242,8 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 1,
-      "DropRate": 22
+      "DropRate": 22,
+      "TimingbarKey": 1000
     },
     {
       "ServiceType": "DEV",
@@ -244,7 +251,8 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 2,
-      "DropRate": 22
+      "DropRate": 22,
+      "TimingbarKey": 1001
     },
     {
       "ServiceType": "DEV",
@@ -252,7 +260,8 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 3,
-      "DropRate": 18
+      "DropRate": 18,
+      "TimingbarKey": 1002
     },
     {
       "ServiceType": "DEV",
@@ -260,7 +269,8 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 4,
-      "DropRate": 16
+      "DropRate": 16,
+      "TimingbarKey": 1003
     },
     {
       "ServiceType": "DEV",
@@ -268,7 +278,8 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 5,
-      "DropRate": 13
+      "DropRate": 13,
+      "TimingbarKey": 1004
     },
     {
       "ServiceType": "DEV",
@@ -276,23 +287,24 @@
       "Game": 3,
       "FishingType": 2,
       "FishingGrade": 6,
-      "DropRate": 9
+      "DropRate": 9,
+      "TimingbarKey": 1005
     }
   ],
   "FishingRod": [
-    {
-      "ServiceType": "DEV",
-      "Key": 357,
-      "Game": 1,
-      "FishingType": 1,
-      "AnimSkin": "fishingstick_01"
-    },
     {
       "ServiceType": "DEV",
       "Key": 358,
       "Game": 3,
       "FishingType": 2,
       "AnimSkin": "fishingstick_01_s"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 649,
+      "Game": 2,
+      "FishingType": 1,
+      "AnimSkin": "fishingstick_01"
     }
   ]
 }

@@ -588,7 +588,7 @@
     {
       "ServiceType": "DEV",
       "Key": 40,
-      "Game": 3,
+      "Game": 2,
       "Nation": 15,
       "SeasonName": "FashionMatch_40",
       "FeatureLimitID": 0,
@@ -603,7 +603,7 @@
     {
       "ServiceType": "DEV",
       "Key": 41,
-      "Game": 3,
+      "Game": 2,
       "Nation": 15,
       "SeasonName": "FashionMatch_41",
       "FeatureLimitID": 0,
@@ -1245,7 +1245,7 @@
     {
       "ServiceType": "DEV",
       "Key": 41,
-      "Game": 3,
+      "Game": 2,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,
@@ -1255,7 +1255,7 @@
     {
       "ServiceType": "DEV",
       "Key": 42,
-      "Game": 3,
+      "Game": 2,
       "ReceiveVoteRate": 10000,
       "ReceiveVoteHandler": 0.00100001,
       "SendVoteRate": 10000,

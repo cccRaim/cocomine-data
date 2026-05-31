@@ -1859,6 +1859,21 @@
       "ThumbnailIcon": "",
       "CollectionVersion": 2,
       "StartDate": "2024-10-29T15:00:00"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 1105,
+      "Game": 2,
+      "CollectionType": 4,
+      "TabType": 18,
+      "CollectionName": "Gacha_59",
+      "CollectionDesc": "Gacha_59_Desc",
+      "IconTag": 0,
+      "SortIndex": 30,
+      "RwdGroupID": 6,
+      "ThumbnailIcon": "",
+      "CollectionVersion": 3,
+      "StartDate": "2026-06-01T15:00:00"
     }
   ],
   "CollectionItem": [
@@ -23169,6 +23184,216 @@
       "CollectionID": 2319,
       "UniqueNum": 8,
       "ItemID": 727,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2456,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 1,
+      "ItemID": 1000910,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2457,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 2,
+      "ItemID": 1000911,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2458,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 3,
+      "ItemID": 1000921,
+      "ItemType": 20,
+      "IsThumbnail": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2459,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 4,
+      "ItemID": 1000912,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2460,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 5,
+      "ItemID": 1000913,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2461,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 6,
+      "ItemID": 1000914,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2462,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 7,
+      "ItemID": 1000915,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2463,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 8,
+      "ItemID": 1000916,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2464,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 9,
+      "ItemID": 1000922,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2465,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 10,
+      "ItemID": 1000923,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2466,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 11,
+      "ItemID": 1000924,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2467,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 12,
+      "ItemID": 1000917,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2468,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 13,
+      "ItemID": 1000918,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2469,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 14,
+      "ItemID": 1000919,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2470,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 15,
+      "ItemID": 1000920,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2471,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 16,
+      "ItemID": 1000925,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2472,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 17,
+      "ItemID": 1000926,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2473,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 18,
+      "ItemID": 1000927,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2474,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 19,
+      "ItemID": 1000928,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2475,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 20,
+      "ItemID": 1000929,
+      "ItemType": 20,
+      "IsThumbnail": 0
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 2476,
+      "Game": 3,
+      "CollectionID": 1105,
+      "UniqueNum": 21,
+      "ItemID": 1000930,
       "ItemType": 20,
       "IsThumbnail": 0
     }

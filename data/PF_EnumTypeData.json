@@ -1972,18 +1972,6 @@
       "Desc": "여자만 착용 가능"
     }
   ],
-  "EExchangeType": [
-    {
-      "Key": 1,
-      "Value": "RecyclingZone",
-      "Desc": "리사이클링 존"
-    },
-    {
-      "Key": 2,
-      "Value": "ClothingBin",
-      "Desc": "의류 수거함"
-    }
-  ],
   "EEventTabType": [
     {
       "Key": 1,
@@ -2021,6 +2009,18 @@
       "Key": 4,
       "Value": "Event_Active",
       "Desc": "기존"
+    }
+  ],
+  "EExchangeType": [
+    {
+      "Key": 1,
+      "Value": "RecyclingZone",
+      "Desc": "리사이클링 존"
+    },
+    {
+      "Key": 2,
+      "Value": "ClothingBin",
+      "Desc": "의류 수거함"
     }
   ],
   "EFaceType": [
@@ -2790,6 +2790,13 @@
       "Desc": "프리미엄 헤어샵",
       "IsPrivateField": true,
       "IsPublicField": true
+    },
+    {
+      "Key": 24,
+      "Value": "PetInventory",
+      "Desc": "펫 보관함",
+      "IsPrivateField": true,
+      "IsPublicField": false
     }
   ],
   "EKioskType": [
@@ -4371,7 +4378,7 @@
     {
       "Key": 77,
       "Value": "ArrangePopup",
-      "Desc": "보유 시 UI_InventoryItemInfoPopup / 미보유 시 UI_ItemDetail"
+      "Desc": "아이템 배치"
     },
     {
       "Key": 78,
@@ -4648,6 +4655,16 @@
       "Key": 34,
       "Value": "Mileage_Cumulative ",
       "Desc": "마일리지"
+    },
+    {
+      "Key": 35,
+      "Value": "Pet",
+      "Desc": "펫"
+    },
+    {
+      "Key": 36,
+      "Value": "PassOpen",
+      "Desc": "패스 구매"
     }
   ],
   "ERhythmLevel": [
@@ -4741,6 +4758,26 @@
       "Desc": "쿠로미 빌리지"
     }
   ],
+  "ESexType": [
+    {
+      "Key": 1,
+      "Value": "Girl",
+      "Desc": "여자",
+      "StringKey": "gender_female"
+    },
+    {
+      "Key": 2,
+      "Value": "Boy",
+      "Desc": "남자",
+      "StringKey": "gender_male"
+    },
+    {
+      "Key": 3,
+      "Value": "None",
+      "Desc": "무",
+      "StringKey": "gender_none"
+    }
+  ],
   "EShopType": [
     {
       "Key": 0,
@@ -4761,26 +4798,6 @@
       "Key": 3,
       "Value": "KuromiShop",
       "Desc": "쿠로미샵"
-    }
-  ],
-  "ESexType": [
-    {
-      "Key": 1,
-      "Value": "Girl",
-      "Desc": "여자",
-      "StringKey": "gender_female"
-    },
-    {
-      "Key": 2,
-      "Value": "Boy",
-      "Desc": "남자",
-      "StringKey": "gender_male"
-    },
-    {
-      "Key": 3,
-      "Value": "None",
-      "Desc": "무",
-      "StringKey": "gender_none"
     }
   ],
   "EShortCutType": [

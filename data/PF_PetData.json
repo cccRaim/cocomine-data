@@ -213,5 +213,10 @@
       "Game": 3,
       "NickName": "NickName_8"
     }
-  ]
+  ],
+  "PetPouch": [],
+  "PetCharm": [],
+  "PetTamingItem": [],
+  "TamingSuccessAnim": [],
+  "TamingFailAnim": []
 }

@@ -363,7 +363,7 @@
     {
       "ServiceType": "DEV",
       "Key": 101,
-      "Game": 3,
+      "Game": 2,
       "RwdType": 2,
       "RewardItemID": 2,
       "RewardValue": 5
@@ -371,18 +371,18 @@
     {
       "ServiceType": "DEV",
       "Key": 102,
-      "Game": 3,
+      "Game": 2,
       "RwdType": 2,
       "RewardItemID": 2,
-      "RewardValue": 15
+      "RewardValue": 5
     },
     {
       "ServiceType": "DEV",
       "Key": 103,
-      "Game": 3,
-      "RwdType": 20,
-      "RewardItemID": 100315,
-      "RewardValue": 1
+      "Game": 2,
+      "RwdType": 2,
+      "RewardItemID": 2,
+      "RewardValue": 10
     }
   ],
   "QuestRwd": [
@@ -3318,7 +3318,7 @@
     {
       "ServiceType": "DEV",
       "Key": 1,
-      "Game": 3,
+      "Game": 2,
       "MissionClearCount": 1,
       "RwdType": 2,
       "RewardID": 2,
@@ -3327,20 +3327,20 @@
     {
       "ServiceType": "DEV",
       "Key": 2,
-      "Game": 3,
+      "Game": 2,
       "MissionClearCount": 5,
       "RwdType": 2,
       "RewardID": 2,
-      "RewardCount": 8
+      "RewardCount": 3
     },
     {
       "ServiceType": "DEV",
       "Key": 3,
-      "Game": 3,
+      "Game": 2,
       "MissionClearCount": 9,
-      "RwdType": 20,
-      "RewardID": 100315,
-      "RewardCount": 1
+      "RwdType": 2,
+      "RewardID": 2,
+      "RewardCount": 5
     }
   ],
   "EventMissionRwd": [
@@ -3503,8 +3503,52 @@
       "PassLevel": 2,
       "PassRwdType": 2,
       "RwdType": 20,
-      "RewardID": 95,
-      "RewardCount": 1980
+      "RewardID": 100190,
+      "RewardCount": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 6,
+      "Game": 3,
+      "PassRwdGroupID": 101,
+      "PassLevel": 3,
+      "PassRwdType": 1,
+      "RwdType": 20,
+      "RewardID": 26,
+      "RewardCount": 20
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 7,
+      "Game": 3,
+      "PassRwdGroupID": 101,
+      "PassLevel": 3,
+      "PassRwdType": 1,
+      "RwdType": 13,
+      "RewardID": 1000355,
+      "RewardCount": 2
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 8,
+      "Game": 3,
+      "PassRwdGroupID": 101,
+      "PassLevel": 3,
+      "PassRwdType": 2,
+      "RwdType": 20,
+      "RewardID": 100425,
+      "RewardCount": 3
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 9,
+      "Game": 3,
+      "PassRwdGroupID": 101,
+      "PassLevel": 3,
+      "PassRwdType": 2,
+      "RwdType": 13,
+      "RewardID": 1000350,
+      "RewardCount": 1
     }
   ],
   "CraftingRankingRwd": [

@@ -181,7 +181,7 @@
       "VanishCnt": 0,
       "OpenGroupID": 0,
       "EventEndTime": "0001-01-01T00:00:00",
-      "FarmRareItemGroupID": 1,
+      "FarmRareItemGroupID": 2,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "HarvestIcon": "Gather_Basket"
     },
@@ -884,7 +884,7 @@
       "VanishCnt": 0,
       "OpenGroupID": 0,
       "EventEndTime": "0001-01-01T00:00:00",
-      "FarmRareItemGroupID": 1,
+      "FarmRareItemGroupID": 3,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "HarvestIcon": "Gather_Basket"
     },
@@ -921,7 +921,7 @@
       "VanishCnt": 0,
       "OpenGroupID": 0,
       "EventEndTime": "0001-01-01T00:00:00",
-      "FarmRareItemGroupID": 1,
+      "FarmRareItemGroupID": 3,
       "OpenTime": "2023-03-02T05:50:10 +09:00",
       "HarvestIcon": "Gather_Basket"
     },
@@ -4877,6 +4877,16 @@
       "GroupID": 14,
       "RwdType": 20,
       "ItemID": 550,
+      "ItemValue": 1,
+      "FarmVariable": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 100045,
+      "Game": 3,
+      "GroupID": 15,
+      "RwdType": 20,
+      "ItemID": 738,
       "ItemValue": 1,
       "FarmVariable": 3000
     }

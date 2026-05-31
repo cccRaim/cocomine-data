@@ -1079,6 +1079,8 @@
       "Key": 1,
       "Game": 3,
       "OpenLevel": 1,
+      "SortIndex": 1,
+      "IsEvent": false,
       "Level": [
         1,
         6,
@@ -1097,6 +1099,8 @@
       "Key": 2,
       "Game": 3,
       "OpenLevel": 7,
+      "SortIndex": 2,
+      "IsEvent": false,
       "Level": [
         7,
         12,
@@ -1115,6 +1119,8 @@
       "Key": 3,
       "Game": 3,
       "OpenLevel": 10,
+      "SortIndex": 3,
+      "IsEvent": false,
       "Level": [
         10,
         15,
@@ -1133,6 +1139,8 @@
       "Key": 4,
       "Game": 3,
       "OpenLevel": 15,
+      "SortIndex": 4,
+      "IsEvent": false,
       "Level": [
         15,
         20,
@@ -1151,6 +1159,8 @@
       "Key": 5,
       "Game": 3,
       "OpenLevel": 23,
+      "SortIndex": 5,
+      "IsEvent": false,
       "Level": [
         23,
         25,
@@ -1169,6 +1179,8 @@
       "Key": 6,
       "Game": 3,
       "OpenLevel": 29,
+      "SortIndex": 6,
+      "IsEvent": false,
       "Level": [
         29,
         30
@@ -1183,6 +1195,8 @@
       "Key": 7,
       "Game": 3,
       "OpenLevel": 35,
+      "SortIndex": 7,
+      "IsEvent": false,
       "Level": [
         35,
         37
@@ -1197,6 +1211,8 @@
       "Key": 8,
       "Game": 3,
       "OpenLevel": 1,
+      "SortIndex": 8,
+      "IsEvent": false,
       "Level": [
         1,
         5,
@@ -1225,6 +1241,8 @@
       "Key": 10,
       "Game": 3,
       "OpenLevel": 5,
+      "SortIndex": 10,
+      "IsEvent": false,
       "Level": [
         5,
         10,
@@ -1243,6 +1261,8 @@
       "Key": 11,
       "Game": 3,
       "OpenLevel": 8,
+      "SortIndex": 11,
+      "IsEvent": false,
       "Level": [
         8,
         13,
@@ -1261,6 +1281,8 @@
       "Key": 12,
       "Game": 3,
       "OpenLevel": 13,
+      "SortIndex": 12,
+      "IsEvent": false,
       "Level": [
         13,
         18,
@@ -1279,6 +1301,8 @@
       "Key": 14,
       "Game": 3,
       "OpenLevel": 16,
+      "SortIndex": 14,
+      "IsEvent": false,
       "Level": [
         16,
         21,
@@ -1297,6 +1321,8 @@
       "Key": 15,
       "Game": 3,
       "OpenLevel": 17,
+      "SortIndex": 15,
+      "IsEvent": false,
       "Level": [
         17,
         22,
@@ -1315,6 +1341,8 @@
       "Key": 16,
       "Game": 3,
       "OpenLevel": 23,
+      "SortIndex": 16,
+      "IsEvent": false,
       "Level": [
         23,
         25,
@@ -1333,6 +1361,8 @@
       "Key": 18,
       "Game": 3,
       "OpenLevel": 27,
+      "SortIndex": 18,
+      "IsEvent": false,
       "Level": [
         27,
         30,
@@ -1351,6 +1381,8 @@
       "Key": 19,
       "Game": 3,
       "OpenLevel": 30,
+      "SortIndex": 19,
+      "IsEvent": false,
       "Level": [
         30,
         31,
@@ -1369,6 +1401,8 @@
       "Key": 20,
       "Game": 3,
       "OpenLevel": 32,
+      "SortIndex": 20,
+      "IsEvent": false,
       "Level": [
         32,
         34,
@@ -1387,6 +1421,8 @@
       "Key": 9,
       "Game": 2,
       "OpenLevel": 1,
+      "SortIndex": 22,
+      "IsEvent": false,
       "Level": [
         1,
         6,
@@ -1405,6 +1441,8 @@
       "Key": 13,
       "Game": 2,
       "OpenLevel": 13,
+      "SortIndex": 23,
+      "IsEvent": false,
       "Level": [
         13,
         18,
@@ -1423,6 +1461,8 @@
       "Key": 17,
       "Game": 2,
       "OpenLevel": 24,
+      "SortIndex": 24,
+      "IsEvent": false,
       "Level": [
         24,
         29,
@@ -1441,6 +1481,8 @@
       "Key": 21,
       "Game": 2,
       "OpenLevel": 32,
+      "SortIndex": 25,
+      "IsEvent": false,
       "Level": [
         32,
         34,
@@ -5810,8 +5852,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -5825,8 +5867,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 2
     },
     {
@@ -5840,8 +5882,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 3
     },
     {
@@ -5855,8 +5897,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 4
     },
     {
@@ -5870,8 +5912,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 5
     },
     {
@@ -5885,8 +5927,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 6
     },
     {
@@ -5900,8 +5942,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 7
     },
     {
@@ -5915,8 +5957,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 8
     },
     {
@@ -5930,8 +5972,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -5945,8 +5987,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 2
     },
     {
@@ -5960,8 +6002,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 3
     },
     {
@@ -5975,8 +6017,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 4
     },
     {
@@ -5990,8 +6032,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 5
     },
     {
@@ -6005,8 +6047,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 6
     },
     {
@@ -6020,8 +6062,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 7
     },
     {
@@ -6035,8 +6077,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 8
     },
     {
@@ -6050,8 +6092,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -6065,8 +6107,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 2
     },
     {
@@ -6080,8 +6122,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 3
     },
     {
@@ -6095,8 +6137,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 4
     },
     {
@@ -6110,8 +6152,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 5
     },
     {
@@ -6125,8 +6167,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 6
     },
     {
@@ -6140,8 +6182,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 7
     },
     {
@@ -6155,8 +6197,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 8
     },
     {
@@ -6170,8 +6212,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -6185,8 +6227,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 2
     },
     {
@@ -6200,8 +6242,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 3
     },
     {
@@ -6215,8 +6257,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 4
     },
     {
@@ -6230,8 +6272,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 5
     },
     {
@@ -6245,8 +6287,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 6
     },
     {
@@ -6260,8 +6302,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 7
     },
     {
@@ -6275,8 +6317,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 8
     },
     {
@@ -6290,8 +6332,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 1
     },
     {
@@ -6305,8 +6347,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 2
     },
     {
@@ -6320,8 +6362,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 3
     },
     {
@@ -6335,8 +6377,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 4
     },
     {
@@ -6350,8 +6392,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 424,
-      "SaleRate": 0,
-      "DiscountedValue": 424,
+      "SaleRate": 30,
+      "DiscountedValue": 297,
       "SortIndex": 5
     },
     {
@@ -6365,8 +6407,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 6
     },
     {
@@ -6380,8 +6422,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 7
     },
     {
@@ -6395,8 +6437,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 8
     },
     {
@@ -6410,8 +6452,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -6425,8 +6467,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 769,
-      "SaleRate": 0,
-      "DiscountedValue": 769,
+      "SaleRate": 30,
+      "DiscountedValue": 539,
       "SortIndex": 10
     },
     {
@@ -6440,8 +6482,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 804,
-      "SaleRate": 0,
-      "DiscountedValue": 804,
+      "SaleRate": 30,
+      "DiscountedValue": 563,
       "SortIndex": 11
     },
     {
@@ -6455,8 +6497,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 12
     },
     {
@@ -6470,8 +6512,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 13
     },
     {
@@ -6485,8 +6527,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -6500,8 +6542,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -6515,8 +6557,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 1
     },
     {
@@ -6530,8 +6572,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 424,
-      "SaleRate": 0,
-      "DiscountedValue": 424,
+      "SaleRate": 30,
+      "DiscountedValue": 297,
       "SortIndex": 2
     },
     {
@@ -6545,8 +6587,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 3
     },
     {
@@ -6560,8 +6602,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1049,
-      "SaleRate": 0,
-      "DiscountedValue": 1049,
+      "SaleRate": 30,
+      "DiscountedValue": 735,
       "SortIndex": 4
     },
     {
@@ -6575,8 +6617,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 5
     },
     {
@@ -6590,8 +6632,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 993,
-      "SaleRate": 0,
-      "DiscountedValue": 993,
+      "SaleRate": 30,
+      "DiscountedValue": 696,
       "SortIndex": 6
     },
     {
@@ -6605,8 +6647,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 7
     },
     {
@@ -6620,8 +6662,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -6635,8 +6677,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 9
     },
     {
@@ -6650,8 +6692,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 10
     },
     {
@@ -6665,8 +6707,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 11
     },
     {
@@ -6680,8 +6722,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -6695,8 +6737,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -6710,8 +6752,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 14
     },
     {
@@ -6725,8 +6767,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 15
     },
     {
@@ -6740,8 +6782,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 1
     },
     {
@@ -6755,8 +6797,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 2
     },
     {
@@ -6770,8 +6812,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 3
     },
     {
@@ -6785,8 +6827,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 4
     },
     {
@@ -6800,8 +6842,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 553,
-      "SaleRate": 0,
-      "DiscountedValue": 553,
+      "SaleRate": 30,
+      "DiscountedValue": 388,
       "SortIndex": 5
     },
     {
@@ -6815,8 +6857,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 6
     },
     {
@@ -6830,8 +6872,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 7
     },
     {
@@ -6845,8 +6887,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 8
     },
     {
@@ -6860,8 +6902,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 9
     },
     {
@@ -6875,8 +6917,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 10
     },
     {
@@ -6890,8 +6932,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 11
     },
     {
@@ -6905,8 +6947,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -6920,8 +6962,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 536,
-      "SaleRate": 0,
-      "DiscountedValue": 536,
+      "SaleRate": 30,
+      "DiscountedValue": 376,
       "SortIndex": 13
     },
     {
@@ -6935,8 +6977,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 14
     },
     {
@@ -6950,8 +6992,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 15
     },
     {
@@ -6965,8 +7007,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 16
     },
     {
@@ -6980,8 +7022,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 17
     },
     {
@@ -6995,8 +7037,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 608,
-      "SaleRate": 0,
-      "DiscountedValue": 608,
+      "SaleRate": 30,
+      "DiscountedValue": 426,
       "SortIndex": 1
     },
     {
@@ -7010,8 +7052,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 2
     },
     {
@@ -7025,8 +7067,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 665,
-      "SaleRate": 0,
-      "DiscountedValue": 665,
+      "SaleRate": 30,
+      "DiscountedValue": 466,
       "SortIndex": 3
     },
     {
@@ -7040,8 +7082,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 553,
-      "SaleRate": 0,
-      "DiscountedValue": 553,
+      "SaleRate": 30,
+      "DiscountedValue": 388,
       "SortIndex": 4
     },
     {
@@ -7055,8 +7097,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 5
     },
     {
@@ -7070,8 +7112,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 6
     },
     {
@@ -7085,8 +7127,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 7
     },
     {
@@ -7100,8 +7142,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 8
     },
     {
@@ -7115,8 +7157,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 9
     },
     {
@@ -7130,8 +7172,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 10
     },
     {
@@ -7145,8 +7187,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 11
     },
     {
@@ -7160,8 +7202,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -7175,8 +7217,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 13
     },
     {
@@ -7190,8 +7232,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -7205,8 +7247,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -7220,8 +7262,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 1
     },
     {
@@ -7235,8 +7277,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 2
     },
     {
@@ -7250,8 +7292,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 3
     },
     {
@@ -7265,8 +7307,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 4
     },
     {
@@ -7280,8 +7322,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 5
     },
     {
@@ -7295,8 +7337,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 6
     },
     {
@@ -7310,8 +7352,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 7
     },
     {
@@ -7325,8 +7367,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 8
     },
     {
@@ -7340,8 +7382,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 100,
-      "SaleRate": 0,
-      "DiscountedValue": 100,
+      "SaleRate": 30,
+      "DiscountedValue": 70,
       "SortIndex": 9
     },
     {
@@ -7355,8 +7397,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 100,
-      "SaleRate": 0,
-      "DiscountedValue": 100,
+      "SaleRate": 30,
+      "DiscountedValue": 70,
       "SortIndex": 10
     },
     {
@@ -7370,8 +7412,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 100,
-      "SaleRate": 0,
-      "DiscountedValue": 100,
+      "SaleRate": 30,
+      "DiscountedValue": 70,
       "SortIndex": 11
     },
     {
@@ -7385,8 +7427,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 12
     },
     {
@@ -7400,8 +7442,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 13
     },
     {
@@ -7415,8 +7457,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 14
     },
     {
@@ -7430,8 +7472,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 15
     },
     {
@@ -7445,8 +7487,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 16
     },
     {
@@ -7460,8 +7502,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 17
     },
     {
@@ -7700,8 +7742,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -7715,8 +7757,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 2
     },
     {
@@ -7730,8 +7772,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 903,
-      "SaleRate": 0,
-      "DiscountedValue": 903,
+      "SaleRate": 30,
+      "DiscountedValue": 633,
       "SortIndex": 3
     },
     {
@@ -7745,8 +7787,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 4
     },
     {
@@ -7760,8 +7802,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 5
     },
     {
@@ -7775,8 +7817,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 6
     },
     {
@@ -7790,8 +7832,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 7
     },
     {
@@ -7805,8 +7847,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -7820,8 +7862,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -7835,8 +7877,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 10
     },
     {
@@ -7850,8 +7892,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 11
     },
     {
@@ -7865,8 +7907,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 12
     },
     {
@@ -7880,8 +7922,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 13
     },
     {
@@ -7895,8 +7937,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -7910,8 +7952,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -7925,8 +7967,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 1
     },
     {
@@ -7940,8 +7982,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 2
     },
     {
@@ -7955,8 +7997,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 3
     },
     {
@@ -7970,8 +8012,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 4
     },
     {
@@ -7985,8 +8027,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 5
     },
     {
@@ -8000,8 +8042,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 6
     },
     {
@@ -8015,8 +8057,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 7
     },
     {
@@ -8030,8 +8072,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 8
     },
     {
@@ -8045,8 +8087,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -8060,8 +8102,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 10
     },
     {
@@ -8075,8 +8117,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 11
     },
     {
@@ -8090,8 +8132,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 12
     },
     {
@@ -8105,8 +8147,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 13
     },
     {
@@ -8120,8 +8162,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -8135,8 +8177,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -8150,8 +8192,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 16
     },
     {
@@ -8165,8 +8207,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 17
     },
     {
@@ -8180,8 +8222,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 18
     },
     {
@@ -8195,8 +8237,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 19
     },
     {
@@ -8210,8 +8252,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 20
     },
     {
@@ -8225,8 +8267,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 21
     },
     {
@@ -8240,8 +8282,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 22
     },
     {
@@ -8255,8 +8297,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 23
     },
     {
@@ -8270,8 +8312,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 24
     },
     {
@@ -8285,8 +8327,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 25
     },
     {
@@ -8300,8 +8342,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 26
     },
     {
@@ -8315,8 +8357,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 27
     },
     {
@@ -8330,8 +8372,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 28
     },
     {
@@ -8345,8 +8387,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 29
     },
     {
@@ -8360,8 +8402,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 30
     },
     {
@@ -8375,8 +8417,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 1
     },
     {
@@ -8390,8 +8432,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 2
     },
     {
@@ -8405,8 +8447,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 3
     },
     {
@@ -8420,8 +8462,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 4
     },
     {
@@ -8435,8 +8477,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 833,
-      "SaleRate": 0,
-      "DiscountedValue": 833,
+      "SaleRate": 30,
+      "DiscountedValue": 584,
       "SortIndex": 5
     },
     {
@@ -8450,8 +8492,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 622,
-      "SaleRate": 0,
-      "DiscountedValue": 622,
+      "SaleRate": 30,
+      "DiscountedValue": 436,
       "SortIndex": 6
     },
     {
@@ -8465,8 +8507,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 7
     },
     {
@@ -8480,8 +8522,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -8495,8 +8537,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 9
     },
     {
@@ -8510,8 +8552,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 10
     },
     {
@@ -8525,8 +8567,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 11
     },
     {
@@ -8540,8 +8582,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 12
     },
     {
@@ -8555,8 +8597,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 13
     },
     {
@@ -8570,8 +8612,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -8585,8 +8627,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     }
   ],
@@ -8602,7 +8644,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 10,
+      "SortIndex": 20,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-02-15T15:00:00",
@@ -8704,7 +8746,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 9,
+      "SortIndex": 20,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-03-15T00:00:00",
@@ -8721,11 +8763,11 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 20,
+      "SortIndex": 5,
       "IconTag": 0,
       "IsDate": true,
-      "StartDate": "2030-09-04T15:00:00",
-      "EndDate": "2025-07-17T23:59:59"
+      "StartDate": "2026-06-28T15:00:00",
+      "EndDate": "2026-08-09T14:59:59"
     },
     {
       "ServiceType": "DEV",
@@ -8738,11 +8780,11 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 20,
+      "SortIndex": 7,
       "IconTag": 0,
       "IsDate": true,
-      "StartDate": "2025-11-13T15:00:00",
-      "EndDate": "2025-12-25T14:59:59"
+      "StartDate": "2026-05-17T15:00:00",
+      "EndDate": "2026-06-28T14:59:59"
     },
     {
       "ServiceType": "DEV",
@@ -8806,7 +8848,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 7,
+      "SortIndex": 8,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-04-26T15:00:00",
@@ -8823,7 +8865,7 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 8,
+      "SortIndex": 20,
       "IconTag": 0,
       "IsDate": true,
       "StartDate": "2026-04-05T15:00:00",
@@ -8857,11 +8899,11 @@
       "IsPreview": false,
       "AllBuySaleRate": 0,
       "IsOnShopPopup": false,
-      "SortIndex": 20,
+      "SortIndex": 6,
       "IconTag": 0,
       "IsDate": true,
-      "StartDate": "2025-11-13T15:00:00",
-      "EndDate": "2025-12-25T14:59:59"
+      "StartDate": "2026-06-07T15:00:00",
+      "EndDate": "2026-07-19T14:59:59"
     },
     {
       "ServiceType": "DEV",
@@ -8927,8 +8969,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 1
     },
     {
@@ -8942,8 +8984,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 424,
-      "SaleRate": 0,
-      "DiscountedValue": 424,
+      "SaleRate": 30,
+      "DiscountedValue": 297,
       "SortIndex": 2
     },
     {
@@ -8957,8 +8999,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 3
     },
     {
@@ -8972,8 +9014,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1049,
-      "SaleRate": 0,
-      "DiscountedValue": 1049,
+      "SaleRate": 30,
+      "DiscountedValue": 735,
       "SortIndex": 4
     },
     {
@@ -8987,8 +9029,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 5
     },
     {
@@ -9002,8 +9044,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 993,
-      "SaleRate": 0,
-      "DiscountedValue": 993,
+      "SaleRate": 30,
+      "DiscountedValue": 696,
       "SortIndex": 6
     },
     {
@@ -9017,8 +9059,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 7
     },
     {
@@ -9032,8 +9074,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -9047,8 +9089,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 9
     },
     {
@@ -9062,8 +9104,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 10
     },
     {
@@ -9077,8 +9119,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 11
     },
     {
@@ -9092,8 +9134,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -9107,8 +9149,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -9122,8 +9164,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 14
     },
     {
@@ -9137,8 +9179,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 15
     },
     {
@@ -9152,8 +9194,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 1
     },
     {
@@ -9167,8 +9209,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 2
     },
     {
@@ -9182,8 +9224,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 3
     },
     {
@@ -9197,8 +9239,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 4
     },
     {
@@ -9212,8 +9254,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 5
     },
     {
@@ -9227,8 +9269,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 6
     },
     {
@@ -9242,8 +9284,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 7
     },
     {
@@ -9257,8 +9299,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 8
     },
     {
@@ -9272,8 +9314,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 9
     },
     {
@@ -9287,8 +9329,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 769,
-      "SaleRate": 0,
-      "DiscountedValue": 769,
+      "SaleRate": 30,
+      "DiscountedValue": 539,
       "SortIndex": 10
     },
     {
@@ -9302,8 +9344,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 11
     },
     {
@@ -9317,8 +9359,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 12
     },
     {
@@ -9332,8 +9374,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 13
     },
     {
@@ -9347,8 +9389,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -9362,8 +9404,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -9377,8 +9419,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 1
     },
     {
@@ -9392,8 +9434,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 2
     },
     {
@@ -9407,8 +9449,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 3
     },
     {
@@ -9422,8 +9464,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 4
     },
     {
@@ -9437,8 +9479,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 5
     },
     {
@@ -9452,8 +9494,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 6
     },
     {
@@ -9467,8 +9509,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 7
     },
     {
@@ -9482,8 +9524,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 8
     },
     {
@@ -9497,8 +9539,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 9
     },
     {
@@ -9512,8 +9554,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 10
     },
     {
@@ -9527,8 +9569,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 11
     },
     {
@@ -9542,8 +9584,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 12
     },
     {
@@ -9557,8 +9599,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 13
     },
     {
@@ -9572,8 +9614,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -9587,8 +9629,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 15
     },
     {
@@ -9602,8 +9644,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 16
     },
     {
@@ -9617,8 +9659,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 1
     },
     {
@@ -9632,8 +9674,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 2
     },
     {
@@ -9647,8 +9689,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 3
     },
     {
@@ -9662,8 +9704,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 954,
-      "SaleRate": 0,
-      "DiscountedValue": 954,
+      "SaleRate": 30,
+      "DiscountedValue": 668,
       "SortIndex": 4
     },
     {
@@ -9677,8 +9719,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 855,
-      "SaleRate": 0,
-      "DiscountedValue": 855,
+      "SaleRate": 30,
+      "DiscountedValue": 599,
       "SortIndex": 5
     },
     {
@@ -9692,8 +9734,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 6
     },
     {
@@ -9707,8 +9749,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 7
     },
     {
@@ -9722,8 +9764,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 8
     },
     {
@@ -9737,8 +9779,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -9752,8 +9794,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 10
     },
     {
@@ -9767,8 +9809,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 903,
-      "SaleRate": 0,
-      "DiscountedValue": 903,
+      "SaleRate": 30,
+      "DiscountedValue": 633,
       "SortIndex": 11
     },
     {
@@ -9782,8 +9824,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 12
     },
     {
@@ -9797,8 +9839,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 13
     },
     {
@@ -9812,8 +9854,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 14
     },
     {
@@ -9827,8 +9869,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 15
     },
     {
@@ -9842,8 +9884,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 16
     },
     {
@@ -9857,8 +9899,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 17
     },
     {
@@ -9872,8 +9914,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 18
     },
     {
@@ -9887,8 +9929,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1295,
-      "SaleRate": 0,
-      "DiscountedValue": 1295,
+      "SaleRate": 30,
+      "DiscountedValue": 907,
       "SortIndex": 19
     },
     {
@@ -9902,8 +9944,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 20
     },
     {
@@ -9917,8 +9959,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 21
     },
     {
@@ -9932,8 +9974,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 22
     },
     {
@@ -9947,8 +9989,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 23
     },
     {
@@ -9962,8 +10004,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 24
     },
     {
@@ -9977,8 +10019,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 25
     },
     {
@@ -9992,8 +10034,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 26
     },
     {
@@ -10007,8 +10049,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 27
     },
     {
@@ -10022,8 +10064,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 28
     },
     {
@@ -10037,8 +10079,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 29
     },
     {
@@ -10052,8 +10094,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 30
     },
     {
@@ -10067,8 +10109,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 804,
-      "SaleRate": 0,
-      "DiscountedValue": 804,
+      "SaleRate": 30,
+      "DiscountedValue": 563,
       "SortIndex": 31
     },
     {
@@ -10082,8 +10124,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 32
     },
     {
@@ -10097,8 +10139,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 33
     },
     {
@@ -10112,8 +10154,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 34
     },
     {
@@ -10127,8 +10169,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 35
     },
     {
@@ -10142,8 +10184,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 665,
-      "SaleRate": 0,
-      "DiscountedValue": 665,
+      "SaleRate": 30,
+      "DiscountedValue": 466,
       "SortIndex": 36
     },
     {
@@ -10157,8 +10199,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 37
     },
     {
@@ -10172,8 +10214,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 38
     },
     {
@@ -10187,8 +10229,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 39
     },
     {
@@ -10202,8 +10244,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 40
     },
     {
@@ -10217,8 +10259,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 41
     },
     {
@@ -10232,8 +10274,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 42
     },
     {
@@ -10247,8 +10289,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 43
     },
     {
@@ -10262,8 +10304,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 239,
-      "SaleRate": 0,
-      "DiscountedValue": 239,
+      "SaleRate": 30,
+      "DiscountedValue": 168,
       "SortIndex": 44
     },
     {
@@ -10277,8 +10319,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 45
     },
     {
@@ -10292,8 +10334,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 46
     },
     {
@@ -10307,8 +10349,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 47
     },
     {
@@ -10322,8 +10364,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 48
     },
     {
@@ -10337,8 +10379,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 49
     },
     {
@@ -10352,8 +10394,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 50
     },
     {
@@ -10367,8 +10409,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 51
     },
     {
@@ -10382,8 +10424,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 903,
-      "SaleRate": 0,
-      "DiscountedValue": 903,
+      "SaleRate": 30,
+      "DiscountedValue": 633,
       "SortIndex": 52
     },
     {
@@ -10397,8 +10439,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 53
     },
     {
@@ -10412,8 +10454,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1053,
-      "SaleRate": 0,
-      "DiscountedValue": 1053,
+      "SaleRate": 30,
+      "DiscountedValue": 738,
       "SortIndex": 54
     },
     {
@@ -10427,8 +10469,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 55
     },
     {
@@ -10442,8 +10484,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 56
     },
     {
@@ -10457,8 +10499,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 57
     },
     {
@@ -10472,8 +10514,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 58
     },
     {
@@ -10487,8 +10529,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 59
     },
     {
@@ -10502,8 +10544,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 60
     },
     {
@@ -10517,8 +10559,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 61
     },
     {
@@ -10532,8 +10574,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 62
     },
     {
@@ -10547,8 +10589,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1149,
-      "SaleRate": 0,
-      "DiscountedValue": 1149,
+      "SaleRate": 30,
+      "DiscountedValue": 805,
       "SortIndex": 63
     },
     {
@@ -10562,8 +10604,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 804,
-      "SaleRate": 0,
-      "DiscountedValue": 804,
+      "SaleRate": 30,
+      "DiscountedValue": 563,
       "SortIndex": 64
     },
     {
@@ -10577,8 +10619,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 65
     },
     {
@@ -10592,8 +10634,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 804,
-      "SaleRate": 0,
-      "DiscountedValue": 804,
+      "SaleRate": 30,
+      "DiscountedValue": 563,
       "SortIndex": 66
     },
     {
@@ -10607,8 +10649,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 67
     },
     {
@@ -10622,8 +10664,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 68
     },
     {
@@ -10637,8 +10679,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 855,
-      "SaleRate": 0,
-      "DiscountedValue": 855,
+      "SaleRate": 30,
+      "DiscountedValue": 599,
       "SortIndex": 69
     },
     {
@@ -10652,8 +10694,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 70
     },
     {
@@ -10667,8 +10709,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 71
     },
     {
@@ -10682,8 +10724,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 72
     },
     {
@@ -10697,8 +10739,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 1
     },
     {
@@ -10712,8 +10754,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1049,
-      "SaleRate": 0,
-      "DiscountedValue": 1049,
+      "SaleRate": 30,
+      "DiscountedValue": 735,
       "SortIndex": 2
     },
     {
@@ -10727,8 +10769,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 949,
-      "SaleRate": 0,
-      "DiscountedValue": 949,
+      "SaleRate": 30,
+      "DiscountedValue": 665,
       "SortIndex": 3
     },
     {
@@ -10742,8 +10784,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 4
     },
     {
@@ -10757,8 +10799,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 5
     },
     {
@@ -10772,8 +10814,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 6
     },
     {
@@ -10787,8 +10829,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 731,
-      "SaleRate": 0,
-      "DiscountedValue": 731,
+      "SaleRate": 30,
+      "DiscountedValue": 512,
       "SortIndex": 7
     },
     {
@@ -10802,8 +10844,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -10817,8 +10859,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 9
     },
     {
@@ -10832,8 +10874,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 10
     },
     {
@@ -10847,8 +10889,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 11
     },
     {
@@ -10862,8 +10904,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 12
     },
     {
@@ -10877,8 +10919,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 13
     },
     {
@@ -10892,8 +10934,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 14
     },
     {
@@ -10907,8 +10949,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 15
     },
     {
@@ -10922,8 +10964,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 855,
-      "SaleRate": 0,
-      "DiscountedValue": 855,
+      "SaleRate": 30,
+      "DiscountedValue": 599,
       "SortIndex": 16
     },
     {
@@ -10937,8 +10979,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 17
     },
     {
@@ -10952,8 +10994,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 18
     },
     {
@@ -10967,8 +11009,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 19
     },
     {
@@ -10982,8 +11024,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 20
     },
     {
@@ -10997,8 +11039,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 21
     },
     {
@@ -11012,8 +11054,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 22
     },
     {
@@ -11027,8 +11069,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 23
     },
     {
@@ -11042,8 +11084,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 24
     },
     {
@@ -11057,8 +11099,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 25
     },
     {
@@ -11072,8 +11114,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 26
     },
     {
@@ -11087,8 +11129,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 27
     },
     {
@@ -11102,8 +11144,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 28
     },
     {
@@ -11117,8 +11159,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 29
     },
     {
@@ -11132,8 +11174,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 30
     },
     {
@@ -11147,8 +11189,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1202,
-      "SaleRate": 0,
-      "DiscountedValue": 1202,
+      "SaleRate": 30,
+      "DiscountedValue": 842,
       "SortIndex": 1
     },
     {
@@ -11162,8 +11204,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 2
     },
     {
@@ -11177,8 +11219,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 3
     },
     {
@@ -11192,8 +11234,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 4
     },
     {
@@ -11207,8 +11249,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 5
     },
     {
@@ -11222,8 +11264,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 665,
-      "SaleRate": 0,
-      "DiscountedValue": 665,
+      "SaleRate": 30,
+      "DiscountedValue": 466,
       "SortIndex": 6
     },
     {
@@ -11237,8 +11279,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 7
     },
     {
@@ -11252,8 +11294,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 8
     },
     {
@@ -11267,8 +11309,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 9
     },
     {
@@ -11282,8 +11324,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 10
     },
     {
@@ -11297,8 +11339,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 11
     },
     {
@@ -11312,8 +11354,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 12
     },
     {
@@ -11327,8 +11369,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 13
     },
     {
@@ -11342,8 +11384,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 201,
-      "SaleRate": 0,
-      "DiscountedValue": 201,
+      "SaleRate": 30,
+      "DiscountedValue": 141,
       "SortIndex": 14
     },
     {
@@ -11357,8 +11399,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 15
     },
     {
@@ -11372,8 +11414,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 16
     },
     {
@@ -11387,8 +11429,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 17
     },
     {
@@ -11402,8 +11444,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 18
     },
     {
@@ -11417,8 +11459,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 19
     },
     {
@@ -11432,8 +11474,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 20
     },
     {
@@ -11447,8 +11489,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 21
     },
     {
@@ -11462,8 +11504,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 22
     },
     {
@@ -11477,8 +11519,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 23
     },
     {
@@ -11492,8 +11534,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 24
     },
     {
@@ -11507,8 +11549,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 25
     },
     {
@@ -11522,8 +11564,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 26
     },
     {
@@ -11537,8 +11579,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 27
     },
     {
@@ -11552,8 +11594,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 28
     },
     {
@@ -11567,8 +11609,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 29
     },
     {
@@ -11582,8 +11624,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 30
     },
     {
@@ -11597,8 +11639,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1049,
-      "SaleRate": 0,
-      "DiscountedValue": 1049,
+      "SaleRate": 30,
+      "DiscountedValue": 735,
       "SortIndex": 1
     },
     {
@@ -11612,8 +11654,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1194,
-      "SaleRate": 0,
-      "DiscountedValue": 1194,
+      "SaleRate": 30,
+      "DiscountedValue": 836,
       "SortIndex": 2
     },
     {
@@ -11627,8 +11669,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 3
     },
     {
@@ -11642,8 +11684,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 4
     },
     {
@@ -11657,8 +11699,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 5
     },
     {
@@ -11672,8 +11714,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 6
     },
     {
@@ -11687,8 +11729,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 7
     },
     {
@@ -11702,8 +11744,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 8
     },
     {
@@ -11717,8 +11759,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -11732,8 +11774,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 10
     },
     {
@@ -11747,8 +11789,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 11
     },
     {
@@ -11762,8 +11804,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 974,
-      "SaleRate": 0,
-      "DiscountedValue": 974,
+      "SaleRate": 30,
+      "DiscountedValue": 682,
       "SortIndex": 12
     },
     {
@@ -11777,8 +11819,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 13
     },
     {
@@ -11792,8 +11834,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 14
     },
     {
@@ -11807,8 +11849,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 15
     },
     {
@@ -11822,8 +11864,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 16
     },
     {
@@ -11837,8 +11879,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 17
     },
     {
@@ -11852,8 +11894,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 18
     },
     {
@@ -11867,8 +11909,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 19
     },
     {
@@ -11882,8 +11924,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 20
     },
     {
@@ -11897,8 +11939,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 21
     },
     {
@@ -11912,8 +11954,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 22
     },
     {
@@ -11927,8 +11969,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 23
     },
     {
@@ -11942,8 +11984,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 24
     },
     {
@@ -11957,8 +11999,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 25
     },
     {
@@ -11972,8 +12014,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -11987,8 +12029,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1149,
-      "SaleRate": 0,
-      "DiscountedValue": 1149,
+      "SaleRate": 30,
+      "DiscountedValue": 805,
       "SortIndex": 2
     },
     {
@@ -12002,8 +12044,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 651,
-      "SaleRate": 0,
-      "DiscountedValue": 651,
+      "SaleRate": 30,
+      "DiscountedValue": 456,
       "SortIndex": 3
     },
     {
@@ -12017,8 +12059,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 651,
-      "SaleRate": 0,
-      "DiscountedValue": 651,
+      "SaleRate": 30,
+      "DiscountedValue": 456,
       "SortIndex": 4
     },
     {
@@ -12032,8 +12074,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 483,
-      "SaleRate": 0,
-      "DiscountedValue": 483,
+      "SaleRate": 30,
+      "DiscountedValue": 339,
       "SortIndex": 5
     },
     {
@@ -12047,8 +12089,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 6
     },
     {
@@ -12062,8 +12104,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 7
     },
     {
@@ -12077,8 +12119,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -12092,8 +12134,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 9
     },
     {
@@ -12107,8 +12149,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 10
     },
     {
@@ -12122,8 +12164,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 11
     },
     {
@@ -12137,8 +12179,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 12
     },
     {
@@ -12152,8 +12194,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 13
     },
     {
@@ -12167,8 +12209,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -12182,8 +12224,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -12197,8 +12239,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 16
     },
     {
@@ -12212,8 +12254,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 934,
-      "SaleRate": 0,
-      "DiscountedValue": 934,
+      "SaleRate": 30,
+      "DiscountedValue": 654,
       "SortIndex": 17
     },
     {
@@ -12227,8 +12269,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 18
     },
     {
@@ -12242,8 +12284,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 19
     },
     {
@@ -12257,8 +12299,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 20
     },
     {
@@ -12272,8 +12314,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 21
     },
     {
@@ -12287,8 +12329,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 22
     },
     {
@@ -12302,8 +12344,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 23
     },
     {
@@ -12317,8 +12359,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 24
     },
     {
@@ -12332,8 +12374,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 25
     },
     {
@@ -12347,8 +12389,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 26
     },
     {
@@ -12362,8 +12404,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 27
     },
     {
@@ -12377,8 +12419,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 28
     },
     {
@@ -12392,8 +12434,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 29
     },
     {
@@ -12407,8 +12449,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 30
     },
     {
@@ -12422,8 +12464,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 1
     },
     {
@@ -12437,8 +12479,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 2
     },
     {
@@ -12452,8 +12494,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 3
     },
     {
@@ -12467,8 +12509,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 4
     },
     {
@@ -12482,8 +12524,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 769,
-      "SaleRate": 0,
-      "DiscountedValue": 769,
+      "SaleRate": 30,
+      "DiscountedValue": 539,
       "SortIndex": 5
     },
     {
@@ -12497,8 +12539,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 201,
-      "SaleRate": 0,
-      "DiscountedValue": 201,
+      "SaleRate": 30,
+      "DiscountedValue": 141,
       "SortIndex": 6
     },
     {
@@ -12512,8 +12554,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 7
     },
     {
@@ -12527,8 +12569,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 792,
-      "SaleRate": 0,
-      "DiscountedValue": 792,
+      "SaleRate": 30,
+      "DiscountedValue": 555,
       "SortIndex": 8
     },
     {
@@ -12542,8 +12584,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -12557,8 +12599,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1400,
-      "SaleRate": 0,
-      "DiscountedValue": 1400,
+      "SaleRate": 30,
+      "DiscountedValue": 980,
       "SortIndex": 10
     },
     {
@@ -12572,8 +12614,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 154,
-      "SaleRate": 0,
-      "DiscountedValue": 154,
+      "SaleRate": 30,
+      "DiscountedValue": 108,
       "SortIndex": 11
     },
     {
@@ -12587,8 +12629,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1053,
-      "SaleRate": 0,
-      "DiscountedValue": 1053,
+      "SaleRate": 30,
+      "DiscountedValue": 738,
       "SortIndex": 12
     },
     {
@@ -12602,8 +12644,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -12617,8 +12659,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 14
     },
     {
@@ -12632,8 +12674,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -12647,8 +12689,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 16
     },
     {
@@ -12662,8 +12704,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 1
     },
     {
@@ -12677,8 +12719,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 2
     },
     {
@@ -12692,8 +12734,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 3
     },
     {
@@ -12707,8 +12749,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 4
     },
     {
@@ -12722,8 +12764,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 5
     },
     {
@@ -12737,8 +12779,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 6
     },
     {
@@ -12752,8 +12794,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 201,
-      "SaleRate": 0,
-      "DiscountedValue": 201,
+      "SaleRate": 30,
+      "DiscountedValue": 141,
       "SortIndex": 7
     },
     {
@@ -12767,8 +12809,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 8
     },
     {
@@ -12782,8 +12824,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 9
     },
     {
@@ -12797,8 +12839,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 10
     },
     {
@@ -12812,8 +12854,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 11
     },
     {
@@ -12827,8 +12869,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 239,
-      "SaleRate": 0,
-      "DiscountedValue": 239,
+      "SaleRate": 30,
+      "DiscountedValue": 168,
       "SortIndex": 12
     },
     {
@@ -12842,8 +12884,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 13
     },
     {
@@ -12857,8 +12899,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 14
     },
     {
@@ -12872,8 +12914,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -12887,8 +12929,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 16
     },
     {
@@ -13097,8 +13139,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 483,
-      "SaleRate": 0,
-      "DiscountedValue": 483,
+      "SaleRate": 30,
+      "DiscountedValue": 339,
       "SortIndex": 2
     },
     {
@@ -13112,8 +13154,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 3
     },
     {
@@ -13127,8 +13169,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1002,
-      "SaleRate": 0,
-      "DiscountedValue": 1002,
+      "SaleRate": 30,
+      "DiscountedValue": 702,
       "SortIndex": 4
     },
     {
@@ -13142,8 +13184,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 5
     },
     {
@@ -13157,8 +13199,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 6
     },
     {
@@ -13172,8 +13214,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 7
     },
     {
@@ -13187,8 +13229,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -13202,8 +13244,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1053,
-      "SaleRate": 0,
-      "DiscountedValue": 1053,
+      "SaleRate": 30,
+      "DiscountedValue": 738,
       "SortIndex": 9
     },
     {
@@ -13217,8 +13259,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 762,
-      "SaleRate": 0,
-      "DiscountedValue": 762,
+      "SaleRate": 30,
+      "DiscountedValue": 534,
       "SortIndex": 10
     },
     {
@@ -13232,8 +13274,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 11
     },
     {
@@ -13247,8 +13289,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -13262,8 +13304,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 201,
-      "SaleRate": 0,
-      "DiscountedValue": 201,
+      "SaleRate": 30,
+      "DiscountedValue": 141,
       "SortIndex": 13
     },
     {
@@ -13277,8 +13319,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 14
     },
     {
@@ -13292,8 +13334,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 15
     },
     {
@@ -13307,8 +13349,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 769,
-      "SaleRate": 0,
-      "DiscountedValue": 769,
+      "SaleRate": 30,
+      "DiscountedValue": 539,
       "SortIndex": 16
     },
     {
@@ -13322,8 +13364,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 17
     },
     {
@@ -13337,8 +13379,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 18
     },
     {
@@ -13352,8 +13394,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 19
     },
     {
@@ -13367,8 +13409,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 424,
-      "SaleRate": 0,
-      "DiscountedValue": 424,
+      "SaleRate": 30,
+      "DiscountedValue": 297,
       "SortIndex": 20
     },
     {
@@ -13382,8 +13424,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 21
     },
     {
@@ -13397,8 +13439,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 201,
-      "SaleRate": 0,
-      "DiscountedValue": 201,
+      "SaleRate": 30,
+      "DiscountedValue": 141,
       "SortIndex": 22
     },
     {
@@ -13412,8 +13454,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 23
     },
     {
@@ -13427,8 +13469,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 24
     },
     {
@@ -13442,8 +13484,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 804,
-      "SaleRate": 0,
-      "DiscountedValue": 804,
+      "SaleRate": 30,
+      "DiscountedValue": 563,
       "SortIndex": 25
     },
     {
@@ -13457,8 +13499,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 26
     },
     {
@@ -13472,8 +13514,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 27
     },
     {
@@ -13487,8 +13529,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 28
     },
     {
@@ -13502,8 +13544,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 29
     },
     {
@@ -13517,8 +13559,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 30
     },
     {
@@ -13532,8 +13574,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 9
     },
     {
@@ -13547,8 +13589,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 10
     },
     {
@@ -13562,8 +13604,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 2
     },
     {
@@ -13577,8 +13619,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 1
     },
     {
@@ -13592,8 +13634,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 7
     },
     {
@@ -13607,8 +13649,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -13622,8 +13664,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 288,
-      "SaleRate": 0,
-      "DiscountedValue": 288,
+      "SaleRate": 30,
+      "DiscountedValue": 202,
       "SortIndex": 11
     },
     {
@@ -13637,8 +13679,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 15
     },
     {
@@ -13652,8 +13694,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 3
     },
     {
@@ -13667,8 +13709,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 8
     },
     {
@@ -13682,8 +13724,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 4
     },
     {
@@ -13697,8 +13739,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 464,
-      "SaleRate": 0,
-      "DiscountedValue": 464,
+      "SaleRate": 30,
+      "DiscountedValue": 325,
       "SortIndex": 5
     },
     {
@@ -13712,8 +13754,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 6
     },
     {
@@ -13727,8 +13769,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 17
     },
     {
@@ -13742,8 +13784,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 18
     },
     {
@@ -13757,8 +13799,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 12
     },
     {
@@ -13772,8 +13814,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 16
     },
     {
@@ -13787,8 +13829,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 14
     },
     {
@@ -13802,8 +13844,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 1
     },
     {
@@ -13817,8 +13859,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 2
     },
     {
@@ -13832,8 +13874,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 849,
-      "SaleRate": 0,
-      "DiscountedValue": 849,
+      "SaleRate": 30,
+      "DiscountedValue": 595,
       "SortIndex": 3
     },
     {
@@ -13847,8 +13889,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 4
     },
     {
@@ -13862,8 +13904,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 5
     },
     {
@@ -13877,8 +13919,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1149,
-      "SaleRate": 0,
-      "DiscountedValue": 1149,
+      "SaleRate": 30,
+      "DiscountedValue": 805,
       "SortIndex": 6
     },
     {
@@ -13892,8 +13934,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 7
     },
     {
@@ -13907,8 +13949,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 608,
-      "SaleRate": 0,
-      "DiscountedValue": 608,
+      "SaleRate": 30,
+      "DiscountedValue": 426,
       "SortIndex": 8
     },
     {
@@ -13922,8 +13964,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 9
     },
     {
@@ -13937,8 +13979,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 651,
-      "SaleRate": 0,
-      "DiscountedValue": 651,
+      "SaleRate": 30,
+      "DiscountedValue": 456,
       "SortIndex": 10
     },
     {
@@ -13952,8 +13994,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 11
     },
     {
@@ -13967,8 +14009,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 1249,
-      "SaleRate": 0,
-      "DiscountedValue": 1249,
+      "SaleRate": 30,
+      "DiscountedValue": 875,
       "SortIndex": 12
     },
     {
@@ -13982,8 +14024,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 630,
-      "SaleRate": 0,
-      "DiscountedValue": 630,
+      "SaleRate": 30,
+      "DiscountedValue": 441,
       "SortIndex": 13
     },
     {
@@ -13997,8 +14039,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 14
     },
     {
@@ -14012,8 +14054,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 1
     },
     {
@@ -14027,8 +14069,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 699,
-      "SaleRate": 0,
-      "DiscountedValue": 699,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 2
     },
     {
@@ -14042,8 +14084,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 903,
-      "SaleRate": 0,
-      "DiscountedValue": 903,
+      "SaleRate": 30,
+      "DiscountedValue": 633,
       "SortIndex": 3
     },
     {
@@ -14057,8 +14099,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 4
     },
     {
@@ -14072,8 +14114,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 5
     },
     {
@@ -14087,8 +14129,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 6
     },
     {
@@ -14102,8 +14144,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 7
     },
     {
@@ -14117,8 +14159,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -14132,8 +14174,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 9
     },
     {
@@ -14147,8 +14189,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 10
     },
     {
@@ -14162,8 +14204,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 11
     },
     {
@@ -14177,8 +14219,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 12
     },
     {
@@ -14192,8 +14234,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 13
     },
     {
@@ -14207,8 +14249,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -14222,8 +14264,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -14237,8 +14279,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 16
     },
     {
@@ -14252,8 +14294,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 17
     },
     {
@@ -14267,8 +14309,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 18
     },
     {
@@ -14282,8 +14324,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 19
     },
     {
@@ -14297,8 +14339,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 20
     },
     {
@@ -14312,8 +14354,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 21
     },
     {
@@ -14327,8 +14369,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 22
     },
     {
@@ -14342,8 +14384,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 23
     },
     {
@@ -14357,8 +14399,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 24
     },
     {
@@ -14372,8 +14414,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 25
     },
     {
@@ -14387,8 +14429,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 26
     },
     {
@@ -14402,8 +14444,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 27
     },
     {
@@ -14417,8 +14459,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 28
     },
     {
@@ -14432,8 +14474,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 29
     },
     {
@@ -14447,8 +14489,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 30
     },
     {
@@ -14462,8 +14504,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 1
     },
     {
@@ -14477,8 +14519,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 2
     },
     {
@@ -14492,8 +14534,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 3
     },
     {
@@ -14507,8 +14549,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 391,
-      "SaleRate": 0,
-      "DiscountedValue": 391,
+      "SaleRate": 30,
+      "DiscountedValue": 274,
       "SortIndex": 4
     },
     {
@@ -14522,8 +14564,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 592,
-      "SaleRate": 0,
-      "DiscountedValue": 592,
+      "SaleRate": 30,
+      "DiscountedValue": 415,
       "SortIndex": 5
     },
     {
@@ -14537,8 +14579,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 6
     },
     {
@@ -14552,8 +14594,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 343,
-      "SaleRate": 0,
-      "DiscountedValue": 343,
+      "SaleRate": 30,
+      "DiscountedValue": 241,
       "SortIndex": 7
     },
     {
@@ -14567,8 +14609,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 8
     },
     {
@@ -14582,8 +14624,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 9
     },
     {
@@ -14597,8 +14639,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 10
     },
     {
@@ -14612,8 +14654,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 11
     },
     {
@@ -14627,8 +14669,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 12
     },
     {
@@ -14642,8 +14684,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 13
     },
     {
@@ -14657,8 +14699,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -14672,8 +14714,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -14687,8 +14729,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 756,
-      "SaleRate": 0,
-      "DiscountedValue": 756,
+      "SaleRate": 30,
+      "DiscountedValue": 530,
       "SortIndex": 1
     },
     {
@@ -14702,8 +14744,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 2
     },
     {
@@ -14717,8 +14759,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 3
     },
     {
@@ -14732,8 +14774,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 4
     },
     {
@@ -14747,8 +14789,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 833,
-      "SaleRate": 0,
-      "DiscountedValue": 833,
+      "SaleRate": 30,
+      "DiscountedValue": 584,
       "SortIndex": 5
     },
     {
@@ -14762,8 +14804,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 622,
-      "SaleRate": 0,
-      "DiscountedValue": 622,
+      "SaleRate": 30,
+      "DiscountedValue": 436,
       "SortIndex": 6
     },
     {
@@ -14777,8 +14819,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 492,
-      "SaleRate": 0,
-      "DiscountedValue": 492,
+      "SaleRate": 30,
+      "DiscountedValue": 345,
       "SortIndex": 7
     },
     {
@@ -14792,8 +14834,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 8
     },
     {
@@ -14807,8 +14849,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 9
     },
     {
@@ -14822,8 +14864,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 10
     },
     {
@@ -14837,8 +14879,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 11
     },
     {
@@ -14852,8 +14894,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 12
     },
     {
@@ -14867,8 +14909,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 13
     },
     {
@@ -14882,8 +14924,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -14897,8 +14939,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -14912,8 +14954,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 14
     },
     {
@@ -14927,8 +14969,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 15
     },
     {
@@ -14942,8 +14984,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 11
     },
     {
@@ -14957,8 +14999,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 87,
-      "SaleRate": 0,
-      "DiscountedValue": 87,
+      "SaleRate": 30,
+      "DiscountedValue": 61,
       "SortIndex": 12
     },
     {
@@ -14972,8 +15014,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -14987,8 +15029,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 527,
-      "SaleRate": 0,
-      "DiscountedValue": 527,
+      "SaleRate": 30,
+      "DiscountedValue": 369,
       "SortIndex": 1
     },
     {
@@ -15002,8 +15044,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 2
     },
     {
@@ -15017,8 +15059,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 454,
-      "SaleRate": 0,
-      "DiscountedValue": 454,
+      "SaleRate": 30,
+      "DiscountedValue": 318,
       "SortIndex": 4
     },
     {
@@ -15032,8 +15074,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 483,
-      "SaleRate": 0,
-      "DiscountedValue": 483,
+      "SaleRate": 30,
+      "DiscountedValue": 339,
       "SortIndex": 5
     },
     {
@@ -15047,8 +15089,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 10
     },
     {
@@ -15062,8 +15104,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 6
     },
     {
@@ -15077,8 +15119,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 7
     },
     {
@@ -15092,8 +15134,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 356,
-      "SaleRate": 0,
-      "DiscountedValue": 356,
+      "SaleRate": 30,
+      "DiscountedValue": 250,
       "SortIndex": 8
     },
     {
@@ -15107,8 +15149,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 9
     },
     {
@@ -15122,8 +15164,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 413,
-      "SaleRate": 0,
-      "DiscountedValue": 413,
+      "SaleRate": 30,
+      "DiscountedValue": 290,
       "SortIndex": 3
     },
     {
@@ -15317,8 +15359,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 855,
-      "SaleRate": 0,
-      "DiscountedValue": 855,
+      "SaleRate": 30,
+      "DiscountedValue": 599,
       "SortIndex": 1
     },
     {
@@ -15332,8 +15374,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 2
     },
     {
@@ -15347,8 +15389,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 3
     },
     {
@@ -15362,8 +15404,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 4
     },
     {
@@ -15377,8 +15419,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 5
     },
     {
@@ -15392,8 +15434,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 6
     },
     {
@@ -15407,8 +15449,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 7
     },
     {
@@ -15422,8 +15464,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 8
     },
     {
@@ -15437,8 +15479,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 9
     },
     {
@@ -15452,8 +15494,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 10
     },
     {
@@ -15467,8 +15509,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 11
     },
     {
@@ -15482,8 +15524,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 12
     },
     {
@@ -15497,8 +15539,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -15512,8 +15554,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 14
     },
     {
@@ -15527,8 +15569,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 15
     },
     {
@@ -15542,8 +15584,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 19
     },
     {
@@ -15557,8 +15599,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 20
     }
   ],
@@ -15843,8 +15885,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 1
     },
     {
@@ -15858,8 +15900,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 2
     },
     {
@@ -15873,8 +15915,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 665,
-      "SaleRate": 0,
-      "DiscountedValue": 665,
+      "SaleRate": 30,
+      "DiscountedValue": 466,
       "SortIndex": 3
     },
     {
@@ -15888,8 +15930,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 4
     },
     {
@@ -15903,8 +15945,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 5
     },
     {
@@ -15918,8 +15960,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 6
     },
     {
@@ -15933,8 +15975,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 7
     },
     {
@@ -15948,8 +15990,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 8
     },
     {
@@ -15963,8 +16005,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 9
     },
     {
@@ -15978,8 +16020,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 10
     },
     {
@@ -15993,8 +16035,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 11
     },
     {
@@ -16008,8 +16050,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 317,
-      "SaleRate": 0,
-      "DiscountedValue": 317,
+      "SaleRate": 30,
+      "DiscountedValue": 222,
       "SortIndex": 12
     },
     {
@@ -16023,8 +16065,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -16038,8 +16080,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 14
     },
     {
@@ -16053,8 +16095,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 15
     },
     {
@@ -16068,8 +16110,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 16
     },
     {
@@ -16083,8 +16125,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 17
     },
     {
@@ -16098,8 +16140,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 18
     },
     {
@@ -16113,8 +16155,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 257,
-      "SaleRate": 0,
-      "DiscountedValue": 257,
+      "SaleRate": 30,
+      "DiscountedValue": 180,
       "SortIndex": 19
     },
     {
@@ -16128,8 +16170,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 20
     },
     {
@@ -16143,8 +16185,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 154,
-      "SaleRate": 0,
-      "DiscountedValue": 154,
+      "SaleRate": 30,
+      "DiscountedValue": 108,
       "SortIndex": 21
     },
     {
@@ -16158,8 +16200,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 22
     },
     {
@@ -16173,8 +16215,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 23
     },
     {
@@ -16188,8 +16230,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 658,
-      "SaleRate": 0,
-      "DiscountedValue": 658,
+      "SaleRate": 30,
+      "DiscountedValue": 461,
       "SortIndex": 24
     },
     {
@@ -16203,8 +16245,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 368,
-      "SaleRate": 0,
-      "DiscountedValue": 368,
+      "SaleRate": 30,
+      "DiscountedValue": 258,
       "SortIndex": 25
     },
     {
@@ -16218,8 +16260,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 125,
-      "SaleRate": 0,
-      "DiscountedValue": 125,
+      "SaleRate": 30,
+      "DiscountedValue": 88,
       "SortIndex": 26
     },
     {
@@ -16233,8 +16275,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 855,
-      "SaleRate": 0,
-      "DiscountedValue": 855,
+      "SaleRate": 30,
+      "DiscountedValue": 599,
       "SortIndex": 1
     },
     {
@@ -16248,8 +16290,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 2
     },
     {
@@ -16263,8 +16305,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 3
     },
     {
@@ -16278,8 +16320,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 4
     },
     {
@@ -16293,8 +16335,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 5
     },
     {
@@ -16308,8 +16350,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 6
     },
     {
@@ -16323,8 +16365,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 7
     },
     {
@@ -16338,8 +16380,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 221,
-      "SaleRate": 0,
-      "DiscountedValue": 221,
+      "SaleRate": 30,
+      "DiscountedValue": 155,
       "SortIndex": 8
     },
     {
@@ -16353,8 +16395,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 9
     },
     {
@@ -16368,8 +16410,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 10
     },
     {
@@ -16383,8 +16425,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 510,
-      "SaleRate": 0,
-      "DiscountedValue": 510,
+      "SaleRate": 30,
+      "DiscountedValue": 357,
       "SortIndex": 11
     },
     {
@@ -16398,8 +16440,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 561,
-      "SaleRate": 0,
-      "DiscountedValue": 561,
+      "SaleRate": 30,
+      "DiscountedValue": 393,
       "SortIndex": 12
     },
     {
@@ -16413,8 +16455,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 179,
-      "SaleRate": 0,
-      "DiscountedValue": 179,
+      "SaleRate": 30,
+      "DiscountedValue": 126,
       "SortIndex": 13
     },
     {
@@ -16428,8 +16470,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 14
     },
     {
@@ -16443,8 +16485,8 @@
       "PriceItemID": 0,
       "ItemQnty": 1,
       "BuyPriceValue": 273,
-      "SaleRate": 0,
-      "DiscountedValue": 273,
+      "SaleRate": 30,
+      "DiscountedValue": 192,
       "SortIndex": 15
     }
   ],
@@ -16724,8 +16766,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 1,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16742,8 +16784,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 2,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16760,8 +16802,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 3,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16778,8 +16820,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 4,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16796,8 +16838,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 5,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16814,8 +16856,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 6,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16832,8 +16874,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 7,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16850,8 +16892,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 8,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16868,8 +16910,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 9,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16886,8 +16928,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 10,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16904,8 +16946,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 11,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16922,8 +16964,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 12,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16940,8 +16982,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 13,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16958,8 +17000,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 14,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16976,8 +17018,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 15,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -16994,8 +17036,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 16,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17012,8 +17054,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 17,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17030,8 +17072,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 18,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17048,8 +17090,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 19,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17066,8 +17108,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 20,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17084,8 +17126,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 21,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17102,8 +17144,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 22,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17120,8 +17162,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 23,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17138,8 +17180,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 24,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17156,8 +17198,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 25,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17174,8 +17216,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 26,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17192,8 +17234,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 27,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17210,8 +17252,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 28,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17228,8 +17270,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 29,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17246,8 +17288,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 30,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17264,8 +17306,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 400,
-      "SaleRate": 0,
-      "DiscountedValue": 400,
+      "SaleRate": 30,
+      "DiscountedValue": 280,
       "SortIndex": 31,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17282,8 +17324,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 32,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17300,8 +17342,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 33,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17318,8 +17360,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 34,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17336,8 +17378,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 35,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17354,8 +17396,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 600,
-      "SaleRate": 0,
-      "DiscountedValue": 600,
+      "SaleRate": 30,
+      "DiscountedValue": 420,
       "SortIndex": 36,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17372,8 +17414,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 700,
-      "SaleRate": 0,
-      "DiscountedValue": 700,
+      "SaleRate": 30,
+      "DiscountedValue": 490,
       "SortIndex": 37,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17390,8 +17432,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 300,
-      "SaleRate": 0,
-      "DiscountedValue": 300,
+      "SaleRate": 30,
+      "DiscountedValue": 210,
       "SortIndex": 38,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17408,8 +17450,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 39,
       "IconTag": 4,
       "StartDate": "2023-03-02T05:50:10",
@@ -17426,8 +17468,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 40,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -17444,8 +17486,8 @@
       "BuyPriceType": 4,
       "PriceItemID": 0,
       "BuyPriceValue": 500,
-      "SaleRate": 0,
-      "DiscountedValue": 500,
+      "SaleRate": 30,
+      "DiscountedValue": 350,
       "SortIndex": 41,
       "IconTag": 0,
       "StartDate": "2023-03-02T05:50:10",
@@ -47811,6 +47853,76 @@
       "MarketType": 1,
       "BuyPriceValue": 30000,
       "ProductID": "cc_table_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 501,
+      "Game": 2,
+      "PackageRwdGroupID": 174,
+      "GroupID": 248,
+      "MarketType": 1,
+      "BuyPriceValue": 20000,
+      "ProductID": "test_pass"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 510,
+      "Game": 2,
+      "PackageRwdGroupID": 175,
+      "GroupID": 249,
+      "MarketType": 0,
+      "BuyPriceValue": 30000,
+      "ProductID": "a_cc_melody_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 511,
+      "Game": 2,
+      "PackageRwdGroupID": 175,
+      "GroupID": 249,
+      "MarketType": 1,
+      "BuyPriceValue": 30000,
+      "ProductID": "cc_melody_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 512,
+      "Game": 2,
+      "PackageRwdGroupID": 177,
+      "GroupID": 251,
+      "MarketType": 0,
+      "BuyPriceValue": 30000,
+      "ProductID": "a_cc_melody_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 513,
+      "Game": 2,
+      "PackageRwdGroupID": 177,
+      "GroupID": 251,
+      "MarketType": 1,
+      "BuyPriceValue": 30000,
+      "ProductID": "cc_melody_1"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 514,
+      "Game": 2,
+      "PackageRwdGroupID": 178,
+      "GroupID": 252,
+      "MarketType": 0,
+      "BuyPriceValue": 30000,
+      "ProductID": "a_cc_furniture_19"
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 515,
+      "Game": 2,
+      "PackageRwdGroupID": 178,
+      "GroupID": 252,
+      "MarketType": 1,
+      "BuyPriceValue": 30000,
+      "ProductID": "cc_furniture_19"
     }
   ],
   "PackageRwd": [
@@ -51193,10 +51305,91 @@
       "ServiceType": "DEV",
       "Key": 530,
       "Game": 2,
+      "GroupID": 174,
+      "RewardType": 36,
+      "ItemID": 1,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 531,
+      "Game": 2,
+      "GroupID": 174,
+      "RewardType": 20,
+      "ItemID": 483,
+      "RwdCnt": 120
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 532,
+      "Game": 3,
+      "GroupID": 24,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 533,
+      "Game": 3,
+      "GroupID": 175,
+      "RewardType": 20,
+      "ItemID": 100732,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 534,
+      "Game": 3,
+      "GroupID": 175,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 538,
+      "Game": 3,
+      "GroupID": 177,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 1000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 539,
+      "Game": 2,
       "GroupID": 173,
       "RewardType": 3,
       "ItemID": 0,
       "RwdCnt": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 540,
+      "Game": 3,
+      "GroupID": 178,
+      "RewardType": 20,
+      "ItemID": 100733,
+      "RwdCnt": 1
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 541,
+      "Game": 3,
+      "GroupID": 178,
+      "RewardType": 3,
+      "ItemID": 0,
+      "RwdCnt": 3000
+    },
+    {
+      "ServiceType": "DEV",
+      "Key": 542,
+      "Game": 2,
+      "GroupID": 177,
+      "RewardType": 20,
+      "ItemID": 100734,
+      "RwdCnt": 1
     }
   ]
 }
